@@ -1,0 +1,46 @@
+name: Deploy Docusaurus & Generate PDF
+
+on:
+  push:
+    branches:
+      - main  # Exécute le workflow à chaque push sur "main"
+  workflow_dispatch:  # Permet d'exécuter manuellement le workflow depuis GitHub Actions
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎️ Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 📦 Install dependencies
+        run: |
+          cd website
+          npm install
+
+      - name: 🚀 Build Docusaurus
+        run: |
+          cd website
+          npm run build
+
+      - name: 🌍 Deploy to GitHub Pages
+        run: |
+          cd website
+          npm run deploy
+
+      - name: 📝 Generate PDF from website
+        run: |
+          cd website
+          NODE_ENV=production npm run export:pdf
+
+      - name: 📤 Upload PDF as an artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: guide-Agile4Enterprise
+          path: guide-Agile4Enterprise.pdf
