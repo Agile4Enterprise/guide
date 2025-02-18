@@ -15,9 +15,20 @@ const puppeteer = require('puppeteer'); // Import unique
         console.log(`🔗 Accès à la page : ${URL}`);
         await page.goto(URL, { waitUntil: 'networkidle2' });
 
-        const pdfDir = path.resolve(__dirname, '../../website/static/'); // Correction du chemin
+        // Vérification de l'emplacement du script
+        console.log(`📂 __dirname actuel : ${__dirname}`);
+
+        // Correction du chemin du PDF
+        const pdfDir = path.join(__dirname, '../static/');
         const pdfPath = path.join(pdfDir, 'Agile4Enterprise.pdf');
 
+        // Vérifier et créer le dossier static/ si nécessaire
+        if (!fs.existsSync(pdfDir)) {
+            console.log(`📁 Création du dossier manquant : ${pdfDir}`);
+            fs.mkdirSync(pdfDir, { recursive: true });
+        }
+
+        console.log(`📂 Sauvegarde du PDF à : ${pdfPath}`);
 
         await page.pdf({
             path: pdfPath,
@@ -29,9 +40,8 @@ const puppeteer = require('puppeteer'); // Import unique
         console.log("✅ PDF généré avec succès !");
 
         console.log("📂 Vérification des fichiers après la génération du PDF...");
-        console.log(require('fs').readdirSync(__dirname));
+        console.log(fs.readdirSync(pdfDir));
 
-        
         // Vérification si le fichier existe
         if (fs.existsSync(pdfPath)) {
             console.log("📁 Fichier PDF trouvé après génération !");
