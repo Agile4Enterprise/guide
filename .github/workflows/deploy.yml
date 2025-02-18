@@ -40,10 +40,13 @@ jobs:
           echo "📂 Contenu du dossier après génération du PDF :"
           ls -R website/static/ || ls -R /home/runner/work/guide/guide/website/static/
 
-      - name: 🔍 Debug : Lister tous les fichiers PDF générés
+      - name: 🔍 Vérification des fichiers PDF générés
         run: |
-          echo "🔍 Recherche des fichiers PDF..."
-          find /home/runner/work/guide/ -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
+          echo "📂 Liste des fichiers dans website/static/ :"
+          ls -lah website/static/ || echo "❌ Le dossier website/static/ n'existe pas."
+
+          echo "📂 Liste des fichiers dans /home/runner/work/guide/guide/website/static/ :"
+          ls -lah /home/runner/work/guide/guide/website/static/ || echo "❌ Ce dossier n'existe pas non plus."
 
       - name: 📝 Rename PDF in static folder
         run: |
