@@ -16,7 +16,7 @@ const config = {
   organizationName: 'Agile4Enterprise', // Nom de l'organisation GitHub
   projectName: 'guide', // Nom du repo GitHub
   deploymentBranch: 'gh-pages', // Branche où le site sera déployé
-
+  trailingSlash: false, // Empêche les redirections SEO problématiques sur GitHub Pages
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 

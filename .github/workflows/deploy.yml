@@ -32,9 +32,13 @@ jobs:
       - name: 🌍 Deploy to GitHub Pages
         env:
           GIT_USER: ${{ github.actor }}
+          GIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Utilisation du token GitHub
         run: |
           cd website
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "${{ github.actor }}"
           npm run deploy
+
       - name: 📝 Generate PDF from website
         run: |
           cd website
