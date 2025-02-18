@@ -30,10 +30,11 @@ jobs:
           npm run build
 
       - name: 🌍 Deploy to GitHub Pages
+        env:
+          GIT_USER: ${{ github.actor }}
         run: |
           cd website
           npm run deploy
-
       - name: 📝 Generate PDF from website
         run: |
           cd website
