@@ -30,6 +30,15 @@ jobs:
           cd website
           npm run build
 
+      - name: 📝 Generate PDF from website
+        run: |
+          cd website
+          NODE_ENV=production npm run export:pdf
+
+      - name: 📝 Move and rename PDF to static folder
+        run: |
+          mv website/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
+
       - name: 🌍 Deploy to GitHub Pages manually
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -40,15 +49,8 @@ jobs:
           npm install -g gh-pages
           npm run deploy-gh-pages
 
-
-      - name: 📝 Generate PDF from website
-        run: |
-          cd website
-          NODE_ENV=production npm run export:pdf
-
       - name: 📤 Upload PDF as an artifact
         uses: actions/upload-artifact@v4
         with:
           name: guide-Agile4Enterprise
-          path: guide-Agile4Enterprise.pdf
-
+          path: website/static/Agile4Enterprise.pdf
