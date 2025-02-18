@@ -37,13 +37,6 @@ jobs:
           echo "📂 Contenu du dossier après génération du PDF :"
           ls -R website/static/
 
-      - name: 🕵️ Debug : Vérification des fichiers PDF
-        run: |
-          echo "📂 Liste complète des fichiers générés :"
-          ls -R
-          echo "📄 Recherche des fichiers PDF :"
-          ls -R | grep -i '\.pdf$' || echo "❌ Aucun fichier PDF trouvé"
-
       - name: 📝 Rename PDF in static folder
         run: |
           if [ -f "website/static/guide-Agile4Enterprise.pdf" ]; then
