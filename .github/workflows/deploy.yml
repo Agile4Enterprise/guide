@@ -38,7 +38,10 @@ jobs:
           ls -R website/static/
 
       - name: 🕵️ Debug : Ou est le PDF ?
-        run: find . -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
+        run: |
+          echo "📂 Recherche du fichier PDF..."
+          find . -type f -name "*.pdf" || true
+
 
       - name: 📝 Rename PDF in static folder
         run: |
