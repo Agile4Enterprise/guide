@@ -40,13 +40,8 @@ jobs:
           echo "📂 Contenu du dossier après génération du PDF :"
           ls -R website/static/ || ls -R /home/runner/work/guide/guide/website/static/
 
-      - name: 🔍 Debug : Rechercher le fichier PDF
-        run: |
-          echo "🔍 Recherche des fichiers PDF dans website/"
-          find website/ -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
-
-          echo "🔍 Recherche des fichiers PDF dans /home/runner/work/guide/guide/website/"
-          find /home/runner/work/guide/guide/website/ -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
+      - name: Debug PDF location
+        run: find . -type f -name "*.pdf"
 
       - name: 📝 Rename PDF in static folder
         run: |
