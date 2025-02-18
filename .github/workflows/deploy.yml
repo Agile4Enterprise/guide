@@ -43,7 +43,7 @@ jobs:
       - name: 🚛 Copier le PDF dans le dossier de build
         run: |
           mkdir -p website/build/static/
-          cp /home/runner/work/guide/guide/website/static/Agile4Enterprise.pdf website/build/static/
+          cp website/static/Agile4Enterprise.pdf website/build/static/
 
       - name: 🌍 Deploy to GitHub Pages manually
         env:
