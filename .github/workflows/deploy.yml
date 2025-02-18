@@ -39,6 +39,7 @@ jobs:
           npm install -g gh-pages
           npm run deploy-gh-pages
 
+
       - name: 📝 Generate PDF from website
         run: |
           cd website
