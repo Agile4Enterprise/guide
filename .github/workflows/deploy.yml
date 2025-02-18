@@ -39,7 +39,7 @@ jobs:
 
       - name: 🕵️ Debug : Où est le PDF ?
         run: |
-          find . -type f -name "*.pdf"
+          find . -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
 
       - name: 📝 Rename PDF in static folder
         run: |
