@@ -1,4 +1,7 @@
-const puppeteer = require('puppeteer');
+const fs = require('fs');
+const path = require('path');
+const puppeteer = require('puppeteer'); // Doit être après les autres imports
+
 
 (async () => {
     const browser = await puppeteer.launch({
