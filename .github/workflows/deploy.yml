@@ -38,12 +38,14 @@ jobs:
           cd website
           NODE_ENV=production npm run export:pdf
           echo "📂 Contenu du dossier après génération du PDF :"
-          ls -R website/static/
+          ls -R website/static/ || ls -R /home/runner/work/guide/guide/website/static/
 
       - name: 📝 Rename PDF in static folder
         run: |
           if [ -f "website/static/guide-Agile4Enterprise.pdf" ]; then
             mv website/static/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
+          elif [ -f "/home/runner/work/guide/guide/website/static/guide-Agile4Enterprise.pdf" ]; then
+            mv /home/runner/work/guide/guide/website/static/guide-Agile4Enterprise.pdf /home/runner/work/guide/guide/website/static/Agile4Enterprise.pdf
           else
             echo "❌ Fichier PDF introuvable, abandon du renommage."
             exit 1
@@ -63,4 +65,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: guide-Agile4Enterprise
-          path: website/static/Agile4Enterprise.pdf
+          path: |
+            website/static/Agile4Enterprise.pdf
+            /home/runner/work/guide/guide/website/static/Agile4Enterprise.pdf
