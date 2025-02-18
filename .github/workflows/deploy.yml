@@ -40,15 +40,18 @@ jobs:
           echo "📂 Contenu du dossier après génération du PDF :"
           ls -R website/static/ || ls -R /home/runner/work/guide/guide/website/static/
 
-      - name: Debug PDF location
-        run: find . -type f -name "*.pdf"
-
       - name: 📝 Rename PDF in static folder
         run: |
+          echo "📂 Vérification de l'existence du fichier PDF..."
+          
           if [ -f "website/static/guide-Agile4Enterprise.pdf" ]; then
+            echo "✅ Fichier trouvé dans website/static/, renommage..."
             mv website/static/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
+          
           elif [ -f "/home/runner/work/guide/guide/website/static/guide-Agile4Enterprise.pdf" ]; then
+            echo "✅ Fichier trouvé dans /home/runner/work/guide/guide/website/static/, renommage..."
             mv /home/runner/work/guide/guide/website/static/guide-Agile4Enterprise.pdf /home/runner/work/guide/guide/website/static/Agile4Enterprise.pdf
+          
           else
             echo "❌ Fichier PDF introuvable, abandon du renommage."
             exit 1
