@@ -35,15 +35,16 @@ jobs:
           cd website
           NODE_ENV=production npm run export:pdf
           echo "📂 Contenu du dossier après génération du PDF :"
-          ls -R
-
-      - name: 📂 Debug : Vérifier le contenu de website/static/
-        run: |
           ls -R website/static/
 
       - name: 📝 Rename PDF in static folder
         run: |
-          mv website/static/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
+          if [ -f "website/static/guide-Agile4Enterprise.pdf" ]; then
+            mv website/static/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
+          else
+            echo "❌ Fichier PDF introuvable, abandon du renommage."
+            exit 1
+          fi
 
       - name: 🌍 Deploy to GitHub Pages manually
         env:
