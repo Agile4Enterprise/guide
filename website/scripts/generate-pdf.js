@@ -5,10 +5,13 @@ const puppeteer = require('puppeteer');
     const page = await browser.newPage();
 
     console.log("📄 Génération du PDF en cours...");
-    await page.goto('http://localhost:3000', { waitUntil: 'networkidle2' });
+    const GITHUB_URL = 'https://Agile4Enterprise.github.io/guide';
+
+    await page.goto(GITHUB_URL, { waitUntil: 'networkidle2' });
+
 
     await page.pdf({
-        path: '../guide-Agile4Enterprise.pdf',  // Stocke le PDF à la racine du projet
+        path: '../guide-Agile4Enterprise.pdf', // Sauvegarde à la racine du repo
         format: 'A4',
         printBackground: true
     });
