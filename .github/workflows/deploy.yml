@@ -45,7 +45,6 @@ jobs:
         run: |
           mv website/static/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
 
-
       - name: 🌍 Deploy to GitHub Pages manually
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
