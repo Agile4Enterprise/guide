@@ -13,11 +13,35 @@ const puppeteer = require('puppeteer');
     await page.goto(GITHUB_URL, { waitUntil: 'networkidle2' });
 
 
-    await page.pdf({
-        path: './static/Agile4Enterprise.pdf', 
-        format: 'A4',
-        printBackground: true
-    });
+    const puppeteer = require('puppeteer');
+
+    (async () => {
+        try {
+            const browser = await puppeteer.launch({
+                args: ['--no-sandbox', '--disable-setuid-sandbox']
+            });
+    
+            const page = await browser.newPage();
+            console.log("📄 Génération du PDF en cours...");
+    
+            await page.goto('http://localhost:3000/guide', { waitUntil: 'networkidle2' });
+    
+            const pdfPath = './static/Agile4Enterprise.pdf';
+            await page.pdf({
+                path: pdfPath,
+                format: 'A4',
+                printBackground: true
+            });
+    
+            await browser.close();
+            console.log(`✅ PDF généré avec succès : ${pdfPath}`);
+    
+        } catch (error) {
+            console.error("❌ Erreur lors de la génération du PDF :", error);
+            process.exit(1);
+        }
+    })();
+    
 
     
     await browser.close();
