@@ -14,11 +14,12 @@ const puppeteer = require('puppeteer');
 
 
     await page.pdf({
-        path: '../guide-Agile4Enterprise.pdf', // Sauvegarde à la racine du repo
+        path: './static/Agile4Enterprise.pdf', 
         format: 'A4',
         printBackground: true
     });
 
+    
     await browser.close();
     console.log("✅ PDF généré avec succès : guide-Agile4Enterprise.pdf");
 })();

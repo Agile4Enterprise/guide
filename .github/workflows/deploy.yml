@@ -34,9 +34,6 @@ jobs:
         run: |
           cd website
           NODE_ENV=production npm run export:pdf
-          echo "📂 Liste des fichiers après génération du PDF :"
-          find . -type f -name "*.pdf"
-
 
 
       - name: 📝 Move and rename PDF to static folder
