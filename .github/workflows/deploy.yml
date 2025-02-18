@@ -41,7 +41,12 @@ jobs:
           ls -R website/static/ || ls -R /home/runner/work/guide/guide/website/static/
 
       - name: 🔍 Debug : Rechercher le fichier PDF
-        run: find /home/runner/work/guide/guide/website -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
+        run: |
+          echo "🔍 Recherche des fichiers PDF dans website/"
+          find website/ -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
+
+          echo "🔍 Recherche des fichiers PDF dans /home/runner/work/guide/guide/website/"
+          find /home/runner/work/guide/guide/website/ -type f -name "*.pdf" || echo "❌ Aucun fichier PDF trouvé"
 
       - name: 📝 Rename PDF in static folder
         run: |
