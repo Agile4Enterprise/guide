@@ -37,6 +37,9 @@ jobs:
           echo "📂 Contenu du dossier après génération du PDF :"
           ls -R
 
+      - name: 📂 Debug : Vérifier le contenu de website/static/
+        run: |
+          ls -R website/static/
 
       - name: 📝 Rename PDF in static folder
         run: |
