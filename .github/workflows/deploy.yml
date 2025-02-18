@@ -38,9 +38,10 @@ jobs:
           ls -R
 
 
-      - name: 📝 Move and rename PDF to static folder
+      - name: 📝 Rename PDF in static folder
         run: |
-          mv website/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
+          mv website/static/guide-Agile4Enterprise.pdf website/static/Agile4Enterprise.pdf
+
 
       - name: 🌍 Deploy to GitHub Pages manually
         env:
