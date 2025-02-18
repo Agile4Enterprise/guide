@@ -28,6 +28,10 @@ const puppeteer = require('puppeteer'); // Import unique
         await browser.close();
         console.log("✅ PDF généré avec succès !");
 
+        console.log("📂 Vérification des fichiers après la génération du PDF...");
+        console.log(require('fs').readdirSync(__dirname));
+
+        
         // Vérification si le fichier existe
         if (fs.existsSync(pdfPath)) {
             console.log("📁 Fichier PDF trouvé après génération !");
