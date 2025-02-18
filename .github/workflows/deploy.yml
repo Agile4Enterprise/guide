@@ -9,7 +9,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write  # Donne la permission d'écriture sur le repo
     steps:
       - name: 🛎️ Checkout repository
         uses: actions/checkout@v3
