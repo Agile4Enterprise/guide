@@ -29,6 +29,9 @@ jobs:
         run: |
           cd website
           npm run build
+          
+      - name: 📂 Assurer l'existence du dossier static/
+        run: mkdir -p website/static/
 
       - name: 📝 Generate PDF from website
         run: |
