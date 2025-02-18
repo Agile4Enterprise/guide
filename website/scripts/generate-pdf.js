@@ -15,8 +15,9 @@ const puppeteer = require('puppeteer'); // Import unique
         console.log(`🔗 Accès à la page : ${URL}`);
         await page.goto(URL, { waitUntil: 'networkidle2' });
 
-        const pdfPath = path.resolve(__dirname, '../website/static/Agile4Enterprise.pdf');
-        console.log(`📂 Sauvegarde du PDF à : ${pdfPath}`);
+        const pdfDir = path.resolve(__dirname, '../../website/static/'); // Correction du chemin
+        const pdfPath = path.join(pdfDir, 'Agile4Enterprise.pdf');
+
 
         await page.pdf({
             path: pdfPath,
