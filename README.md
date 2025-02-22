@@ -1,6 +1,6 @@
 # Agile4Enterprise - Le Guide Officiel 📖🚀
 
-Bienvenue dans le dépôt officiel du livre *Agile4Enterprise - Le Guide Officiel*, un ouvrage open source destiné à accompagner les PME dans leur transformation agile. Ce livre est publié sous une licence ouverte afin de favoriser la diffusion des connaissances tout en préservant la maîtrise de son contenu et de ses versions commerciales.
+Bienvenue dans le dépôt officiel du guide *Agile4Enterprise - Le Guide Officiel*, un ouvrage open source destiné à accompagner les PME dans leur transformation agile, et les coach agiles dans la mise en oeuvre de cette transformation. Ce guide est publié sous une licence ouverte afin de favoriser la diffusion des connaissances tout en préservant la maîtrise de son contenu et de ses versions commerciales.
 
 ## 📜 Licence et Distribution
 
@@ -10,7 +10,7 @@ Bienvenue dans le dépôt officiel du livre *Agile4Enterprise - Le Guide Officie
 
 ## 📚 Contenu du dépôt
 
-- 📝 Manuscrit du livre en format Markdown (`/manuscrit/`)
+- 📝 Manuscrit du guide en format Markdown (`/docs/`)
 - 🔄 Contributions et discussions ouvertes (`Issues` et `Discussions`)
 - 📌 Ressources complémentaires (graphiques, outils, références)
 
@@ -21,14 +21,15 @@ Bienvenue dans le dépôt officiel du livre *Agile4Enterprise - Le Guide Officie
 3. **Discutez des idées** dans la section Discussions ou Issues.
 4. **Signalez des erreurs ou incohérences** pour améliorer le contenu.
 
-## 📥 Télécharger la version gratuite
+## 📥 Le guide en ligne
 
-📌 Le PDF du livre est disponible ici : [🔗 Lien de téléchargement](https://votre-lien.com)
+📌 Le guide est disponible en lecture ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/)
+📌 Le PDF du guide est disponible ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/static/Agile4Enterprise.pdf)
 
 ## 💡 Auteurs et Contacts
 
-- **Auteur principal** : [Votre Nom / Organisation]
-- **Site web du framework** : [https://votre-site.com](https://votre-site.com)
-- **Contact** : [contact@votre-mail.com](mailto:contact@votre-mail.com)
+- **Auteur principal** : [Laurent Morisseau / Morisseau Consulting]
+- **Site web du framework** : [Agile4Enterprise.com](https://agile4enterprise.com/)
+- **Contact** : [hello@agile4enterprise.com](mailto:hello@agile4enterprise.com)
 
 Merci à tous les contributeurs pour leur engagement et leur soutien dans cette initiative open source ! 🚀
