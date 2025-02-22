@@ -21,9 +21,10 @@ Bienvenue dans le dépôt officiel du guide *Agile4Enterprise - Le Guide Officie
 3. **Discutez des idées** dans la section Discussions ou Issues.
 4. **Signalez des erreurs ou incohérences** pour améliorer le contenu.
 
+
 ## 📥 Le guide en ligne
 
-📌 Le guide est disponible en lecture ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/)
+📌 Le guide est disponible en lecture ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/)  
 📌 Le PDF du guide est disponible ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/static/Agile4Enterprise.pdf)
 
 ## 💡 Auteurs et Contacts
