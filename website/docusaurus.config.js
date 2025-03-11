@@ -66,6 +66,8 @@ const config = {
   customFields: {
     disableSSR: true, // Ajout d'un champ personnalisé pour forcer un rendu statique
   },
+  trailingSlash: true,
+  
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -124,6 +126,24 @@ const config = {
     },
   
   
+    plugins: [
+      async function disableRequireResolveWeak() {
+        return {
+          name: 'disable-require-resolve-weak',
+          configureWebpack(config) {
+            return {
+              resolve: {
+                fallback: {
+                  path: false,  // Désactive l'utilisation de `path`
+                  fs: false,    // Empêche l'utilisation de `fs`
+                  module: false, // Désactive `require.resolveWeak`
+                },
+              },
+            };
+          },
+        };
+      },
+    ],
   };
   
   export default config;
