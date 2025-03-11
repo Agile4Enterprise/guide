@@ -23,7 +23,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'ntrepriseagile/entrepriseagile', // Fichier docs/entrepriseagile.md
+      id: 'entrepriseagile/entrepriseagile', // Fichier docs/entrepriseagile.md
       label: "Pourquoi l'Entreprise Agile"
     },
   ],
