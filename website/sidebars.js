@@ -17,21 +17,26 @@
  const sidebars = {
   tutorialSidebar: [
     {
-      type: 'category',
+      type: 'doc',
+      id: 'index',  // ✅ Utilisation de index.md à la racine
       label: 'Introduction',
+    },
+    {
+      type: 'category',
+      label: "L'entreprise agile",
       collapsed: false,
       items: [
-        'introduction/introduction', // Correction de 'introduction/'
-        'introduction/entrepriseagile/entrepriseagile', // Correction de 'introduction/entrepriseagile/'
+        
+        'introduction/entrepriseagile/index', 
       ],
     },
     {
       type: 'category',
-      label: 'Fondations',
+      label: 'Les fondations',
       collapsed: false,
       items: [
-        'fondations/fondations', // Correction de 'fondations/'
-        'fondations/framework/index', // Correction de 'fondations/framework/'
+        'fondations/fondations', 
+        'fondations/framework/index',
       ],
     },
   ],
