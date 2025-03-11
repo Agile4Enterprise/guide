@@ -26,8 +26,8 @@
       label: "L'entreprise agile",
       collapsed: false,
       items: [
-        
         'introduction/entrepriseagile/index', 
+        'introduction/piloterlechangement/index', 
       ],
     },
     {

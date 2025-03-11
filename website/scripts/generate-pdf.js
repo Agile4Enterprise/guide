@@ -1,8 +1,12 @@
-const fs = require('fs');
-const path = require('path');
-const puppeteer = require('puppeteer');
-const PDFMerger = await import('pdf-merger-js').then(mod => mod.default);
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import puppeteer from 'puppeteer';
+import PDFMerger from 'pdf-merger-js';
 
+// Définition de __dirname en ESM
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 (async () => {
     try {
@@ -21,7 +25,7 @@ const PDFMerger = await import('pdf-merger-js').then(mod => mod.default);
 
         // 📌 Récupération des liens du menu latéral (sidebar)
         const orderedPages = await page.evaluate(() => {
-            return Array.from(document.querySelectorAll('.sidebar a')) // Remplacez ".sidebar a" par le bon sélecteur CSS de votre site
+            return Array.from(document.querySelectorAll('.menu__link')) // Vérifier ce sélecteur
                 .map(a => a.href)
                 .filter(href => href.includes('/docs/'));
         });
