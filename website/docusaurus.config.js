@@ -126,24 +126,6 @@ const config = {
     },
   
   
-    plugins: [
-      async function disableRequireResolveWeak() {
-        return {
-          name: 'disable-require-resolve-weak',
-          configureWebpack(config) {
-            return {
-              resolve: {
-                fallback: {
-                  path: false,  // Désactive l'utilisation de `path`
-                  fs: false,    // Empêche l'utilisation de `fs`
-                  module: false, // Désactive `require.resolveWeak`
-                },
-              },
-            };
-          },
-        };
-      },
-    ],
   };
   
   export default config;

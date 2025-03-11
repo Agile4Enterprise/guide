@@ -1,33 +1,36 @@
 import fs from 'fs';
 import path from 'path';
-import { mdToPdf } from 'md-to-pdf';
-import { fileURLToPath } from 'url';
+import puppeteer from 'puppeteer';
 
-// Gestion du chemin en ESM
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+// 📂 Définition du chemin où enregistrer le PDF
+const outputPdf = path.join(process.cwd(), 'static/Agile4Enterprise-Guide.pdf');
 
-// 📂 Dossier contenant les fichiers Markdown
-const docsDir = path.join(__dirname, '../docs');
-const outputPdf = path.join(__dirname, '../static/Agile4Enterprise.pdf');
+// 📄 Liste des pages à capturer sous `/docs`
+const pagesToCapture = [
+    'https://Agile4Enterprise.github.io/guide/docs/index',
+    'https://Agile4Enterprise.github.io/guide/docs/introduction/entrepriseagile/index'
+];
 
-// 📝 Récupérer tous les fichiers Markdown
-const markdownFiles = fs.readdirSync(docsDir).filter(file => file.endsWith('.md'));
-
-// 📝 Concaténer tous les fichiers Markdown en un seul
-let combinedMarkdown = '';
-
-markdownFiles.forEach(file => {
-    const filePath = path.join(docsDir, file);
-    const content = fs.readFileSync(filePath, 'utf-8');
-    combinedMarkdown += `\n\n# ${file.replace('.md', '')}\n\n${content}`;
-});
-
-// 📄 Générer le PDF
+// 📜 Fonction pour générer le PDF
 (async () => {
-    console.log("📄 Génération du PDF...");
-    await mdToPdf({ content: combinedMarkdown }).then(pdf => {
-        fs.writeFileSync(outputPdf, pdf.content);
-        console.log(`✅ PDF généré avec succès : ${outputPdf}`);
-    }).catch(err => console.error("❌ Erreur lors de la génération du PDF :", err));
+    const browser = await puppeteer.launch({ headless: true });
+    const page = await browser.newPage();
+    
+    let combinedContent = '';
+
+    for (const url of pagesToCapture) {
+        console.log(`📄 Capture de ${url}...`);
+        await page.goto(url, { waitUntil: 'networkidle2' });
+
+        // Récupère le contenu HTML de chaque page et l'ajoute
+        const content = await page.content();
+        combinedContent += content + '\n\n';
+    }
+
+    // Génère un seul PDF avec tout le contenu combiné
+    await page.setContent(combinedContent);
+    await page.pdf({ path: outputPdf, format: 'A4', printBackground: true });
+
+    await browser.close();
+    console.log(`✅ PDF généré avec succès : ${outputPdf}`);
 })();
