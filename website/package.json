@@ -12,6 +12,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
+    "export:pdf": "docusaurus-papersaurus && mv static/documentation.pdf static/Agile4Enterprise.pdf",
     "deploy-gh-pages": "gh-pages --dist build --branch gh-pages --repo https://x-access-token:${GITHUB_TOKEN}@github.com/Agile4Enterprise/guide.git --message '🚀 Deploy Docusaurus site'"
   },
   "dependencies": {
@@ -19,6 +20,7 @@
     "@docusaurus/preset-classic": "3.7.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "docusaurus-plugin-papersaurus": "^2.0.3",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

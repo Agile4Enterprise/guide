@@ -129,5 +129,16 @@ const config = {
       },
     }),
 };
+module.exports = {
+  plugins: [
+    [
+      'docusaurus-plugin-papersaurus',
+      {
+        basePath: 'docs', // Dossier contenant la doc
+        outputFile: 'agile4enterprise.pdf', // Nom du fichier de sortie
+        coverTitle: 'Agile4Enterprise - Le Guide',
+        coverSubtitle: 'L’agilité adaptée aux entreprises',
+        author: 'Agile4Enterprise',
+        debug: true,
 
 export default config;
