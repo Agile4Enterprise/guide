@@ -1,5 +1,5 @@
 // @ts-check
-import { themes as prismThemes } from 'prism-react-renderer';
+const prismThemes = require('prism-react-renderer').themes;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Agile4Enterprise. Construit avec Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Agile4Enterprise.`,
       },
       prism: {
         theme: prismThemes.github,
