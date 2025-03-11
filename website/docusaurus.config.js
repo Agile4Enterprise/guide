@@ -63,7 +63,7 @@ const config = {
     ],
   ],
 
-  ssrTemplate: false,
+  ssrTemplate: "",
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
