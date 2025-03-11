@@ -35,34 +35,62 @@ const config = {
     locales: ['fr'],
   },
 
+  // presets: [
+  //   [
+  //     'classic',
+  //     /** @type {import('@docusaurus/preset-classic').Options} */
+  //     ({
+  //       docs: {
+  //         path: '../docs',
+  //         sidebarPath: path.resolve(__dirname, './sidebars.js'), // Remplace require.resolve()
+  //         editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/docs/',
+  //       },
+  //       blog: {
+  //         showReadingTime: true,
+  //         editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/blog/',
+  //         feedOptions: {
+  //           type: ['rss', 'atom'],
+  //           xslt: true,
+  //         },
+  //         onInlineTags: 'warn',
+  //         onInlineAuthors: 'warn',
+  //         onUntruncatedBlogPosts: 'warn',
+  //       },
+  //       theme: {
+  //         customCss: path.resolve(__dirname, './src/css/custom.css'),
+  //       },
+  //     }),
+  //   ],
+  // ],
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          path: '../docs',
-          sidebarPath: path.resolve(__dirname, './sidebars.js'), // Remplace require.resolve()
-          editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/docs/',
-        },
-        blog: {
-          showReadingTime: true,
-          editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/blog/',
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
-        theme: {
-          customCss: path.resolve(__dirname, './src/css/custom.css'),
-        },
-      }),
+      {
+        docs: false,  // Désactive temporairement la documentation
+        blog: false,  // Désactive le blog
+        theme: false, // Désactive le thème
+      },
     ],
   ],
-
+  
+  plugins: [
+    async function myWebpackPlugin(context, options) {
+      return {
+        name: 'custom-webpack-config',
+        configureWebpack(config, isServer) {
+          return {
+            resolve: {
+              fallback: {
+                path: false, // Désactive `path`
+                fs: false,   // Désactive `fs`
+                module: false, // Désactive `module`
+              },
+            },
+          };
+        },
+      };
+    },
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     {
@@ -119,24 +147,7 @@ const config = {
       },
     },
   
-   plugins: [
-      async function myWebpackPlugin(context, options) {
-        return {
-          name: 'custom-webpack-config',
-          configureWebpack(config, isServer) {
-            return {
-              resolve: {
-                fallback: {
-                  path: false, // Désactive `path`
-                  fs: false,   // Désactive `fs`
-                  module: false, // Désactive `module`
-                },
-              },
-            };
-          },
-        };
-      },
-    ],
+  
   };
   
   export default config;
