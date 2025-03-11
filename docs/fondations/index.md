@@ -1,6 +1,6 @@
 ---
-id: index
-title: Introduction
+id: fondations
+title: Les fondations du Framework Agile4Enterprise
 ---
 
 # Bienvenue dans le Framework Agile4Enterprise
