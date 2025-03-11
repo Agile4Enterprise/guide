@@ -42,4 +42,4 @@
   ],
 };
 
-module.exports = sidebars;
+export default sidebars;

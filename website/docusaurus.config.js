@@ -1,5 +1,16 @@
 // @ts-check
-const prismThemes = require('prism-react-renderer').themes;
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+
+const prismThemes = require('prism-react-renderer').themes.github;
+const prismDarkTheme = require('prism-react-renderer').themes.dracula;
+
+import { fileURLToPath } from 'url';
+import path from 'path';
+
+// Remplace require.resolve pour fonctionner en ESM
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -7,16 +18,15 @@ const config = {
   tagline: 'L’agilité adaptée aux PME',
   favicon: 'img/favicon.ico',
 
-  // URL de production (remplacez par votre domaine final si applicable)
+  // URL de production
   url: 'https://Agile4Enterprise.github.io',
-  // Base URL pour GitHub Pages
   baseUrl: '/guide/',
 
   // Configuration pour GitHub Pages
-  organizationName: 'Agile4Enterprise', // Nom de l'organisation GitHub
-  projectName: 'guide', // Nom du repo GitHub
-  deploymentBranch: 'gh-pages', // Branche où le site sera déployé
-  trailingSlash: false, // Empêche les redirections SEO problématiques sur GitHub Pages
+  organizationName: 'Agile4Enterprise',
+  projectName: 'guide',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -31,8 +41,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: '../docs', // Permet d’utiliser le dossier docs à la racine du projet
-          sidebarPath: require.resolve('./sidebars.js'),
+          path: '../docs',
+          sidebarPath: path.resolve(__dirname, './sidebars.js'), // Remplace require.resolve()
           editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/docs/',
         },
         blog: {
@@ -47,7 +57,7 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: path.resolve(__dirname, './src/css/custom.css'),
         },
       }),
     ],
@@ -83,52 +93,31 @@ const config = {
         links: [
           {
             title: 'Documentation',
-            items: [
-              {
-                label: 'Guide',
-                to: '/docs/',
-              },
-            ],
+            items: [{ label: 'Guide', to: '/docs/' }],
           },
           {
             title: 'Communauté',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+              { label: 'Stack Overflow', href: 'https://stackoverflow.com/questions/tagged/docusaurus' },
+              { label: 'Discord', href: 'https://discordapp.com/invite/docusaurus' },
+              { label: 'X', href: 'https://x.com/docusaurus' },
             ],
           },
           {
             title: 'Plus',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Agile4Enterprise/guide',
-              },
+              { label: 'Blog', to: '/blog' },
+              { label: 'GitHub', href: 'https://github.com/Agile4Enterprise/guide' },
             ],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Agile4Enterprise.`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: prismThemes,
+        darkTheme: prismDarkTheme,
       },
     }),
 };
 
-// Exporte la configuration
-module.exports = config;
+export default config;
