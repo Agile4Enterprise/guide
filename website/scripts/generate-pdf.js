@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const puppeteer = require('puppeteer');
-const PDFMerger = require('pdf-merger-js');
+const PDFMerger = await import('pdf-merger-js').then(mod => mod.default);
+
 
 (async () => {
     try {
