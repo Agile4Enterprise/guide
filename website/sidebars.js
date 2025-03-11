@@ -16,17 +16,41 @@
  */
 const sidebars = {
   tutorialSidebar: [
+    // L'Entreprise Agile
     {
-      type: 'doc',
-      id: 'intro', // Fichier docs/intro.md
-      label: 'Introduction',
+      type: 'category',
+      label: "L'Entreprise Agile",
+      collapsed: false,
+      items: [
+        'introduction/index',
+        {
+          type: 'category',
+          label: "Pourquoi l'Entreprise Agile ?",
+          collapsed: true,
+          items: [
+            'introduction/entrepriseagile/index',
+          ],
+        },
+      ],
     },
+    // Les fondations
     {
-      type: 'doc',
-      id: 'entrepriseagile/entrepriseagile', // Fichier docs/entrepriseagile.md
-      label: "Pourquoi l'Entreprise Agile"
+      type: 'category',
+      label: "Les fondations d'Agile4Enterprise",
+      collapsed: false,
+      items: [
+        'fondations/index',
+        {
+          type: 'category',
+          label: "Le Framework Agile4Enterprise",
+          collapsed: true,
+          items: [
+            'fondations/framework/index',
+          ],
+        },
+      ],
     },
   ],
 };
 
-export default sidebars;
+module.exports = sidebars;
