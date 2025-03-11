@@ -129,20 +129,21 @@ const config = {
       },
     }),
 };
-module.exports = {
-  plugins: [
-    [
-      'docusaurus-plugin-papersaurus',
-      {
-        basePath: 'docs', // Dossier où se trouvent les fichiers Markdown
-        outputFile: 'static/Agile4Enterprise.pdf', // ✅ Déplace le PDF dans `static/`
-        coverTitle: 'Agile4Enterprise - Le Guide',
-        coverSubtitle: 'L’agilité adaptée aux PME',
-        author: 'Agile4Enterprise',
-        debug: true, // Active les logs pour détecter d'éventuels problèmes
-      },
-    ],
-  ],
-};
 
-export default config;
+// Définir les plugins
+config.plugins = [
+  [
+    'docusaurus-plugin-papersaurus',
+    {
+      basePath: 'docs', // Dossier où se trouvent les fichiers Markdown
+      outputFile: 'static/Agile4Enterprise.pdf', // ✅ Déplace le PDF dans `static/`
+      coverTitle: 'Agile4Enterprise - Le Guide',
+      coverSubtitle: 'L’agilité adaptée aux entreprises',
+      author: 'Agile4Enterprise',
+      debug: true, // Active les logs pour détecter d'éventuels problèmes
+    },
+  ],
+];
+
+// Exporte la configuration
+module.exports = config;
