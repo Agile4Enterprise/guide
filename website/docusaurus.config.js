@@ -65,7 +65,7 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Agile4Enterprise',
@@ -117,7 +117,26 @@ const config = {
         theme: prismThemes,
         darkTheme: prismDarkTheme,
       },
-    }),
-};
-
-export default config;
+    },
+  
+   plugins: [
+      async function myWebpackPlugin(context, options) {
+        return {
+          name: 'custom-webpack-config',
+          configureWebpack(config, isServer) {
+            return {
+              resolve: {
+                fallback: {
+                  path: false, // Désactive `path`
+                  fs: false,   // Désactive `fs`
+                  module: false, // Désactive `module`
+                },
+              },
+            };
+          },
+        };
+      },
+    ],
+  };
+  
+  export default config;
