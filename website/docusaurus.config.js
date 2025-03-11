@@ -63,8 +63,8 @@ const config = {
     ],
   ],
 
-  ssrConfig: {
-    noIndex: true, // Désactive le SSR
+  customFields: {
+    disableSSR: true, // Ajout d'un champ personnalisé pour forcer un rendu statique
   },
 
   themeConfig:
