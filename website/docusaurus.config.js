@@ -63,7 +63,9 @@ const config = {
     ],
   ],
 
-  ssrTemplate: "",
+  ssrConfig: {
+    noIndex: true, // Désactive le SSR
+  },
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
