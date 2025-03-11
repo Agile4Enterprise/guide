@@ -21,8 +21,8 @@
       label: 'Introduction',
       collapsed: false,
       items: [
-        'introduction/', // Référence docs/introduction/index.md
-        'introduction/entrepriseagile/',
+        'introduction/introduction', // Correction de 'introduction/'
+        'introduction/entrepriseagile/entrepriseagile', // Correction de 'introduction/entrepriseagile/'
       ],
     },
     {
@@ -30,8 +30,8 @@
       label: 'Fondations',
       collapsed: false,
       items: [
-        'fondations/',
-        'fondations/framework/',
+        'fondations/fondations', // Correction de 'fondations/'
+        'fondations/framework/index', // Correction de 'fondations/framework/'
       ],
     },
   ],
