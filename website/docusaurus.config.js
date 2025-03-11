@@ -135,7 +135,6 @@ config.plugins = [
   [
     'docusaurus-plugin-papersaurus',
     {
-      basePath: 'docs', // Dossier où se trouvent les fichiers Markdown
       outputFile: 'static/Agile4Enterprise.pdf', // ✅ Déplace le PDF dans `static/`
       coverTitle: 'Agile4Enterprise - Le Guide',
       coverSubtitle: 'L’agilité adaptée aux entreprises',
