@@ -135,10 +135,12 @@ config.plugins = [
   [
     'docusaurus-plugin-papersaurus',
     {
-      coverTitle: 'Agile4Enterprise - Le Guide',
-      coverSubtitle: 'L’agilité adaptée aux entreprises',
-      author: 'Agile4Enterprise',
-      debug: true, // Active les logs pour détecter d'éventuels problèmes
+      keepDebugHtmls: false,
+      sidebarNames: ['tutorialSidebar'], // Doit correspondre à l'ID de la sidebar définie dans sidebars.js
+      addDownloadButton: true, // Ajoute un bouton de téléchargement sur le site
+      autoBuildPdfs: true, // Génère automatiquement les PDFs après chaque build
+      ignoreDocs: ['licenses'], // Exclut certains fichiers
+      author: 'Agile4Enterprise', // Nom de l'auteur sur la page de couverture du PDF
     },
   ],
 ];
