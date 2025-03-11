@@ -134,11 +134,15 @@ module.exports = {
     [
       'docusaurus-plugin-papersaurus',
       {
-        basePath: 'docs', // Dossier contenant la doc
-        outputFile: 'agile4enterprise.pdf', // Nom du fichier de sortie
+        basePath: 'docs', // Dossier où se trouvent les fichiers Markdown
+        outputFile: 'static/Agile4Enterprise.pdf', // ✅ Déplace le PDF dans `static/`
         coverTitle: 'Agile4Enterprise - Le Guide',
-        coverSubtitle: 'L’agilité adaptée aux entreprises',
+        coverSubtitle: 'L’agilité adaptée aux PME',
         author: 'Agile4Enterprise',
-        debug: true,
+        debug: true, // Active les logs pour détecter d'éventuels problèmes
+      },
+    ],
+  ],
+};
 
 export default config;
