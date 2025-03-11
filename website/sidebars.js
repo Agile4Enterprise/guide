@@ -14,40 +14,24 @@
 
  @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
  */
-const sidebars = {
+ const sidebars = {
   tutorialSidebar: [
-    // L'Entreprise Agile
     {
       type: 'category',
-      label: "L'Entreprise Agile",
+      label: 'Introduction',
       collapsed: false,
       items: [
-        'introduction/index',
-        {
-          type: 'category',
-          label: "Pourquoi l'Entreprise Agile ?",
-          collapsed: true,
-          items: [
-            'introduction/entrepriseagile/index',
-          ],
-        },
+        'introduction/', // Référence docs/introduction/index.md
+        'introduction/entrepriseagile/',
       ],
     },
-    // Les fondations
     {
       type: 'category',
-      label: "Les fondations d'Agile4Enterprise",
+      label: 'Fondations',
       collapsed: false,
       items: [
-        'fondations/index',
-        {
-          type: 'category',
-          label: "Le Framework Agile4Enterprise",
-          collapsed: true,
-          items: [
-            'fondations/framework/index',
-          ],
-        },
+        'fondations/',
+        'fondations/framework/',
       ],
     },
   ],
