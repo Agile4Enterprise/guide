@@ -130,20 +130,5 @@ const config = {
     }),
 };
 
-// Définir les plugins
-config.plugins = [
-  [
-    'docusaurus-plugin-papersaurus',
-    {
-      keepDebugHtmls: false,
-      sidebarNames: ['tutorialSidebar'], // Doit correspondre à l'ID de la sidebar définie dans sidebars.js
-      addDownloadButton: true, // Ajoute un bouton de téléchargement sur le site
-      autoBuildPdfs: true, // Génère automatiquement les PDFs après chaque build
-      ignoreDocs: ['licenses'], // Exclut certains fichiers
-      author: 'Agile4Enterprise', // Nom de l'auteur sur la page de couverture du PDF
-    },
-  ],
-];
-
 // Exporte la configuration
 module.exports = config;
