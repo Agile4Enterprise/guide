@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 // 📂 Dossier contenant les fichiers Markdown
 const docsDir = path.join(__dirname, '../docs');
-const outputPdf = path.join(__dirname, '../static/Agile4Enterprise-Guide.pdf');
+const outputPdf = path.join(__dirname, '../static/Agile4Enterprise.pdf');
 
 // 📝 Récupérer tous les fichiers Markdown
 const markdownFiles = fs.readdirSync(docsDir).filter(file => file.endsWith('.md'));
