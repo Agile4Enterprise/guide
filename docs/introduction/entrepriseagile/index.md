@@ -1,8 +1,3 @@
----
-id: entrepriseagile  # Pour docs/introduction/entrepriseagile/index.md
-title: Pourquoi une entreprise agile ? Pourquoi maintenant ?
----
-
 # Pourquoi une entreprise agile ? Pourquoi maintenant ?
 
 Propriétaire: Laurent Morisseau
