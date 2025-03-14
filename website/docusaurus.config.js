@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Guide',
-                to: '/docs/intro',
+                to: '/docs/',
               },
             ],
           },
