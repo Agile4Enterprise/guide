@@ -49,11 +49,13 @@ Historiquement, les entreprises adoptaient une gestion du changement alternée :
 - [**Périodes d’exploitation**](https://www.notion.so/L-entreprise-paradoxale-14a90eaf28ff801db7c0fdcea85e40f3?pvs=21) : stabilisation et optimisation des actifs existants pour maximiser la rentabilité.
 - [**Phases d’exploration**](https://www.notion.so/L-entreprise-paradoxale-14a90eaf28ff801db7c0fdcea85e40f3?pvs=21) : moments dédiés à l’innovation et à la transformation pour anticiper l’avenir, en réponse aux changements de marché ou aux avancées technologiques.
 
-Ce modèle reposait sur une alternance entre ces deux dynamiques, selon une logique d’[**équilibre ponctué**](https://www.notion.so/La-fabrique-du-changement-14a90eaf28ff8085bd03d715bfdae69e?pvs=21), où les périodes de continuité étaient interrompues par des transformations majeures. Toutefois, l’accélération des mutations économiques et technologiques a bouleversé ce paradigme. Désormais, les cycles de stabilité sont devenus plus courts, voire inexistants, contraignant les entreprises à **intégrer une logique de changement permanent**.
+Ce modèle reposait sur une alternance entre ces deux dynamiques, selon une logique d’[**équilibre ponctué**](https://www.notion.so/La-fabrique-du-changement-14a90eaf28ff8085bd03d715bfdae69e?pvs=21), où les périodes de continuité étaient interrompues par des transformations majeures. Toutefois, l’[accélération des mutations économiques et technologiques](https://www.notion.so/Pourquoi-une-entreprise-agile-Pourquoi-maintenant-19190eaf28ff8011ae3eecfe210badba?pvs=21) a bouleversé ce paradigme. Désormais, les cycles de stabilité sont devenus plus courts, voire inexistants, contraignant les entreprises à **intégrer une logique de changement permanent**.
 
 ### **Une articulation entre exploitation et exploration**
 
-Cependant, l’[accélération des mutations économiques et technologiques](https://www.notion.so/Pourquoi-une-entreprise-agile-Pourquoi-maintenant-19190eaf28ff8011ae3eecfe210badba?pvs=21) a mis à mal cette alternance classique. L’environnement est devenu plus volatil, rendant les cycles de stabilité de plus en plus courts, voire inexistants. Les entreprises doivent désormais intégrer une logique de **changement permanent**, où l’agilité devient essentielle pour naviguer dans l’incertitude.
+![L’entreprise ambidextre, à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents](image%201.png)
+
+L’entreprise ambidextre, à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents
 
 Dans ce contexte d’évolution continue, l’enjeu principal réside dans la capacité à faire cohabiter simultanément :
 
@@ -75,13 +77,12 @@ Elle implique la recherche et le développement de nouvelles opportunités, prod
 
 </aside>
 
-L’entreprise doit développer une **ambidextrie organisationnelle**, où l’apprentissage en continu et l’adaptation rapide deviennent des impératifs stratégiques. Il ne s’agit plus de choisir entre exploitation et exploration, mais de concevoir une organisation capable d’orchestrer les deux simultanément. L’enjeu est donc d’articuler des capacités de changement continu tout en assurant une performance durable.
+L’entreprise doit développer une [**ambidextrie organisationnelle**](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21), où l’apprentissage en continu et l’adaptation rapide deviennent des impératifs stratégiques. Il ne s’agit plus de choisir entre exploitation et exploration, mais de concevoir une organisation capable d’orchestrer les deux simultanément. L’enjeu est donc d’articuler des capacités de changement continu tout en assurant une performance durable.
 
 ### **Un changement systémique et dynamique**
 
 Face à ce nouvel enjeu, les entreprises doivent mettre en place des **mécanismes d’adaptation structurelle** leur permettant de basculer d’une posture d’exploitation à une posture d’exploration sans discontinuité. Cela implique :
 
-- Une **agilité organisationnelle**, intégrant des boucles de feedback et des processus décisionnels itératifs.
 - Une **stratégie adaptative**, capable de conjuguer vision long terme et ajustements continus.
 - Un **design organisationnel flexible**, permettant de structurer l’entreprise pour absorber l’incertitude et favoriser l’émergence de nouvelles capacités stratégiques.
 
@@ -109,13 +110,13 @@ Entre ces deux extrêmes, l’**inertie organisationnelle** agit souvent comme u
 
 ### Des stratégies de changement diversifiées
 
-Plutôt que de subir ces transformations, les entreprises peuvent en être les actrices, et choisir différentes postures face au changement :
+Plutôt que de les subir, les entreprises peuvent en être les actrices, et choisir différentes postures face au changement :
 
 - **Une approche défensive**, consistant à s’adapter aux évolutions contraintes par le marché ou la concurrence. L’entreprise réagit aux menaces en optimisant ses processus ou en ajustant son positionnement.
 - **Une approche offensive**, où l’organisation cherche à saisir des opportunités avant ses concurrents, en innovant ou en redéfinissant ses offres.
 - **Une approche hybride**, combinant des ajustements réactifs et des initiatives proactives, selon le contexte et les enjeux.
 
-La clé réside dans une posture **agile et apprenante**, combinant réactivité et proactivité. Une entreprise véritablement agile ne se contente pas d’adapter son organisation aux contraintes : elle façonne son environnement et influence les règles du jeu. Pour cela, elle doit s’appuyer sur une structure flexible et une culture favorisant l’apprentissage continu. L’alignement entre vision stratégique, design organisationnel et dynamique d’exécution permet d’assurer une adaptation continue, tout en maintenant un cap cohérent.
+La clé réside dans une posture **agile et apprenante**, combinant réactivité et proactivité. Une entreprise véritablement agile ne se contente pas d’adapter son organisation aux contraintes : elle façonne son environnement et influence les règles du jeu. Pour cela, elle doit s’appuyer sur un modèle opératoire le permettant. L’alignement entre vision stratégique, design organisationnel et dynamique d’exécution permet d’assurer une adaptation continue, tout en maintenant un cap cohérent.
 
 <aside>
 📚
@@ -137,26 +138,31 @@ Loin d’être un simple ajustement, cette approche implique une transformation 
 L’intégration du changement continu repose sur un cadre organisationnel adapté, qui permet d’aligner la stratégie, la structure et l’exécution. Pour cela :
 
 - La **stratégie** doit être conçue comme un processus itératif et participatif, combinant une approche à la fois délibérée et émergente.
-- Le **design organisationnel** doit être flexible et évoluer en fonction des besoins, en favorisant l’auto-organisation et la responsabilisation des équipes.
+- Le **design organisationnel** doit pouvoir évoluer en fonction des besoins, en favorisant l’auto-organisation et la responsabilisation des équipes.
 - L’**exécution stratégique** doit être orientée vers l’apprentissage et l’expérimentation, afin d’ajuster rapidement les décisions et de capter les opportunités émergentes.
 
 ### Un changement cadencé et synchronisé
 
 Pour éviter les effets de rupture, une **cadence de changement** doit être instaurée à différents niveaux de l’organisation. Cette approche propose un cadre structuré permettant :
 
-- Une **agilité stratégique**, pour adapter les grandes orientations en fonction des évolutions du marché.
-- Une **agilité tactique**, pour ajuster les plans d’action à court terme.
-- Une **agilité opérationnelle**, qui permet aux équipes de réagir rapidement aux imprévus et d’améliorer continuellement leurs processus.
+- Une **agilité stratégique**, qu’il s’agisse de la [stratégie corporate](https://www.notion.so/L-agilit-Portfolio-18f90eaf28ff8009b702d2aa0eae18cf?pvs=21) ou de la [stratégie business](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21), pour adapter les grandes orientations en fonction des évolutions du marché.
+- Une [**agilité tactique**](https://www.notion.so/L-agilit-tactique-13490eaf28ff806cb428d9b27abb1f82?pvs=21), pour ajuster les plans d’action à court terme.
+- Une [**agilité opérationnell](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21)e**, qui permet aux équipes de réagir rapidement aux imprévus et d’améliorer continuellement leurs processus.
 
 ### De la transformation au développement de capacités
 
-Enfin, la capacité de changement ne doit pas être considérée comme un objectif ponctuel, mais comme une compétence organisationnelle à développer en continu. Cela passe par :
+Enfin, la capacité de changement ne doit pas être considérée comme un objectif ponctuel, mais comme une compétence organisationnelle à développer en continu.
 
-- Un apprentissage organisationnel qui favorise l’adaptation et l’expérimentation.
-- Une gouvernance du changement intégrée à la gestion stratégique, plutôt que gérée en silo sous forme de programmes spécifiques.
-- L’instauration de **boucles de feedback régulières**, permettant de piloter le changement de manière proactive et mesurable.
+<aside>
+💡
 
-Dans ce cadre, le changement devient un avantage concurrentiel, permettant à l’entreprise d’évoluer en permanence sans être freinée par ses propres succès passés. En intégrant ces principes, les organisations peuvent non seulement survivre dans un monde incertain, mais surtout prospérer en transformant l’incertitude en opportunité.
+**Dans une entreprise agile, quatre capacités clés - réactivité, flexibilité, adaptabilité, et proactivité - définissent quatre stratégies de réponse variées face au changement incrémental et continu, et à la gestion du risque et de l’incertitude.**
+
+Ces capacités clés sont développées en mode agile dans une démarche d’**amélioration continue**.
+
+</aside>
+
+Grâce à ces capacités organisationnelles, le changement devient un avantage concurrentiel, permettant à l’entreprise d’évoluer en permanence sans être freinée par ses propres succès passés. En intégrant ces principes, les organisations peuvent non seulement survivre dans un monde incertain, mais surtout prospérer en transformant l’incertitude en opportunité.
 
 <aside>
 📚
@@ -167,11 +173,11 @@ En savoir plus sur l’[approche simultanée du changement](https://www.notion.s
 
 ## **Continuité de création de valeur et gestion des risques**
 
-Dans un environnement en [perpétuelle évolution](https://www.notion.so/Pourquoi-une-entreprise-agile-Pourquoi-maintenant-19190eaf28ff8011ae3eecfe210badba?pvs=21), où le changement est devenu la norme plutôt qu’une exception, l’un des plus grands défis pour les entreprises est d’**assurer une continuité dans la création de valeur tout en maîtrisant les risques**. L’agilité ne se limite pas à une capacité d’adaptation, elle vise également à garantir que l’innovation et la satisfaction des utilisateurs restent prioritaires, même en période d’incertitude. Cela repose sur un **pilotage par la valeur**, intégrant en continu le feedback des utilisateurs et permettant une adaptation rapide des offres et services.
+Dans un environnement en [perpétuelle évolution](https://www.notion.so/Pourquoi-une-entreprise-agile-Pourquoi-maintenant-19190eaf28ff8011ae3eecfe210badba?pvs=21), où le changement est devenu la norme plutôt qu’une exception, l’un des plus grands défis pour les entreprises est d’**assurer une continuité dans la création de valeur tout en maîtrisant les risques**. L’agilité ne se limite pas à une capacité d’adaptation, elle vise également à garantir que la satisfaction des utilisateurs reste prioritaire, même en période d’incertitude. Cela repose sur un **pilotage par la valeur**, intégrant en continu le feedback des utilisateurs et permettant une adaptation rapide des offres et services.
 
 1. **Piloter par la valeur** et par l’impact
     - Maintenir un lien constant avec les utilisateurs afin d’adapter les solutions à l’évolution de leurs besoins.
-    - Piloter la stratégie par des indicateurs de valeur, plutôt que par des livrables.
+    - Piloter la stratégie par la valeur, plutôt que par des livrables.
 2. **Créer de la valeur en s’adaptant**
     - Ne pas sacrifier l’efficacité, l’atteinte d’objectifs, sous prétexte de réactivité.
     - Instaurer des processus flexibles tout en conservant un cadre structurant.

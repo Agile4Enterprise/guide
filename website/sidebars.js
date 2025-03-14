@@ -28,6 +28,9 @@
       items: [
         'introduction/entrepriseagile/index', 
         'introduction/piloterlechangement/index', 
+        'introduction/defis/index', 
+        'introduction/niveauxdecisions/index', 
+        'introduction/pourquoiagile4enterprise/index', 
       ],
     },
     {
@@ -37,6 +40,9 @@
       items: [
         'fondations/fondations', 
         'fondations/framework/index',
+        'fondations/agilite4d/index',
+        'fondations/susovuca/index',
+        'fondations/4cadences/index',
       ],
     },
   ],
