@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Agile4Enterprise - Le Guide',
-  tagline: 'L’agilité adaptée aux PME',
+  tagline: 'Transformer durablement votre manière de faire du business',
   favicon: 'img/favicon.ico',
 
   // URL de production (remplacez par votre domaine final si applicable)
@@ -94,16 +94,16 @@ const config = {
             title: 'Communauté',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Site officiel',
+                href: 'https://agile4enterprise.com/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Circle',
+                href: 'https://entrepriseagile.circle.so/',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Meetup',
+                href: 'https://www.meetup.com/business-agility-meetup-group/events/297417640/',
               },
             ],
           },
