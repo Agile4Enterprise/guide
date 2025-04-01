@@ -24,7 +24,7 @@
     {
       type: 'category',
       label: "L'entreprise agile",
-      collapsed: false,
+      collapsed: true,
       items: [
         'introduction/entrepriseagile/index', 
         'introduction/piloterlechangement/index', 
@@ -36,7 +36,7 @@
     {
       type: 'category',
       label: 'Les fondations',
-      collapsed: false,
+      collapsed: true,
       items: [
         'fondations/fondations', 
         'fondations/framework/index',
@@ -50,34 +50,34 @@
     {
       type: 'category',
       label: "L'agilité Portfolio",
-      collapsed: false,
+      collapsed: true,
       items: [
-        'fondations/introduction/index', 
-        'fondations/modele4e/index',
-        'fondations/gouvernanceadaptative/index',
-        'fondations/agiliteorganisationnelle/index',
-        'fondations/agiliteorganisationnelleportfolio/index',
-        'fondations/action/index',
+        'agiliteportfolio/introduction/index', 
+        'agiliteportfolio/modele4e/index',
+        'agiliteportfolio/gouvernanceadaptative/index',
+        'agiliteportfolio/agiliteorganisationnelle/index',
+        'agiliteportfolio/agiliteorganisationnelleportfolio/index',
+        'agiliteportfolio/action/index',
       ],
     },
     {
       type: 'category',
       label: "L'agilité Stratégique",
-      collapsed: false,
+      collapsed: true,
       items: [
-        'fondations/introduction/index', 
-        'fondations/agiliterh/index',
-        'fondations/gouvernanceadaptative/index',
-        'fondations/agiliteorganisationnelle/index',
-        'fondations/action/index',
+        'agilitestrategique/introduction/index', 
+        'agilitestrategique/agiliterh/index',
+        'agilitestrategique/gouvernanceadaptative/index',
+        'agilitestrategique/agiliteorganisationnelle/index',
+        'agilitestrategique/action/index',
       ],
     },
     {
       type: 'category',
       label: "L'agilité Tactique",
-      collapsed: false,
+      collapsed: true,
       items: [
-        'fondations/introduction/index', 
+        'agilitetactique/introduction/index', 
       ],
     },
   ],
