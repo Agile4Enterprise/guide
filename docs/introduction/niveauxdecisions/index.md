@@ -88,6 +88,16 @@ Ce niveau définit **les grandes orientations** : diversification, expansion, in
 
 </aside>
 
+<aside>
+⚠️
+
+Attention, dans l’entreprise il existe plusieurs sortent de portefeuilles, liés aux niveaux de décision :
+
+- Portefeuille des domaines d’activités stratégiques (DAS) : C’est le niveau Portfolio que nous utilisons dans ce Framework. C’est la liste des différents secteurs d’activités dans lesquels l’entreprise intervient.
+- Portefeuille d’initiatives stratégiques : C’est la liste des initiatives contribuant à la stratégie business.
+- Portefeuille de produits / services (ou catalogue) : également au niveau de la stratégie business.
+</aside>
+
 ### La stratégie **– Décliner au niveau business**
 
 - **Portée** : Niveau des [**unités stratégiques**](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21) (ex. : unités d’affaires, départements avec budget dédié).
@@ -159,10 +169,12 @@ L’opérationnel est **le cœur de la création de valeur**. Une entreprise agi
 <aside>
 ⚠️
 
-Pour les entreprises spécialisées (mono métier, activité unique), la stratégie corporate et business sont similaires. Les fonctions de stratégie corporate et business sont intégrées, ce qui implique que les décisions Portfolio et stratégie sont au même niveau, prises par les mêmes personnes.
+**Spécificité des entreprises spécialisées**
 
-L’[agilité Portfolio](https://www.notion.so/L-agilit-Portfolio-18f90eaf28ff8009b702d2aa0eae18cf?pvs=21) et [Stratégique](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) sont alors fusionnées.
+L’articulation entre [agilité stratégique](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) et [agilité portfolio](https://www.notion.so/L-agilit-Portfolio-18f90eaf28ff8009b702d2aa0eae18cf?pvs=21) varie en fonction du modèle d’affaires de l’entreprise :
 
+- **Entreprises diversifiées** (multi-activités) : séparation claire entre la stratégie corporate et la stratégie business, nécessitant une gestion agile du portfolio.
+- **Entreprises spécialisées** (mono-métier) : forte imbrication entre l’agilité stratégique et l’agilité portfolio, car les décisions de portefeuille influencent directement la stratégie globale.
 </aside>
 
 # **L’alignement dynamique des décisions : clé d’une entreprise agile**
