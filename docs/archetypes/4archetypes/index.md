@@ -15,8 +15,6 @@ Le modèle des **4 archétypes agiles** propose une grille de lecture stratégiq
 
 # Pourquoi un modèle d’archétypes ?
 
-## 🧩 Pourquoi un modèle d’archétypes ?
-
 L’entreprise agile est une [entreprise paradoxale et complexe](https://www.notion.so/Les-d-fis-du-changement-continu-19290eaf28ff80108bb2c4a59687abbb?pvs=21) : 
 
 <aside>
@@ -130,7 +128,7 @@ Ces archétypes permettent de comprendre comment les entreprises fonctionnent, p
 Les archétypes ne sont pas nouveaux. Les chercheurs et praticiens ont identifié plusieurs archétypes (hors agile) :
 
 - La b**ureaucratie, une** structure hiérarchique avec des règles et des processus rigides,
-- L’[**adhocratie](https://www.notion.so/Le-design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21), une** organisation flexible, favorisant l’innovation et la collaboration. C’est un archétype à l’origine de l’entreprise agile.
+- L’[**adhocratie](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21), une** organisation flexible, favorisant l’innovation et la collaboration. C’est un archétype à l’origine de l’entreprise agile.
 
 ### Définir un archétype organisationnel : Le modèle de Galbraith
 
