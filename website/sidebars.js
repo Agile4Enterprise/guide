@@ -38,7 +38,6 @@
       label: 'Les fondations',
       collapsed: true,
       items: [
-        'fondations/fondations', 
         'fondations/framework/index',
         'fondations/agilite4d/index',
         'fondations/susovuca/index',
