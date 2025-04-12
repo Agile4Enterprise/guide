@@ -35,7 +35,7 @@
     },
     {
       type: 'category',
-      label: 'Les fondations',
+      label: "Les fondations d'Agile4Enterprise'",
       collapsed: true,
       items: [
         'fondations/framework/index',
