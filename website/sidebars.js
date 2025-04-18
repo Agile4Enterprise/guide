@@ -107,6 +107,27 @@
         'archetypes/topologie/index', 
       ],
     },
+    {
+      type: 'category',
+      label: "La transformation",
+      collapsed: true,
+      items: [
+        'transformation/demarche/index', 
+        'transformation/radar/index', 
+        'transformation/impacte/index', 
+        'transformation/pacte/index', 
+        'transformation/acte/index', 
+        'transformation/roles/index', 
+      ],
+    },
+    {
+      type: 'category',
+      label: "Conclusion",
+      collapsed: true,
+      items: [
+        'conclusion/index', 
+      ],
+    },
   ],
 };
 
