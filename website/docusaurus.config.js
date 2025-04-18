@@ -72,6 +72,11 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
+            href: 'https://agile4enterprise.github.io/framework/',
+            label: 'Framework',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/Agile4Enterprise/guide',
             label: 'GitHub',
             position: 'right',
@@ -99,11 +104,11 @@ const config = {
               },
               {
                 label: 'Circle',
-                href: 'https://entrepriseagile.circle.so/',
+                href: 'http://community.agile4enterprise.com/',
               },
               {
                 label: 'Meetup',
-                href: 'https://www.meetup.com/business-agility-meetup-group/events/297417640/',
+                href: 'http://meetup.agile4enterprise.com/',
               },
             ],
           },
