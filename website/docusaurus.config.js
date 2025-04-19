@@ -77,7 +77,6 @@ const config = {
             position: 'left',
           },
           {
-            type: 'docSidebar',
             href: 'https://agile4enterprise.github.io/framework/blog',
             label: 'Blog',
             position: 'left',
