@@ -3,9 +3,9 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Agile4Enterprise - Le Guide',
+  title: 'Agile4Enterprise',
   tagline: 'Transformer durablement votre manière de faire du business',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
   // URL de production (remplacez par votre domaine final si applicable)
   url: 'https://Agile4Enterprise.github.io',
@@ -35,17 +35,17 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/docs/',
         },
-        blog: {
-          showReadingTime: true,
-          editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/blog/',
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   editUrl: 'https://github.com/Agile4Enterprise/guide/edit/main/blog/',
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -70,17 +70,19 @@ const config = {
             position: 'left',
             label: 'Guide',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          //{ to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://agile4enterprise.github.io/framework/',
             label: 'Framework',
             position: 'left',
           },
           {
-            href: 'https://github.com/Agile4Enterprise/guide',
-            label: 'GitHub',
-            position: 'right',
+            type: 'docSidebar',
+            href: 'https://agile4enterprise.github.io/framework/blog',
+            label: 'Blog',
+            position: 'left',
           },
+
         ],
       },
       footer: {
@@ -89,6 +91,10 @@ const config = {
           {
             title: 'Documentation',
             items: [
+              {
+                label: 'Framework',
+                href: 'https://agile4enterprise.github.io/framework/',
+              },
               {
                 label: 'Guide',
                 to: '/docs/',
@@ -117,16 +123,20 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://agile4enterprise.github.io/framework/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub Framework',
+                href: 'https://github.com/Agile4Enterprise/framework',
+              },
+              {
+                label: 'GitHub Guide',
                 href: 'https://github.com/Agile4Enterprise/guide',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Agile4Enterprise. Construit avec Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Agile4Enterprise`,
       },
       prism: {
         theme: prismThemes.github,
