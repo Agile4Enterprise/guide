@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Agile4Enterprise.github.io/guide/blog</id>
-    <title>Agile4Enterprise - Le Guide Blog</title>
+    <title>Agile4Enterprise Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Agile4Enterprise.github.io/guide/blog"/>
-    <subtitle>Agile4Enterprise - Le Guide Blog</subtitle>
-    <icon>https://Agile4Enterprise.github.io/guide/img/favicon.ico</icon>
+    <subtitle>Agile4Enterprise Blog</subtitle>
+    <icon>https://Agile4Enterprise.github.io/guide/img/logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://Agile4Enterprise.github.io/guide/blog/welcome</id>
