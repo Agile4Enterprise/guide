@@ -7,53 +7,90 @@ Propriétaire: Laurent Morisseau
 <aside>
 ✨
 
-**Objectif :**
+**Objectif**
 
-Passer d’un changement ponctuel à un **changement continu** expose l’entreprise à des tensions entre exploitation et exploration, entre **optimisation et innovation**, nécessitant un modèle organisationnel dynamique et adaptatif.
+Passer d’un changement ponctuel à un **changement continu** expose l’entreprise à des tensions stratégiques : entre **exploitation et exploration**, **optimisation et innovation**, **centralisation et autonomie**.
 
-Pour y faire face, il faut considérer l’entreprise comme un **système complexe**, où les décisions sont décentralisées et où la gestion des paradoxes devient un levier stratégique.
+Pour y faire face, il faut considérer l’organisation comme un **système dynamique et complexe**, où ces tensions ne se résolvent pas, mais se **pilotent dans la durée**.
 
+</aside>
+
+<aside>
+🧑‍🎓
+
+**Ce que vous allez apprendre ici**
+
+- Ce qu’est une **tension stratégique**.
+- Comment concilier **performance actuelle** et **capacité d’innovation**.
+- Pourquoi les **organisations vivantes** doivent naviguer entre des paradoxes.
+- Comment le cadre **Cynefin** aide à ajuster les modes de gestion.
 </aside>
 
 # L’entreprise paradoxale
 
-## Concilier stabilité et transformation continue
+## **Piloter les tensions stratégiques**
 
-L’évolution vers une entreprise agile ne consiste pas simplement à adopter de nouvelles méthodes, mais à repenser fondamentalement son rapport au changement. Traditionnellement, les organisations abordaient le changement sous forme de projets ou de transformations ponctuelles, séparant nettement les phases d’**exploitation** (optimisation des processus existants) et d’**exploration** (innovation et adaptation au marché). Aujourd’hui, cette dichotomie s’estompe : les entreprises doivent intégrer en permanence ces deux dynamiques, générant une tension continue entre **performance immédiate** et **anticipation du futur**.
+> Une *tension stratégique* est une polarité durable entre deux besoins organisationnels essentiels mais opposés (ex : stabilité vs transformation). Elle ne se résout pas : elle se **pilote dans le temps**.
+> 
 
-Cette exigence crée des **dilemmes stratégiques** que l’entreprise doit apprendre à gérer :
+Les entreprises doivent maintenant intégrer en permanence les deux dynamiques contradictoires d’exploration et d’exploitation, générant une tension continue entre performance immédiate et anticipation du futur. Ce qui crée des dilemmes stratégiques que l’entreprise doit apprendre non pas à résoudre, mais à orchestrer activement :
 
 <aside>
 ❓
+
+**Les dilemmes stratégiques**
 
 Comment assurer la stabilité nécessaire à la performance actuelle tout en favorisant l’innovation ?
-
-</aside>
-
-<aside>
-❓
 
 Faut-il privilégier des résultats à court terme ou investir dans des transformations structurelles de long terme ?
 
 </aside>
 
-Autrefois abordées de manière séquentielle, ces tensions doivent aujourd’hui être gérées simultanément. Face à cette complexité croissante, l’entreprise doit se structurer en un **modèle organisationnel dynamique**, dans lequel le changement devient un processus **continu et intégré**. Cela implique une **nouvelle approche de la gouvernance**, où la prise de décision est distribuée et où les équipes sont responsabilisées pour ajuster leurs actions en fonction des évolutions du marché.
+Autrefois abordées de manière séquentielle, ces tensions doivent aujourd’hui être pilotées simultanément, comme des flux vivants. L’alignement dynamique, entre les décisions et les actions,  remplace la planification rigide, et où la gouvernance favorise l'autonomie et la responsabilité locales dans un cadre partagé.
 
-## Un modèle organisationnel dynamique pour embrasser les paradoxes
+Et ce ne sont pas les seuls dilemmes à gérer ! Il existe de nombreuses tensions internes, contradictoires dans l’entreprise :
 
-Le passage à un modèle dynamique repose sur **une approche managériale capable de naviguer entre des logiques contradictoires**, conciliant performance immédiate et adaptation stratégique. Les dirigeants ne doivent plus chercher à **résoudre** les paradoxes, mais à les **exploiter comme leviers de performance**, entre résilience et innovation. Cette posture exige de :
+![Les tensions organisationnelles clés d’une entreprise](image.png)
 
-- **Décentraliser la prise de décision**, en s’appuyant sur des équipes autonomes et responsabilisées.
-- **Favoriser une culture de l’expérimentation**, pour permettre des ajustements rapides sans remettre en cause la stabilité globale de l’organisation.
-- **Instaurer des cycles d’apprentissage continus**, intégrant des boucles de feedback à tous les niveaux de l’entreprise.
-
-Loin d’être une faiblesse, l’existence de tensions internes devient alors un atout. L’entreprise agile assume ces contradictions et les transforme en sources d’innovation et de résilience.
+Les tensions organisationnelles clés d’une entreprise
 
 <aside>
 💡
 
-Une entreprise agile est une entreprise paradoxale, **où coexistent et s’entrelacent des logiques opposées mais complémentaires.**
+Une entreprise agile est une entreprise paradoxale, **où coexistent et s’entrelacent des logiques opposées mais complémentaires. Elle ne choisit pas entre deux pôles : elle apprend à piloter leur dynamique dans le temps.**
 
+</aside>
+
+### ***Cas terrain : une équipe produit face à la rigidité budgétaire***
+
+> *Contexte :*
+> 
+> 
+> *Une équipe produit identifie une opportunité rapide pour un nouveau service à fort potentiel. Le Product Owner veut réallouer une partie du budget. Mais il a été validé au trimestre et toute réaffectation nécessite un arbitrage hiérarchique long.*
+> 
+
+*Deux options :*
+
+- *Respecter le cadre (mais rater l'opportunité).*
+- *Prendre le risque politique de déroger.*
+
+*Comment débloquer la situation ?*
+
+- ***Mettre en place une gouvernance adaptative** ([PACTE](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21))*
+- *Introduire une revue mensuelle de priorisation locale*
+
+<aside>
+🎈
+
+**L’organisation comme montgolfière**
+
+Naviguer dans un monde incertain, c’est piloter une montgolfière :
+
+- Trop de lest (structure) et elle ne décolle pas.
+- Trop de feu (innovation) et elle dérive sans contrôle.
+    
+    ➝ **L’agilité, c’est savoir jauger en continu la quantité de chaleur et de poids**, selon les vents du contexte.
+    
 </aside>
 
 <aside>
@@ -65,27 +102,34 @@ Bienvenue dans l’ère de l’[entreprise paradoxale](https://www.notion.so/L-e
 
 # L’entreprise complexe
 
+> *“Ce n’est pas tant l’incertitude qui nous bloque. C’est notre incapacité à l’assumer collectivement sans chercher à tout figer.”* - Parole de coach agile
+> 
+
 ## Naviguer dans l’incertitude et l’émergence
 
-Pour répondre aux défis de l’entreprise agile, il est essentiel d’adopter une **vision systémique** et de considérer l’organisation comme un **système complexe**, évoluant dans un environnement dynamique et incertain. Contrairement à une vision mécaniste où l’entreprise est perçue comme un simple ensemble de processus linéaires et prévisibles, une organisation complexe fonctionne selon des dynamiques imprévisibles et interconnectées.
+Une organisation n’est pas une machine. C’est un écosystème vivant qui :
 
-Cette complexité impose de **repenser les modèles traditionnels de gestion**, qui reposent souvent sur des approches linéaires et causales. Il ne s’agit plus seulement d’optimiser des processus isolés, mais de comprendre les **interactions et interdépendances** qui façonnent la performance globale.
+- … évolue en interaction avec son environnement,
+- … se transforme par émergence, pas par prévision,
+- … produit des comportements globaux non réductibles à la somme de ses parties.
 
-## Les caractéristiques d’un système complexe
+Cette complexité impose de **repenser les modèles traditionnels de gestion**, qui reposent souvent sur des approches linéaires et causales.
+
+## **4 propriétés d’un système complexe**
 
 Un **système complexe** se distingue par plusieurs propriétés fondamentales :
 
-- **Systémique** : ses performances ne peuvent être comprises en analysant isolément ses composants. Toute modification locale a des répercussions globales. Un système complexe suit [trois principes](https://www.notion.so/L-entreprise-complexe-14a90eaf28ff803e9a40c1c2d3a78b1b?pvs=21) :
-    1. Optimiser le système global implique nécessairement de sous-optimiser certains de ses composants.
-    2. Inversement, optimiser les composants individuellement peut nuire à la performance globale.
-    3. Les sous-systèmes au sein de l’organisation reproduisent ces mêmes dynamiques.
-- **Dynamique** : il évolue en permanence sous l’influence de son environnement et de son histoire. Les ajustements stratégiques doivent donc être **itératifs et adaptatifs**, plutôt que figés dans des plans rigides.
-- **Non-linéaire** : l’impact d’une action n’est pas proportionnel à sa cause. Un changement mineur peut provoquer des transformations majeures, c’est l’illustration de l’**effet papillon,** tandis que des efforts conséquents peuvent n’avoir qu’un effet limité.
-- **Émergent** : les comportements collectifs ne sont pas la simple somme des comportements individuels, mais résultent des interactions entre les éléments du système. L’innovation et l’adaptation ne peuvent donc pas être **prédéterminées**, mais doivent être favorisées par des conditions propices à l’expérimentation et à l’apprentissage.
+1. **Systémique** → tout est interdépendant.
+2. **Dynamique** → il change en permanence.
+3. **Non linéaire** → petits changements ≈ gros effets.
+4. **Émergent** → résultat non prévisible à partir des parties.
 
 ## Une nouvelle approche de la gestion
 
-Face à cette complexité, l’approche traditionnelle basée sur la planification et le contrôle montre ses limites. L’entreprise doit privilégier une gestion fondée sur l’**adaptabilité, l’apprentissage et la capacité à naviguer dans l’incertitude**.
+Face à cette complexité :
+
+- **La planification rigide montre ses limites**,
+- **Le pilotage vivant et adaptatif devient essentiel**.
 
 Cela nécessite l’adoption de **la pensée complexe**, qui combine plusieurs perspectives :
 
@@ -94,19 +138,6 @@ Cela nécessite l’adoption de **la pensée complexe**, qui combine plusieurs p
 - **Latérale** : pour stimuler la créativité et explorer des alternatives en dehors des cadres établis.
 - **Paradoxale** : pour gérer des contradictions inhérentes à l’entreprise, sans injonction paradoxale.
 
-## Trouver un équilibre entre structure et agilité
-
-Dans un environnement complexe, la gestion d’une entreprise ne peut pas être réduite à un choix entre **ordre et chaos**, **centralisation et décentralisation**, ou encore **stabilité et innovation**. Il s’agit d’**orchestrer ces tensions** pour en faire des moteurs de performance et d’évolution.
-
-Une organisation performante ne repose donc pas uniquement sur l’excellence individuelle de ses équipes, mais sur la capacité du système à générer de la valeur à travers **ses interactions, son adaptabilité et son intelligence collective**.
-
-<aside>
-💡
-
-La performance globale d’une entreprise ne réside pas dans la somme des performances locales des équipes, **mais dans l’émergence d’une dynamique collective** au sein de logiques et d’orientations contradictoires.
-
-</aside>
-
 <aside>
 👋
 
@@ -114,107 +145,33 @@ Bienvenue dans l’ère de l’[entreprise complexe](https://www.notion.so/L-ent
 
 </aside>
 
-# Les bénéfices pour l’entreprise agile
+---
 
-<aside>
-🚀
+# **Et concrètement ? Le modèle Cynefin**
 
-**Maximiser la performance d’aujourd’hui tout en construisant l’innovation de demain**
-
-</aside>
-
-Pourquoi est-ce important de savoir gérer des forces contradictoires au sein d’une même entreprise ? L’agilité ne doit pas se limiter pas à la gestion du changement : elle consiste aussi à trouver le bon **équilibre entre stabilité et adaptation**, entre **exploitation des ressources existantes** et **exploration de nouvelles opportunités**. Une entreprise agile ne fonctionne pas uniquement sur l’innovation et la transformation permanente ; elle doit aussi tirer parti de ses actifs actuels pour assurer sa rentabilité et financer son développement.
-
-Ainsi, pour être véritablement agile, une entreprise doit être **à la fois efficace dans l’optimisation de son fonctionnement quotidien et capable d’innover en continu**.
-
-## **Optimiser la performance et la rentabilité aujourd’hui**
-
-À court terme, l’entreprise doit maximiser sa compétitivité et sa rentabilité en améliorant ses processus et en renforçant ses avantages stratégiques. Cela passe par :
-
-- **L’optimisation des ressources et des flux financiers**
-    - Réduction des stocks intangibles pour libérer du capital et des capacités.
-    - Diminution des **temps de cycle** entre la conception et la mise en marché des produits et services.
-    - Réduction des besoins en fonds de roulement, augmentant ainsi la résilience financière.
-    - Amélioration des **marges** grâce à une meilleure gestion des coûts et une allocation plus efficace des ressources.
-    - Création de synergies entre les actifs existants pour maximiser leur impact.
-- **Une meilleure gestion du risque opérationnel**
-    - Flexibilité accrue face aux imprévus du marché.
-    - Adaptation rapide des processus et des modèles d’affaires pour **réagir efficacement aux changements**.
-    - Décentralisation de la prise de décision pour accélérer l’exécution stratégique.
-
-## **Accélérer le développement des produits et services**
-
-Grâce à des mises sur le marché incrémentales, l’entreprise bénéficie d’un **retour sur investissement plus rapide** et limite les risques liés aux grands projets de transformation. Cette approche permet de :
-
-- **Accélérer la mise sur le marché (Time-to-Market)**
-    - Tester rapidement des solutions et ajuster en fonction des retours utilisateurs.
-    - Faciliter l’adoption progressive des innovations au sein des marchés existants.
-- **Exploiter au mieux les actifs existants pour innover efficacement**
-    - Maximiser la valeur des produits et services déjà en place en **les améliorant en continu**.
-    - Réduire les coûts d’innovation en capitalisant sur les compétences et ressources internes.
-- **Favoriser l’efficacité collective et l’intelligence organisationnelle**
-    - Renforcer la collaboration transversale pour éviter les silos.
-    - Fluidifier la coordination entre équipes et métiers pour améliorer la réactivité organisationnelle.
-
-## Préparer l’innovation de demain
-
-À moyen et long terme, une entreprise agile ne se contente pas d’exploiter ses atouts actuels : elle **anticipe les évolutions du marché, se réinvente et se prépare aux défis futurs**.
-
-- **Construire une organisation capable de s’adapter aux incertitudes**
-    - Mise en place d’un cadre de gouvernance qui permet des ajustements stratégiques fréquents.
-    - Création de mécanismes d’apprentissage en continu pour intégrer **rapidement** les nouvelles tendances et les évolutions du marché.
-- **Encourager une culture d’innovation et d’apprentissage permanent**
-    - Adoption d’un modèle où l’expérimentation et l’amélioration continue sont intégrées à tous les niveaux.
-    - Accroissement des compétences organisationnelles par des cycles d’apprentissage rapides et des feedbacks en temps réel.
-- **Diminuer les risques liés aux transformations majeures**
-    - Favoriser une approche **itérative et progressive du changement**, réduisant ainsi l’impact des erreurs stratégiques.
-    - Rechercher une **agilité stratégique**, permettant de repositionner l’entreprise avant que l’environnement ne l’y contraigne.
-
-Cette démarche offre l’opportunité de réinventer les modes de travail. 
-
-## Un équilibre optimal entre exploitation, expansion et exploration
-
-Une entreprise agile ne se contente pas d’innover : elle doit structurer sa stratégie autour de **trois dynamiques complémentaires** :
-
-✅ **Exploitation** → Maximiser la valeur des activités existantes et améliorer leur efficacité.
-
-✅ **Expansion** → Identifier et conquérir de nouveaux marchés pour diversifier les revenus.
-
-✅ **Exploration** → Tester et développer de nouveaux modèles pour préparer l’avenir.
-
-Cette approche repose sur :
-
-- **Une gestion flexible du portefeuille d’activités**, permettant de réallouer les ressources en fonction des opportunités émergentes.
-- **Une mobilité stratégique**, facilitant la réallocation des talents et des investissements en fonction des priorités évolutives.
-- **Un alignement dynamique entre la stratégie et l’opérationnel**, assurant que chaque initiative contribue directement aux objectifs globaux.
-
-**L’agilité n’est pas une fin en soi : c’est un levier stratégique pour améliorer la performance d’aujourd’hui, accélérer l’innovation et construire la résilience de demain.**
-
-<aside>
-⚠️
-
-**Le véritable défi réside dans l’optimisation globale, tout en reconnaissant la diversité et la complexité de l’entreprise.** Il n’existe **pas de solution universelle**, chaque organisation au sein de l’entreprise doit trouver **son propre équilibre** entre stabilité et transformation.
-
-</aside>
-
-# Cynefin : Un cadre pour naviguer dans la complexité
-
-![*Modèle Cynefin, adapté de Dave Snowden*](image.png)
+![*Modèle Cynefin, adapté de Dave Snowden*](image%201.png)
 
 *Modèle Cynefin, adapté de Dave Snowden*
 
-Le **modèle Cynefin** est un cadre permettant de catégoriser les situations en **cinq domaines** afin d'adopter l'approche de gestion la plus appropriée.
+Tout n’est pas complexe dans une organisation. Et à chaque situation correspond un mode de pilotage. Le **modèle Cynefin** aide à adapter la posture de pilotage selon la nature du problème :
 
-1. **Simple** : Les relations de cause à effet claires et prévisibles. Les **meilleures pratiques** suffisent pour résoudre les problèmes. Approche : *observer → catégoriser → répondre*.
-2. **Compliqué** : Les relations de cause à effet existent mais nécessitent une **analyse et une expertise** pour être comprises. L'utilisation de **bonnes pratiques** est efficace. Approche : *observer → analyser → répondre*.
-3. **Complexe** : L'imprévisibilité domine, et les solutions émergent grâce à **l'expérimentation et l’intelligence collective**. L'agilité y est bien adaptée. Approche : *explorer → observer → répondre*.
-4. **Chaos** : Aucune relation de cause à effet perceptible, nécessitant des **actions immédiates** pour stabiliser la situation avant toute analyse. Approche : *agir → observer → répondre*.
-5. **Désordre** : Une zone de transition où la nature du problème est **indéterminée** et doit être clarifiée avant de choisir une approche.
+| Domaine | Type de problème | Posture recommandée |
+| --- | --- | --- |
+| Simple | Stable et connu | Appliquer une règle |
+| Compliqué | Dépend d’une expertise | Analyser avant d’agir |
+| Complexe | Incertain et évolutif | Tester → apprendre |
+| Chaotique | Instable et urgent | Agir vite → stabiliser |
 
 <aside>
 💡
 
-**Cynefin nous apprend qu’il n’existe pas une seule et unique manière de gérer une entreprise. La clé est de savoir reconnaître le type de contexte dans lequel on évolue et d’adapter son mode de management en conséquence.**
+**Le modèle Cynefin** montre qu’il n’existe pas **une seule manière de piloter** :
+
+➔ Tout dépend du contexte,
+
+➔ Tout dépend de la capacité **à reconnaître les dynamiques vivantes à l’œuvre,** 
+
+➔ P**uis d’adapter son mode de management en conséquence.**
 
 </aside>
 
@@ -227,10 +184,77 @@ En savoir plus sur [Cynefin](https://www.notion.so/Cynefin-1b490eaf28ff80009c93e
 
 ---
 
+# **Une discipline de transformation continue**
+
+L’agilité ne consiste pas à innover en permanence. Elle consiste à **savoir quand et comment arbitrer** autour de **trois dynamiques complémentaires :**
+
+✅ **Exploitation** → Maximiser la valeur des activités existantes et améliorer leur efficacité. Optimiser les ressources et les flux financiers. Diminuer le risque opérationnel.
+
+✅ **Expansion** → Conquérir de nouveaux marchés.
+
+✅ **Exploration** → Tester et développer de nouveaux modèles pour préparer l’avenir.
+
+<aside>
+🔥
+
+***Exemple d’arbitrage***
+
+*Geler un projet rentable pour allouer 2 équipes sur une exploration stratégique incertaine. Perdre 5 % de marge, mais gagner 2 ans de compétitivité.*
+
+Chaque tension devient stratégique à partir du moment où elle exige un renoncement réel.
+
+</aside>
+
+Cela passe par :
+
+- Une **lecture vivante** des tensions (ne pas choisir, mais doser).
+- Un **système d’apprentissage rythmé** (boucles d’adaptation).
+- Une **mobilité organisationnelle** (réaffecter les talents, adapter les engagements).
+- **Un alignement dynamique entre la stratégie et l’opérationnel**, assurant que chaque initiative contribue directement aux objectifs globaux.
+
+<aside>
+⚠️
+
+**Le véritable défi réside dans l’optimisation globale, tout en reconnaissant la diversité et la complexité de l’entreprise.** Il n’existe **pas de solution universelle**, chaque organisation au sein de l’entreprise doit trouver **son propre équilibre** entre stabilité et transformation.
+
+</aside>
+
+### **Pour aller plus loin, et si …**
+
+- Créer une **carte des tensions stratégiques** propres à votre organisation.
+- Projetez-vous dans des scénarios fictifs inversés pour tester ces tensions :
+    
+    > Et si vous choisissiez de ne pas explorer du tout cette année ?
+    > 
+    > 
+    > ➝ Imaginez les effets : performance court terme, mais risques accrus d’obsolescence.
+    > 
+    
+    > Et si vous décidiez de centraliser toute la stratégie cette année ?
+    > 
+    > 
+    > ➝ Gain de lisibilité, perte d’agilité. Que constatez-vous ?
+    > 
+    
+    > Et si vous laissiez une équipe décider seule ?
+    > 
+    > 
+    > ➝ Que se passe-t-il ?
+    > 
+- Utiliser Cynefin pour décider du bon mode de gestion selon les contextes.
+
+> **Et si… votre principal levier de performance était aussi votre frein ?** ➝ Un modèle hyper optimisé peut brider toute exploration. Une routine peut rassurer… et aveugler.
+> 
+
+---
+
 # 🔑 **Points clés à retenir**
 
-1. **Entreprise paradoxale** : Nécessité d’allier des forces contraires dans un environnement incertain.
-2. **Entreprise complexe** : Un système dynamique, non linéaire et émergent, nécessitant une vision globale.
-3. **Pensée complexe** : Une approche **holistique, systémique, latérale et paradoxale** pour naviguer dans l’incertitude.
-4. **Agilité stratégique** : Transformer la complexité et les paradoxes en opportunités.
-5. Cynefin : Un cadre pour naviguer dans la complexité
+![image.png](image%202.png)
+
+- **Les tensions stratégiques sont inévitables.** Ce sont des leviers, pas des problèmes.
+- **Le changement ne se gère pas.** Il se structure par la cadence, l’arbitrage et l’apprentissage.
+- **Le cadre Cynefin** aide à adapter la gouvernance selon le degré de complexité.
+- **L’agilité n’est pas une posture d’urgence.** C’est une discipline d’orchestration vivante du système.
+
+### 👉 Et maintenant ? [Pourquoi un nouveau Framework Agile ?](https://www.notion.so/Pourquoi-un-nouveau-Framework-agile-Pourquoi-maintenant-19190eaf28ff80adbe81dfbe22f6555e?pvs=21)
