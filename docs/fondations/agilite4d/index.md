@@ -1,4 +1,4 @@
-# L’agilité en 4D, les 4 dimensions clés de l’agilité d’entreprise
+# Agile4D : Les 4 dimensions clés de l’agilité d’entreprise
 
 Propriétaire: Laurent Morisseau
 
@@ -9,49 +9,78 @@ Propriétaire: Laurent Morisseau
 
 **Objectif**
 
-Dans un environnement en constante évolution, l'agilité d'entreprise ne se limite pas à des pratiques locales, mais implique une transformation systémique. Nous présentons ici les 4 dimensions clés de l'agilité d'entreprise – Portfolio, Stratégique, Tactique et Opérationnelle – et explique comment elles s'imbriquent pour permettre une adaptation efficace aux changements.
+Dans un environnement en constante mutation, l'agilité d'entreprise ne se limite pas à des pratiques locales :
+
+➔ **Elle construit un système vivant d'adaptation stratégique**, orchestré à travers **quatre boucles adaptatives synchronisées** — Portfolio, Stratégique, Tactique, Opérationnel.
+
+Chaque boucle est constituée d’un niveau de décision, d’une dimension de l’agilité, et d’une cadence de changement. Dans ce chapitre, nous allons explorer les **4 dimensions vivantes de l’agilité d’entreprise**.
 
 </aside>
 
-# L’alignement stratégique
-
-![Alignement entre le modèle d’affaire et le modèle opératoire](image.png)
-
-Alignement entre le modèle d’affaire et le modèle opératoire
-
-Dans un environnement en constante évolution, le modèle d’affaire de l’entreprise doit lui aussi s’adapter. L’entreprise agile commence par être une entreprise capable de faire évoluer son business model. Pour soutenir cette évolution, elle doit donc être capable d’adapter son modèle opératoire, la manière dont elle fonctionne. Un alignement dynamique et fluide entre ces deux composantes est essentiel pour assurer la cohérence et la pertinence stratégique de l'organisation. Son modèle opératoire doit donc permettre cette adaptation, il doit être agile.
-
-Pour comprendre cet alignement, nous nous appuyons sur les [**4 niveaux de prises de décision**](https://www.notion.so/Les-4-niveaux-de-prises-de-d-cisions-19290eaf28ff80049db0c684a64e4fb0?pvs=21) de l'entreprise :
-
 # Les 4 dimensions clés de l’agilité d’entreprise
 
-![Les 4 dimensions de l’agilité d’entreprise](image%201.png)
+![Les 4 dimensions de l’agilité d’entreprise](image.png)
 
 Les 4 dimensions de l’agilité d’entreprise
 
-L’agilité d’entreprise nécessite une approche intégrée et multi-niveaux. Elle repose sur quatre dimensions fondamentales, qui structurent les prises de décisions et assurent un alignement entre la vision, la stratégie et l’exécution :
+<aside>
+💡
 
-1. **L’Agilité Portfolio** – Capacité à gérer un portefeuille d’activités et d’investissements aligné sur une vision durable.
-2. **L’Agilité Stratégique** – Adaptabilité et pilotage des stratégies business pour naviguer dans l’incertitude.
-3. **L’Agilité Tactique** – Capacité d’exécution dynamique et alignement entre stratégie et opérationnel.
-4. **L’Agilité Opérationnelle** – Organisation agile du travail et pilotage efficace des équipes.
+**Boucle adaptative = Dimension Agile4D + Cadence de feedback vivant.**
 
-Chaque dimension joue un rôle spécifique, permettant à l’entreprise d’articuler à la fois **exploration et exploitation**, **planification et adaptation**, **vision long terme et exécution court terme**.
+- Chaque **niveau de décision** dans l’entreprise n’est pas statique : **c’est un rythme d’adaptation vivant**.
+- Les [4 niveaux de décisions](https://www.notion.so/Les-4-niveaux-de-prise-de-d-cision-Piloter-un-syst-me-vivant-19290eaf28ff80049db0c684a64e4fb0?pvs=21) ne sont pas **des couches hiérarchiques**, mais **des boucles synchronisées**, respirant chacune à son propre rythme.
+- C’est la **synchronisation dynamique de ces boucles** qui crée **l’alignement vivant** de l’entreprise agile.
+</aside>
 
-## L’Agilité Portfolio : Piloter dynamiquement un portefeuille stratégique
+**Agile4D** repose sur **quatre dimensions fondamentales**, chacune représentant **une dimension de l’agilité**, connectée aux autres :
+
+1. **Agilité Portfolio** – Ajuster les grands équilibres stratégiques alignés sur une vision durable.
+2. **Agilité Stratégique** – Adapter en continu la stratégie business.
+3. **Agilité Tactique** – Synchroniser exécution et adaptation.
+4. **Agilité Opérationnelle** – Réagir et apprendre au quotidien.
+
+Chaque dimension joue un rôle spécifique, permettant à l’entreprise d’articuler à la fois :
+
+- **Exploration et exploitation**,
+- **Planification et adaptation**,
+- **Vision long terme et exécution immédiate**.
+
+---
+
+## Agilité Portfolio : Piloter dynamiquement les horizons stratégiques
+
+<aside>
+💡
+
+**Boucle vivante**
+
+Ajuster le portefeuille d'activités selon l'évolution du marché et des opportunités.
+
+</aside>
 
 Une entreprise doit gérer son portefeuille de modèles d’affaires, car il est rare qu’elle puisse prospérer durablement en restant cantonnée à un unique marché ou produit. Dans un environnement incertain, elle doit en permanence explorer de nouvelles opportunités tout en exploitant efficacement ses actifs existants.
 
-L’[**Agilité Portfolio**](https://www.notion.so/Le-mod-le-A4E-de-l-agilit-portfolio-13490eaf28ff803a884fc20066900149?pvs=21) repose sur la capacité à :
+L’[**Agilité Portfolio**](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21) repose sur la capacité à :
 
-- Maintenir une **vision durable**, qui sert de repère stratégique.
-- Ajuster le **portefeuille stratégique**, en arbitrant entre activités à consolider, accélérer ou abandonner.
+- Maintenir une **vision durable**, qui sert d’étoile du nord.
+- Ajuster le [**portefeuille stratégique**](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21), en arbitrant entre activités à consolider, accélérer ou abandonner. C’est la traduction concrète de la [stratégie corporate](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21).
 - Assurer la **mobilité stratégique**, en allouant dynamiquement les ressources vers les initiatives à plus fort potentiel.
 - Construire une [**organisation ambidextre**](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21), capable d’innover tout en optimisant ses opérations existantes.
 
-C’est à ce niveau que se décide la [stratégie corporate](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21) qui se traduit concrètement dans le [portefeuille stratégique](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21). Introduire de l’agilité ici signifie rendre la gestion de ce portefeuille plus dynamique, en facilitant les ajustements stratégiques corporate face aux évolutions de l’environnement.
+> *Par exemple : Dans un groupe de services, la stratégie de croissance était a priori basée sur des partenaires. Elle a été révisée en une croissance organique et des acquisitions après des expérimentations dans divers pays.*
+> 
 
-## L’Agilité Stratégique : Construire une stratégie adaptative
+## Agilité Stratégique : Construire une stratégie adaptative
+
+<aside>
+💡
+
+**Boucle vivante** :
+
+Adapter continuellement la stratégie business aux signaux émergents.
+
+</aside>
 
 L’[**Agilité Stratégique**](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) consiste à concevoir une [stratégie business](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21) [adaptative](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21), capable de s’adapter aux évolutions du marché tout en maintenant un cap cohérent. Elle repose sur plusieurs principes :
 
@@ -60,7 +89,19 @@ L’[**Agilité Stratégique**](https://www.notion.so/L-agilit-strat-gique-13490
 - **Une réactivité accrue**, avec une gouvernance distribuée qui accélère la prise de décision.
 - **Une gestion du [changement stratégique](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21)**, assurant que l’organisation est capable d’intégrer ces ajustements sans friction excessive.
 
-## L’Agilité Tactique : Orchestrer l’exécution et l’adaptation
+> *Par exemple : Dans une entreprise Saas, le segment de client principal était les grands groupes. Le choix de basculer sur le segment des TPE/PME, plus scalable a été décidé et exécuter en quelques mois.*
+> 
+
+## Agilité Tactique : Orchestrer exécution et adaptation
+
+<aside>
+💡
+
+**Boucle vivante** :
+
+Connecter la vision stratégique aux réalités du terrain opérationnel.
+
+</aside>
 
 L’[**Agilité Tactique**](https://www.notion.so/L-agilit-tactique-13490eaf28ff806cb428d9b27abb1f82?pvs=21) assure la connexion entre la stratégie et l’opérationnel. Elle permet d’articuler les ajustements stratégiques avec l’exécution quotidienne, en prenant en compte les contraintes terrain et en exploitant les opportunités émergentes.
 
@@ -73,7 +114,19 @@ Elle repose sur :
 
 L’Agilité Tactique est particulièrement critique pour éviter l’**érosion de la stratégie**, où les décisions locales déconnectées finissent par affaiblir l’exécution globale.
 
-## L’Agilité Opérationnelle : Construire une organisation agile au quotidien
+> *Par exemple : Une équipe produit a mis en place une boucle de synchronisation mensuelle avec son directeur de BU. Résultat : une réduction de 30 % du Backlog « inutile » et une plus grande lisibilité sur les arbitrages.*
+> 
+
+## Agilité Opérationnelle : Réagir et apprendre en continu
+
+<aside>
+💡
+
+**Boucle vivante** :
+
+Organiser l'exécution agile du travail quotidien.
+
+</aside>
 
 L’[**Agilité Opérationnelle**](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21) concerne l’organisation du travail et la structuration des équipes pour garantir une exécution rapide et efficace.
 
@@ -84,45 +137,99 @@ Elle intègre :
 - **Une optimisation des interdépendances**, pour éviter que les gains d’agilité au niveau des équipes ne soient annulés par une rigidité organisationnelle.
 - **Une responsabilisation des équipes**, leur donnant la capacité de s’adapter en fonction des besoins et des contraintes du marché.
 
-L’Agilité Opérationnelle ne consiste pas simplement à appliquer des méthodes agiles, mais à développer une culture organisationnelle qui favorise la flexibilité et l’amélioration continue.
+> *Par exemple : Une équipe de maintenance a mis en place des mini-retrospectives hebdomadaires. En 2 mois, elle a réduit de 40 % le temps de résolution d’anomalies grâce à des décisions locales rapides.*
+> 
 
-## L’Agilité Opérationnelle
+## À quoi sert Agile4D ? Se repérer pour mieux agir
 
-L’[Agilité Opérationnelle](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21) se concentre sur l’organisation du travail des équipes. Elle englobe des méthodologies comme **Scrum, Kanban, Extreme Programming** et des Frameworks d’agilité à l’échelle tels que [**SAFe](https://www.notion.so/A4E-et-SAFe-Scaled-Agile-Framework-13490eaf28ff802da4d9d0513fd502b7?pvs=21), LeSS, Agile@Scale**. Certains de ces Frameworks vont au-delà de l’agilité à l’échelle pour intégrer des aspects de la **Business Agility**.
+Une des difficultés récurrentes dans les transformations agiles est de **ne pas savoir à quel niveau on se situe**. Or sans cela, impossible de choisir les bons outils, les bons principes, ou de résoudre les tensions au bon endroit.
 
-## Alignement des dimensions avec les niveaux de décision
+**Agile4D est conçu comme un système de repérage.**
 
-Les 4 dimensions clés de l’agilité sont naturellement alignées avec les niveaux de décisions de l’entreprise :
+> Il ne décrit pas seulement « comment agir », chaque dimension agile va apporter son lot de principes et d’outils; mais d’abord où on agit, sur quel type de décisions, et donc à quel niveau de la boucle adaptative on se trouve.
+> 
+
+### Comment se repérer ?
+
+Posez-vous cette question :
+
+> Quel est le niveau de décision activé ?
+> 
+- Si les décisions concernent toute l’entreprise → **Agilité Portfolio**
+- Si elles concernent la direction d’une unité stratégique (BU, entité, pays) → **Agilité Stratégique**
+- Si elles concernent la coordination de plusieurs équipes ou produits → **Agilité Tactique**
+- Si elles concernent uniquement mon équipe → **Agilité Opérationnelle**
+
+> Ce repérage est essentiel pour que les rôles soient clairs, les outils bien ciblés, et la gouvernance adaptée.
+> 
+
+*Par exemple :*
+
+- ***Un Product Owner SAFE (ART)** est souvent **tactique** (synchronisation inter-équipes).*
+- ***Un LPM SAFE (Lean Portfolio Management)** agit au niveau **Portfolio**.*
+- ***Une équipe Scrum** est **opérationnelle**, même dans une grande orga*
 
 | **Dimension** | **Niveau décisionnel** | **Objectif** |
 | --- | --- | --- |
-| [**Agilité Portfolio**](https://www.notion.so/Le-mod-le-A4E-de-l-agilit-portfolio-13490eaf28ff803a884fc20066900149?pvs=21) | [Stratégie corporate](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21) (portefeuille d’activités) | Gestion dynamique du portefeuille stratégique |
+| [**Agilité Portfolio**](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21) | [Stratégie corporate](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21) (entreprise) | Mobilité stratégique, pilotage du portefeuille d’activités |
 | [**Agilité Stratégique**](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) | [Stratégie business](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21) (unités d’affaires) | Adaptation continue aux évolutions du marché |
-| [**Agilité Tactique**](https://www.notion.so/L-agilit-tactique-13490eaf28ff806cb428d9b27abb1f82?pvs=21) | [Exécution de la stratégie](https://www.notion.so/L-art-de-l-ex-cution-de-la-strat-gie-et-de-la-tactique-14590eaf28ff8094aff8d88d6b871ea8?pvs=21) (unités tactiques) | Orchestration et alignement des initiatives |
-| [**Agilité Opérationnelle**](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21) | Opérationnel (équipes) | Mise en œuvre efficace des décisions |
+| [**Agilité Tactique**](https://www.notion.so/L-agilit-tactique-13490eaf28ff806cb428d9b27abb1f82?pvs=21) | [Exécution de la stratégie](https://www.notion.so/L-art-de-l-ex-cution-de-la-strat-gie-et-de-la-tactique-14590eaf28ff8094aff8d88d6b871ea8?pvs=21) (unités tactiques) | Synchronisation des initiatives et des feedbacks |
+| [**Agilité Opérationnelle**](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21) | Opérationnel (équipes) | Réaction rapide, amélioration continue |
 
-Cet alignement assure une cohérence entre vision, stratégie et exécution, et permet d’éviter l’écueil d’une agilité cloisonnée à un seul niveau.
+## Les 4 niveaux d’agilité : uniquement si nécessaire
 
-## Vers une agilité d’entreprise intégrée
+### Quels pièges éviter dans l’activation des 4D
 
-L’agilité d’entreprise ne peut être réduite à la somme d’initiatives locales. Elle repose sur **l’articulation fluide de ces quatre dimensions**, en assurant :
+Toutes les entreprises **n'ont pas besoin d'activer les 4 niveaux d’agilité**, correspondant à [**4 types de décisions**](https://www.notion.so/Les-4-niveaux-de-prise-de-d-cision-Piloter-un-syst-me-vivant-19290eaf28ff80049db0c684a64e4fb0?pvs=21) qui **ne sont pas présents dans toutes les organisations**.
 
-- **Une cohérence stratégique**, pour ne pas naviguer à vue.
-- **Une exécution orchestrée**, afin que l’action quotidienne serve les objectifs long terme.
-- **Une capacité d’adaptation continue**, sans rupture brutale ou réorganisation permanente.
-- **Un pilotage par l’impact**, avec des boucles de feedback fréquentes à tous les niveaux.
+L’agilité doit être adaptée au **contexte** et à la **structure de l’entreprise**, selon sa **maturité**, son **modèle économique** et sa **stratégie dominante**.
 
-Ce cadre permet d’éviter les pièges classiques des transformations agiles : **agilité déconnectée de la stratégie, initiatives dispersées, rigidité excessive ou, à l’inverse, chaos organisationnel**.
+### **Startup** : Agilité tactique & opérationnelle
 
-L’entreprise agile est **un système vivant**, en perpétuelle évolution, qui ne subit pas le changement mais l’intègre dans son ADN.
+Par nature, une startup est en **phase d’exploration**. Elle dispose d’une **vision** mais n’a pas encore validé son **business model**. Sa stratégie est **émergente**, opportuniste, et s’ajuste au fil des retours du terrain.
+
+Elle mobilise surtout :
+
+- L’**agilité tactique**, pour structurer l’exécution de ses paris stratégiques,
+- L’**agilité opérationnelle**, pour apprendre vite, itérer et s’adapter au quotidien.
+
+Elle **n’a pas besoin** d’un niveau stratégique ou portfolio, tant que son modèle d’affaires n’est pas stabilisé.
+
+### **Scale-up** : Agilité stratégique en croissance
+
+La scale-up a validé son modèle économique à petite échelle et entre dans une phase d’**expansion**. Elle doit **passer à l’échelle de son marché**, structurer son organisation, tout en maintenant l’agilité de ses équipes.
+
+Elle mobilise :
+
+- L’**agilité stratégique**, pour piloter le développement du business à plus grande échelle,
+- L’**agilité tactique**, pour aligner les initiatives à cette nouvelle stratégie.
+- L’**agilité opérationnelle**, pour assurer la continuité et l’efficience de l’exécution.
+
+C’est une phase clé où l’**ambidextrie organisationnelle** devient essentielle. Au début de la vie de la Scale-up, les niveaux tactiques et opérationnels sont fusionnés. C’est le passage à l’échelle qui scinde les deux niveaux de prise de décisions.
+
+### **Entreprise mono-activité** : Agilité opérationnelle prioritaire
+
+Une entreprise centrée sur une seule activité (produit ou service stable) évolue dans une **zone d’exploitation**. Elle se concentre sur l’**excellence opérationnelle** et l’amélioration continue.
+
+Elle mobilise principalement :
+
+- L’**agilité opérationnelle**, pour maintenir l’efficience, la qualité et l’adaptation aux demandes clients,
+- Une **agilité tactique légère**, pour ajuster ses priorités internes aux évolutions de l’environnement.
+
+Elle **ne mobilise pas** d’agilité au niveau portfolio, car elle ne gère pas plusieurs modèles d’affaires simultanément.
 
 ---
 
 # 🔑Points clés à retenir
 
-L'agilité d'entreprise repose sur **4 dimensions** : Portfolio, Stratégique, Tactique et Opérationnelle.
+- **Agile4D est l’architecture adaptative de l’entreprise agile.**
+- Chaque dimension est **une boucle de feedback synchronisée** à un niveau de décision.
+- L’agilité **n’est pas cloisonnée**, mais **coordonnée**.
+- **On active ce dont on a besoin, quand c’est nécessaire et non par principe.**
+- **Le changement devient un rythme intégré, et non un projet temporaire.**
 
-- L'**agilité portfolio** assure une **vision durable** tout en permettant des ajustements stratégiques.
-- L'**agilité stratégique** permet à chaque unité d'affaires de s'adapter rapidement aux évolutions du marché.
-- L'**agilité tactique** garantit l'exécution efficace de la stratégie.
-- L'**agilité opérationnelle** optimise le travail des équipes en facilitant une **réponse rapide et efficace** aux changements.
+---
+
+### 👉 Et maintenant ? [Les 4 cadences du changement](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21) !
+
+Pour boucler les boucles adaptatives, détaillons maintenant les cadences de changement et leur orchestration.
