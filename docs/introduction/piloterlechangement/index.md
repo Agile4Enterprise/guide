@@ -47,19 +47,19 @@ Comprendre ces nuances est essentiel pour construire une organisation qui **ne s
 <aside>
 🔥
 
-Un changement radical, en vrai : Michelin
+**Un changement radical, en vrai : Michelin**
 
-Pendant 125 ans, Michelin a construit son empire sur un produit unique : le pneu. En 2012, alors que 97 % de son chiffre d’affaires vient encore de cette activité, Jean-Dominique Senard, son nouveau PDG, décide de transformer Michelin en acteur de la mobilité durable.
+*Pendant 125 ans, Michelin a construit son empire sur un produit unique : le pneu. En 2012, alors que 97 % de son chiffre d’affaires vient encore de cette activité, Jean-Dominique Senard, son nouveau PDG, décide de transformer Michelin en acteur de la mobilité durable.*
 
-Plutôt que d’attendre la rupture, il l’anticipe et l’oriente :
+*Plutôt que d’attendre la rupture, il l’anticipe et l’oriente :*
 
-- **Investissement précoce dans l’hydrogène**.
-- **Création d’un écosystème d’innovation ouverte**.
-- Lancement d’un produit de rupture : le pneu VISION (sans air, biodégradable, connecté).
+- ***Investissement précoce dans l’hydrogène**.*
+- ***Création d’un écosystème d’innovation ouverte**.*
+- *Lancement d’un produit de rupture : le pneu VISION (sans air, biodégradable, connecté).*
 
-Michelin n’a pas seulement réagi au marché : elle a redéfini sa place dans l’écosystème, et son modèle économique.
+*Michelin n’a pas seulement réagi au marché : elle a redéfini sa place dans l’écosystème, et son modèle économique.*
 
-> Résultat : valorisation doublée, diversification réussie, leadership technologique renforcé.
+> *Résultat : valorisation doublée, diversification réussie, leadership technologique renforcé.*
 > 
 </aside>
 
@@ -180,7 +180,7 @@ Loin d’être un simple ajustement, cette approche implique une transformation 
 
 Imbrication des boucles adaptatives de l’opérationnelle à la stratégie
 
-Le changement n’est pas chaotique. Il doit être [**rythmé**](https://www.notion.so/Les-4-cadences-du-changement-et-de-l-apprentissage-13b90eaf28ff8091b4cce85974f50938?pvs=21) par des ****cadences de pilotage synchronisées :
+Le changement n’est pas chaotique. Il doit être [**rythmé**](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21) par des ****cadences de pilotage synchronisées :
 
 - **Stratégique** : revisite le cap (trimestrielle à annuelle), arbitrer,
 - **Tactique** : arbitrage des objectifs (mensuelle),
@@ -247,62 +247,11 @@ Savoir gérer le changement en continu est une capacité qu’une entreprise ne 
 
 ---
 
-# Limites du cadre : Entreprise instable ou entreprise agile ?
-
-**Agile4Enterprise** est conçu pour **piloter l'évolution continue dans un cadre structurant vivant**, pas pour maximiser la discontinuité permanente.
-
-Il accompagne :
-
-- Les organisations qui veulent construire un changement durable,
-- Celles qui veulent orchestrer leur transformation,
-- Celles qui cherchent **l’agilité structurelle**, pas **l’instabilité stratégique**.
-
-## Ce que le cadre présuppose
-
-La transformation agile durable suppose :
-
-- **Des niveaux de décision lisibles et pilotés**,
-- **Des rôles de transformation incarnés mais temporaires**,
-- **Des cycles de décisions stratégique et tactique réguliers**,
-- **Un engagement progressif vers une capacité d’auto-pilotage collective.**
-
-Cela correspond à une vision **évolutive, cumulative, consolidante** de la transformation.
-
-## Ce que le cadre n'est pas conçu pour
-
-Agile4Enterprise **ne vise pas** :
-
-- À piloter des environnements **sans stabilisation progressive**,
-- À organiser des **mutations par destruction/réinvention fréquentes**,
-- À accompagner des organisations où **la volatilité et la recomposition permanente sont stratégiques.**
-
-Dans ces contextes, l'objectif n'est pas de construire une capacité vivante durable, mais de **maximiser l’agilité brute au prix d’une discontinuité assumée**. Ce n’est pas notre choix d’agilité d’entreprise.
-
-<aside>
-🔥
-
-***Exemples d’organisations instables***
-
-- ***Organisations de crise permanente** (ONG humanitaire, interventions d'urgence, forces spéciales),*
-- ***Collectifs artistiques, créatifs, expérimentaux** (compagnies éphémères, design de rupture),*
-- ***Écosystèmes décentralisés et communautés autogérées** (DAO, open source, projets Web3).*
-
-*Dans ces environnements :*
-
-- *La cohérence globale est optionnelle,*
-- *Le changement de forme est constant,*
-- *L'ancrage est perçu comme un frein, non comme une force.*
-</aside>
-
----
-
 # Alors, s’adapter ou oser ?
 
-## Piloter l’audace dans un monde incertain
+Le risque du cadre agile, c’est de devenir une machine à optimiser l’existant, une posture d’adaptation permanente, trop modeste pour transformer vraiment.  **Agile4Enterprise** résiste à cela. Il ne cherche pas qu’à “fluidifier les flux” ou à “responsabiliser les équipes” dans le vide. Il pose une autre ambition :
 
-L’agilité d’entreprise pourrait être perçue comme une posture d’adaptation permanente, trop modeste pour transformer vraiment. Mais ce n’est pas une posture défensive, il pose une autre ambition :
-
-> C’est une manière de **retrouver une liberté de manœuvre stratégique** là où l’incertitude paralyse.
+> **Retrouver une liberté de manœuvre stratégique** là où l’incertitude paralyse.
 > 
 
 Ce cadre n’est pas là pour éviter les risques, il est là pour permettre à l’entreprise **de prendre des risques intelligemment :**
@@ -310,13 +259,7 @@ Ce cadre n’est pas là pour éviter les risques, il est là pour permettre à 
 - Pas des risques subis.
 - Pas des ruptures désincarnées.
 
-Mais des **mouvements** stratégiques rendus visibles, partagés collectivement, et portés dans la durée. C’est une **discipline pour rendre possible les paris** dans des conditions où le collectif est outillé pour traverser l’incertitude, et non pas la subir. Ce n’est pas parce qu’on transforme lentement qu’on transforme petit. C’est parce qu’on veut que ça dure.
-
-## Un pari stratégique, dans Agile4Enterprise, c’est un PACTE
-
-Le risque du cadre agile, c’est de devenir une machine à optimiser l’existant. **Agile4Enterprise** résiste à cela. Il ne cherche pas qu’à “fluidifier les flux” ou à “responsabiliser les équipes” dans le vide. Il structure la transformation **pour qu’elle puisse réellement produire des décisions différentes**, des trajectoires divergentes, des formes de rupture choisies. 
-
-Un pari stratégique n’est pas un slogan, un cap abstrait. C’est une dynamique collective d’engagement, soutenue par des arbitrages, des rôles, et des tensions à habiter. La stratégie n’est pas décorrélée du pilotage. L’alignement systémique est le cœur du cadre. La stratégie est **ancrée dans le système vivant. Ce cadre rend la stratégie activable.**
+C’est une **discipline pour rendre possible les paris** dans des conditions où le collectif est outillé pour traverser l’incertitude, et non pas la subir. Ce n’est pas parce qu’on transforme lentement qu’on transforme petit.
 
 ---
 
