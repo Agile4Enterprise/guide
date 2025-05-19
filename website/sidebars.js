@@ -52,6 +52,7 @@
       items: [
         'agiliteportfolio/introduction/index', 
         'agiliteportfolio/modele4e/index',
+        'agiliteportfolio/pacte/index', 
         'agiliteportfolio/gouvernanceadaptative/index',
         'agiliteportfolio/agiliteorganisationnelle/index',
         'agiliteportfolio/agiliteorganisationnelleportfolio/index',
@@ -114,7 +115,6 @@
         'transformation/demarche/index', 
         'transformation/radar/index', 
         'transformation/impacte/index', 
-        'transformation/pacte/index', 
         'transformation/acte/index', 
         'transformation/roles/index', 
       ],

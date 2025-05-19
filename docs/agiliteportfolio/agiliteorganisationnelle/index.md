@@ -8,245 +8,197 @@ Propriétaire: Laurent Morisseau
 ✨
 
 **Objectif** 
-L’objectif de cette section est de définir **l’agilité organisationnelle** comme un levier essentiel pour soutenir l’[**agilité stratégique**](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21). Elle vise à garantir un alignement constant entre la structure de l’entreprise et ses orientations stratégiques, en intégrant une approche dynamique et adaptative du changement.
 
-Le but est d’établir les principes généraux de conception des organisations capables de répondre de manière adaptée aux changements stratégiques.
+Définir l’agilité organisationnelle comme la capacité d’une entreprise à réaligner en continu sa structure sur sa stratégie. Il ne s’agit pas de changer pour changer, mais d’adapter l’organisation à la fréquence des mouvements stratégiques, même en l’absence de crise — et d’éviter que la stratégie ne reste qu’une déclaration d’intention.
 
 </aside>
 
-# La raison d’être de l’agilité organisationnelle
+# **Pourquoi l'agilité organisationnelle ?**
+
+> *"Une structure figée empêche la stratégie de bouger. Une stratégie sans structure reste une intention."*
+> 
 
 ![image.png](image.png)
 
-## Un besoin d’alignement entre modèle d’affaires et modèle opératoire
+## Aligner modèle d’affaires et modèle opératoire
 
-Une des causes majeures des dysfonctionnements des transformations agiles réside dans le désalignement entre le **business model** et le **modèle opératoire**. Ce phénomène est simple à comprendre : le business évolue plus rapidement que l’organisation qui le supporte. L’inertie organisationnelle crée ainsi un **écart croissant** entre la manière dont l’entreprise génère de la valeur et la façon dont elle est structurée pour le faire. Cette inertie peut s’expliquer par la persistance de modèles hérités, une gouvernance inadaptée, ou une exécution stratégique déconnectée de la réalité terrain.
-
-L’**agilité organisationnelle** vise précisément à **réaligner en continu ces deux dimensions** – modèle d’affaires et modèle opératoire – afin de garantir la capacité de l’entreprise à s’adapter efficacement aux évolutions stratégiques. Elle permet d’assurer la cohérence entre l’**intention stratégique**, les choix tactiques et la réalité opérationnelle, tout en intégrant les transformations de l’environnement complexe et incertain.
-
-## Définition et portée de l’agilité organisationnelle
-
-<aside>
-💡
-
-Une [entreprise agile](https://www.notion.so/L-entreprise-agile-la-synth-se-13490eaf28ff80c4889aff49d5056fd5?pvs=21) développe une [agilité stratégique](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21), lui permettant d'adapter sa stratégie en fonction des évolutions. Pour soutenir cette capacité, elle développe une **agilité organisationnelle**, garantissant la capacité à ajuster sa structure et ses processus internes pour s'aligner sur la nouvelle orientation stratégique.
-
-</aside>
-
-L’agilité organisationnelle est donc à la structure ce que l’[agilité stratégique](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) est à la stratégie. Elle assure **l’alignement dynamique** entre la vision et l’exécution, en permettant à l’entreprise d’ajuster son organisation en temps réel pour s’adapter aux besoins émergents du marché.
-
-> En contre-exemple, au début des années 2000, Xerox a entrepris une mutation profonde pour passer d’un modèle de production et de vente à un modèle de services. Cette transformation a nécessité une refonte complète de son architecture organisationnelle : unités opérationnelles, coordination, systèmes de mesure et incitations. Cependant, cette transition, bien que nécessaire, a pris plus de 10 ans et n’a pas atteint les résultats escomptés, illustrant la difficulté d’un changement organisationnel trop rigide et lent à s’adapter à la nouvelle stratégie.
+> « Tant que l’organisation ne bouge pas, la stratégie est une fiction à haute valeur PowerPoint. »
 > 
 
-A l’inverse, une entreprise ne pouvant pas faire évoluer sa stratégie malgré une organisation très agile, serait-ce un succès ?
+Une stratégie ne peut réussir sans une organisation capable de la porter. Dans un monde où les changements s'accélèrent, une structure rigide devient un frein — et parfois même un piège.
 
-L’agilité organisationnelle permet d’**éviter ces écueils** en rendant l’entreprise capable d’adopter rapidement de nouvelles configurations organisationnelles adaptées à ses ambitions stratégiques.
+Résultat : un désalignement croissant entre le **business model** et le **modèle opératoire**. Le business évolue plus vite que l'organisation qui le supporte. L'inertie organisationnelle crée un écart critique.
 
-Elle renforce la confiance des décideurs dans la capacité de l'organisation à s’aligner aux évolutions stratégiques, ce qui, à son tour, renforce l’agilité stratégique.
+Ce décalage s'explique par la persistance de modèles hérités, une gouvernance inadaptée, ou une exécution stratégique déconnectée du terrain.
 
-## Les enjeux de l’agilité organisationnelle
+L'agilité organisationnelle est une réponse. Ce n'est pas une fin en soi, mais un **mécanisme vivant d'alignement stratégie-structure**. C'est lui qui permet à l'entreprise de rester pertinente, cohérente, et performante.
 
-L’[**agilité organisationnelle**](https://www.notion.so/L-agilit-organisationnelle-13e90eaf28ff8014ac68ea06b71fabd3?pvs=21) repose sur plusieurs enjeux majeurs :
+**Ce que produit l’absence d’agilité organisationnelle :**
 
-- **Optimisation systémique et adaptation locale**
-    
-    Il ne s’agit pas seulement d’améliorer chaque unité indépendamment, mais bien d’optimiser le système global de l’entreprise tout en permettant des ajustements locaux.
-    
-- **Gestion de la complexité**
-    
-    L’entreprise est un [système complexe](https://www.notion.so/L-entreprise-complexe-14a90eaf28ff803e9a40c1c2d3a78b1b?pvs=21), dans lequel coexistent des logiques différentes. L’enjeu est de naviguer entre ces tensions sans sursimplifier ni complexifier inutilement.
-    
-- **Changement en continu plutôt qu’en rupture**
-    
-    Plutôt que d’adopter une approche basée sur des cycles de transformation successifs (souvent coûteux et inefficaces), l’entreprise doit intégrer le [changement continu](https://www.notion.so/L-approche-simultan-e-le-changement-continu-et-mergent-14a90eaf28ff808d8c31cb052208f601?pvs=21) dans son fonctionnement quotidien.
-    
+- La stratégie change, mais rien ne change dans l’organisation, hormis quelques projets « phares » isolés.
+- Les priorités du COMEX ne se traduisent pas dans les métiers.
+- Les réorganisations sont tardives, brutales, inefficaces — et souvent vécues comme des traumatismes.
 
 <aside>
-⚠️
+➿
 
-**Le dilemme de l’agilité organisationnelle**
+**TechNova en tension**
 
-Si la structure de l’entreprise est en réorganisation permanente, elle risque de ne pas accumuler les compétences et les savoir-faire nécessaires à la création d’un **avantage concurrentiel durable**. À l’inverse, une structure trop figée limite la capacité d’adaptation et expose l’entreprise à l’obsolescence.
+En 2023, TechNova lance une nouvelle stratégie orientée services pour ces capteurs. Mais un an plus tard, la structure reste centrée produits, les incitations économiques ne changent pas, et les RH continuent d’embaucher pour l’ancien modèle. Les objectifs glissent, les équipes s’épuisent, la stratégie décroche.
 
 </aside>
 
-<aside>
-❓
+## L'agilité organisationnelle en une phrase
 
-**Questions clés**
+> C’est la capacité à reconfigurer l’organisation à mesure que la stratégie évolue — sans brutalité, sans inertie, sans dispersion.
+> 
 
-- Est-ce que l’organisation est alignée avec la stratégie ?
-- Combien de temps faut-il pour vous réorganiser suite à une décision stratégique ?
-- Avez-vous des problèmes de gestions transverses des initiatives stratégiques ?
-</aside>
+L’agilité organisationnelle est donc à la structure ce que l’[agilité stratégique](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) est à la stratégie. Elle garantit l'**alignement vivant** entre les intentions et les capacités.
 
-## Les paradoxes de l’agilité organisationnelle
+> En contre-exemple, Xerox dans les années 2000 entreprend une mutation profonde pour passer d’un modèle de production et de vente à un modèle de services… mais sans refondre suffisamment vite sa structure. Dix ans plus tard, le retard est irrattrapable.
+> 
 
-L’agilité organisationnelle doit composer avec plusieurs **paradoxes** :
+## Trois enjeux systémiques
 
-- **Optimisation locale vs optimisation globale**
-    
-    
-    <aside>
-    ⚠️
-    
-    **Le paradoxe de l’agilité organisationnelle**
-    
-    L’**agilité opérationnelle** encourage l'émergence locale par l’adaptation des équipes, favorisant une optimisation locale, mais ces améliorations locales ne garantissent pas une performance globale optimale visée par l’**agilité organisationnelle**.
-    
-    Cela créée une tension entre ces deux dynamiques.
-    
-    </aside>
-    
-- **Centralisation vs décentralisation**
-    
-    Une **stratégie corporate** requiert un certain niveau de **centralisation** pour garantir une [cohérence d’ensemble et des synergies](https://www.notion.so/L-agilit-Portfolio-18f90eaf28ff8009b702d2aa0eae18cf?pvs=21) à l’échelle de l’entreprise. En parallèle, une entreprise agile doit favoriser la **décentralisation des décisions** pour renforcer la réactivité locale. Trouver le bon équilibre entre ces approches est un enjeu clé du design organisationnel.
-    
-- **Stabilité des équipes vs flexibilité structurelle**
-    
-    L’agilité opérationnelle encourage des équipes stables pour maximiser leur efficacité. En revanche, l’agilité stratégique exige une **capacité de reconfiguration organisationnelle rapide** pour s’adapter aux évolutions du marché. La tension entre stabilité et adaptation doit être gérée pour assurer cohérence.
-    
+1. **Aligner modèle d'affaires et modèle opératoire** : la stratégie évolue plus vite que l'organisation. Sans alignement, l'énergie se dissipe.
+2. **Sortir du mode "réorganisation"** : l'agilité ne repose pas sur une refonte tous les 3 ans, mais sur une évolution incrémentale.
+3. **Rendre l'organisation stratégiquement lisible** : chaque partie doit pouvoir répondre à : "Que fais-tu pour la stratégie ?"
 
-Le **défi de l’agilité organisationnelle** est de naviguer entre ces tensions et de les transformer en **leviers de performance durable**.
+## Tester votre agilité organisationnelle
 
-## La trajectoire de transformation organisationnelle
+- Votre structure a-t-elle évolué depuis votre dernière inflexion stratégique ?
+- Combien de temps vous faut-il pour réorganiser une unité autour d'une nouvelle priorité ?
+- Avez-vous des zones floues : initiatives stratégiques portées par personne, ou sans structure ?
+- Qui bloque une réorganisation utile ? Par quels mécanismes ?
+- Le design organisationnel est vue comme une conséquence RH, plus que comme un levier stratégique ?
+
+> Si répondre à ces questions gène, c'est que votre agilité organisationnelle est un levier inexploité. Et une organisation qui ne se transforme pas elle-même ne survivra pas aux transformations stratégiques.
+> 
+
+## **Les paradoxes à réconcilier**
+
+L’agilité organisationnelle ne supprime pas les tensions. Elle doit les **mettre en mouvement**.
+
+| Tension | Lecture agile | Risque si non traité |
+| --- | --- | --- |
+| Autonomie locale vs cohérence globale | Autonomie couplée à un cap stratégique | Fragmentation, silos |
+| Stabilité des équipes vs flexibilité structurelle | Équipes stables, mais reconfigurations possibles | Figement ou chaos |
+| Optimisation locale vs globale | Arbitrage pour la stratégie, pas pour l'efficacité locale | Déphasage structurel |
+
+Le **défi de l’agilité organisationnelle** est de naviguer entre ces tensions et de les transformer en **leviers de performance durable :**
+
+⇒ Si la structure de l’entreprise est en réorganisation permanente, elle risque de ne pas accumuler les compétences et les savoir-faire nécessaires à la création d’un **avantage concurrentiel durable**.
+
+⇒ À l’inverse, une structure trop figée limite la capacité d’adaptation et expose l’entreprise à l’obsolescence.
+
+⇒ Il faut concilier des équipes, des chaînes de valeur et des produits stables tout en recherchant une organisation flexible et dynamique.
+
+## **Une trajectoire de transformation continue**
 
 ![image.png](image%201.png)
 
-L’objectif est de concevoir une organisation capable de développer en continu les **capacités de [réactivité](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21)**, [**flexibilité**](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21), [**adaptabilité**,](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21) et [**proactivité**](https://www.notion.so/Les-capacit-s-de-l-entreprise-agile-13690eaf28ff8182abccc48ebecb3bf6?pvs=21), en intégrant ces principes dans son **design organisationnel**.
+Le choix d’une stratégie soulève une question essentielle : l’organisation est-elle en mesure de l’exécuter ?
 
-> Le choix d’une stratégie soulève une question essentielle : l’organisation est-elle en mesure de l’exécuter ?
-> 
-> 
-> *L’écart entre ses capacités actuelles et celles requises pour atteindre ses ambitions détermine la nécessité d’une transformation organisationnelle*.
-> 
+*L’écart entre ses capacités actuelles et celles requises pour atteindre ses ambitions détermine la nécessité d’une transformation organisationnelle*.
 
-Une transformation agile de l’organisation ne doit pas être un projet ponctuel, mais un **processus évolutif**, fondé elle-même sur des principes agiles :
+Pour l’entreprise agile, ces capacités sont la [**réactivité**](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21), [**flexibilité**](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21), [**adaptabilité**,](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21) et [**proactivité](https://www.notion.so/Les-capacit-s-de-l-entreprise-agile-13690eaf28ff8182abccc48ebecb3bf6?pvs=21).**
 
-- **Une approche itérative et incrémentale** pour adapter la structure progressivement.
-- **Un pilotage par impact**, où chaque ajustement organisationnel est évalué en fonction de ses résultats concrets.
-- **Une gouvernance distribuée**, qui intègre la prise de décision collective et des boucles de feedback régulières.
+Mais ce n’est pas un projet ponctuel. C’est un **processus adaptatif** à piloter dans la durée. Il repose sur :
+
+- **Une approche itérative** : on évolue sans tout casser.
+- **Un pilotage par impact** : on juge chaque évolution à ses effets réels.
+- **Une gouvernance distribuée** : on prend les décisions au plus près du réel.
 
 Sinon, l’organisation ne pourra pas évoluer par elle-même, c'est-à-dire à travers ses propres acteurs, pour s’adapter aux changements qui surviendront après la transformation.
-
-## Conclusion
-
-L’agilité organisationnelle est **un levier fondamental** pour aligner en continu la stratégie et l’exécution, dans un monde en perpétuelle mutation. Son objectif n’est pas de rendre l’organisation "instable", mais au contraire de lui permettre d’évoluer **sans rupture brutale**, en cultivant une **capacité d’adaptation intégrée et de transformation durable**.
-
-Ainsi, une **organisation agile** est **une entreprise qui apprend en permanence** et qui ajuste son design organisationnel pour rester alignée avec ses ambitions stratégiques.
 
 ---
 
 # Le design organisationnel au service de l’agilité organisationnelle
 
-## **Concevoir une organisation agile : un levier stratégique**
+## Le design organisationnel comme levier
 
-L’agilité organisationnelle ne repose pas uniquement sur des pratiques ou des méthodes : **c’est un enjeu de design organisationnel**.
+> Une stratégie se gagne sur le terrain, mais se perd souvent dans l’organisation.
+> 
 
-Une entreprise ne devient pas agile simplement par l’adoption de Frameworks ou d’équipes autonomes, mais en structurant **un modèle organisationnel qui favorise l’adaptabilité** tout en maintenant une cohérence stratégique et opérationnelle.
+---
 
-La structure ne fait pas l’agilité organisationnelle mais crée les conditions de son succès. Elle constitue **un levier facilitateur**, permettant à l’entreprise de se reconfigurer en fonction des besoins stratégiques.
+L’agilité ne repose pas sur des postures mais sur des arbitrages structurels. C’**est un enjeu de design organisationnel** en recherchant un **modèle favorisant l’adaptabilité** tout en maintenant une cohérence stratégique et opérationnelle.
 
-Le **design organisationnel** doit alors permettre de concilier agilité **et stabilité**, **alignement stratégique et autonomie locale**, et **efficience et innovation**.
+La structure ne fait pas l’agilité organisationnelle mais crée les conditions de son succès. Elle constitue **un levier facilitateur**. Un bon design :
 
-## **Les grands principes du design stratégique**
+- Évite les dépendances bloquantes,
+- Favorise les apprentissages croisés,
+- Permet à chaque niveau de se reconfigurer en restant aligné.
 
-Le **design organisationnel stratégique** repose sur une architecture [**multi-niveaux**](https://www.notion.so/Les-4-niveaux-de-prises-de-d-cisions-19290eaf28ff80049db0c684a64e4fb0?pvs=21), qui permet d’articuler les décisions stratégiques et leur exécution au sein de l’organisation.
+## Les 4 niveaux d'agilité organisationnelle
 
-L’objectif est de créer un cadre **où chaque niveau de l’organisation possède une autonomie décisionnelle adaptée** tout en assurant **une coordination optimale** entre les différentes unités.
+> Une organisation se conçoit comme un système à quatre niveaux : Portfolio, Stratégique, Tactique, Opérationnel.
+> 
 
-## **Les 4 niveaux du design organisationnel**
+**Chaque niveau de l’organisation possède une autonomie décisionnelle adaptée** tout en assurant **une coordination optimale** entre les différentes unités :
 
-Le design organisationnel s’articule autour de **quatre niveaux imbriqués**, chacun répondant à une logique spécifique :
+- [**Portfolio](https://www.notion.so/L-agilit-organisationnelle-au-niveau-portfolio-17a90eaf28ff80fc9691d0fb59bc4ac6?pvs=21)** : Identifier les unités stratégiques, organiser les fonctions partagées.
+- [**Stratégique](https://www.notion.so/L-agilit-organisationnelle-au-niveau-strat-gique-17790eaf28ff80569d37d43fbed7a8ca?pvs=21)** : Structurer les unités autour de leur stratégie propre (client, marché, région).
+- **Tactique** : Organiser les chaînes de valeur.
+- **Opérationnel** : Structurer les équipes pour le delivery, l’autonomie, et le feedback terrain.
 
-### **Agilité organisationnelle au niveau Portfolio**
+**Piège fréquent** : croire que l’on peut garder les mêmes couches intermédiaires alors que la stratégie change.
+
+## Les grands principes de design organisationnel
+
+- **Prioriser l’alignement stratégique sur l’optimisation locale** : Toute l’organisation n’a pas à être performante en même temps, mais elle doit l’être là où cela compte.
+- **Construire une organisation centrée client** :
+    1. De l’extérieur vers l’intérieur.
+    2. Maximiser la surface en contact avec le changement.
+    3. Des unités plus petites, autonomes, stratégiquement alignées.
+- **Équilibrer autonomie et alignement stratégique** :
+    1. Couplage faible entre unités stratégiques.
+    2. Couplage fort au sein d’une unité stratégique.
+    3. Services partagés non bloquants, sans [**dépendance essentielle**](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21).
 
 <aside>
-🥇
+💡
 
-[**Agilité organisationnelle au niveau Portfolio**](https://www.notion.so/L-agilit-organisationnelle-au-niveau-portfolio-17a90eaf28ff80fc9691d0fb59bc4ac6?pvs=21)
-
-**Objectif** : Structurer le **portefeuille d’activités** et identifier les unités stratégiques (ayant leur propre stratégie business), et les fonctions partagées entre ces unités.
-
-L’agilité à ce niveau repose sur la **capacité à reconfigurer l’entreprise en fonction des orientations stratégiques**. Il s’agit de concevoir une **macrostructure** capable de soutenir une [**réorientation stratégique**](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21) tout en assurant la cohérence et la synergie entre les différentes composantes de l’organisation.
+En savoir plus sur les grands principes en [annexe](https://www.notion.so/L-agilit-organisationnelle-13490eaf28ff80918f84ee8e39eddc99?pvs=21).
 
 </aside>
 
-Ce niveau répond à des enjeux tels que :
+## Equilibre autonomie - alignement
 
-- L’identification des unités stratégiques en fonction des modèles d’affaires
-- La gouvernance des synergies entre activités (ex. mutualisation des fonctions support)
-- La gestion de la **mobilité stratégique** et de l’adaptabilité du portefeuille.
+> L’agilité organisationnelle n’est pas l’absence de structure. C’est l’orchestration dynamique des tensions.
+> 
 
-### **Agilité organisationnelle au niveau Stratégique**
+Deux polarités à piloter :
 
-<aside>
-🥈
+- **Centralisation ≠ Uniformité** : Centraliser ce qui renforce la stratégie. Décentraliser ce qui renforce la vitesse.
+- **Différenciation ≠ Fragmentation** : Spécialiser sans casser les flux. Intégrer sans rigidifier.
 
-[**Agilité organisationnelle au niveau Stratégique**](https://www.notion.so/L-agilit-organisationnelle-au-niveau-strat-gique-17790eaf28ff80569d37d43fbed7a8ca?pvs=21)
+## Et concrètement, lundi matin …
 
-**Objectif** : Concevoir la structure de chaque **unité stratégique**, en identifiant les unités tactiques et les services partagés.
+- Listez les 3 frictions structurelles qui freinent votre stratégie.
+- Décidez d’une reconfiguration mineure et réversible à tester sur une unité en moins d’un mois.
+- Ajoutez « Design organisationnel » à l’ordre du jour du prochain COMEX, CODIR, et équipe.
 
-Une unité stratégique regroupe des activités partageant un **même positionnement stratégique** et nécessitant une **cohérence organisationnelle forte**.
+---
 
-À ce niveau, on définit **la structure globale de l’unité**, son **modèle organisationnel agile**, capable de soutenir un [réajustement stratégique](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21). 
+---
 
-</aside>
+# 🔑 Points clés à retenir
 
-Les **principaux enjeux** incluent :
+- L’agilité organisationnelle est la **capacité à réaligner structure et stratégie** de façon fluide et continue.
+- Elle repose sur un design évolutif, multi-niveaux, centré sur l’impact réel.
+- Elle s’incarne dans des arbitrages : qui décide, où, comment — et pourquoi.
 
-- Déterminer le **modèle d’organisation optimal** en fonction de la stratégie business
-- Concevoir des **mécanismes d’adaptation** pour faciliter les réajustements stratégiques
-- Assurer **l’alignement entre la stratégie et l’exécution** en structurant les unités tactiques.
+> Le vrai test ? Votre capacité à reconfigurer une partie de votre organisation en moins de trois mois. Sans fracas. Sans chaos. Et avec sens.
+> 
 
-<aside>
-⚠️
+### 👉 Et maintenant ? [Passez au niveau Portfolio](https://www.notion.so/L-agilit-organisationnelle-au-niveau-portfolio-17a90eaf28ff80fc9691d0fb59bc4ac6?pvs=21).
 
-**Spécificité des entreprises spécialisées**
+---
 
-Pour les entreprises spécialisées (mono métier, activité unique), les fonctions de stratégie corporate et business sont souvent intégrées. Cela signifie que l’agilité Portfolio et l’agilité stratégique sont fortement imbriquées, et les décisions de portefeuille sont directement alignées avec la stratégie globale.
+## Annexes
 
-L’[agilité Portfolio](https://www.notion.so/L-agilit-Portfolio-18f90eaf28ff8009b702d2aa0eae18cf?pvs=21) et [Stratégique](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) sont alors **fortement imbriquées.**
-
-</aside>
-
-### **Agilité organisationnelle au niveau Tactique**
-
-<aside>
-🥉
-
-**Agilité organisationnelle au niveau Tactique**
-
-**Objectif** : Concevoir les unités tactiques, la micro structure de chaque chaîne de valeur de l’unité stratégique, **capable de répondre aux ajustements tactiques** tout en minimisant les interdépendances.
-
-Les unités tactiques regroupent les équipes et processus clés permettant de **délivrer la valeur**, en alignement avec la stratégie de l’unité.
-
-</aside>
-
-L’objectif est de structurer ces unités de manière à :
-
-- **Minimiser les interdépendances** et optimiser la fluidité des décisions
-- Concevoir un modèle **réactif aux ajustements tactiques** (changement de priorités, nouvelles opportunités)
-- Définir les **cadences de synchronisation et de feedback**, essentielles pour piloter la performance.
-
-### **Agilité organisationnelle au niveau Opérationnel**
-
-<aside>
-🏅
-
-**Agilité organisationnelle au niveau Opérationnel**
-
-**Objectif** : Concevoir les unités opérationnelles, les équipes, les groupes de travail, capable de répondre à des mouvements tactiques.
-
-</aside>
-
-C’est **le niveau où s’incarne l’exécution agile**, où les équipes sont structurées pour :
-
-- Travailler en **petites unités autonomes**, maximisant la réactivité
-- Être **pluridisciplinaires et indépendantes**, pour éviter les blocages organisationnels
-- Adopter une **logique d’amélioration continue**, en intégrant des **boucles de feedback fréquentes**.
-
-## **Optimiser globalement pour la stratégie**
+### **Optimiser globalement pour la stratégie**
 
 ### **Prioriser l’alignement stratégique sur l’optimisation locale**
 
@@ -315,162 +267,122 @@ Il ne s’agit pas d’opposer autonomie et coordination, mais de les **orchestr
 
 L’**équilibre entre autonomie et alignement** repose sur **deux grands mécanismes organisationnels**, qui influencent la répartition du pouvoir et la fluidité des interactions.
 
-- La centralisation / décentralisation
+### La centralisation / décentralisation
+
+<aside>
+🧑‍🎓
+
+**Centralisation**
+
+La **centralisation** se réfère à une structure organisationnelle dans laquelle l'autorité de prise de décision est concentrée au sommet de l'organisation. Dans une organisation centralisée, les décisions sont souvent prises par le niveau hiérarchique supérieur. Il y a une tendance à une plus grande uniformité et à une prise de décision plus contrôlée, mais plus consistante.
+
+</aside>
+
+<aside>
+🧑‍🎓
+
+**Décentralisation**
+
+La **décentralisation**, en revanche, implique la délégation de l'autorité et de la responsabilité de prise de décision à des niveaux inférieurs de l'organisation, c’est-à-dire dans les unités stratégiques. Les décisions sont prises le plus près possible de là où l'action doit avoir lieu. Dans une organisation décentralisée, il y a une plus grande autonomie locale, ce qui permet une prise de décision plus flexible, rapide et adaptée aux besoins spécifiques de chaque unité.
+
+</aside>
+
+**Le défi : Trouver le bon équilibre**
+
+<aside>
+💡
+
+**Décentraliser si possible, et centraliser lorsque cela est nécessaire tout en restant agile**. Décentraliser au niveau des unités stratégiques, et centraliser au niveau des unités tactiques et des fonctions partagées (synergie).
+
+</aside>
+
+Les éléments de centralisation à prendre en compte du point de vue de l’agilité sont :
+
+- La part de [stratégie délibérée](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21) et la part de [stratégie émergente](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21). Cette décision se prend au plus haut niveau de l’entreprise,
+- La [mobilité stratégique](https://www.notion.so/La-mobilit-strat-gique-une-solution-pour-une-organisation-dynamique-14390eaf28ff801fa7fbef124c330c15?pvs=21),
+- Les synergies au sein du portefeuille stratégique.
     
-    
-    <aside>
-    🧑‍🎓
-    
-    **Centralisation**
-    
-    La **centralisation** se réfère à une structure organisationnelle dans laquelle l'autorité de prise de décision est concentrée au sommet de l'organisation. Dans une organisation centralisée, les décisions sont souvent prises par le niveau hiérarchique supérieur. Il y a une tendance à une plus grande uniformité et à une prise de décision plus contrôlée, mais plus consistante.
-    
-    </aside>
-    
-    <aside>
-    🧑‍🎓
-    
-    **Décentralisation**
-    
-    La **décentralisation**, en revanche, implique la délégation de l'autorité et de la responsabilité de prise de décision à des niveaux inférieurs de l'organisation, c’est-à-dire dans les unités stratégiques. Les décisions sont prises le plus près possible de là où l'action doit avoir lieu. Dans une organisation décentralisée, il y a une plus grande autonomie locale, ce qui permet une prise de décision plus flexible, rapide et adaptée aux besoins spécifiques de chaque unité.
-    
-    </aside>
-    
-    **Le défi : Trouver le bon équilibre**
-    
-    <aside>
-    💡
-    
-    **Décentraliser si possible, et centraliser lorsque cela est nécessaire tout en restant agile**. Décentraliser au niveau des unités stratégiques, et centraliser au niveau des unités tactiques.
-    
-    </aside>
-    
-    Les éléments de centralisation à prendre en compte du point de vue de l’agilité sont :
-    
-    - La part de [stratégie délibérée](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21) et la part de [stratégie émergente](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21). Cette décision se prend au plus haut niveau de l’entreprise,
-    - La [mobilité stratégique](https://www.notion.so/La-mobilit-strat-gique-une-solution-pour-une-organisation-dynamique-14390eaf28ff801fa7fbef124c330c15?pvs=21),
-    - Les synergies au sein du portefeuille stratégique.
-        
-        Moins il est diversifié, plus le business est intégré, les unités ont un couplage fort avec de fortes synergies, plus la centralisation est pertinente. En revanche, un conglomérat, très diversifié, sera fortement décentralisé, avec des unités fortement découplées et peu de synergies.
-        
-    
-    **Coordination verticale** : Le mécanisme de coordination en contrepartie de cette décentralisation est la coordination verticale. Elle est maintenant mixte : à la fois descendante et ascendante, et négociée.
-    
-    **Les limites de la centralisation**
-    
-    - **Trop de bureaucratie**
-        
-        La centralisation excessive se transforme en bureaucratie, entraînant des retards dans les prises de décision et la perte d'opportunités.
-        
-    - **Sclérose organisationnelle**
-        
-        La standardisation excessive étouffe la créativité et l'innovation.
-        
-    - **Déconnexion du terrain**
-        
-        La centralisation crée une distance avec les clients et les utilisateurs, menant au phénomène de la "tour d'ivoire".
-        
-    
-    **Les limites de la décentralisation**
-    
-    - **Fragmentation des idées**
-        
-        Une décentralisation excessive conduit à une dispersion des idées et des ressources inefficaces.
-        
-    - **Duplication des ressources et des efforts**
-        
-        Les efforts sont souvent redondants, avec une variation dans les standards qui pourraient être partagés.
-        
-    - **Ambitions limitées**
-        
-        Les divisions se concentrent sur leurs propres objectifs, limitant les initiatives d'entreprise et l'innovation à un niveau local, créant des spécialisations et des silos.
-        
-    
-    Chaque entreprise doit naviguer sur ce continuum pour trouver l'équilibre qui lui convient le mieux, en fonction de ses besoins spécifiques et de son contexte. Cela dépend notamment du choix organisationnel de concentration ou de dispersion (décentralisé ou coordonné) des opérations. La décentralisation est avant tout un choix stratégique plus qu’un principe d’une approche (agile ou autre).
-    
-    <aside>
-    🔎
-    
-    En savoir plus sur le [paradoxe Centralisation / Décentralisation](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
-    
-    </aside>
-    
-- La différenciation / intégration
-    
-    
-    <aside>
-    🧑‍🎓
-    
-    **Différenciation**
-    
-    La différenciation fait référence à la spécialisation et à la division du travail. C’est une démarche plutôt statique où la structure, plutôt verticale, prévaut sur les processus. La différenciation représente l’état de la segmentation de l'organisation en sous-systèmes.
-    
-    </aside>
-    
-    <aside>
-    🧑‍🎓
-    
-    **Intégration**
-    
-    Améliorer la performance d’ensemble par **une réponse intégrée**, avec le bon niveau de collaboration, coopération et coordination. L’intégration se fait du point de vue la **stratégie, l’organisation et la hiérarchie.**
-    
-    </aside>
-    
-    **Le défi : Trouver le bon équilibre**
-    
-    <aside>
-    💡
-    
-    [**Différencier**](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) **si possible, et intégrer lorsque cela est nécessaire tout en restant agile**.
-    
-    </aside>
-    
-    **Coordination horizontale** : Le mécanisme de coordination en contrepartie de cette différenciation est la coordination horizontale (ou transversale). Elle est basée principalement sur de l’ajustement mutuel, et un système informel (les relations entre les unités ne sont pas formalisées).
-    
-    <aside>
-    🔎
-    
-    En savoir plus sur le [paradoxe Intégration / Différenciation](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
-    
-    </aside>
+    Moins il est diversifié, plus le business est intégré, les unités ont un couplage fort avec de fortes synergies, plus la centralisation est pertinente. En revanche, un conglomérat, très diversifié, sera fortement décentralisé, avec des unités fortement découplées et peu de synergies.
     
 
-### **Adopter une approche dynamique du design organisationnel**
+**Coordination verticale** : Le mécanisme de coordination en contrepartie de cette décentralisation est la coordination verticale. Elle est maintenant mixte : à la fois descendante et ascendante, et négociée.
 
-Le design organisationnel ne doit pas être statique : il doit être **itératif et intégré dans les processus de changement stratégiques**.
+**Les limites de la centralisation**
 
-**L’alignement stratégique doit être dynamique** : chaque niveau de l’organisation doit être capable de s’adapter rapidement aux évolutions stratégiques.
+- **Trop de bureaucratie**
+    
+    La centralisation excessive se transforme en bureaucratie, entraînant des retards dans les prises de décision et la perte d'opportunités.
+    
+- **Sclérose organisationnelle**
+    
+    La standardisation excessive étouffe la créativité et l'innovation.
+    
+- **Déconnexion du terrain**
+    
+    La centralisation crée une distance avec les clients et les utilisateurs, menant au phénomène de la "tour d'ivoire".
+    
 
-### **Adopter** le [mix organisationnel](https://www.notion.so/Le-mix-organisationnel-et-la-logique-dominante-15e90eaf28ff800cbef0fc08b66fb1f3?pvs=21)
+**Les limites de la décentralisation**
 
-- Intégrer différents modèles organisationnels au sein de l'entreprise
-- Contribuant à des [cultures d’organisation](https://www.notion.so/Les-mod-les-organisationnels-une-approche-culturelle-15e90eaf28ff8007833ff2ce6c1bcea7?pvs=21) différentes.
+- **Fragmentation des idées**
+    
+    Une décentralisation excessive conduit à une dispersion des idées et des ressources inefficaces.
+    
+- **Duplication des ressources et des efforts**
+    
+    Les efforts sont souvent redondants, avec une variation dans les standards qui pourraient être partagés.
+    
+- **Ambitions limitées**
+    
+    Les divisions se concentrent sur leurs propres objectifs, limitant les initiatives d'entreprise et l'innovation à un niveau local, créant des spécialisations et des silos.
+    
+
+Chaque entreprise doit naviguer sur ce continuum pour trouver l'équilibre qui lui convient le mieux, en fonction de ses besoins spécifiques et de son contexte. Cela dépend notamment du choix organisationnel de concentration ou de dispersion (décentralisé ou coordonné) des opérations. La décentralisation est avant tout un choix stratégique plus qu’un principe d’une approche (agile ou autre).
 
 <aside>
 🔎
 
-En savoir plus sur l’agilité organisationnelle dans notre [wiki](https://www.notion.so/L-agilit-organisationnelle-13e90eaf28ff8014ac68ea06b71fabd3?pvs=21), ou dans notre [livre](https://www.notion.so/Section-IV-Le-design-strat-gique-au-service-de-l-agilit-organisationnelle-13790eaf28ff80bbbba7e3484b4e8865?pvs=21).
+En savoir plus sur le [paradoxe Centralisation / Décentralisation](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
 
 </aside>
 
----
+### La différenciation / intégration
 
-# 🔑 Points clés à retenir
+> Spécialiser sans casser les flux. Intégrer sans rigidifier.
+> 
 
-1. **L’agilité organisationnelle au service de la stratégie**
-    - Une organisation agile ajuste en continu sa structure pour s’aligner sur les évolutions stratégiques.
-    - Elle renforce la confiance des décideurs dans sa capacité à s’adapter rapidement aux changements.
-2. **Les enjeux clés**
-    - **Optimisation globale vs adaptation locale** : concilier vision systémique et autonomie des entités.
-    - **Complexité maîtrisée** : accepter des logiques différentes tout en simplifiant leur gestion.
-    - **Changement continu** : intégrer l’adaptabilité comme un processus permanent plutôt qu’une série de transformations ponctuelles.
-3. **Les paradoxes de l’agilité organisationnelle**
-    - **Autonomie vs alignement** : permettre une autonomie des équipes tout en garantissant une cohérence stratégique.
-    - **Flexibilité vs structure** : une organisation doit être structurée tout en restant capable d’évoluer rapidement.
-4. **Le design organisationnel comme levier d’agilité**
-    - **Décentraliser et différencier par défaut**, tout en centralisant et intégrant uniquement lorsque cela est nécessaire pour favoriser les synergies.
-    - **Optimiser globalement** en alignement avec la stratégie, en acceptant que certaines composantes puissent fonctionner de manière sous-optimale.
-    - **Accepter la diversité organisationnelle**, en intégrant différents modèles au sein de l’entreprise.
-    - **Favoriser un couplage faible entre unités stratégiques**, sans dépendances essentielles, les fonctions et services partagés servant principalement à créer des synergies.
-    - **Structurer l’organisation sur 4 niveaux** (Portfolio, Stratégique, Tactique, Opérationnel) pour garantir une cohérence à toutes les échelles.
-    - **Adopter un design organisationnel évolutif**, intégré aux processus stratégiques et reposant sur l’alignement, l’adaptabilité et l’amélioration continue.
+<aside>
+🧑‍🎓
+
+**Différenciation**
+
+La différenciation fait référence à la spécialisation et à la division du travail. C’est une démarche plutôt statique où la structure, plutôt verticale, prévaut sur les processus. La différenciation représente l’état de la segmentation de l'organisation en sous-systèmes.
+
+</aside>
+
+<aside>
+🧑‍🎓
+
+**Intégration**
+
+Améliorer la performance d’ensemble par **une réponse intégrée**, avec le bon niveau de collaboration, coopération et coordination. L’intégration se fait du point de vue la **stratégie, l’organisation et la hiérarchie.**
+
+</aside>
+
+**Le défi : Trouver le bon équilibre**
+
+<aside>
+💡
+
+[**Différencier**](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) **si possible, et intégrer lorsque cela est nécessaire tout en restant agile**.
+
+</aside>
+
+**Coordination horizontale** : Le mécanisme de coordination en contrepartie de cette différenciation est la coordination horizontale (ou transversale). Elle est basée principalement sur de l’ajustement mutuel, et un système informel (les relations entre les unités ne sont pas formalisées).
+
+<aside>
+🔎
+
+En savoir plus sur le [paradoxe Intégration / Différenciation](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
+
+</aside>
