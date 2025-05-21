@@ -64,17 +64,6 @@ L’agilité organisationnelle est donc à la structure ce que l’[agilité str
 2. **Sortir du mode "réorganisation"** : l'agilité ne repose pas sur une refonte tous les 3 ans, mais sur une évolution incrémentale.
 3. **Rendre l'organisation stratégiquement lisible** : chaque partie doit pouvoir répondre à : "Que fais-tu pour la stratégie ?"
 
-## Tester votre agilité organisationnelle
-
-- Votre structure a-t-elle évolué depuis votre dernière inflexion stratégique ?
-- Combien de temps vous faut-il pour réorganiser une unité autour d'une nouvelle priorité ?
-- Avez-vous des zones floues : initiatives stratégiques portées par personne, ou sans structure ?
-- Qui bloque une réorganisation utile ? Par quels mécanismes ?
-- Le design organisationnel est vue comme une conséquence RH, plus que comme un levier stratégique ?
-
-> Si répondre à ces questions gène, c'est que votre agilité organisationnelle est un levier inexploité. Et une organisation qui ne se transforme pas elle-même ne survivra pas aux transformations stratégiques.
-> 
-
 ## **Les paradoxes à réconcilier**
 
 L’agilité organisationnelle ne supprime pas les tensions. Elle doit les **mettre en mouvement**.
@@ -175,11 +164,16 @@ Deux polarités à piloter :
 
 ## Et concrètement, lundi matin …
 
-- Listez les 3 frictions structurelles qui freinent votre stratégie.
-- Décidez d’une reconfiguration mineure et réversible à tester sur une unité en moins d’un mois.
-- Ajoutez « Design organisationnel » à l’ordre du jour du prochain COMEX, CODIR, et équipe.
+On teste votre agilité organisationnelle :
 
----
+- La structure a-t-elle évolué **depuis le dernier mouvement stratégique** ?
+- Combien de temps vous faut-il pour réorganiser une unité autour d'une nouvelle priorité ?
+- Avez-vous des zones floues : initiatives stratégiques portées par personne, ou sans structure ?
+- Qui bloque une réorganisation utile ? Par quels mécanismes ?
+- Le design organisationnel est vue comme une conséquence RH, plus que comme un levier stratégique ?
+
+> Si répondre à ces questions gène, c'est que votre agilité organisationnelle est un levier inexploité. Et une organisation qui ne se transforme pas elle-même ne survivra pas aux transformations stratégiques.
+> 
 
 ---
 

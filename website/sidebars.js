@@ -56,6 +56,7 @@
         'agiliteportfolio/gouvernanceadaptative/index',
         'agiliteportfolio/agiliteorganisationnelle/index',
         'agiliteportfolio/agiliteorganisationnelleportfolio/index',
+        'agiliteportfolio/mobilitestrategique/index',
         'agiliteportfolio/action/index',
       ],
     },
