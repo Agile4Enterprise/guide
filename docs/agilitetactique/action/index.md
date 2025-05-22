@@ -2,78 +2,92 @@
 
 Propriétaire: Laurent Morisseau
 
-# Outils du Framework Agile4Enterprise
+- Sommaire
 
-L’Agilité tactique s’appuie sur plusieurs outils structurants :
+<aside>
+✨
 
-## Modèles pour analyser, comprendre et concevoir
+**Objectif**
 
-- [Modèle 4E d'alignement](https://www.notion.so/Le-mod-le-A4E-de-l-agilit-portfolio-13490eaf28ff803a884fc20066900149?pvs=21)
-    - Le modèle définit quatre zones (Exploration, Expansion, Exploitation, Exclusion). Il permet à l’unité tactique (chaîne de valeur) de se positionner dans sa zone dominante. Tout comme ce modèle 4E sert à piloter le portefeuille d’activité au niveau stratégique, à ce niveau, il permet de piloter le portefeuille de fonctionnalités du produit ou service.
+Cette section présente les **outils activables** pour incarner l’agilité tactique dans l’entreprise. Elle vise à rendre l’exécution stratégique **fluide, réactive et alignée**, en s’appuyant sur des cycles vivants, des objectifs actionnables (OKR) et une articulation explicite entre stratégie, tactique et opérationnel.
 
-## Outils de transformation
+> Une stratégie agile sans agilité tactique, c’est un cap sans gouvernail.
+> 
+</aside>
 
-- Modèle de maturité **IMPACTE**, au [niveau Tactique](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21) pour
-    - Évaluer la capacité d’une unité à s’adapter rapidement aux changements.
-    - Permettre de structurer un programme de transformation progressive.
-- **ACTE**
-    
-    ACTE, Agile Canevas pour la Transformation d’Entreprise, est un outil visuel permettant de faire le lien entre la stratégie, les OKR stratégiques, le modèle opératoire, les OKR tactiques et l’opérationnel.
-    
-    Cet outil intègre notamment les OKR tactiques pour faire le lien entre les OKR stratégiques et l’opérationnel sur deux dimensions :
-    
-    - **La dimension performance** avec des OKR plus orientés business
-    - **La dimension culturelle** avec des OKR plus orientés transformation
-    
-    Ces deux dimensions clés sont les résultats de toutes nos actions dans les organisations. C’est ce que nous apprennent les [modèles d’alignement stratégiques](https://www.notion.so/L-alignement-strat-gique-13d90eaf28ff804f9646fb85ec52b010?pvs=21).
-    
-    <aside>
-    🧰
-    
-    En savoir plus sur [ACTE au niveau tactique](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21)
-    
-    </aside>
-    
+# Outiller un système tactique vivant
 
-## Outils d’exécution
+L’agilité tactique repose sur des **boucles adaptatives structurées**, dont les outils assurent la fluidité, la coordination et l’adaptabilité de l’exécution. Ces outils se répartissent en trois familles : analyse, transformation, exécution.
 
-- **PACTE**
-    
-    PACTE est l’outil visuel servant de support au modèle 4E. Il peut s’appliquer au portefeuille de fonctionnalités du produit ou service. Il peut être utilisé dans des « war rooms » tactiques, permettant des ajustements rapides face aux évolutions tactiques.
-    
-    <aside>
-    🧰
-    
-    En savoir plus sur [PACTE au niveau tactique](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21)
-    
-    </aside>
-    
-- Les **cycles tactiques**, avec les [cadences de changement](https://www.notion.so/La-gouvernance-adaptative-tactique-13b90eaf28ff8066aa8bc5c28ac35645?pvs=21).
+## **Modèles d’analyse tactique**
 
-## Le cycle OKR tactique
+### [Modèle 4E](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21) **tactique**
+
+- Cartographie des zones tactiques (Exploration, Expansion, Exploitation, Exclusion)
+- Appliqué à un portefeuille de fonctionnalités ou d’initiatives produit/service
+- Permet de piloter la diversité des rythmes, postures et contraintes au sein d’une unité
+
+## **Outils de transformation tactique**
+
+### Modèle [IMPACTE](https://www.notion.so/Mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21) **tactique**
+
+- Évalue la capacité d’une unité à s’adapter
+- Structure un programme de transformation progressive
+- Utilisé pour un diagnostic d’agilité tactique
+
+### [ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21) **tactique**
+
+- Lien explicite entre stratégie, modèle opératoire, OKR stratégiques, OKR tactiques et exécution
+- Met en évidence deux dimensions clés des OKR tactiques :
+    - **Performance** : objectifs business / delivery
+    - **Culture** : transformation, posture, apprentissage
+
+## **Outils d’exécution tactique**
+
+### [PACTE](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21) **tactique**
+
+- Lecture dynamique des initiatives tactiques à travers les zones 4E
+- Utilisable en war room ou instance de régulation collective
+- Permet d’ajuster les priorités en temps réel
+
+### [Cycles](https://www.notion.so/La-gouvernance-adaptative-tactique-13b90eaf28ff8066aa8bc5c28ac35645?pvs=21) **tactiques & cadences de changement**
+
+- Reposent sur une fréquence stable (typiquement trimestrielle)
+- Synchronisés avec les niveaux stratégique (revue d’alignement) et opérationnel (revue d’impact)
+
+<aside>
+➿
+
+PACTE chez Technova
+
+Quand Technova Capteur a introduit **PACTE** dans sa war room :
+
+1. Les équipes lisaient en direct la carte 4E de leurs gammes de capteurs.
+2. Chaque trimestre, la cellule tactique allouait 10 % de ressources vers les projets à Exploratio­n/Expansion.
+3. Résultat au bout d’un an : 25 % de renouvellement des capteurs au catalogue.
+</aside>
+
+---
+
+### Le [coach agile](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21) tactique, l’orchestrateur de la valeur à l’échelle
+
+- Anime les revues ACTE et les rituels OKR.
+- Connecter stratégie et impact concret, dans un environnement adaptatif.
+- Font vivre la boucle tactique au sein de l’unité.
+
+## **Le cycle OKR tactique : cœur battant de l’agilité d’exécution**
 
 ![Le cycle OKR tactique](image.png)
 
 Le cycle OKR tactique
 
-Les [OKR tactiques](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21) et les [cycles OKR tactiques](https://www.notion.so/La-gouvernance-adaptative-tactique-13b90eaf28ff8066aa8bc5c28ac35645?pvs=21) sont un bon outils d’exécution de la stratégie adaptative. Le point d’entrée sont les OKR stratégiques et ce cycle est synchronisé avec les [cycles OKR stratégiques](https://www.notion.so/La-gouvernance-adaptative-strat-gique-13b90eaf28ff800996ccf4dc1e54bcc6?pvs=21).
+1. **Planifier** (début de trimestre) : décliner les OKR stratégiques en 3 OKR tactiques.
+2. **Exécuter & mesurer** (hebdo/bimensuel) : points courts sur le progrès, adaptation des actions.
+3. **Ajuster** (fin de trimestre) : accélérer, pivoter ou stopper chaque initiative selon l’impact réel.
+4. **Slack tactique** : 10–15 % de capacité réservée pour absorber les imprévus et expérimenter.
 
-Le cycle OKR tactique permet de définir et piloter des objectifs tactiques au sein de chaque unité stratégique. L’horizon de temps est typiquement trimestriel avec des revues de pilotage hebdomadaires ou bimensuelles. Les OKR tactiques doivent rendre actionnables les [OKR stratégiques](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21), et permettre de les ajuster régulièrement au regard de la progression vers les objectifs que l’on s’est fixé.
-
-Pour garder des capacités agiles au niveau tactique, il ne faut pas s’engager à ce stade sur une roadmap d’initiatives mais sur des objectifs tactiques qui laissent place à la prise d’initiatives en cours de cycle afin d’ajuster le tir si besoin. L’engagement porte sur ces objectifs qui sont alignés sur les OKR stratégiques. Une roadmap est ensuite définie pour atteindre ces objectifs et pilotée lors des revues opérationnelles hebdomadaires ou bimensuelles. La roadmap n’est pas définie à 100% de capacité pour laisser du [slack organisationnel](https://www.notion.so/L-agilit-tactique-14590eaf28ff80389786c75686ab58e9?pvs=21).
-
-C’est un outil très adapté à l’agilité tactique. Notamment pour le [back briefing](https://www.notion.so/L-agilit-tactique-14590eaf28ff80389786c75686ab58e9?pvs=21) qui permet de répondre à la question :
-
-<aside>
-❓
-
-La stratégie est-elle connue et surtout comprise par tous ?
-
-</aside>
-
-![*Briefing, back briefing et debriefing*](image%201.png)
-
-*Briefing, back briefing et debriefing*
+> « L’engagement porte sur l’objectif, pas la roadmap. C’est ce qui rend l’équipe agile, pas son backlog.» — Manager Technova
+> 
 
 <aside>
 📚
@@ -82,16 +96,45 @@ En savoir plus sur les [OKR](https://www.notion.so/OKR-un-outil-de-l-agilit-stra
 
 </aside>
 
-<aside>
-🚀
+---
 
-Enfin, pour une application cohérente à tous les niveaux de décision, référez-vous aux [archétypes](https://www.notion.so/Les-4-arch-types-agiles-14290eaf28ff8004874de93022c243f8?pvs=21).
+## Ce que ça produit malgré soi
 
-</aside>
+- Risque d’**épuisement des équipes** si les OKR tactiques sont mal calibrés ou trop fréquents
+- Risque d’**architecture mouvante illisible** si chaque itération remet en cause l’ensemble des choix
+- Risque de **surcharge de dispositifs** : les outils sont censés fluidifier, pas complexifier
+
+## Ce que cette approche ne voit pas toujours
+
+- Le **besoin de stabilité rituelle** pour certaines fonctions (finance, RH, conformité)
+- L’**ancrage culturel** nécessaire pour intégrer des rituels comme le slack ou les feedbacks courts
+- La **dimension politique des arbitrages** entre tactique et stratégique
 
 ---
 
-# **Autres outils et alternatives**
+## 📌 Et concrètement, lundi matin ?
+
+- Choisissez un périmètre produit/service
+- Cartographiez ses fonctionnalités selon les zones 4E
+- Lancez un cycle OKR tactique d’expérimentation
+- Activez un slack tactique explicite (temps, budget ou rôle pivot)
+- Organisez une **war room** ou revue tactique PACTE
+
+---
+
+---
+
+## 🔑 Points clés à retenir
+
+- L’agilité tactique **s’ancre dans le terrain** : ce n’est pas une posture, c’est un pilotage.
+- Les OKR tactiques **transforment la stratégie en action**, sans figer l’initiative.
+- PACTE, ACTE, Agile4E, IMPACTE : **une grammaire cohérente** pour piloter la tactique comme un système vivant.
+- L’**art du slack**, l’**humilité de l’objectif**, la **cadence du feedback** : voilà la vraie exécution agile.
+
+> L’agilité tactique, c’est ce qui permet à l’intention de devenir impact — sans se perdre dans l’exécution.
+> 
+
+# Annexe - A**utres outils et alternatives**
 
 ## **Approches alternatives**
 

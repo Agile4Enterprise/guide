@@ -8,9 +8,46 @@ Propriétaire: Laurent Morisseau
 ✨
 
 **Objectif**
-L’agilité tactique porte sur l’**ajustement dynamique des processus décisionnels et de pilotage** des unités tactiques. Elle constitue un **niveau intermédiaire essentiel** dans l’agilité d’entreprise, entre la stratégie et l’exécution opérationnelle.
 
-Sa mission : T**raduire les orientations stratégiques en actions concrètes et adaptables**, tout en, assurant un alignement dynamique des décisions stratégiques avec les réalités opérationnelles sur le terrain. Cette agilité tactique agit comme pivot entre la vision stratégique globale et les actions quotidiennes des équipes.
+Montrer comment la gouvernance tactique devient un **métronome adaptatif**, orchestrant revues d’impact, d’ajustement et d’apprentissage pour que chaque unité tactique réoriente ses initiatives, ses ressources et ses priorités au rythme de la stratégie et du terrain.
+
+</aside>
+
+<aside>
+🧑‍🎓
+
+## Lexique rapide
+
+- **Unité tactique**
+    
+    Groupe d’équipes autonomes sur une même chaîne de valeur.
+    
+- **OKR tactiques**
+    
+    Objectifs & Résultats Clés traduisant la stratégie en actions mesurables.
+    
+- **Slack tactique**
+    
+    Marge de manœuvre (10–15 %) réservée pour pivoter sans renégocier tout le plan.
+    
+- **Mobilité tactique**
+    
+    Capacité à redistribuer équipes et ressources selon les besoins du trimestre.
+    
+</aside>
+
+<aside>
+➿
+
+## Technova : La genèse d’une gouvernance vivante
+
+Lorsque le PO de Technova Capteurs réalise qu’en trois mois son Backlog est périmé, c’est moins la vitesse qui fait la différence que la **cadence** : savoir quand arrêter, pivoter ou accélérer.
+
+**Six mois plus tard**
+
+La gouvernance tactique transforme cette urgence en un **rythme maîtrisé**, porté par le management intermédiaire.
+
+**Résultats :** réduction du time-to-market de 30 %, réaffectation de 15 % des ressources sur des projets à haut impact, satisfaction client en hausse de 10 %.
 
 </aside>
 
@@ -18,170 +55,130 @@ Sa mission : T**raduire les orientations stratégiques en actions concrètes et 
 
 Cadence du changement tactique
 
-<aside>
-💡
+# Une gouvernance vivante au service de l’agilité tactique
 
-**La gouvernance adaptative tactique**
+---
 
-Elle porte sur ce qui concerne l’[agilité tactique](https://www.notion.so/L-agilit-tactique-13490eaf28ff806cb428d9b27abb1f82?pvs=21), c’est-à-dire sur l’ajustement et l’évolution des processus et des rôles concernant les prises de décisions tactique de l’[unité tactique](https://www.notion.so/L-agilit-tactique-13490eaf28ff806cb428d9b27abb1f82?pvs=21).
+## Pourquoi une gouvernance vivante ?
 
-</aside>
+La gouvernance tactique relie l’intention stratégique et l’exécution terrain par des **rituels cadencés**, portés par le management intermédiaire :
 
-# Le modèle de gouvernance
+- **Orchestration des mobilités tactiques** (redistribution d’équipes),
+- **Déclenchement des réajustements** au bon moment,
+- **Encadrement de l’autonomie** sans dispersion.
 
-### Management agile
+> « Nous n’avons pas manqué de décisions, mais de rythme pour agir. » — Manager Technova
+> 
 
-La tactique et l’exécution de la stratégie sont du domaine de responsabilité du management intermédiaire. Le [**management agile](https://www.notion.so/L-agilit-manag-riale-18b90eaf28ff8023814bdcc2e0240ac4?pvs=21)** n’est plus un simple relai vertical : il devient un **acteur clé de la gouvernance adaptative**, en assurant :
+## Gouvernance participative et itérative
 
-- La **mobilité des ressources** au sein des unités tactiques,
-- L’**alignement dynamique** entre l’unité stratégique et les équipes opérationnelles,
-- Le **développement de l’autonomie des équipes**, tout en posant un cadre de délégation clair.
+Ce qui doit être gouverné :
 
-La gouvernance tactique implique fortement le management intermédiaire, responsable de synchroniser les décisions tactiques avec les actions opérationnelles. Ce rôle se situe dans un **équilibre subtil entre soutien et autorité**, entre cadre et autonomie.
+- **OKR tactiques** comme langage d’alignement.
+- **Revues tactiques** comme espaces de régulation partagée.
+- **Slack tactique** comme capacité de manœuvre.
+- **Mobilité des équipes** comme levier adaptatif.
+- **Autonomie décisionnelle locale**, encadrée par le cap stratégique.
 
-### Couplage fort
+Avec une m**odèle de gouvernance basé sur :**  [**Participatif](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)** et [**itératif**](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
 
-Un [](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)principe de design organisationnel est le [couplage fort](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) au sein de l’unité stratégique, impliquant :
+## Les tensions à équilibrer
 
-- Des unités tactiques semi-autonomes dans leurs processus internes, mais tenues à une synchronisation lors des [revues tactiques](https://www.notion.so/Les-4-cadences-du-changement-et-de-l-apprentissage-13b90eaf28ff8091b4cce85974f50938?pvs=21).
-- Une autonomie dans la définition et la gestion de leurs propres [**OKR tactiques**](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21), alignés avec les objectifs stratégiques,
-- La responsabilité des initiatives et leur ajustement rapide selon les résultats obtenus.
+Cette gouvernance se joue à l’intersection de trois curseurs :
 
-### Modèle de gouvernance
+| Tension | Excès | Insuffisance | Pour viser l’équilibre… |
+| --- | --- | --- | --- |
+| **Autonomie encadrée** | Micro-management | Disparité d’efforts | offrir un cadre d’OKR clairs ; déléguer la prise de décision. |
+| **Stabilité ↔ Flexibilité** | Plans rigides, démotivation | Réajustements désordonnés | fixer un cycle trimestriel d’ajustement. |
+| **Planification ↔ Expérimentation** | Obsession du plan | Expérimentation sans direction | limiter à 3 OKR tactiques par cycle. |
 
-En dehors de cela, elle s’incarne dans une **gouvernance** itérative et participative, qui articule la stratégie et l’opérationnel à travers des **boucles de feedback cadencées**, favorisant l’apprentissage collectif, la mobilité des ressources et l’alignement continu.
+## Le rôle pivot du management intermédiaire
 
-<aside>
-💡
+.Le management intermédiaire devient :
 
-**Modèle de gouvernance agilité tactique** : [**Participatif](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)** et [**itératif**](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
+- Orchestrateur de **mobilité tactique**,
+- Régulateur de **cadences d’adaptation :** Il **déclenche** les réajustements au bon moment,
+- Garant de **l’autonomie encadrée des équipes**.
 
-</aside>
+> « Nous n’avions pas besoin de plus de réunions, mais d’une cadence qui nous pousse à agir. » — Manager chez Technova
+> 
 
-<aside>
-📚
+---
 
-En savoir plus sur la [gouvernance](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
-
-</aside>
-
-# Les cadences du changement, pour une gouvernance itérative
+## Cadences tactiques : la respiration d’une organisation adaptable
 
 ![image.png](image%201.png)
 
-Le modèle de gouvernance tactique repose sur **deux cadences principales** :
+## Trois cadences pour faire vivre la tactique
 
-## La cadence d’adaptation
-
-C’est un processus typiquement **trimestriel** qui permet de **réajuster les grandes orientations stratégiques** et de reconfigurer les unités tactiques selon les besoins émergents :
-
-- Aligné avec les cycles OKR tactiques,
-- Permettant un ajustement des objectifs et des initiatives au regard de leur progression,
-- Permettant de **reconfigurer les unités tactiques** et leurs priorités.
-- Activant la **mobilité tactique** : réallocation des ressources humaines au sein des unités tactiques décidée lors des **revues tactiques**, un levier clé de l’[agilité organisationnelle](https://www.notion.so/L-agilit-organisationnelle-au-niveau-tactique-17b90eaf28ff806fa662c684c93ef069?pvs=21).
-
-## La cadence d’ajustement
-
-Les **revues d’ajustement tactiques** permettent d’**aligner en continu les choix opérationnels et tactiques** avec la stratégie de l’unité.
-
-- Synchronisée avec les [**revues opérationnelles](https://www.notion.so/Les-4-cadences-du-changement-et-de-l-apprentissage-13b90eaf28ff8091b4cce85974f50938?pvs=21),**
-- Vise à **corriger la trajectoire tactique** en fonction des signaux terrain.
-- Met l’accent sur **l’impact réel** des initiatives et sur la correction des écarts :
-    - Écart de connaissance : Information insuffisante pour une prise de décision optimale,
-    - Écart d’alignement : Les actions mises en œuvre diffèrent des plans initiaux,
-    - Écart d’effet : Les résultats obtenus ne correspondent pas aux attentes.
-
-Cette cadence permet **une exécution stratégique fluide**, un point faible dans de nombreuses entreprises.
-
-<aside>
-💡
-
-Sur un cycle tactique :
-
-- Les unités tactiques sont **stables**,
-- Les objectifs tactiques sont **stables**,
-- Les initiatives peuvent **évoluer**,
-- La configuration des équipes au sein de l’unité peut être modifiée en fonction des besoins liés aux initiatives.
-</aside>
-
-<aside>
-🧰
-
-En savoir plus sur les [4 cadences du changement](https://www.notion.so/Les-4-cadences-du-changement-et-de-l-apprentissage-13b90eaf28ff8091b4cce85974f50938?pvs=21)
-
-</aside>
+| Cadence | Fréquence | Finalité |
+| --- | --- | --- |
+| Cadence d’adaptation | Trimestrielle | Révision des priorités, reconfiguration des unités, ajustement des OKR |
+| Cadence d’ajustement | Mensuelle / bi-mensuelle | Correction des écarts d’alignement, de connaissance, d’effet |
+| Cadence opérationnelle | Hebdomadaire / bi-mensuelle | Exécution concrète, détection de signaux faibles |
+- **Cadence principale : Trimestrielle**
+    - Offre assez de recul pour vérifier la pertinence des OKR tactiques.
+    - Préserve la stabilité des unités tout en laissant place à l’expérimentation.
+- **Boucles intermédiaires**
+    - Mensuelle/Bi-mensuelle pour corriger en continu.
+    - Hebdo/Bi-hebdo pour détecter signaux faibles et basculer rapidement.
 
 ---
 
-## **L’articulation entre gouvernance stratégique et tactique**
+### Comment ça fonctionne ?
 
-L'efficacité de la gouvernance tactique dépend de sa synchronisation étroite avec les autres niveaux de gouvernance :
-
-- **Les [revue stratégique annuelle](https://www.notion.so/La-gouvernance-adaptative-strat-gique-13b90eaf28ff800996ccf4dc1e54bcc6?pvs=21)** → ajuste les orientations stratégiques,
-- **La revue tactique trimestrielle** → ajuste les ressources, objectifs tactiques et initiatives,
-- [**Les revues opérationnelles hebdomadaire](https://www.notion.so/La-gouvernance-adaptative-op-rationnelle-13b90eaf28ff80da8cefeb9b98d6b1c9?pvs=21)s** → ajuste l’exécution concrète des initiatives.
-
-Cette architecture en [**cadences imbriquées**](https://www.notion.so/Une-approche-mixte-et-cadenc-e-du-changement-18290eaf28ff806ab935cdfd0c0ff10e?pvs=21) permet un **pilotage adaptatif multi-niveaux** (portfolio, stratégique, tactique, opérationnel), clé de voûte de l’entreprise agile.
-
----
-
-## **Un pilotage par l’impact pour maximiser l’efficacité**
-
-La gouvernance tactique repose sur **un pilotage par l’impact**, remplaçant une gestion traditionnelle par projet. La tactique est le niveau où s'opèrent **les arbitrages et les ajustements** en fonction des réalités opérationnelles. C’est là que la stratégie prend corps et que l’entreprise active sa capacité à s’adapter. Elle permet :
-
-- De s’appuyer sur des **cycles OKR trimestriels** pour définir, suivre et ajuster les objectifs tactiques,
-- De piloter les **initiatives** issues des objectifs tactiques,
-- De réallouer les **ressources dans les unités tactiques** selon les priorités,
-- D’expérimenter et d’apprendre par l’action, pour faire émerger des éléments stratégiques nouveaux (stratégie émergente).
-
-La tactique est donc le **pivot** du changement continu : elle permet une gouvernance en mouvement, où l’adaptation devient une compétence organisationnelle, sans changer pas de cap à chaque cycle, mais adaptent leur manière d’avancer, en cohérence avec une stratégie.
+- **Définition & pilotage d’OKR tactiques**
+    
+    Traduisent la stratégie en 3–5 objectifs prioritaires par unité.
+    
+- **Ajustement des ressources**
+    
+    Réallocation en fonction des résultats intermédiaires (retours, KPIs, feedback).
+    
+- **Revues tactiques**
+    
+    Décision d’accélérer/pivoter/stopper des objectifs sur le prochain cycle.
+    
 
 ---
 
-## **Vers une gouvernance tactique agile**
+### Comment gérer le changement ?
 
-Grâce à une **gouvernance adaptative**, les unités tactiques disposent d’**une autonomie décisionnelle accrue**, favorisant :
+- **Unité & objectifs stables** sur un trimestre
+- **Initiatives évolutives** : lancement, test, adaptation sans renégocier tout le plan
+- **Revues tactiques** : moment où l’on recompose les équipes selon les priorités
+- **Dysfonctionnement** : sans mobilité, les équipes tirent dans des directions opposées et la stratégie se perd dans les frictions.
 
-- **L’a**lignement dynamique et la cohérence globale,
-- Une prise de décision rapide et fondée sur des données concrètes,
-- **Une a**llocation efficace des ressources selon les priorités changeantes
-- **Une transparence accrue**, avec des **boucles de feedback** continues entre les niveaux stratégiques, tactiques et opérationnels.
-- **Un processus décisionnel réactif**, où la valeur créée est évaluée en continu, tout au long du cycle tactique.
-- Une capacité d’**ajuster les processus opérationnels** à chaque nouveau cycle.
+---
 
-### Une logique d’apprentissage organisationnel
+### Synchronisation multi-niveaux
 
-Chaque cycle tactique intègre une **dynamique d’inspection et d’adaptation**. On y mesure non seulement l’impact des initiatives, mais aussi :
+| Niveau | Cadence | Rôle |
+| --- | --- | --- |
+| **Stratégique** | Annuel / Trimestriel | Choisir les grands axes, allouer les budgets |
+| **Tactique** | Trimestriel / Mensuel | Exécuter et ajuster les priorités |
+| **Opérationnel** | Hebdomadaire | Réaliser le terrain, réagir localement |
 
-- Le niveau de coordination entre unités,
-- La réactivité de l’organisation,
-- L’apprentissage généré.
+**Boucle adaptative** : chaque rituel alimente le suivant.
 
-Cela crée une **capacité organisationnelle à apprendre en continu**, pilier de la transformation agile durable.
+> Cadences imbriquées garantissent un pilotage adaptatif de bout en bout.
+> 
+
+## Premiers pas : votre checklist de démarrage
+
+1. Sélectionner une **unité pilote** transverse.
+2. Bloquer **10 % de slack tactique** dans la capacity planning.
+3. Mettre en place un **board partagé** (OKR, KPIs, critères d’arrêt).
+4. Planifier la première **revue tactique** dans 4 semaines.
 
 ---
 
 # 🔑 Points clés à retenir
 
-<aside>
-🌟
+✅ Gouvernance = **rythme maîtrisé**, pas réunionite.
+✅ Management intermédiaire = **chef d’orchestre** des boucles adaptatives.
+✅ **Rituels courts** pour aligner et réagir.
+✅ **Pilotage par l’impact** et renoncements ciblés libèrent la capacité d’innovation.
+✅ **Apprentissage collectif** = carburant de la stratégie vivante.
 
-**L’enjeu majeur**
-
-Assurer un équilibre entre **autonomie locale et alignement global**, en facilitant la **mobilité tactique et les ajustements en continu**.
-
-</aside>
-
-✅ **Gouvernance tactique adaptative** : elle soutient à la fois l'exécution et l'évolution de la stratégie.
-
-✅ **Autonomie encadrée** : les unités tactiques disposent de marges de manœuvre, tout en respectant un couplage fort avec leur unité stratégique.
-
-✅ **Cadences structurées** : elles permettent des ajustements fréquents tout en évitant les surréactions.
-
-✅ **Pilotage par l’impact** : les décisions sont prises en fonction des résultats, pas selon des plans figés.
-
-✅ **Rôle renforcé du management intermédiaire** : il orchestre la mobilité et développe les capacités d’exécution.
-
-✅ **Apprentissage collectif et stratégie émergente** : la tactique devient un terrain fertile pour faire émerger l’avenir stratégique.
-
----
+### 👉 Et maintenant ? [S’organiser](https://www.notion.so/L-agilit-organisationnelle-au-niveau-tactique-17b90eaf28ff806fa662c684c93ef069?pvs=21) [](https://www.notion.so/L-agilit-organisationnelle-au-niveau-strat-gique-17790eaf28ff80569d37d43fbed7a8ca?pvs=21)pour faire vivre cette boucle tactique.

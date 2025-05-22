@@ -8,20 +8,19 @@ Propriétaire: Laurent Morisseau
 ✨
 
 **Objectif**
-Cette section vise à définir les principes de **design organisationnel** pour structurer et piloter les **unités tactiques**, afin d’assurer une véritable agilité à chaque niveau des chaînes de valeur. Ce travail relève du **design horizontal**, orienté vers la maximisation de l’autonomie locale tout en garantissant un alignement clair avec les orientations stratégiques globales.
+Faire des **unités tactiques** des cellules autonomes et adaptables, capables de livrer et coopérer au cœur des chaînes de valeur. Ici, l’**agilité par le design** inscrit la réactivité organisationnelle dans la structure même, sans lancer de gros programmes de transformation.
 
 </aside>
 
-# La raison d’être de l’agilité tactique
+# Principes fondamentaux de design vivant
 
-<aside>
-🥉
+![image.png](image.png)
 
-**Agilité organisationnelle au niveau Tactique**
+## Qu’est-ce qu’une unité tactique ?
 
-**Objectif** :  Concevoir et structurer des unités tactiques capables de répondre efficacement aux ajustements nécessaires, tout en minimisant les interdépendances organisationnelles. Ces unités représentent la structure fondamentale de chaque chaîne de valeur au sein d'une unité stratégique, permettant une exécution agile et cohérente.
+C’est une structure d’exécution quasi autonome, conçue pour maximiser l’impact sur l’utilisateur et la réactivité face aux signaux terrain.
 
-</aside>
+Elle est centrée sur la création directe de valeur pour les utilisateurs et clients. Elle regroupe équipes et processus clés capables de livrer cette valeur de manière autonome tout en restant alignée avec la stratégie globale de l’unité stratégique à laquelle elle appartient.
 
 <aside>
 ⚠️
@@ -30,153 +29,151 @@ Cette section vise à définir les principes de **design organisationnel** pour 
 
 </aside>
 
-<aside>
-🧰
-
-Les principes généraux de l’[agilité organisationnelle](https://www.notion.so/L-agilit-organisationnelle-13490eaf28ff80918f84ee8e39eddc99?pvs=21)
-
-</aside>
-
-# Principes de design organisationnel des unités tactiques
-
-![image.png](image.png)
+## Pourquoi repenser le design organisationnel tactique ?
 
 <aside>
-💡
+➿
 
-**Unité tactique**
+Quand le backlog de Technova Capteurs est devenu obsolète en 3 mois, l’urgence n’était pas un manque de plan, mais un manque de **structure organique** pour pivoter vite. Plutôt que de lancer un grand programme, l’entreprise a redessiné ses unités tactiques pour qu’elles s’adaptent **en continu** à chaque signal terrain.
 
-Une **unité tactique** est centrée sur la création directe de valeur pour les utilisateurs et clients. Elle regroupe équipes et processus clés capables de livrer cette valeur de manière autonome tout en restant alignée avec la stratégie globale de l’unité stratégique à laquelle elle appartient.
-
+> Avant : plans figés, 0 pivot en 6 mois
+> 
+> 
+> **Après :** 4 pivots réussis, time-to-market réduit de 20 %, satisfaction client +15 %
+> 
 </aside>
 
-L’agilité tactique implique nécessairement une **coordination et intégration efficace**, qui agit comme un contrepoids essentiel à la différenciation locale. Plus l’organisation favorise l’agilité locale, plus elle doit maîtriser ses mécanismes de coordination pour assurer une exécution stratégique alignée et cohérente.
+L’agilité tactique ne repose pas uniquement sur des pratiques d’équipe. Elle s’incarne dans un **design organisationnel horizontal**, orienté vers :
 
-Le défi du design organisationnel tactique est de trouver le juste équilibre entre **autonomie locale** et **alignement stratégique global**, afin de garantir une réactivité opérationnelle maximale sans perdre en cohérence organisationnelle. Elle favorise les mécanismes de coordination qui soutiennent à la fois **l’efficacité opérationnelle** et le **développement stratégique**.
+- **La fluidité des livraisons**,
+- **La mobilité des ressources**,
+- **La réduction des dépendances**,
+- **L’ancrage local de la décision**.
 
-## **Objectifs du design tactique**
+## Les tensions clés à piloter
 
-- **Alignement dynamique**
-    
-    Assurer l'alignement des unités tactiques avec la stratégie tout en permettant des ajustements opérationnels rapides.
-    
-- **Stratégie tactique adaptative**
-    
-    Maintenir une flexibilité suffisante pour permettre l’émergence d’initiatives tactiques en réponse aux réalités locales.
-    
-- **Autonomie opérationnelle**
-    
-    Maximiser la capacité de réaction autonome des unités tactiques pour renforcer leur impact opérationnel.
-    
-- **Cohérence horizontale**
-    
-    Éviter la formation de silos en facilitant la coopération horizontale entre unités.
-    
-- **Mobilité tactique**
-    
-    Permettre la réallocation rapide des ressources selon les priorités tactiques évolutives.
-    
+Dans la gouvernance tactique, quatre tensions fondamentales exigent une posture d’équilibriste :
+
+| Tension | Risque d’excès | Risque d’insuffisance | Équilibre visé |
+| --- | --- | --- | --- |
+| **Différenciation ↔ Coordination** | Unités isolées, silos paralysants | Uniformité rigide, perte d’innovation locale | Favoriser la coordination horizontale sans niveler les spécificités |
+| **Autonomie tactique ↔ Alignement stratégique** | Initiatives déconnectées de la stratégie globale | Dysfonctionnement par excès de contrôle central | OKR tactiques alignés aux OKR stratégiques |
+| **Efficacité opérationnelle ↔ Développement stratégique** | Confort du « run » au détriment de l’innovation | Ressources dispersées sans consolidation de KPI | Arbitrer chaque trimestre : % capacité run vs % capacité build |
+| **Stabilité des équipes ↔ Mobilité tactique** | Équipes immuables, montée de l’inertie | Réorganisation permanente, perte de cohésion | Reteaming structuré à chaque cycle tactique pour allier ancrage et renouveau |
 
 ---
 
-## **Enjeux & périmètre d’intervention**
-
-- **Guide opérationnel de design**
-    
-    Structuration des unités tactiques en cohérence avec les orientations stratégiques.
-    
-- **Transformation agile décentralisée**
-    
-    Approche combinée descendante (stratégique) et ascendante (opérationnelle), pour une adaptation continue et fluide.
-    
-- **Capacité agile clé**
-    
-    Développer la flexibilité et la réactivité via des cycles courts et un feedback constant.
-    
-- **Portée**
-    
-    Structuration des unités, gestion des coordinations horizontales et articulation avec les niveaux stratégiques et opérationnels.
-    
+> **À surveiller :** suivez ces tensions via votre dashboard tactique et ajustez en continu.
+> 
 
 ---
 
-## Principes de conception tactiques
+## Quatre principes pour un design tactique vivant
 
-Les unités tactiques sont définies selon **quatre principes clés** :
-
-### **Minimiser les interdépendances**
+| Principe | Pourquoi ? | Mise en œuvre rapide |
+| --- | --- | --- |
+| **1. Autonomie locale** | Décisions prises au plus près de la valeur | Backlog & OKR propres |
+| **2. Interdépendances minimales** | Réduire les freins systémiques | Découpage par chaîne de valeur ou domaine métier- Responsabilités claires- Interfaces explicites |
+| **3. Boucles de feedback intégrées** | Apprentissage rapide et aligné | Revues tactiques (mensuelles), feedback terrain structuré |
+| **4. Allègement hiérarchique** | Libérer la capacité d’action collective | - Moins de niveaux intermédiaires- Rôles clairs mais légers- Manager = facilitateur d’impact |
 
 <aside>
-💡
+➿
 
-**Le deuxième principe de design opérationnel consiste à minimiser les interdépendances, pour livrer de la valeur rapidement**.
+**Reteaming réussi** 
+
+Une unité a réorganisé ses équipes à chaque début de sprint pour s’assurer de travailler sur les sujets à plus forts impacts.
+
+**Résultat** :  Meilleur taux de réussite d’atteinte des OKR tactiques partagés.
 
 </aside>
 
-- Privilégier des **unités autonomes**, capables de livrer de la valeur sans [**interdépendances réciproques**](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21).
-- Réduire les autres **interdépendances** qui ralentissent la prise de décision et l'exécution.
+### Mécanismes de coordination tactique
 
-### **Réduire les boucles de contrôle, renforcer les boucles de feedback**
+Les unités tactiques nécessitent une **coordination horizontale fluide** :
 
-- Limiter la bureaucratie et favoriser des **décisions prises au plus près de l’action**.
-- Instaurer des **mécanismes de feedback rapides**, afin d’ajuster les initiatives en continu.
+- **Backlogs partagés** comme mémoire d’action,
+- **Rituels de synchronisation** comme rythmes collectifs,
+- **Réseaux d’ajustement mutuel** comme mécanismes d’alignement non hiérarchiques,
+- **Structures modulaires** pouvant se recomposer à chaque cycle.
 
-### **Réduire les rôles hiérarchiques superflus**
+**Les mécanismes de coordination :** 
 
-- Réduire les rôles strictement hiérarchiques au profit de rôles opérationnels ou collectifs.
-    
-    Maintenir néanmoins un cadre managérial clair pour gérer les exceptions et adapter le degré d’autonomie accordé aux équipes selon les circonstances.
-    
-- Limiter les titres excessifs (Manager, Owner, Lead…) pour éviter une **rigidité organisationnelle**.
-- Favoriser **une responsabilisation collective** au sein des unités tactiques.
+| Logique | Principe de découpage | Principe de coordination |
+| --- | --- | --- |
+| **Projet** | Équipe pluridisciplinaire autonome orientée initiative | Coordination par l’intégration, avec un [Backlog unique](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
+| **Produit** | [**Domaines métier (ou valeur)**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21) | Coordination par l’intégration, avec un [Backlog unique](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
+| **Flux** | [**Chaînes de valeur**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21) | Coordination par les processus, avec un [réseau de Backlogs](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
+| **Réseau** | Cellules connectées adaptatives autour d’un sujet émergent | Coordination par les processus, avec un [réseau de Backlogs](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
 
-### **Organisation décentralisée et ascendante**
-
-- Mettre en œuvre une [**approche organizing**](https://www.notion.so/Organizing-une-approche-du-design-op-rationnel-14490eaf28ff80a3980ce541e1075585?pvs=21), permettant une **évolution fluide des unités tactiques** en fonction des besoins.
-- Adopter une **logique d’auto-organisation**, où les équipes définissent leurs propres méthodes de travail au sein du cadre tactique.
-
----
-
-## **Coordination horizontale agile**
-
-L’agilité au niveau tactique repose sur des mécanismes de coordination horizontaux, souples et adaptatifs, plutôt que sur des procédures rigides.
-
-### **Mécanismes privilégiés**
-
-- **Coordination par [ajustement mutuel](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)**
-    - Favoriser des **mécanismes de [réseau](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21), d’[équipe](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21) et d’[intégrateur](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)** (en tant que rôle opérationnel, non managérial), qui permettent une coordination flexible sans nécessiter de validation hiérarchique.
-    - Éviter les **mécanismes de [structure](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21),** trop rigides, qui entravent l’agilité et la capacité d’adaptation des unités tactiques.
-- **Une [organisation duale](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21)**
-    - Séparer la **structure formelle** (cadre organisationnel minimal) et le **réseau informel** (fluidité et coopération naturelle entre équipes). Les unités tactiques peuvent selon les contextes être plus de l’ordre de la structure formelle - chaînes de valeur stables, domaines métier, processus métier - ou de l’ordre de la structure informelle - projets.
-    - Intégrer des **boucles de feedback transversales**, facilitant l’alignement et la synchronisation des décisions.
-- Le Backlog au cœur de cette mécanique
-    - Une coordination par l’intégration, avec un [Backlog unique](https://www.notion.so/Le-backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) pour les approches [Produit](https://www.notion.so/Agile4Product-Arch-type-Produit-13490eaf28ff80b29733f767568ab6a5?pvs=21) et [Projet](https://www.notion.so/Agile4Project-Arch-type-Projet-agile-13490eaf28ff8030a8aeecf9206d94ea?pvs=21)
-    - Une coordination par les processus, avec un [réseau de Backlogs](https://www.notion.so/Le-backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) pour les approches [Flux](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21) et [Réseau](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21)
+> La coordination devient un organe vivant plutôt qu’un organe de contrôle.
+> 
 
 <aside>
-📚
+➿
 
-En savoir plus sur les [connexions latérales](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)
+**Technova**
+
+En retravaillant son design, Technova Capteurs a créé 5 unités tactiques horizontales. Chacune a son propre backlog orienté utilisateur, et ses propres OKR tactiques.
+
+Une unité a attendu la revue trimestrielle pour pivoter. Les retards cumulés ont coûté 3 semaines de time-to-market. Des revues ad-hoc peuvent être maintenant déclenchés à la demande.  
 
 </aside>
 
-<aside>
-📚
+## Votre feuille de route 1ʳᵉ trimestre
 
-En savoir plus sur l’agilité organisationnelle dans notre [wiki](https://www.notion.so/L-agilit-organisationnelle-13e90eaf28ff8014ac68ea06b71fabd3?pvs=21), ou dans notre [livre](https://www.notion.so/Section-IV-Le-design-strat-gique-au-service-de-l-agilit-organisationnelle-13790eaf28ff80bbbba7e3484b4e8865?pvs=21).
+| Période | Objectif | Action clé |
+| --- | --- | --- |
+| **Mois 1** | Lancer l’unité pilote | Atelier kick-off & définition de 3 OKR |
+| **Mois 2** | Piloter & collecter le feedback | Sprint pilote + review hebdo |
+| **Mois 3** | Revue tactique & réajustements | Session 2 h : pivoter/accélérer/stopper |
 
-</aside>
+## Et concrètement, lundi matin ?
+
+**Lancez un atelier de design tactique avec votre CoDir ou vos managers intermédiaires.**
+
+### 1. Challenger votre design actuel
+
+- Quelle unité tactique n’a jamais redessiné son périmètre  ?
+- Quels backlogs ou processus persistent par inertie, sans créer de valeur ?
+
+### 2. Cartographier les dépendances
+
+- Quelles dépendances implicites freinent la livraison ?
+- À quels points la valeur se perd-elle entre le feedback client et la décision tactique ?
+
+### 3. Raccourcir les boucles de feedback
+
+- Comment intégrer immédiatement les retours utilisateurs ?
+
+### 4. Aligner structure et flux de valeur
+
+- Comment regrouper, découper ou croiser les équipes pour que la valeur **remonte naturellement** vers la décision tactique ?
+
+### 5. Activer un principe tactique dès demain
+
+- Choisissez 1 principe (ex. autonomie locale), traduisez-le en OKR.
+- Mettez en place un rituel hebdo de 30 min pour suivre cet OKR.
+- Désignez un **intégrateur transverse** (coach agile, processus owner) pour challenger et ajuster en continu.
+
+> **Ne réinventez pas toute l’organisation :** testez un seul principe, mesurez l’impact, puis étendez-le au cycle suivant.
+> 
 
 ---
 
 # **🔑 Points clés à retenir**
 
-✅ **Structuration agile** : Unités tactiques conçues pour s'adapter aux besoins opérationnels tout en maintenant l'alignement stratégique.
+✅ **Design horizontal** : unités structurées pour livrer et coopérer, pas siloter.
 
-✅ **Transformation décentralisée** : Combinaison efficace d'une gouvernance stratégique claire et d'une adaptabilité locale constante.
+✅ **Autonomie & feedback** : décisions locales, cycles courts, apprentissage constant.
 
-✅ **Principes optimisant la réactivité** : Réduire interdépendances et boucles de contrôle, renforcer les feedbacks rapides et limiter les rôles hiérarchiques pour faciliter la réactivité.
+✅ **Hiérarchie allégée** : manager = coach, moins de filtres, plus de fluidité.
 
-✅ **Coordination agile horizontale** : Favoriser des mécanismes souples de coopération (réseaux informels, Backlogs adaptatifs) pour éviter la rigidité organisationnelle.
+✅ **Synchronisation multi-archétypes** : adaptez le backlog et les rituels à chaque modèle.
 
-✅ **Exécution stratégique** : Maximiser l'autonomie locale tout en maintenant une synchronisation stratégique dynamique via des mécanismes de feedback continus.
+✅ **Reconfigurabilité** : structurez pour évoluer par petits pas, au rythme des besoins et des apprentissages.
+
+> Le design tactique est votre plate-forme de réactivité : elle transforme l’organisation en système vivant, prêt à réagir et s’adapter.
+> 
+
+### 👉 La suite ? [Passez à l’action](https://www.notion.so/L-agilit-Tactique-en-action-13490eaf28ff805bb9f7f2562f76465e?pvs=21) avec des outils tactiques actionnables.
