@@ -9,87 +9,132 @@ Propriétaire: Laurent Morisseau
 
 **Objectif**
 
-L’**agilité organisationnelle au niveau opérationnel** consiste à concevoir des **unités opérationnelles dynamiques**, capables de **réagir rapidement aux ajustements tactiques**, dans un cadre cohérent avec la stratégie d’entreprise.
-
-Elle repose sur des **équipes autonomes, adaptatives et alignées**, structurées pour **maximiser leur impact** sur la **chaîne de valeur**, tout en restant reliées à la vision globale.
-
-Ce niveau d’agilité incarne une capacité clé : **l’adaptabilité organisationnelle par le design**, qui permet à l’entreprise de se réinventer en continu sans passer par des projets de transformation.
-
-</aside>
-
-# Raison d’être
-
-<aside>
-🧰
-
-Les principes généraux de l’[agilité organisationnelle](https://www.notion.so/L-agilit-organisationnelle-13490eaf28ff80918f84ee8e39eddc99?pvs=21)
+**Créer un cadre dans lequel les équipes peuvent se réorganiser rapidement pour répondre aux enjeux tactiques** de manière efficace.
 
 </aside>
 
 <aside>
-🏅
+🧑‍🎓
 
-**Agilité organisationnelle au niveau Opérationnel**
+**Lexique rapide**
 
-**Objectif** : Concevoir les unités opérationnelles, les équipes, les groupes de travail, capables de répondre de manière efficace à des mouvements tactiques.
+- **Dynamic reteaming** : recomposition agile des équipes selon les besoins.
+- **OKR tactiques** : Objectifs et Résultats Clés à l’échelle opérationnelle, alignés sur la stratégie.
+- Modèle 4E : Exploration, Expansion, Exploitation, Exclusion.
+</aside>
+
+<aside>
+➿
+
+*Chez TechNova, une opportunité commerciale majeure s’est ouverte pour un nouveau service.*
+
+*Trois jours après l’annonce, l’équipe prototype, initialement dédiée à un PoC moins prometteur, a été mobilisée pour renforcer l’équipe produit. Les développeurs, novices sur cette techno, ont collaboré sur les cas d’usage et les tests, permettant de livrer un premier MVP fonctionnel en 15 jours.*
 
 </aside>
 
-L’agilité organisationnelle à ce niveau **ne se résume pas à l’autonomie des équipes**, mais à la **capacité du système à se reconfigurer au fil des priorités tactiques**. Elle est la réponse opérationnelle à une stratégie adaptative : au lieu d’imposer des structures figées, on conçoit des **unités flexibles**, capables d’adopter différents modèles de fonctionnement (produit, flux, projet) selon leur zone d’action dans le **cycle de vie du produit ou service**.
-
-# Les principes de design organisationnel au niveau d’une équipe
+# Une structure opérationnelle vivante
 
 ![image.png](image.png)
 
-## L’objectif
+L’entreprise agile ne délègue pas l’agilité à ses équipes : elle **design intentionnellement l’organisation opérationnelle** pour qu’elle soutienne l’autonomie, la fluidité et l’impact.
+
+Ce niveau d’agilité repose sur trois principes :
+
+1. **Stabilité structurante** : des équipes suffisamment stables, ancrées dans la chaîne de valeur.
+2. **Flexibilité adaptative** : possibilité de changer de forme, de méthode ou de mission selon les zones stratégiques.
+3. **Couplage fort local** : coordination renforcée au sein de l’unité tactique pour rester aligné et réactif.
+
+## Le modèle 4E appliqué à l’équipe
+
+Les **équipes agiles** ne sont pas toutes les mêmes. Elles se structurent selon :
+
+- Leur **zone d’action** dans le modèle 4E (Exploration, Expansion, Exploitation, Exclusion),
+- Leur **rôle dans le cycle de vie du produit/service**,
+- Leur **mode de coordination privilégié** (intégration, réseau, équipe, supervision…),
+- Leur **degré de stabilité et autonomie**.
 
 L’objectif est d’assurer que **les équipes disposent des bons mécanismes d’autonomie et de coordination** pour **exécuter efficacement leurs missions** dans un cadre organisationnel fluide et évolutif.
 
-## Les enjeux
+| Zone | Objectif | Type d’équipe | Méthode principale | Coordination privilégiée |
+| --- | --- | --- | --- | --- |
+| **Exploration** | Apprendre vite | Équipes ad hoc ou réseau | Lean Startup | Supervision directe + réseau |
+| **Expansion** | Passer à l’échelle | Feature/Produit/Impact | Scrum + OKR | Backlog produit |
+| **Exploitation** | Optimiser la performance | Équipe stable | Kanban | Rôles d’intégrateur, Classes de service |
+| **Exclusion** | Désengager / Clôturer | Cellules de transition projet | Gestion de projet | Coordination projet |
 
 <aside>
-⚠️
+➿
 
-**Le paradoxe à résoudre**
+A TechNova, l’opportunité a mobilisé deux zones du cycle 4E :
 
-L’agilité promeut des équipes, des chaînes de valeur et des produits stables tout en recherchant une organisation flexible et dynamique.
-
+1. **Zone Expansion : Équipe Produit**
+    - **Objectif** : développer rapidement le service pour capter le prospect clé.
+    - **Méthode** : Scrum.
+    - **Coordination** : backlog produit unifié, Daily stand-up intensif.
+2. **Zone Exploration : Équipe Prototype**
+    - **Objectif** : apporter des compétences sur la techno émergente.
+    - **Méthode** : Lean Startup appliqué aux tests et cas d’usage.
+    - **Coordination** : design sprint de 3 jours
 </aside>
 
-## Principes de design au niveau de l’équipe
+---
 
-Les principes classiques de l’[équipe agile](https://www.notion.so/L-quipe-agile-14390eaf28ff80d4994fd4a749781fa8?pvs=21) (autonomie, responsabilité collective, pluridisciplinarité, feedback fréquent) restent essentiels. Mais dans une logique systémique d’agilité d’entreprise, ils doivent être **augmentés par trois dynamiques clés** :
+### Une organisation reconfigurable à chaque cycle
 
-- **Couplage fort au sein des unités tactiques**, pour assurer réactivité et cohérence entre équipes partageant des objectifs.
-- **Mobilité opérationnelle**
-    
-    La structure s’adapte aux enjeux, les équipes peuvent évoluer (avec ou sans stabilité) selon le principe de [Dynamic reteaming](https://www.notion.so/La-mobilit-strat-gique-une-solution-pour-une-organisation-dynamique-14390eaf28ff801fa7fbef124c330c15?pvs=21) : Le choix est proposé aux équipes entre équipes stables et dynamiques, selon leur contexte.
-    
-- **Adopter des configurations différentes et gérer leur propre dynamique de travail** en fonction des objectifs tactiques et opérationnels avec le modèle 4E.
+L’organisation opérationnelle bouge au rythme des boucles adaptatives :
 
-Ce modèle dépasse la simple agilité d’équipe : il permet une **conception organique des unités opérationnelles**, intégrée à la [gouvernance adaptative de l’organisation](https://www.notion.so/La-gouvernance-adaptative-op-rationnelle-13b90eaf28ff80da8cefeb9b98d6b1c9?pvs=21).
+- revues hebdo/bimensuelles pour arbitrer périmètres, priorités et ressources.
+- **Dynamic reteaming** : appliquer un protocole de reconfiguration « light » : évaluer, décider, mettre en œuvre.
+- **Slack et ressources ponctuelles** : maintenir une marge de manoeuvre disponible pour absorber les perturbations.
+- **Boucle d’amélioration continue** : mesurer l’impact des réconfigurations et ajuster les mécanismes.
+
+Cette mobilité se fait avec discernement : certaines équipes restent stables (zone d’exploitation), d’autres sont volontairement éphémères (zone d’exploration). Les décisions sont prises en lien avec la gouvernance adaptative, lors des **revues d’adaptation**.
+
+[Fast Agile](https://www.notion.so/Fast-Agile-18990eaf28ff805c9d61cea1a9896532?pvs=21) peut être une source d’inspiration radicale sur ce dynamic reteaming.
+
+> L’organisation oriente l’action sans figer ni disperser.
+> 
 
 <aside>
-📚
+➿
 
-En savoir plus sur les [équipes stables et dynamiques](https://www.notion.so/quipe-stable-et-organisation-dynamique-un-second-paradoxe-de-l-agilit-14390eaf28ff80a39deffbe7db0f3b06?pvs=21)
+L’agilité opérationnelle en 4 phases :
 
+1. **Revues adaptatives** (jour J+1)
+    - Identification de l’opportunité et arbitrage ressources.
+2. **Dynamic Reteaming** (J+2 à J+3)
+    - Sélection du prototype team, définition des rôles, communication.
+3. **Ateliers cas d’usage & tests** (J+4 à J+7)
+    - Focus sur les user stories critiques et environnement de test.
+4. **Livraison MVP** (J+15)
+    - Validation avec 5 clients pilote et premiers retours intégrés.
+
+> Cette réorganisation tactique a permis de transformer une capacité inexploitée en levier d’innovation accélérée.
+> 
 </aside>
 
-<aside>
-📚
+## Et concrètement, lundi matin ?
 
-En savoir plus sur l’approche [Organizing](https://www.notion.so/Organizing-une-approche-du-design-op-rationnel-14490eaf28ff80a3980ce541e1075585?pvs=21)
+1. Identifiez un OKR commun a plusieurs équipes différentes
+2. Laissez les équipes s’auto-organiser pour être en succès à la fin du cycle tactique
+3. Débriefer de l’expérimentation : les organisations temporaires ont-elles été efficaces ?
 
-</aside>
+---
 
-## Le modèle 4E appliqué au niveau opérationnel
+# **🔑 Points Clés à Retenir**
 
-Le [**modèle 4E**](https://www.notion.so/Le-mod-le-agile-A4E-13490eaf28ff80529f43eb6739221080?pvs=21) (Exploration, Expansion, Exploitation, Exclusion) permet de structurer les équipes selon **leur rôle dans le cycle de vie des produits et services**. Chaque zone implique des objectifs, des méthodes et des formes de coordination différentes. L’objectif est de garantir que les équipes et les processus :
+- ✅ **Design vivant des unités opérationnelles** : stable quand nécessaire, flexible quand utile.
+- ✅ **Modèle 4E comme système de positionnement des équipes**
+- ✅ **Autonomie + coordination + feedback = exécution agile**
+- ✅ **L’agilité d’équipe n’est pas la fin, mais la conséquence d’un design systémique intelligent**
+- ✅ **L’organisation peut s’ajuster sans “transformation”** → via les cadences, les mécanismes de mobilité et de régulation continue
 
-- **Sont alignés avec les objectifs stratégiques et tactiques**,
-- **Adoptent un modèle opératoire agile et évolutif**,
-- **Optimisent leur impact en fonction de leur position dans le cycle de vie**.
+> L’agilité opérationnelle est un art de l’équilibre : orchestrer sans figer, innover sans disperser.
+> 
+
+---
+
+# Annexe
 
 ### Zone d’Exploration : Expérimenter et apprendre
 
@@ -108,7 +153,7 @@ Design organisationnel : structure plate, supervision directe, mécanismes de fe
 
 - [**La coordination verticale](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21) :** forte verticalité (leadership entrepreneurial) + coordination horizontale en réseau.
     
-    Un [modèle organisationnel adapté](https://www.notion.so/Le-design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21) est le modèle centré sur l’entrepreneur, organisation plate par nature, avec la [supervision directe](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21) du leader comme mécanisme de coordination verticale.
+    Un [modèle organisationnel adapté](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21) est le modèle centré sur l’entrepreneur, organisation plate par nature, avec la [supervision directe](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21) du leader comme mécanisme de coordination verticale.
     
 - [**La coordination horizontale**](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)
     
@@ -206,61 +251,9 @@ En savoir plus sur la [zone d’Exclusion](https://www.notion.so/De-l-entreprise
 
 </aside>
 
----
-
 <aside>
 📚
 
 En savoir plus sur l’agilité organisationnelle dans notre [wiki](https://www.notion.so/L-agilit-organisationnelle-13e90eaf28ff8014ac68ea06b71fabd3?pvs=21), ou dans notre [livre](https://www.notion.so/Section-IV-Le-design-strat-gique-au-service-de-l-agilit-organisationnelle-13790eaf28ff80bbbba7e3484b4e8865?pvs=21).
-
-</aside>
-
----
-
-## **Intégration du modèle 4E dans l’organisation**
-
-La mise en œuvre du [**modèle 4E**](https://www.notion.so/Le-mod-le-agile-A4E-13490eaf28ff80529f43eb6739221080?pvs=21) repose sur plusieurs principes clés pour assurer une **exécution fluide et cohérente** à tous les niveaux organisationnels :
-
-### **Alignement stratégique et opérationnel**
-
-- Chaque équipe doit être positionnée **dans une zone de management claire** et adopter un mode de travail cohérent.
-- Les décisions stratégiques et tactiques influencent la **distribution des ressources et des compétences**.
-
-### **Mobilité et agilité organisationnelle**
-
-- Les équipes peuvent évoluer entre les zones stratégiques en fonction des priorités et des transformations.
-- Une gouvernance adaptative assure la réallocation fluide des ressources.
-
-### **Gouvernance et pilotage continu**
-
-- Des **revues opérationnelles régulières** permettent d’ajuster en continu l’organisation.
-- La gestion des interdépendances entre zones est clé pour éviter les blocages.
-
----
-
-## **🔑 Points Clés à Retenir**
-
-✅ **Une conception dynamique des unités opérationnelles**
-
-- Capacité à évoluer dans le cycle de vie produit.
-- Des équipes configurables selon leur zone (exploration, expansion, etc.).
-
-✅ **Un cadre organisationnel fluide mais structuré**
-
-- Autonomie d’équipe + couplage fort dans l’unité.
-- Feedback rapide + gouvernance adaptative.
-
-✅ **Un alignement stratégique, tactique et opérationnel**
-
-- Chaque équipe est positionnée dans une zone claire, avec des mécanismes de coordination adaptés.
-
-✅ **Un modèle de référence pour la conception opérationnelle dans une entreprise agile**
-
-- Le modèle 4E devient une boussole pour **concevoir, structurer, faire évoluer** les unités et équipes.
-
-<aside>
-🌟
-
-**L’enjeu principal est de concilier flexibilité organisationnelle et efficacité opérationnelle** en permettant aux équipes d’évoluer naturellement au sein du modèle 4E.
 
 </aside>

@@ -2,50 +2,71 @@
 
 Propriétaire: Laurent Morisseau
 
-# Outils du Framework Agile4Enterprise
-
-L’agilité opérationnelle s’appuie sur plusieurs outils structurants :
-
-## Modèles pour analyser, comprendre et concevoir
-
-- [Modèle 4E](https://www.notion.so/Le-mod-le-A4E-de-l-agilit-portfolio-13490eaf28ff803a884fc20066900149?pvs=21), pour le choix de la méthode selon le cycle de vie
-
-## Outils de transformation
-
-- Modèle de maturité **IMPACTE**, au [](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21)[niveau opérationnel](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21)
-    - Évalue la capacité d’une unité à s’adapter rapidement aux changements.
-    - Permet de structurer un programme de transformation progressive.
-- **ACTE, au niveau opérationnel**
-    
-    ACTE, Agile Canevas pour la Transformation d’Entreprise, est un outil visuel permettant de faire le lien entre la stratégie, les OKR stratégiques, le modèle opératoire, les OKR tactiques et l’opérationnel.
-    
-    Cet outil intègre notamment le plan de transformation pour faire le lien entre les OKR tactiques et l’opérationnel sur deux dimensions :
-    
-    - **La dimension performance** avec des OKR plus orientés business
-    - **La dimension culturelle** avec des OKR plus orientés transformation
-    
-    Ces deux dimensions clés sont les résultats de toutes nos actions dans les organisations. C’est ce que nous apprennent les [modèles d’alignement stratégiques](https://www.notion.so/L-alignement-strat-gique-13d90eaf28ff804f9646fb85ec52b010?pvs=21).
-    
-    <aside>
-    🧰
-    
-    En savoir plus sur [ACTE au niveau opérationnel](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21)
-    
-    </aside>
-    
-
-## Outils d’exécution
-
-- Les [cycles opérationnels](https://www.notion.so/La-gouvernance-adaptative-op-rationnelle-13b90eaf28ff80da8cefeb9b98d6b1c9?pvs=21)
+- Sommaire
 
 <aside>
-🚀
+✨
 
-Enfin, pour une application cohérente à tous les niveaux de décision, référez-vous aux [archétypes](https://www.notion.so/Les-4-arch-types-agiles-14290eaf28ff8004874de93022c243f8?pvs=21).
+**Objectif**
+
+Cette section décrit **3 familles d’outils activables** pour ancrer l’agilité opérationnelle au quotidien : adapter en continu, coordonner sans friction et impulser l’initiative locale, tout en restant aligné sur la stratégie.
 
 </aside>
 
-# **Autres outils et alternatives**
+# Des outils pour piloter un système opérationnel vivant
+
+### En 3 phrases
+
+1. **Analyser** : cartographier rapidement vos équipes et leurs besoins avec le modèle 4E.
+2. **Transformer** : mesurer votre maturité et relier stratégie, tactique et exécution par IMPACTE & ACTE.
+3. **Exécuter** : rythmer le quotidien avec des cycles opérationnels courts (daily, revues, slack).
+
+L’agilité opérationnelle repose sur un ensemble d’outils et de repères conçus pour soutenir la **prise de décision déléguée**, l’**apprentissage en continu** et la **cohérence d’action** au sein des équipes.
+
+## Modèles d’analyse opérationnelle
+
+- [**Modèle 4E**](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21)
+    
+    **À l’usage :** Positionnez chaque équipe dans l’une des 4 zones (Exploration, Expansion, Exploitation, Exclusion).
+    **Template :** Tableau 4E (zone / mission / méthode / management).
+    **Cas TechNova :** l’équipe Prototype a basculé de Exploration à Expansion en après la signature de 5 nouveaux prospects dans la cible stratégique.
+    
+
+## Outils de transformation
+
+### IMPACTE & ACTE
+
+- **IMPACTE** évalue votre maturité agile terrain (vitesse d’adaptation, autonomie, apprentissage).
+- **ACTE** relie **Stratégie → OKR Stratégiques → OKR Tactiques → Exécution** (Performance vs Culture).
+
+> À l’usage : Démarrez par un diagnostic IMPACTE, puis déclinez votre ACTE en atelier de 2 h.
+> 
+> 
+> **Risques :** obsession de la maturité sans passage à l’action (dogmatisme IMPACTE).
+> 
+
+## Outils d’exécution
+
+### Cycles & Slack
+
+- **Cycles courts** : Daily (15 min), Revues adaptatives (hebdo/bimensuel).
+- **Slack** : réservez 10–15 % de capacité pour imprévus et expérimentations.
+
+## Ce que ça produit malgré soi
+
+- **Surcharge d’outils** si pas priorisés → réduisez à 2 piliers max.
+- **Éparpillement** si OKR mal calibrés → fixez 1–2 OKR tactiques.
+
+## Points clés
+
+- **3 familles d’outils** : Analyse (4E), Transformation (IMPACTE/ACTE), Exécution (Cycles/Slack).
+- **Templates ready-to-use** pour chaque outil.
+- **Routinisation légère** : daily + revue + slack.
+
+> Avec ces outils, votre système opérationnel devient un écosystème vivant, capable d’adapter, d’innover et de délivrer en continu.
+> 
+
+# **Annexe : Autres outils et alternatives**
 
 ## **Approches alternatives**
 

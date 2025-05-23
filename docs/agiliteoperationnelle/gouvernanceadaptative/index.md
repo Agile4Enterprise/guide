@@ -8,7 +8,7 @@ Propriétaire: Laurent Morisseau
 ✨
 
 **Objectif**
-La **gouvernance adaptative opérationnelle** désigne la manière dont l’organisation conçoit et fait évoluer les **rôles et processus décisionnels à l’échelle des équipes**, afin de favoriser une autonomie optimale et une exécution agile des initiatives.
+Mettre en place un cadre **vivant** où chaque équipe opère **librement** tout en restant **alignée** sur les cycles tactiques et stratégiques, grâce à des **cadences intégrées**, des **boucles de feedback**.
 
 </aside>
 
@@ -16,107 +16,122 @@ La **gouvernance adaptative opérationnelle** désigne la manière dont l’orga
 
 Cadence du changement opérationnel
 
+# Une gouvernance vivante au service de l’opérationnel
+
+L’agilité ne se limite pas à un framework : elle se structure par un **système adaptatif** où :
+
+1. **Délégation encadrée**
+    
+    Les équipes prennent leurs décisions locales dans un **cadre clair** (OKR tactiques, SLA, règles de backlog).
+    
+2. **Découplage hiérarchie ↔ exécution**
+    
+    Les managers facilitent, ils n’instruisent pas : ils interviennent pour lever les obstacles, pas pour piloter les tâches.
+    
+3. **Cadences intégrées**
+    
+    Des rythmes stables — **quotidien**, **hebdo/bimensuel**, **trimestriel** — qui garantissent un ajustement permanent.
+    
+
 <aside>
 ⚠️
 
-Lorsque l’unité tactique n’a qu’une équipe, niveau tactique et opérationnel sont fusionnés.
+Lorsque l’unité tactique n’a qu’une équipe, les deux niveaux - tactique et opérationnel - sont fusionnés.
 
 </aside>
 
-# Le modèle de gouvernance déléguée et itérative
-
-Avec l’essor de l’agilité opérationnelle, le rôle du **management de proximité** se transforme profondément. Il ne s'agit plus de contrôler, mais **d’accompagner des équipes autonomes** à prendre des décisions localement, à adapter leurs modes de fonctionnement, et à orchestrer leurs initiatives en cohérence avec les **décisions tactiques**.
-
-L’autonomie opérationnelle repose sur un [**découplage des rôles hiérarchiques et des rôles opérationnels**](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21), condition essentielle pour développer la réactivité sans sacrifier la lisibilité du système.
-
-Cette gouvernance est donc **délégative** par nature, mais aussi **itérative**, car elle s’appuie sur des cycles de décision courts, nourris par les feedbacks et les résultats obtenus.
-
-<aside>
-💡
-
-**Modèle de gouvernance agilité opérationnel**: Délégatif et [**itératif**](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
-
-</aside>
-
-# Cadences du changement : une gouvernance itérative
+## Les cadences opérationnelles
 
 ![image.png](image%201.png)
 
-La gouvernance itérative se matérialise à travers des **cadences opérationnelles régulières**, qui structurent la dynamique d’apprentissage et d’ajustement :
+> Cadence = rythme de vie de l’équipe
+> 
+> 
+> C’est le battement qui rend la gouvernance **réactive** et **apprenante**.
+> 
 
-## Cadence d’adaptation (hebdo ou bimensuelle)
-
-**Fréquence : Hebdomadaire ou bimensuelle**
-
-- Cette revue permet aux équipes d’**ajuster leur organisation**, leurs **priorités**, et leurs **ressources** en fonction des besoins et des évolutions du contexte.
-- Elle est **synchronisée** avec les **sprints Scrum** ou les **cadences de revues opérationnelles** dans une [approche Kanban](https://www.notion.so/Kanban-17590eaf28ff8002ac08fead95b04e5a?pvs=21).
-- La **mobilité opérationnelle** (réorganisation des équipes si nécessaire) est décidée lors de ces revues.
-
-## Cadence d’ajustement (quotidienne)
-
-Les équipes effectuent un **point court (Daily Stand-up)** pour :
-
-- Suivre l’**avancement des travaux** et lever les **obstacles**.
-- Ajuster les **priorités immédiates** en fonction des imprévus et nouvelles contraintes.
-- Maintenir un **alignement fort avec les objectifs tactiques** et opérationnels.
+| Cadence | Fréquence | Finalité |
+| --- | --- | --- |
+| **Daily Stand-up** | Quotidien | Synchronisation rapide, résolution d’obstacles |
+| **Revue de sprint** | Hebdomadaire ou bimensuelle | Révision du backlog, priorités, allocation de slack |
+| **Revue tactique** | Trimestrielle | Alignement sur les OKR tactiques, ajustement des objectifs |
+| **Rétro actionnable** | Mensuelle ou bimensuelle | Capitalisation des apprentissages et ajustement du cadre |
 
 <aside>
-💡
+➿
 
-Sur un cycle opérationnel :
+## l’équipe **Orion** en cadence
 
-- Les unités opérationnelles sont **stables**,
-- Les objectifs opérationnels et initiatives sont stables.
+1. **Daily Stand-up**
+    - Chacun fait un point « Aujourd’hui / Hier / Bloqué ».
+    - L’équipe identifie le besoin de support sur un incident paiement.
+2. **Revue d’adaptation hebdo**
+    - On réalloue 10 % de la capacité au hotfix.
+    - Mise à jour du backlog et des OKR tactiques.
+3. **Revue tactique trimestrielle**
+    - Analyse des indicateurs : latence, satisfaction client.
+    - Redéfinition des OKR : la fiabilité devient l’objectif du prochain cycle.
+4. **Rétro mensuelle actionnable**
+    - Format « I Saw / I Did / I Want » : adoption d’un nouveau template de revue d’incident.
 </aside>
 
-<aside>
-🧰
+## Mécanismes clés de la gouvernance déléguée
 
-En savoir plus sur les [4 cadences du changement](https://www.notion.so/Les-4-cadences-du-changement-et-de-l-apprentissage-13b90eaf28ff8091b4cce85974f50938?pvs=21)
+- **Le backlog est un élément de coordination**
+    
+    Centralisé, segmenté par enjeu et toujours à jour.
+    
+- **Feedback multi-niveaux**
+    
+    Points terrain ↔ tactique ↔ stratégique intégrés dans chaque cadence.
+    
+- **Slack intégré**
+    
+    5–10 % de capacité réservée pour imprévus et expérimentations.
+    
+- **Gestion du changement**
+    
+    Sur un cycle opérationnel :
+    
+    - Les unités opérationnelles sont **stables**,
+    - Les objectifs opérationnels et initiatives sont stables.
 
-</aside>
+## Simplifier pour accélérer
 
-## Intégration dans l’agilité d’entreprise
+- **Standardiser les rituels clés**, éliminer le superflu.
+- **Synchroniser les cadences** avec tactique et stratégie.
+- **Piloter par l’impact** (OKR, indicateurs) plutôt que par l’activité.
 
-Cette gouvernance ne fonctionne que si elle est **reliée aux autres niveaux** de l’organisation. Elle ne doit pas rester une initiative cloisonnée ou réduite à l’agilité d’équipe. Elle s’inscrit dans une **gouvernance imbriquée**, qui connecte :
+---
 
-- les **intentions stratégiques** (via les [cycles stratégiques](https://www.notion.so/La-gouvernance-adaptative-strat-gique-13b90eaf28ff800996ccf4dc1e54bcc6?pvs=21))
-- les **leviers tactiques** (via les [cycles tactiques](https://www.notion.so/La-gouvernance-adaptative-tactique-13b90eaf28ff8066aa8bc5c28ac35645?pvs=21))
-- l’**action concrète sur le terrain**
+## Ce que produit un système rigide
 
-<aside>
-👉
+- **Tensions non réglées** : backlogs figés, équipes déconnectées.
+- **Décalage tactique/terrain** : lenteur de réaction face aux urgences.
+- **Épuisement** : réunions à n’en plus finir, peu de résultats concrets.
 
-C’est par cette articulation fine que **l’agilité devient une capacité organisationnelle**, et non une simple méthode de gestion.
+---
 
-</aside>
+## Et concrètement, lundi matin ?
+
+- **Identifiez** lors de votre prochaine rétrospective l’obstacle qui freine vos OKR tactiques.
+- **Fixez-vous** un OKR de transformation d’équipe pour le prochain trimestre.
+- **Insérez** dès votre prochain planning une action dédiée à cet OKR.
+- **Pilotez-la** chaque matin lors du Daily Stand-up.
+- **Répétez** jusqu’à ce que ce blocage soit résolu.
 
 ---
 
 # 🔑 Points clés à retenir
 
-- **Une gouvernance incarnée au plus près des équipes**
-    
-    → Ce sont les équipes qui ajustent, décident et optimisent leur action, dans le cadre de leurs objectifs et priorités.
-    
-- **Un management délégatif, non directif**
-    
-    → Le manager devient **facilitateur**, pas micro-manager. Il soutient l’autonomie de l’équipe sans l’abandonner à elle-même.
-    
-- **Un pilotage tactique intégré**
-    
-    → Les équipes pilotent par les **OKR tactiques**, outils d'alignement mais aussi de cadrage évolutif.
-    
-- **Des boucles courtes d’apprentissage**
-    
-    → La gouvernance adaptative mise sur l'**ajustement rapide** plutôt que le contrôle rigide, dans une logique de **design organisationnel dynamique**.
-    
-- **Une condition d’agilité organisationnelle**
-    
-    → La capacité à faire évoluer l’organisation sans passer par des projets de transformation lourds devient un **levier de durabilité**, non une exception.
-    
+- **Cadences = vie d’équipe** : daily, hebdo, mensuel, trimestriel.
+- **Autonomie encadrée** : délégué, pas abandonné.
+- **Gouvernance adaptative** : cycles courts + feedbacks multi-niveaux.
+- **Résilience structurelle** : changement incrémental sans projet lourd.
 
-> L’enjeu est de refonder la gouvernance opérationnelle pour permettre à l’agilité de s’exprimer pleinement dans l’action.
+> La gouvernance adaptative opérationnelle est l’ossature flexible qui donne vie à l’agilité au quotidien.
 > 
 
 ---
+
+### 👉 Et maintenant ? [Comment s’organiser](https://www.notion.so/L-agilit-organisationnelle-au-niveau-op-rationnel-17b90eaf28ff80d1a529c5311cb392b5?pvs=21) pour mettre cela en musique !
