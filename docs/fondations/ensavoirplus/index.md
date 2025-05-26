@@ -9,13 +9,13 @@ Propriétaire: Laurent Morisseau
 
 **Objectif**
 
-Clarifier à qui s’adresse Agile4Enterprise, dans quels contextes il est activable avec succès, et à quelles fonctions ou profils il apporte des leviers concrets de transformation.
+Clarifier à qui s’adresse **Agile4Enterprise**, dans quels contextes il est activable avec succès, et à quelles fonctions ou profils il apporte des leviers concrets de transformation.
 
 </aside>
 
 # Pour quels types d’organisations ?
 
-Agile4Enterprise est un **cadre activable** qui s’adapte à de nombreuses formes d’organisation, mais il est plus particulièrement **conçu pour les PME** en mutation, confrontées à des environnements [VUCA](https://www.notion.so/Quand-Agile4Enterprise-est-pertinent-et-quand-il-ne-l-est-pas-1e090eaf28ff807382dbd6288d5bee3f?pvs=21).
+Si **Agile4Enterprise** est un cadre adaptable à de nombreuses formes d’organisation, il est plus particulièrement conçu pour les PME en mutation, confrontées à des environnements [VUCA](https://www.notion.so/Quand-Agile4Enterprise-est-pertinent-et-quand-il-ne-l-est-pas-1e090eaf28ff807382dbd6288d5bee3f?pvs=21).
 
 ### PME : cœur de cible
 
@@ -23,7 +23,7 @@ Agile4Enterprise est un **cadre activable** qui s’adapte à de nombreuses form
 - Besoin de structurer sans alourdir.
 - Tensions entre agilité terrain et gouvernance centrale.
 
-Agile4Enterprise leur permet de :
+**Agile4Enterprise** leur permet de :
 
 - Créer un pilotage dynamique aligné avec leur stratégie,
 - Structurer la transformation sans surcouche méthodologique,
@@ -33,7 +33,7 @@ Agile4Enterprise leur permet de :
 
 Les très petites entreprises sont souvent **agiles par nature**. Mais la croissance peut les rigidifier.
 
-Agile4Enterprise permet de :
+**Agile4Enterprise** permet de :
 
 - Préserver la fluidité décisionnelle,
 - Mettre en place des mécanismes simples de synchronisation,
@@ -41,10 +41,9 @@ Agile4Enterprise permet de :
 
 ### Grands groupes : expérimenter dans les BU
 
-Agile4Enterprise **n’est pas un cadre de passage à l’échelle**. Il est utile pour :
+**Agile4Enterprise** n’est pas un Framework d’agilité à l’échelle. Il est utile pour :
 
-- Les unités stratégiques ou tactiques souhaitant piloter leur propre transformation,
-- Les BU autonomes,
+- Les unités d’affaires autonomes souhaitant piloter leur propre transformation,
 - Les directions internes qui veulent éviter les Frameworks complexes.
 
 > Il s’adapte localement, sans imposer une transformation globale.
@@ -58,19 +57,19 @@ Agile4Enterprise **n’est pas un cadre de passage à l’échelle**. Il est uti
 
 Vous voulez transformer votre organisation **sans perdre en efficience** ?
 
-Agile4Enterprise vous aide à :
+**Agile4Enterprise** vous aide à :
 
 - Faire de l’agilité un levier concurrentiel durable,
 - Mais de manière pragmatique et sans dogme.
 
-> Vous avez déjà investi dans l’agilité d’équipe ? Voici comment en faire un levier business.
+> Vous avez déjà investi dans l’agilité d’équipe ? Il permet d’en faire un levier business.
 > 
 
 ## **Coachs agiles et accompagnants de la transformation**
 
 Vous cherchez à dépasser le coaching d’équipe pour adresser les tensions systémiques ?
 
-Agile4Enterprise vous permet de :
+**Agile4Enterprise** vous permet de :
 
 - Adopter une posture et le mandat de **coach d’entreprise agile**,
 - Cartographier les tensions récurrentes avec les **archétypes organisationnels**,
@@ -88,7 +87,7 @@ Même si vous n’êtes pas directement impliqué dans la transformation, ce cad
 - Les **principes derrière les choix de structure ou de gouvernance**,
 - La **cohérence entre les actions locales et les enjeux globaux**.
 
-> Vous ne subissez plus la transformation. Vous en devenez un acteur lucide et engagé.
+> Vous ne subissez plus la transformation. Vous devenez un acteur lucide et engagé.
 > 
 
 ---
@@ -117,17 +116,3 @@ Même si vous n’êtes pas directement impliqué dans la transformation, ce cad
 > 
 
 ---
-
-# L’auteur
-
-![LMO small.png](LMO_small.png)
-
-**Laurent Morisseau**
-
-Coach & formateur en entreprise agile / Fondateur du Meetup de l’Entreprise Agile / Auteur & conférencier
-
-- **Livres** : Kanban pour l’IT, Méthode OKR, Rupture Douce…
-- **Premier CSC & AKT/KCP français**, formateur OKR accrédité
-- **Créateur des conférences Agile Tour Rennes / FlowCon**
-
-[Laurent Morisseau](https://www.morisseauconsulting.com/laurent-morisseau/)
