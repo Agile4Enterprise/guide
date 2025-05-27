@@ -105,6 +105,7 @@
         'archetypes/agile4network/index', 
         'archetypes/agile4product/index', 
         'archetypes/agile4project/index', 
+        'archetypes/agile4zombie/index', 
         'archetypes/topologie/index', 
       ],
     },
