@@ -1,4 +1,4 @@
-# Topologie des archétypes agiles
+# Identifier votre archétype
 
 Propriétaire: Laurent Morisseau
 
@@ -9,80 +9,142 @@ Propriétaire: Laurent Morisseau
 
 **Objectif**
 
-Après avoir décrit chaque archétype agile, nous proposons ici une **topologie des archétypes**, permettant de mieux comprendre leur positionnement stratégique et organisationnel. Cette classification aide les organisations à aligner leur modèle opératoire avec leur stratégie dominante, en évitant les incohérences structurelles qui pourraient nuire à la performance.
+Clarifier quatre modèles opératoires (Flux, Produit, Projet, Réseau), pour aligner votre organisation sur sa stratégie dominante, en évitant l’ambiguïté et les hybridations molles.
+
+- **Choisir, c’est renoncer** : chaque archétype a ses forces *et* ses renoncements.
+- **Topologie & archétypes** en un coup d’œil pour décider rapidement.
+</aside>
+
+<aside>
+🧑‍🎓
+
+**Lexique rapide**
+
+- **Backlog** : liste priorisée des tâches à faire.
+- **Kanban** : méthode visuelle de gestion de flux avec colonnes et limites.
+- **MVP** : Produit Minimum Viable, la version la plus simple permettant de tester une hypothèse.
+- **SLA** : Engagement de niveau de service (Service Level Agreement).
+- **ROI** : Retour sur investissement.
+- **SCRIP** : Leviers structure, capacités, reconnaissance, individu, et processus.
+- **ACTE** : Agile Canevas pour la transformation d’entreprise (outil de pilotage du changement)
+</aside>
+
+<aside>
+❓
+
+Vous reconnaissez-vous ?
+
+- Un backlog produit qui n’avance pas,
+- Des équipes Kanban figées,
+- Des projets “agiles” qui tournent en rond.
+
+**Ce chapitre** vous aide à repérer votre archétype courant et à décider d’une trajectoire claire, pas à juste cocher des pratiques.
 
 </aside>
 
-# Topologie des archétypes
+# Identifier votre archétype
+
+## Les archétypes comme formes cohérentes de réponse stratégique
+
+Chaque archétype du modèle Agile4X — Projet, Produit, Flux, Réseau — propose **une combinaison claire** entre :
+
+- Un mode d'organisation,
+- Une logique stratégique dominante,
+- Une temporalité d’action,
+- Une manière d’articuler intention et exécution.
+
+Un archétype n’est pas un “modèle universel”. C’est une **forme opératoire** qui devient pertinente **dans un contexte stratégique donné**. Ce qui rend un archétype puissant, ce n’est pas ce qu’il inclut, mais **ce à quoi il renonce pour rester cohérent**.
+
+## Topologie des archétypes
 
 ![Modèle des 4 archétypes agiles](image.png)
 
 Modèle des 4 archétypes agiles
 
-La **typologie des archétypes** repose sur **deux axes clés** :
-
-- **Axe vertical** : différenciant les modèles **optimisés et stables** (exploitation et efficience) des modèles **dynamiques et exploratoires** (innovation et impact).
-- **Axe horizontal** : opposant les modèles favorisant **l’adaptation locale et la résilience** (réseau informel, autonomie) aux modèles misant sur **l’intégration et la performance globale** (structure formelle, gouvernance centralisée).
-
 Chaque organisation peut ainsi identifier son archétype dominant et évaluer les **évolutions possibles** en fonction de sa stratégie et de ses besoins.
 
-## Axe vertical
+- **Axe vertical** :
+    - **Haut** : **Agilité optimisée** (*tactique & opérationnelle*) → Privilégie l’exécution, l’efficacité et l’efficience. (Flux, Produit)
+    - **Bas** : **Agilité exploratoire** (*stratégique & organique*) → Favorise l’innovation, l’émergence et la flexibilité. (Projet, Réseau)
+- **Axe horizontal** :
+    - **Gauche** : autonomie locale, résilience (Flux, Réseau)
+    - **Droite** : intégration & performance globale (Produit, Projet)
 
-**En haut**
+## Les 4 archétypes en un coup d’œil
 
-Un modèle organisationnel recherchant la stabilité pour l’optimisation d’un existant, la durabilité des actifs, l’efficience au service de l’exécution d’une stratégie. Les approches privilégiant les équipes ou chaines de valeur stables par exemple.
+| Archétype | Contexte idéal | Focus principal | Utile quand… |
+| --- | --- | --- | --- |
+| **Flux** | Exploitation & services | Optimiser délai et coûts via Kanban | Vous devez fiabiliser une chaîne de valeur existante |
+| **Produit** | Expansion & différenciation | Gérer un backlog produit stable | Vous scalez un produit ou service |
+| **Projet** | Transformation & impact | MVP rapide avec équipes ad hoc | Vous testez une nouvelle piste |
+| **Réseau** |  Exploration & innovation | Cellules autonomes et interactions informelles | Vous voulez décentraliser la décision |
 
-**En bas**
+# Mise en œuvre opérationnelle
 
-Un modèle organisationnel dynamique répondant à des opportunités, des mouvements tactiques, recherchant l’efficacité, l’impact. Les approches privilégiant les équipes éphémères par exemple.
+Plutôt que d'appliquer un modèle unique, utilisez ces archétypes pour :
 
-## Axe horizontal
-
-**A gauche**
-
-Un modèle focalisé sur l’adaptation locale, la différenciation. Le modèle repose plus sur le réseau informel que sur la structure formelle. Les interactions reposent sur de la coopération.
-
-Cette plus grande décentralisation permet au modèle de se rapprocher vers plus de résilience. Le couplage est faible, les dépendances plutôt séquentielles ou mutualisées.
-
-**A droite**
-
-Un modèle focalisé sur la performance globale, par de l’intégration, autour d’un Backlog unique par exemple, et plus de centralisation des prises de décisions. Le modèle repose plus sur la structure formelle que le réseau informel. La collaboration permet d’aller vers plus d’innovation. Le [couplage est fort](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21), les dépendances plutôt [réciproques](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21).
-
-### Archétype Flux : stable et local
+1. **Diagnostiquez** votre contexte avec la checklist ci-dessous.
+2. **Identifier l’archétype dominant** celui qui structure vos interactions principales.
+3. **Choisir une trajectoire** : vers quel archétype voulez-vous évoluer ? Pourquoi ?
+4. **Adapter le à votre organisation en utilisant l’outil [ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21).**
+5. **Accompagner le changement** : par des arbitrages explicites et un pilotage stratégique.
 
 <aside>
-🧰
+👉
 
-En savoir plus sur l’[Archétype Flux](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21)
+**Quel est votre archétype actuel et vers quel modèle souhaitez-vous évoluer ?**
 
 </aside>
 
-### Archétype Réseau : dynamique et local
+## Choisir, c’est renoncer. Ne pas choisir, c’est renoncer à son potentiel.
+
+Un archétype n’est pas un catalogue de pratiques, mais un **engagement structurant**.
+
+- **Hybrider sans discernement** dilue votre efficacité.
+- **Tensions non assumées** (ex. Scrum vs Kanban dans la même équipe) ne sont pas des bugs, mais des signaux : **Plutôt que de corriger les tensions, il faut les reconnaître, puis décider.**
+- **Fake Agile** naît de l’ambiguïté prolongée : ne la laissez pas s’installer.
+
+Ce modèle Agile4X propose une lecture radicale pour aider les organisations à clarifier leurs choix.
 
 <aside>
-🧰
+➿
 
-En savoir plus sur l’[Archétype Réseau](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21)
+Après diagnostic, TechNova Capteurs a choisi de passer d’un modèle hybride Flux / Produit a un modèle flux assumé. **Résultat** : un flux de maintenance évolutive corrective maitrisé avec un réel engagement de service.
 
 </aside>
 
-### Archétype Produit : stable et global
+C’est pourquoi vous avez l’anti archétype [Agile4Zombie](https://www.notion.so/Agile4Zombie-L-anti-arch-type-1db90eaf28ff802ebcecd01e11f22848?pvs=21) : ce qui arrive quand on ne choisit pas : Une structure figée dans le reflet d’une transformation jamais assumée. Lorsque l’organisation refuse de choisir, elle s’épuise à tout faire sans logique claire. 
 
-<aside>
-🧰
+Cependant, les archétypes sont des [modèles idéaux](https://www.notion.so/Agile4X-Les-forces-organisationnelles-14290eaf28ff8004874de93022c243f8?pvs=21), hors spécificités et contingences d’une organisation. Chaque entreprise, chaque stratégie étant spécifique, il se peut que vous ne vous y retrouviez pas dans ces propositions. Il va donc falloir trouver votre propre modèle spécifique, inspiré d’un archétype.
 
-En savoir plus sur l’[Archétype Produit](https://www.notion.so/Agile4Product-Arch-type-Produit-13490eaf28ff80b29733f767568ab6a5?pvs=21)
+Votre archétype dominant est celui qui est exposé à ces clients, et correspond à votre **priorité stratégique**.
 
-</aside>
+## Et concrètement, lundi matin…
 
-### Archétype Projet : dynamique et global
+Organisez un atelier pour identifier l’archétype dominant de votre organisation, en répondant à ces questions :
 
-<aside>
-🧰
+1. **Quel est votre principal défi stratégique ?** (Innovation ciblée ou distribuée, optimisation, mise à l’échelle)
+2. **Quelle cadence de décision favorisez-vous ?** (Projets temporaires, flux continu, sprints, autonomie locale, synchronisation trimestrielle)
+3. **Comment coordonnez-vous vos équipes ?** (Supervision verticale, collaboration horizontale, coopération, réseau informel)
+4. **Quel degré de formalisation ?** (Processus standardisés, organique, mixte…)
+5. **Quel type de livrable valide votre performance ?** (MVP, SLA, OKR, ROI …)
 
-En savoir plus sur l’[Archétype Projet](https://www.notion.so/Agile4Project-Arch-type-Projet-agile-13490eaf28ff8030a8aeecf9206d94ea?pvs=21)
+Puis c**larifier les tensions** éventuelles : incohérences, zones hybrides, ambiguïtés.
 
-</aside>
+Enfin, identifier le plan d’actions pour une organisation plus cohérente, plus alignée, à piloter avec l’outil ACTE.
+
+---
+
+# 🔑 Points clés à retenir
+
+Le modèle des archétypes Agile4X ne propose pas des options interchangeables. Il offre une grille de lecture pour faire des choix. Et chaque choix implique une renonciation.
+
+- **Un archétype = acte politique**, pas une boîte à outils.
+- **Chaque choix implique un renoncement** : anticipez les résistances.
+- **Agilité cohérente** = alignement structure ↔ stratégie ↔ pratiques (SCRIP & ACTE).
+- **Ne pas choisir**, c’est déjà renoncer à votre potentiel (anti-archétype Zombie).
+
+# Annexes
 
 ## Matrice de comparaison des archétypes
 
@@ -123,298 +185,3 @@ Lorsqu’une organisation Flux ne repose pas sur un engagement de service global
 - **Une organisation [Réseau](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21)**
     
     S’il n’y a pas de mécanisme de couplage fort autre que l’alignement stratégique, alors on s’oriente vers une organisation Réseau reposant sur une [**extension réseau**](https://www.notion.so/Kanban-17590eaf28ff8002ac08fead95b04e5a?pvs=21) des systèmes Kanban.
-    
-
-## Mix organisationnel ou le modèle dominant
-
-Les archétypes sont des [modèles idéaux](https://www.notion.so/Les-4-arch-types-agiles-14290eaf28ff8004874de93022c243f8?pvs=21), hors spécificités et contingences d’une organisation. Le principe est de proposer une organisation cohérente sur toutes ses dimensions, donc en réponse à une stratégie générique. Les stratégies étant spécifiques, dans la plupart des cas, il se peut que vous ne vous y retrouviez pas dans ces propositions. La réalité est bien sûr moins idéale, faite d’adaptations au contexte de l’organisation. Il va donc falloir trouver votre propre modèle spécifique, inspiré d’un archétype ou peut être un mélange de deux archétypes, à l’exemple du [modèle front-back](https://www.notion.so/Le-mix-organisationnel-et-la-logique-dominante-15e90eaf28ff800cbef0fc08b66fb1f3?pvs=21).
-
-Dans ce cas, l’organisation est un [mix organisationnel](https://www.notion.so/Le-mix-organisationnel-et-la-logique-dominante-15e90eaf28ff800cbef0fc08b66fb1f3?pvs=21) avec un archétype dominant. L’organisation agile étant [centrée client et utilisateur](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21), l’archétype dominant est celui qui est exposé à ces clients.
-
-> *Par exemple, dans une organisation front-back, c’est la partie front qui est l’archétype dominant.*
-> 
-
-## **Les Archétypes Agiles : choisir, c’est renoncer**
-
-Dans un environnement complexe, le danger n’est pas l’erreur. C’est l’ambiguïté prolongée. Ce modèle des archétypes agiles propose une lecture radicale pour aider les organisations à clarifier leurs choix.
-
-### Un archétype Agile4X n’est pas un outil. C’est un engagement.
-
-[Agile4Flow](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21), [Agile4Product](https://www.notion.so/Agile4Product-Arch-type-Produit-13490eaf28ff80b29733f767568ab6a5?pvs=21), [Agile4Project](https://www.notion.so/Agile4Project-Arch-type-Projet-agile-13490eaf28ff8030a8aeecf9206d94ea?pvs=21), [Agile4Network](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21) ne sont pas des modèles à juxtaposer. Ce sont des architectures cohérentes. Chacune repose sur une logique d’organisation distincte.
-
-<aside>
-⚠️
-
-Elles structurent les flux de valeur, les priorités, les mécanismes de décision, les modes de pilotage. Alors h**ybrider sans discernement revient à diluer la force de chaque modèle. Le mix organisationnel est une réponse franche à un contexte donné, une stratégie spécifique, non une mauvaise raison pour ne pas faire de choix.** 
-
-</aside>
-
-### Tout changement d’archétype implique une rupture
-
-Passer du mode projet au mode produit ce n’est pas simplement livrer des fonctionnalités d’un produit ou faire du Scrum. Chaque transition exige un renoncement à des rôles, des métriques, des habitudes.
-
-<aside>
-💡
-
-**Changer d’archétype, c’est changer de logique sous-jacente, et donc à la fin de performance et de culture différentes !**
-
-</aside>
-
-### Les tensions entre archétypes révèlent des choix non assumés
-
-Quand deux archétypes coexistent sans clarification – par exemple [Agile4Flow](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21) et [Agile4Product](https://www.notion.so/Agile4Product-Arch-type-Produit-13490eaf28ff80b29733f767568ab6a5?pvs=21) –
-
-les conflits ne sont pas des dysfonctionnements. Ce sont des signaux d’un arbitrage évité. Les équipes hésitent entre Scrum et Kanban, on s’organise en flux autour du produit en commençant à se spécialiser…
-
-<aside>
-💡
-
-**Plutôt que de corriger les tensions, il faut les reconnaître, puis décider.**
-
-</aside>
-
-### L’agilité ne gagne rien à l’ambiguïté
-
-Si l’agilité permet de naviguer dans l’ambiguïté, elle ne doit pas en générer plus. Un cadre trop conciliant permet de tout justifier, y compris l’absence de transformation réelle. Ce sont les transformations superficielles, le Fake Agile. La nuance devient un prétexte à l’inaction. L’agilité se vide de sa substance.
-
-<aside>
-⚠️
-
-**Agile4X n’est pas un langage de compromis. C’est un langage de clarté.**
-
-</aside>
-
-### La cohérence est plus exigeante que le changement
-
-Changer est fréquent. Changer avec cohérence est rare.
-
-Ce n’est pas la transformation qui échoue, c’est l’incapacité à aligner la structure, la stratégie et les pratiques sur un archétype clair.
-
-<aside>
-💡
-
-**Agile4X n’est pas une méthode. C’est un choix stratégique structurant.**
-
-</aside>
-
-### **Conclusion**
-
-Le modèle des archétypes Agile4X ne propose pas des options interchangeables.
-
-Il offre une grille de lecture pour faire des choix. Et chaque choix implique une renonciation.
-
-<aside>
-⚠️
-
-**Ne pas choisir son archétype, c’est déjà renoncer à son potentiel.**
-
-</aside>
-
----
-
-# Comment utiliser ces archétypes ?
-
-Plutôt que d'appliquer un modèle unique, utilisez ces archétypes pour :
-
-1. **Diagnostiquer votre stratégie** : Quelle est votre priorité ? Innovation, efficience, croissance ?
-2. **Où vous situez-vous actuellement ?**
-    
-    **Identifier l'archétype dominant** : Quel modèle correspond le mieux à votre approche ?
-    
-3. **Où voudriez-vous aller ?** Explorer les **évolutions possibles** selon votre stratégie et vos défis.
-4. **Comment faciliter la transition ?** Définir les **freins et leviers** pour évoluer vers une nouvelle dynamique d’agilité.
-5. **Adapter votre organisation** : Un modèle idéal est rare, il est possible de mixer deux archétypes (exemple : Produit avec Flux pour assurer l'industrialisation d'une offre).
-6. **Éviter les désalignement** : Une organisation mal alignée avec sa stratégie souffrira de tensions et d'inefficacités.
-
-L'enjeu d'une entreprise agile n'est pas de suivre un modèle standard, mais de **trouver son propre équilibre** entre stabilité et adaptabilité.
-
----
-
-# Topologie des quatre dimensions agiles
-
-![image.png](image%202.png)
-
-L’axe vertical définit une opposition entre :
-
-- **Agilité exploratoire** (*stratégique & organique*) → Favorise l’innovation, l’émergence et la flexibilité.
-- **Agilité optimisée** (*tactique & opérationnelle*) → Privilégie l’exécution, l’efficacité et l’efficience.
-
-## **Quadrant Global & Dynamique : Projet → "Agilité Stratégique"**
-
-💡 **Orientation** : Innovation ciblée, expérimentation de nouveaux modèles.
-
-### Capacités à développer
-
-**Réactivité** Capacité à expérimenter rapidement des hypothèses.
-
-**Flexibilité** Ajustement des objectifs tactiques et des ressources en fonction des découvertes.
-
-**Adaptabilité** Évolution rapide des objectifs stratégiques.
-
-**Proactivité** Création d’un pipeline d’innovations aligné avec la stratégie globale.
-
-Innovation de rupture
-
-### **Caractéristiques** clés
-
-- Approche itérative et incrémentale.
-- Fonctionnement en mode projet avec des équipes dédiées.
-- Fort besoin de coordination entre plusieurs équipes.
-- Stratégie flexible, ajustable aux opportunités.
-- Exemples : transformation digitale, expansion vers de nouveaux marchés.
-
-### **Exemples d’organisations**
-
-- Grandes entreprises testant un nouveau business model, R&D.
-- Entreprises en transformation.
-- Scale-ups en croissance rapide.
-- Startups validant leur produit et leur marché.
-
-<aside>
-⚠️
-
-**Défis** : Difficulté de passage à l’échelle, risque d'instabilité organisationnelle.
-
-</aside>
-
----
-
-## **Quadrant Stable & Global : Produit → "Agilité Tactique"**
-
-💡 **Orientation** : Structuration et industrialisation de l’innovation.
-
-📌 **Idéal pour** : Organisations cherchant à stabiliser et optimiser leur croissance.
-
-### Capacités à développer
-
-**Réactivité** Adresser les feedbacks utilisateurs rapidement.
-
-**Flexibilité** Flexibilité du produit aux usages évolutifs.
-
-**Adaptabilité** Intégration continue des innovations technologiques et marché.
-
-**Proactivité** Nouveaux usages métier / produit.
-
-Innovation de continuité
-
-### **Caractéristiques** clés
-
-- Gestion centralisée autour d’un **backlog unique** et d’une **roadmap structurée**.
-- Collaboration forte entre produit, marketing et support.
-- Recherche d’un équilibre entre agilité et gouvernance.
-- Standardisation des processus pour passage à l’échelle.
-- Cycle de vie du produit bien défini avec priorisation stratégique.
-
-### **Exemples d’organisations**
-
-- Entreprises avec un **portefeuille de produits digitaux** (ex. Airbnb).
-- Business units dans des **groupes industriels**.
-- Organismes cherchant à **industrialiser l’innovation**.
-
-<aside>
-⚠️
-
-**Défis** : Risque de rigidité organisationnelle et perte de flexibilité.
-
-</aside>
-
----
-
-## **Quadrant Local & Dynamique : Réseau → "Agilité Organique"**
-
-💡 **Orientation** : Auto-organisation et intelligence collective.
-
-📌 **Idéal pour** : Organisations valorisant l’autonomie et l’innovation distribuée.
-
-### Capacités à développer
-
-**Réactivité** Réagir rapidement aux opportunités et défis rencontrés, de par la quasi autonomie des cellules. Capacité d’activation rapide de collaborations.
-
-**Flexibilité** Pouvoir répondre aux demandes spécifiques, par une reconfiguration rapide des interactions entre cellules.
-
-**Adaptabilité** Ajustement et pivot sur son business model si besoin.
-
-**Proactivité** Provoquer le changement dès que possible pour accélérer l'apprentissage et ajuster rapidement. Création d’un écosystème robuste pour explorer de nouvelles opportunités.
-
-Innovation distribuée
-
-### **Caractéristiques** clés
-
-- Fonctionnement en **réseaux d’équipes autonomes**.
-- Adaptabilité maximale aux besoins locaux et aux opportunités émergentes.
-- Coordination horizontale via ajustement mutuel et communautés de pratique.
-- Approche expérimentale avec peu de structure centralisée.
-- Idéal pour les entreprises favorisant **l’intrapreneuriat et l’innovation participative**.
-
-### **Exemples d’organisations**
-
-- Organisations **décentralisées** (coopératives, franchises).
-- Entreprises avec **hubs autonomes d’innovation** (ex. incubateurs internes).
-- R&D exploratoire dans des environnements à forte diversité culturelle et organisationnelle.
-
-<aside>
-⚠️
-
-**Défis** : Difficulté d’alignement global et risque de fragmentation des initiatives.
-
-</aside>
-
----
-
-## **Quadrant Stable & Local : Flux → "Agilité Opérationnelle"**
-
-💡 **Orientation** : Stabilisation et excellence des processus.
-
-📌 **Idéal pour** : Organisations cherchant à optimiser leur **performance et prévisibilité**.
-
-### Capacités à développer
-
-**Réactivité** Ajustement des flux en fonction de la demande en temps réel
-
-Planification juste à temps grâce à l’approche en flux tiré
-
-**Flexibilité** Gestion de multiples classes de services avec des niveaux de priorité variés
-
-**Adaptabilité de la capacité du système à la demande**, notamment par de l’allocation de capacité dynamique et adaptative
-
-Innovation efficience
-
-### **Caractéristiques** clés
-
-- Approche **Lean-Agile**, pilotage par les **flux de travail** plutôt que par les projets.
-- Utilisation de **Kanban** et d’amélioration continue.
-- Optimisation des **chaînes de valeur**, réduction des variabilités.
-- Gestion des interdépendances via **contrats de service** et **classes de service**.
-- Exigences élevées en termes de fiabilité et de performance.
-
-### **Exemples d’organisations**
-
-- Services IT et DevOps (infrastructure, support, maintenance).
-- Supply chain et production industrielle en environnement agile.
-- Opérations nécessitant une **forte standardisation des processus**.
-
-⚠ **Défis** : Risque d’inertie face au changement, difficulté à innover.
-
----
-
-# 🔑 Points clés à retenir
-
-### **Finalité des archétypes agiles**
-
-- **Aligner la structure organisationnelle avec la stratégie dominante** pour assurer une **agilité cohérente et efficace**.
-- **Fournir des repères** pour concevoir des modèles organisationnels adaptés aux réalités spécifiques des entreprises.
-- **Faciliter la prise de décision** sur la structuration des équipes, les modes de gouvernance et les flux de travail.
-
-### **Positionnement des archétypes**
-
-- Le modèle **Flux** correspond aux **structures stables et locales**, où l’agilité vise la **performance opérationnelle** et la prévisibilité.
-- Le modèle **Produit** vise à **stabiliser et structurer l’innovation** en assurant une croissance maîtrisée, avec une gouvernance forte sur les produits et services.
-- Le modèle **Projet** est conçu pour **l’expérimentation et l’innovation rapide** sur des initiatives stratégiques nécessitant une coordination temporaire.
-- Le modèle **Réseau** favorise **l’auto-organisation et l’adaptabilité**, s’appuyant sur des structures agiles distribuées et un faible niveau de centralisation.
-
-<aside>
-👉
-
-**Quel est votre archétype actuel et vers quel modèle souhaitez-vous évoluer ?**
-
-</aside>

@@ -1,4 +1,6 @@
-# La démarche de la transformation
+# Démarche transformationnelle
+
+Propriétaire: Laurent Morisseau
 
 - Sommaire
 
@@ -7,312 +9,218 @@
 
 **Objectif**
 
-*Un changement simultanément local, global, structuré et adaptatif*
+Piloter un **changement à la fois local, global, structuré et adaptatif** en combinant :
 
-La transformation agile ne peut reposer uniquement sur des initiatives Bottom-up ni se résumer à un déploiement Top-down. Elle requiert une **démarche mixte**, articulant :
+- **Ascendant** (bottom-up) : initiatives émergentes, portées par les équipes
+- **Descendant** (top-down) : directives stratégiques, portées par la direction
 
-- **Une dynamique ascendante** : émergente, incrémentale, portée par les équipes.
-- **Une dynamique descendante** : délibérée, structurée, portée par la stratégie.
-
-L’objectif est de garantir à la fois **l’adaptation continue** du système (court terme) et **sa transformation en profondeur** (long terme), tout en maintenant l’alignement entre à tous les niveaux décisionnels.
+Vous obtenez ainsi **adaptation continue** (court terme) et **transformation en profondeur** (long terme), tout en maintenant un alignement transparent à chaque niveau.
 
 </aside>
 
-La transformation agile ne peut reposer uniquement sur des initiatives Bottom-up ni se résumer à un déploiement Top-down. Elle requiert une **démarche mixte**, articulant :
+<aside>
+🧑‍🎓
 
-- **Une dynamique ascendante** : émergente, incrémentale, portée par les équipes.
-- **Une dynamique descendante** : délibérée, structurée, portée par la stratégie.
+**Lexique rapide**
 
-🎯 L’objectif est de garantir à la fois **l’adaptation continue** du système (court terme) et **sa transformation en profondeur** (long terme), tout en maintenant l’alignement entre niveaux opérationnel, tactique, stratégique et corporate.
+- **Ascendant (bottom-up) :** Approche émergente portée par les équipes : idées et solutions remontent du terrain vers la stratégie.
+- **Descendant (top-down) :** Démarche structurée portée par la direction : la vision et les objectifs sont déclinés vers les équipes.
+- **Agile4D :** Les 4 dimensions d’agilité d’entreprise : opérationnelle, tactique, stratégique, portfolio.
+- **PACTE : P**ortfolio **A**gile **C**anevas pour la **T**rajectoire d’**E**ntreprise : outil de pilotage et de priorisation au niveau corporate.
+- **ACTE : A**gile **C**anevas pour la **T**ransformation d’**E**ntreprise : relie stratégie, tactique et transformation pour exposer les désalignements.
+- **IMPACTE :** Modèle de **maturité** pour évaluer l’impact et la progression de l’agilité à l’échelle de l’entreprise.
+</aside>
+
+# Intention holistique & déploiement progressif
+
+La puissance vient de l’alignement, c’est le pivot stratégique de ce Framework. Il ne propose pas qu’une simple boîte à outils, mais **une approche :**
+
+1. **Systémique dans l’intention** – penser transformation globale.
+2. **Progressif dans la mise en œuvre** – éviter le « big bang » : small bets, learn fast.
+
+**Transformations typiques**
+
+| Horizon | Durée estimée |
+| --- | --- |
+| Agilité opérationnelle | < 1 an |
+| Agilité à l’échelle | 1 – 3 ans |
+| Agilité d’entreprise | 3 – 5 ans |
+
+## Activation contextuelle
+
+1. **Par unité stratégique**
+    - Détecter une **tension business réelle** (fragmentation, inertie).
+    - Lancer un pilote local porté par l’équipe concernée.
+    
+    Ce n’est pas le cadre qui décide. C’est votre réalité stratégique qui commande.
+    
+2. **Par niveau de décision** ([Agile4D](https://www.notion.so/Agile4D-Les-4-dimensions-cl-s-de-l-agilit-d-entreprise-15f90eaf28ff80bf80d2eef1834aec41?pvs=21))
+    - Étendre le cadre selon les quatre dimensions d’agilité :
+        
+        Opérationnel ↔ Tactique ↔ Stratégique ↔ Portfolio.
+        
+
+<aside>
+➿
+
+**TechNova**
+
+Le CSO décide de piloter un ensemble de prototypes IA de manière distribuée suite à besoin business identifié mais encore très diffus. Alors que le COO cherche à synchroniser OKR stratégiques et chaînes de valeur afin d’améliorer la cohérence des décisions / actions et surtout éviter les initiatives locales redondantes.
+
+</aside>
+
+> Principe : on active ce qui est nécessaire, là où la tension l’exige. Le but est rendre pilotable les vrais lieux de décision.
+> 
 
 # Principes d’une démarche mixte
 
 ![image.png](image.png)
 
-<aside>
-🎯
+## Pourquoi un cadre mixte ?
 
-Être capable de gérer le [changement continu](https://www.notion.so/L-approche-simultan-e-le-changement-continu-et-mergent-14a90eaf28ff808d8c31cb052208f601?pvs=21) pour la performance d’aujourd’hui, tout en incubant un [changement révolutionnaire](https://www.notion.so/La-fabrique-du-changement-14a90eaf28ff8085bd03d715bfdae69e?pvs=21) pour préparer l’avenir.
+Quelle approche choisir pour optimiser globalement, adapter localement ?
 
-</aside>
+- Les approches purement bottom-up manquent de cohérence globale.
+- Les démarches top-down génèrent de la résistance et de la rigidité.
 
-La transformation agile est à l’origine avant tout une démarche ascendante partant des équipes (logicielles). Cependant, l’agilité à l’échelle a amené une démarche descendante du management mal assumée, venant en opposition à l’agilité opérationnelle.
+**Agile4Enterprise** propose une **orchestration contextuelle** : activer là où la tension business & organisationnelle existe, et nulle part ailleurs, dans une approche mixte : 
 
-Pour réconcilier ces approches, l’entreprise agile a besoin d’une démarche mixte et équilibrée :
+- **Ascendante** : locale, émergente, incrémentale, portée par les équipes.
+- **Descendante** : globale, délibérée, structurée, portée par la stratégie.
 
-- Ascendante, émergente, continue, et locale :
-    - [Stratégie émergente](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21) et décentralisée, via la tactique et l’opérationnel  : [Strategizing](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21)
-    - Design organisationnel tactique et opérationnel : [Organizing](https://www.notion.so/Organizing-une-approche-du-design-op-rationnel-14490eaf28ff80a3980ce541e1075585?pvs=21)
-    - [Changement organisationnel de premier ordre](https://www.notion.so/Le-changement-organisationnel-13e90eaf28ff80e6ba90ed12c5f3bb17?pvs=21),
-    - Adaptation et différentiation locale,
-    - [Apprentissage simple boucle](https://www.notion.so/Les-capacit-s-de-l-entreprise-agile-13690eaf28ff8182abccc48ebecb3bf6?pvs=21).
-- Descendante, délibérée, discontinue, et globale :
-    - [Stratégie délibérée](https://www.notion.so/La-fabrique-de-la-strat-gie-13690eaf28ff81429de6ef6e608ea01a?pvs=21) et centralisée,
-    - Design organisationnel stratégique,
-    - [Changement organisationnel de second ordre](https://www.notion.so/Le-changement-organisationnel-13e90eaf28ff80e6ba90ed12c5f3bb17?pvs=21),
-    - Optimisation globale,
-    - [Apprentissage double boucle](https://www.notion.so/Les-capacit-s-de-l-entreprise-agile-13690eaf28ff8182abccc48ebecb3bf6?pvs=21).
+L’objectif est de garantir à la fois **l’adaptation continue** du système (court terme) et **sa transformation en profondeur** (long terme), tout en maintenant l’alignement entre niveaux.
 
-L’enjeu est de synchroniser ces dynamiques par une **gouvernance intégrée**, avec des **cadences communes** et des **modèles mentaux partagés**.
+## Gouvernance de la transformation
 
-<aside>
-📚
-
-En savoir plus sur la [transformation](https://www.notion.so/Section-VII-La-transformation-agile-Passez-l-ACTE-18290eaf28ff80d6922cf0c7d93c1be4?pvs=21)
-
-</aside>
-
-## La gouvernance de la transformation
-
-![image.png](image%201.png)
-
-Généralement, les transformations agiles opérationnelles sont des programmes de transformation agile au mieux sponsorisées par la direction, et déléguées aux coach agiles internes ou externes, dans certains départements. Et plus généralement, les programmes de transformation sont délégués aux agents de la transformation.
-
-Cependant, cette transformation **Agile4Enterprise** est au service de la stratégie globale de l’entreprise. La gouvernance de la transformation doit donc être intégrée à la gouvernance de l’entreprise. Ce n’est pas un pilotage de transformation à part entière. Elle doit à la fois être intégrée au quotidien des équipes ET au pilotage stratégique comme levier d’une performance durable.
-
-### Niveau Portfolio
-
-Le but est d’amener l’entreprise vers le [niveau de maturité Portfolio](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21). A ce niveau, cette transformation touche plus spécifiquement la fonction corporate. Et au-delà de la gouvernance et de la [boîte à outils](https://www.notion.so/L-Agilit-Portfolio-en-action-17a90eaf28ff8048bf54db4b5c52c4d7?pvs=21), il s’agit surtout de changer de modèle mental (nous avons parlé d’[agilité cognitive](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21)) ! 
-
-<aside>
-🎯
-
-Ce niveau a deux objectifs : 
-
-1. L’agilité Portfolio est en place dans l’entreprise,
-2. Les niveaux Portfolio et stratégiques sont bien alignés dynamiquement.
-    
-    Pour ce second point, il faut qu’au moins une unité stratégique ait atteint le niveau de maturité d’agilité stratégique pour passer au niveau Portfolio.
-    
-</aside>
-
-**L’agent du changement : le coach agile d’entreprise**
-
-Le rôle faisant office d’agent du changement pour amener l’agilité au niveau portfolio est le [**coach agile d’entreprise**](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21).
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Coach agile d’entreprise](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
-
-### Niveau Stratégique
-
-Le but est d’amener chaque unité stratégique vers le [niveau de maturité Stratégique](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21).
-
-A ce niveau, cette transformation touche à la direction de l’unité stratégique. A nouveau, les transformations agiles opérationnelles sont des programmes de transformation au mieux sponsorisées par la direction, et déléguées aux coach agiles internes ou externes. Pour les mêmes raisons, la gouvernance de la transformation doit être intégrée à la gouvernance de l’unité.
-
-**Intégration outil ACTE**
-
-C’est pourquoi les initiatives de cette transformation se retrouvent dans la partie transformation de l’[outil ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21), pour atteindre les OKR tactiques et stratégiques de l’organisation. Le rythme de la transformation est portée par la cadence de changements [tactiques](https://www.notion.so/La-gouvernance-adaptative-tactique-13b90eaf28ff8066aa8bc5c28ac35645?pvs=21) et [stratégiques](https://www.notion.so/La-gouvernance-adaptative-strat-gique-13b90eaf28ff800996ccf4dc1e54bcc6?pvs=21) : les [cycles OKR](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21) typiquement trimestriels.
-
-La roadmap de la transformation est donc coconstruite par les équipes, avec une planification juste-à-temps (cycle OKR après cycle OKR), tout en restant aligné avec les objectifs business.
-
-Ainsi, le modèle opératoire agile se construit de manière agile, itérative et incrémentale, sur des cadences trimestrielles et annuelles. C’est la consolidation de toutes les initiatives réussies (c’est-à-dire ayant eu l‘impact souhaité) au service des OKR, eux-mêmes au service d’une stratégie adaptative pour le succès du business model.
-
-<aside>
-🎯
-
-Ce niveau a deux objectifs : 
-
-1. L’agilité Stratégique est en place au niveau des unités stratégiques,
-2. Les niveaux stratégiques et tactiques sont bien alignés dynamiquement.
-    
-    Il faut qu’au moins une unité tactique ait atteint le niveau de maturité d’agilité tactique pour passer au niveau stratégique.
-    
-</aside>
-
-**L’agent du changement : le coach agile d’organisation**
-
-Le rôle faisant office d’agent du changement pour amener l’agilité au niveau des unités stratégiques est le [**coach agile d’organisation**](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21).
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Coach agile d’organisation](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
-
-### Niveau tactique
-
-Le but est d’amener chaque unité tactique vers le [niveau de maturité Tactique](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21).
-
-Les initiatives de cette transformation se retrouvent dans la partie transformation de l’[outil ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21), pour atteindre les OKR tactiques et stratégiques de l’organisation. Le rythme de la transformation est portée par la cadence de changements [tactiques](https://www.notion.so/La-gouvernance-adaptative-tactique-13b90eaf28ff8066aa8bc5c28ac35645?pvs=21) avec les [cycles OKR](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21) typiquement trimestriels.
-
-La roadmap de la transformation est donc coconstruite par les équipes, avec une planification juste-à-temps (cycle OKR après cycle OKR), tout en restant aligné avec les objectifs business.
-
-Ainsi, le modèle opératoire agile se construit de manière agile, itérative et incrémentale, sur des cadences trimestrielles. C’est la consolidation de toutes les initiatives réussies (c’est-à-dire ayant eu l‘impact souhaité) au service des OKR.
-
-**L’agent du changement : le coach agile**
-
-Le rôle faisant office d’agent du changement pour amener l’agilité au niveau des unités tactiques est le [**coach agile**](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21). Il s’incarne dans différents rôles dans les Frameworks de l’agilité à l’échelle.
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Coach agile](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
-
-### Niveau opérationnel
-
-Le but est d’amener chaque unité opérationnelle (équipe) vers le [niveau de maturité Opérationnelle](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21). Le rôle faisant office d’agent du changement pour amener l’agilité au niveau des unités opérationnelles est l’[agile master](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21). Il s’incarne dans différents rôles dans les méthodes agiles classiques : Scrum master, Kanban master, coach XP…
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Agile Master](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
-
----
-
-# Les cadences de transformation
-
-Elles suivent naturellement les cycles de changement aux différents niveaux.
-
-![4 cadences de changement et de gestion de risques](image%202.png)
+![4 cadences de changement et de gestion de risques](image%201.png)
 
 4 cadences de changement et de gestion de risques
 
-L’entreprise ne devient pas agile du jour au lendemain. Les transformations peuvent prendre plusieurs mois à plusieurs années, typiquement deux à trois ans pour l’agilité opérationnelle et à l’échelle. Nous n’avons pas encore suffisamment de retour d’expérience collective pour une transformation de l’entreprise. 7 ans est un chiffre classique pour la transformation Lean d’une entreprise. Nous pouvons nous attendre à cet horizon de temps pour une entreprise agile.
+L’enjeu est de synchroniser ces dynamiques par une **gouvernance intégrée**, avec des **cadences communes** et des **modèles mentaux partagés**. Cela ne se fait ni en silos ni en une fois. Elle suit **les 4 boucles adaptatives**, propres à chaque niveau : opérationnel, tactique, stratégique, portfolio.
 
-La question du déploiement est donc un sujet important. L’agilité étant au service de l’entreprise, la transformation va se faire plus pour répondre à des enjeux stratégiques, tactiques ou opérationnels qu’une transformation agile en tant que telle. Nous allons utiliser les cadences du changement pour déployer au fur et à mesure des besoins l’agilité dans toute l’organisation.
+Chaque niveau de décision possède son propre référent transformationnel, ses outils et sa cadence :
 
-> *Par exemple, une partie d’une organisation multi services va s’organiser autour d’un objectif stratégique commun. Si l’objectif est atteint, la structure sera de fait réorganisée pour exploiter l’actif qui en résulte, plutôt que chaque équipe retourne dans son service. C’est la différence avec une approche projet, ou une fois l’objectif atteint, on reprend l’organisation initiale.*
-> 
-
-Ces cadences de changement portent sur la stratégie, et donc sur toutes les dimensions de l’entreprise : capacités organisationnelles, structure, processus, individus, systèmes de reconnaissances.
-
-<aside>
-💡
-
-Les cadences du changement rythment donc la transformation de l’entreprise.
-
-</aside>
-
-Par exemple, le déploiement des OKR dans l’entreprise se cale sur les cycles [OKR](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21) :
-
-- Les OKR tactiques se déploient au fur et à mesure des cycles tactiques,
-- Les OKR stratégiques au fur et à mesure des cycles stratégiques.
-
-Nous avons vu que les [unités sont stables encours de cycle, et peuvent changer au démarrage d’un nouveau cycle](https://www.notion.so/Une-approche-mixte-et-cadenc-e-du-changement-18290eaf28ff806ab935cdfd0c0ff10e?pvs=21) :
-
-- Les unités stratégiques sont stables au sein d’un cycle stratégique,
-- Les unités tactiques sont stables au sein d’un cycle tactique,
-- Les unités opérationnelles sont stables au sein d’un cycle opérationnel.
+| Niveau | Objectif | Cadence | Outil(s) | Rôle principal |
+| --- | --- | --- | --- | --- |
+| **Portfolio** | Pilotage global adaptatif | Annuel + synchros BU | PACTE / IMPACTE | Coach Agile d’Entreprise |
+| **Stratégique** | Maturité stratégique des BU | Trimestrielle + OKR annuelle | ACTE / OKR | Coach Agile d’Organisation |
+| **Tactique** | Alignement court terme (priorités) | Trimestrielle | ACTE | Coach Agile |
+| **Opérationnel** | Exécution fluide & qualité continue | Hebdo / bimensuel | Cadences Agiles | Agile Master |
 
 <aside>
-🧰
+➿
 
-En savoir plus sur les [4 cadences de changement](https://www.notion.so/Les-4-cadences-du-changement-et-de-l-apprentissage-13b90eaf28ff8091b4cce85974f50938?pvs=21)
+**TechNova**
+
+Avant de transformer toute la zone d’exploitation en Flux, le COO décide d’organiser la transformation autour d’un premier objectif stratégique commun.
 
 </aside>
 
 ---
 
-# Les outils de la transformation
+## Ce que les outils ne capteront jamais
 
-C’est pour cela que les outils développés spécifiquement pour ce Framework ont pour vocation à réunir les individus autour d’une même table avec des rôles et des points de vue différents pour aligner toute l’organisation.
+**Agile4Enterprise** propose des dispositifs structurés pour piloter l’alignement, l'impact et la transformation vivante : PACTE, ACTE, OKR, radar IMPACTE...
 
-- Au niveau Entreprise : [Le modèle de maturité **IMPACTE](https://www.notion.so/Le-mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21),** Indicateur de Maturité et de Progression Agile pour la Transformation d’Entreprise
-- Au niveau Portfolio : [L’outil PACTE](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21), Portfolio Agile Canevas pour la Trajectoire d’Entreprise
-- Au niveau Stratégique :
-    - [L’outil ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21), Agile Canevas pour la Transformation d’Entreprise
-    - [Le radar](https://www.notion.so/Radar-de-l-entreprise-agile-13490eaf28ff80288f7dcd0fee927567?pvs=21)
+Mais une transformation ne vit pas dans ses outils. **La vraie dynamique vivante** se cache dans : 
 
-<aside>
-💡
+- Les conversations informelles,
+- Les signaux faibles (hésitation, silence),
+- Les micro-ajustements quotidiens.
 
-Rechercher l’**IMPACTE** pour l’entreprise
+Aucun cadre, aussi puissant soit-il, ne peut prétendre **capturer tout ce qui fait évoluer une organisation.**
 
-En passant un **PACTE** globalement
+Cela implique pour Agile4Enterprise de :
 
-Pour passer à **l’ACTE** localement
+- Ne pas tout mesurer
+- Laisser de l’espace au **qualitatif**
+- Inclure témoignages, ressentis, signaux faibles dans les revues
 
-</aside>
-
-<aside>
-💝
-
-Ps : Ces outils sont [Open Source](http://opensource.agile4enterprise.com/), vous pouvez vous en servir, contribuer, et les diffuser.
-
-</aside>
-
----
-
-# Les rôles de l’entreprise agile
-
-## Les rôles agiles
-
-Les rôles agiles sont des rôles de transformation. Dans notre approche, un agile master ou un coach agile, peu importe son niveau, n’est pas là pour durer dans le temps car les équipes, les collectifs doivent pouvoir s’auto organiser.
-
-Les rôles de transformation se situent à chaque niveau de prises de décisions :
-
-- [**Agile master**](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21) au niveau de l’équipe,
-- [**Coach agile**](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21) au niveau des unités tactiques,
-- [**Coach agile organisation**](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21) au niveau des unités stratégiques,
-- [**Coach agile entreprise**](https://www.notion.so/Les-r-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21) au niveau de l’entreprise.
-
-## Les rôles internes
-
-Les rôles internes - leader, manager, collaborateur - ne sont pas des rôles de transformation. En revanche, ils ont chacun un changement de modèle mental à parcourir pour que l’entreprise globalement aille vers plus d’agilité.
-
-> *Par exemple, le leader agile joue un rôle clé en garantissant une stratégie dynamique et en facilitant la mise en œuvre des ajustements stratégiques nécessaires pour maintenir un avantage concurrentiel.*
+> Le véritable apprentissage collectif ne passe pas uniquement par des métriques.
 > 
 
-Ces rôles doivent également s’ajuster selon les [zones de management](https://www.notion.so/Les-zones-de-management-14590eaf28ff80fc9395fe20b7c9f556?pvs=21). C’est l’[agilité managériale](https://www.notion.so/L-agilit-manag-riale-18b90eaf28ff8023814bdcc2e0240ac4?pvs=21) en action.
+## Et concrètement, lundi matin …
 
-> Mais en partant de la stratégie, c’est-à-dire en proposant une transformation au service de la stratégie, donc intégré à la gouvernance, alors la **gouvernance de cette transformation doit également être intégrée à la [gouvernance de l’entreprise](https://www.notion.so/La-gouvernance-adaptative-Portfolio-15f90eaf28ff80f493d9ed25cf094433?pvs=21)**.
-> 
+1. **Identifiez** une tension business (ex. délai de mise sur le marché).
+2. **Choisissez** un mode d’activation (unité ou niveau).
+3. **Lancez** un pilote en 4 étapes :
+    - Cartographie rapide de la tension
+    
+    Cela ne ne
+    
+    - Définition de l’objectif et des rôles
+    - Pilotage par cadences adaptées
+    - Rétrospective de la boucle (simple/double)
+4. **Documentez** les retours, gestes, et signaux faibles.
+5. **Itérer** : déployer progressivement à d’autres tensions et unités.
 
 ---
 
 # 🔑 Points clés à retenir
 
-| Dynamique | Nature | Objectifs principaux | Concepts associés |
-| --- | --- | --- | --- |
-| **Ascendante** | Émergente, locale | Amélioration continue, adaptation tactique | Strategizing, Organizing, simple boucle |
-| **Descendante** | Délibérée, globale | Transformation structurelle, alignement | Structuring, Designing, double boucle |
+- **Mixte** = condition sine qua non de l’agilité d’entreprise.
+- **Activation contextuelle** : pas de dogme, mais un choix éclairé.
+- **Gouvernance intégrée** : piloter par niveaux avec cadences et outils adaptés.
+- Ecouter les gestes et signaux faibles, pas seulement les métriques.
 
-## Gouvernance multi-niveaux de la transformation
+> Avec ce cadre, vous évitez le « n’importe quoi, n’importe comment » et installez une agilité responsable, durable et alignée.
+> 
 
-### Niveau Opérationnel – *Exécution continue*
-
-- **Objectif** : Atteindre la maturité opérationnelle de chaque équipe.
-- **Cadence** : Daily + Revue hebdo ou bimensuelle
-- **Logique** : Auto-organisation et pilotage du flux
+### 👉 Et maintenant ? Puisqu’il s’agit d’activer les tensions, explorons la [navigation par polarités](https://www.notion.so/Navigation-strat-gique-par-polarit-s-1df90eaf28ff80df863dcaaaf1fb4ae6?pvs=21).
 
 ---
 
-### Niveau Tactique – *Alignement court terme*
+# Annexes
 
-- **Objectif** : Atteindre la maturité d’agilité tactique (OKR, initiatives, priorités partagées)
-- **Cadence** : Revue tactique trimestrielle
-- **Outil** : ACTE (Agile Canevas pour la Transformation d’Entreprise)
+### Niveau Portfolio – *Pilotage global de la trajectoire*
 
----
+- Objectif : Implémenter une **gouvernance adaptative corporate**.
+- Cadence : Revue annuelle + synchronisation avec les unités stratégiques.
+- Outil : [**PACTE**](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21), [IMPACTE](https://www.notion.so/Mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21)
+
+<aside>
+🦸
+
+Rôle de transformation agile : [Coach agile d’entreprise](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
+
+</aside>
 
 ### Niveau Stratégique – *Design stratégique agile*
 
-- **Objectif** : Maturité stratégique des business units, alignement avec la vision corporate
-- **Cadence** : Cycle OKR annuel + revue trimestrielle
-- **Outils** : ACTE (transformation), OKR (stratégie), radar de maturité
+- Objectif : Amener chaque BU au niveau de maturité stratégique.
+- Cadence : Revue trimestrielle + cycle OKR annuel.
+- Outils : [ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21), OKR, [IMPACTE](https://www.notion.so/Mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21)
 
----
+<aside>
+🦸
 
-### Niveau Portfolio – *Pilotage de la trajectoire globale*
+Rôle de transformation agile : [Coach agile d’organisation](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
 
-- **Objectif** : Implémenter une gouvernance adaptative corporate (IMPACTE)
-- **Cadence** : Revue annuelle + synchronisation avec le stratégique
-- **Outil** : PACTE (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)
+</aside>
 
-## Les rôles de transformation
+### Niveau Tactique – *Alignement court terme*
 
-| Niveau | Rôle clé | Fonction principale |
-| --- | --- | --- |
-| Équipe | **Agile Master** | Soutien à l'auto-organisation |
-| Tactique | **Coach Agile** | Structuration tactique, facilitation d’impact |
-| Stratégique | **Coach Organisation** | Alignement entre structure et stratégie |
-| Portfolio | **Coach Entreprise** | Accompagnement systémique de la transformation |
+- Objectif : Maturité tactique (OKR, initiatives, priorités partagées).
+- Cadence : Revue tactique trimestrielle.
+- Outil : [ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21)
+
+<aside>
+🦸
+
+Rôle de transformation agile : [Coach agile](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
+
+</aside>
+
+### Niveau Opérationnel – *Exécution continue*
+
+- Objectif : Atteindre la maturité opérationnelle d’équipe.
+- Cadence : Daily + revue hebdo/bimensuelle.
+- Outil : Cadences + pratiques agiles.
+- Rôle : [Agile master](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
+
+<aside>
+🦸
+
+Rôle de transformation agile : [Agile Master](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
+
+</aside>

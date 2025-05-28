@@ -107,6 +107,7 @@
         'archetypes/agile4project/index', 
         'archetypes/agile4zombie/index', 
         'archetypes/topologie/index', 
+        'archetypes/agile4e4x/index', 
       ],
     },
     {
@@ -114,10 +115,12 @@
       label: "La transformation",
       collapsed: true,
       items: [
+        'transformation/engagements/index', 
         'transformation/demarche/index', 
+        'transformation/polarites/index', 
+        'transformation/acte/index', 
         'transformation/radar/index', 
         'transformation/impacte/index', 
-        'transformation/acte/index', 
         'transformation/roles/index', 
       ],
     },
