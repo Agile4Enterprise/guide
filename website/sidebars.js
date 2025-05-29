@@ -121,7 +121,10 @@
         'transformation/acte/index', 
         'transformation/radar/index', 
         'transformation/impacte/index', 
+        'transformation/agile4entropy/index', 
+        'transformation/diagnostic/index', 
         'transformation/roles/index', 
+        'transformation/culture/index', 
       ],
     },
     {
