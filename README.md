@@ -1,37 +1,91 @@
-# Agile4Enterprise - Le Guide Officiel 📖🚀
+# Agile4Enterprise – Le Guide Officiel 📘⚙️
 
-Bienvenue dans le dépôt officiel du guide *Agile4Enterprise - Le Guide Officiel*, un ouvrage open source destiné à accompagner les PME dans leur transformation agile, et les coach agiles dans la mise en oeuvre de cette transformation. Ce guide est publié sous une licence ouverte afin de favoriser la diffusion des connaissances tout en préservant la maîtrise de son contenu et de ses versions commerciales.
+Bienvenue sur le dépôt officiel du **Framework Agile4Enterprise**.  
+Ce guide open source est une œuvre collective, conçue pour accompagner les organisations dans leurs transformations adaptatives. Il s'adresse aux coachs d’entreprise, stratèges, facilitateurs, architectes de la transformation.
 
-## 📜 Licence et Distribution
+---
 
-- **Version PDF** : Disponible gratuitement sous licence **Creative Commons BY-ND 4.0**.
-<!--- **Version imprimée et e-book** : Disponible en auto-édition (impression et vente réservées à l’auteur).-->
-- **Contributions** : Vous pouvez proposer des améliorations et des suggestions via des pull requests. Cependant, l’auteur se réserve le droit exclusif de valider les modifications intégrées à la version finale.
+## 🎯 Pourquoi ce guide ?
 
-## 📚 Contenu du dépôt
+Parce qu’une **boîte à outils ne suffit plus**.  
+Agile4Enterprise n’est pas une méthode. C’est un **cadre de lecture systémique**, pour relier :
 
-- 📝 Manuscrit du guide en format Markdown (`/docs/`)
-- 🔄 Contributions et discussions ouvertes (`Issues` et `Discussions`)
-- 📌 Ressources complémentaires (graphiques, outils, références)
+- Stratégie ⟷ Organisation ⟷ Équipes ⟷ Produits
+- Temporalité ⟷ Prise de décision ⟷ Adaptabilité
 
-## 🛠 Comment contribuer ?
+Il ne vous dit pas comment faire. Il vous aide à **penser ce que vous faites**, autrement.
 
-1. **Forkez** ce dépôt et travaillez sur votre propre version.
-2. **Proposez vos améliorations** en soumettant une Pull Request.
-3. **Discutez des idées** dans la section Discussions ou Issues.
-4. **Signalez des erreurs ou incohérences** pour améliorer le contenu.
+---
 
+## 🗓️ Phase de relecture contributive – Juin / Juillet 2025
 
-## 📥 Le guide en ligne
+📅 Du **13 juin au 11 juillet 2025**, rejoignez la relecture publique de la V1.
 
-📌 Le guide est disponible en lecture ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/)  
-📌 Le PDF du guide sera bientôt disponible ici
-<!--📌 Le PDF du guide est disponible ici : [🔗 Lien de téléchargement](https://agile4enterprise.github.io/guide/static/Agile4Enterprise.pdf)-->
+### Deux modalités :
+🔹 **Relecteur engagé** :  
+Lecture complète sur Notion, feedbacks structurés, reconnaissance dans le guide imprimé.
 
-## 💡 Auteurs et Contacts
+🔸 **Contributeur libre** :  
+Suggestions via issues ou pull request GitHub, critiques ou forks publics valorisés.
 
-- **Auteur principal** : [Laurent Morisseau / Morisseau Consulting]
-- **Site web du framework** : [Agile4Enterprise.com](https://agile4enterprise.com/)
-- **Contact** : [hello@agile4enterprise.com](mailto:hello@agile4enterprise.com)
+📩 [→ Rejoindre la phase de relecture](https://agile4enterprise.com/lancement)  
+📖 [→ Lire la version web du guide](https://agile4enterprise.github.io/guide/docs)
 
-Merci à tous les contributeurs pour leur engagement et leur soutien dans cette initiative open source ! 🚀
+---
+
+## 🚀 Lancement officiel V1 – Novembre 2025
+
+La version figée **v1.0** du guide sera publiée en novembre 2025, en formats :
+
+- 📕 Livre imprimé (Amazon KDP)
+- 📄 PDF master
+- 🌐 Version en ligne vivante (GitBook + GitHub)
+
+---
+
+## 📂 Structure du dépôt
+
+Ce dépôt contient :
+
+- `/docs/` → Manuscrit du guide (Markdown)
+- `/website/` → Documentation statique (Docusaurus)
+- `.github/workflows/` → Workflows CI
+- `README.md` → Présentation du projet
+- `CONTRIBUTING.md` → Modalités de contribution
+- `CODE_OF_CONDUCT.md` → Règles communautaires
+- `LICENSE.md` → Licence Creative Commons BY-ND 4.0
+- `.gitignore`
+
+---
+
+## 🛠 Contribuer
+
+1. **Forkez** ce dépôt
+2. Travaillez sur une branche dédiée
+3. Soumettez une **Pull Request**
+4. Utilisez les **Issues** pour remonter incohérences ou suggestions
+
+> Tous les retours sont visibles.  
+> Les intégrations à la version officielle sont arbitrées collectivement.
+
+---
+
+## 📄 Licence
+
+**Creative Commons BY-ND 4.0**  
+- Usage, diffusion, copie autorisés **avec attribution**  
+- **Aucune modification** de la version officielle sans validation collective  
+- **Usage commercial réservé** (notamment édition papier, formations, exploitation sous marque)
+
+Plus d’infos : [https://creativecommons.org/licenses/by-nd/4.0](https://creativecommons.org/licenses/by-nd/4.0)
+
+---
+
+## 🌐 Ressources
+
+- Site du cadre : [https://agile4enterprise.com](https://agile4enterprise.com)
+- Contact : hello@agile4enterprise.com
+
+---
+
+> Ce guide est vivant. Vos contributions sont précieuses. Rejoignez l’expérience.
