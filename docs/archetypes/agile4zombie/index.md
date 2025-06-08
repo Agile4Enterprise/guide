@@ -88,4 +88,4 @@ Il représente l’organisation qui prétend se transformer mais ne choisit jama
 
 ---
 
-### 👉 Et maintenant ? Découvrez comment utiliser ces archétypes dans votre organisation !
+###

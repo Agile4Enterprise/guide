@@ -32,7 +32,7 @@ S’il existe des modèles d’organisation incluant une raison d’être évolu
 - **Décisions clés** :  Politique de l’entreprise, stratégie corporate et portefeuille d’investissement stratégique : arbitrages sur les investissements et allocation des ressources.
     
     
-    💡 **Stratégie Corporate** L’objectif est de créer de la valeur en modifiant les frontières de l’entreprise. La stratégie corporate s'intéresse aux choix des entreprises et marchés dans lesquels l'entreprise est en concurrence. C’est un cadre commun à toutes les unités d’affaires de l’entreprise. Elle consiste à rechercher un avantage concurrentiel groupe multi métiers. Le défi de la stratégie corporate est de créer plus de valeurs pour les entreprises et les marchés sur lesquels la firme est en concurrence que si ces entreprises étaient gérées de manière indépendante les unes des autres.(https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21)
+    💡 **Stratégie Corporate** L’objectif est de créer de la valeur en modifiant les frontières de l’entreprise. La stratégie corporate s'intéresse aux choix des entreprises et marchés dans lesquels l'entreprise est en concurrence. C’est un cadre commun à toutes les unités d’affaires de l’entreprise. Elle consiste à rechercher un avantage concurrentiel groupe multi métiers. Le défi de la stratégie corporate est de créer plus de valeurs pour les entreprises et les marchés sur lesquels la firme est en concurrence que si ces entreprises étaient gérées de manière indépendante les unes des autres.[11]
     
 - **Horizon de temps** : 5 à 10 ans.
 

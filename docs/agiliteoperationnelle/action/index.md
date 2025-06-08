@@ -57,18 +57,4 @@ L’agilité opérationnelle repose sur un ensemble d’outils et de repères co
 > Avec ces outils, votre système opérationnel devient un écosystème vivant, capable d’adapter, d’innover et de délivrer en continu.
 > 
 
-### 👉 Et maintenant ? Découvrez les archétypes agiles !
-
----
-
-# **Annexe : Autres outils et alternatives**
-
-## **Approches alternatives**
-
-- Les cycles de vie des équipes de Disciplined Agile
-
-## Outils complémentaires
-
-- Toutes les méthodes agiles
-- Le **modèle Cynefin** pour le choix de l’approche selon la complexité
-- Une **typologie d’équipe**, telles que Team topologies
+###
