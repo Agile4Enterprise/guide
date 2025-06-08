@@ -51,7 +51,7 @@ Ces deux modèles sont activés dans les **boucles adaptatives** de gouvernance 
 > Visualisation, arbitrage, activation.
 > 
 
-![Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)](Guide%20de%20l%E2%80%99outil%20PACTE%2017a90eaf28ff8007ae71e576ac507f7e/image.png)
+
 
 Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)
 

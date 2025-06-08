@@ -6,7 +6,7 @@
 
 ## Plusieurs “cultures agiles”, pas une
 
-![A*daptée du modèle de Quinn et Rohrbraugh*](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Les%20mode%CC%80les%20organisationnels,%20une%20approche%20cultur%2015e90eaf28ff8007833ff2ce6c1bcea7/image.png)
+
 
 A*daptée du modèle de Quinn et Rohrbraugh*
 
