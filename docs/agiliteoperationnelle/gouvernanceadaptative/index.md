@@ -4,7 +4,7 @@
 
 ✨ **Objectif** Mettre en place un cadre **vivant** où chaque équipe opère **librement** tout en restant **alignée** sur les cycles tactiques et stratégiques, grâce à des **cadences intégrées**, des **boucles de feedback**.
 
-![Cadence du changement opérationnel](La%20gouvernance%20adaptative%20ope%CC%81rationnelle%2013b90eaf28ff80da8cefeb9b98d6b1c9/image.png)
+![Cadence du changement opérationnel](image.png)
 
 Cadence du changement opérationnel
 
@@ -29,7 +29,7 @@ L’agilité ne se limite pas à un framework : elle se structure par un **syst�
 
 ## Les cadences opérationnelles
 
-![image.png](La%20gouvernance%20adaptative%20ope%CC%81rationnelle%2013b90eaf28ff80da8cefeb9b98d6b1c9/image%201.png)
+![image.png](image%201.png)
 
 > Cadence = rythme de vie de l’équipe
 > 

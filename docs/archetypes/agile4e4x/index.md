@@ -10,7 +10,7 @@
 
 # Un ancrage dans le modèle 4E
 
-![Les archétypes agiles et le modèle 4E](Portefeuille%20Agile%204E-4X%2020190eaf28ff8077a529ee0238c15549/image.png)
+![Les archétypes agiles et le modèle 4E](image.png)
 
 Les archétypes agiles et le modèle 4E
 

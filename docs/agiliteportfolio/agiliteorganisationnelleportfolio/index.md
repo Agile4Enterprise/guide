@@ -22,7 +22,7 @@ Sans elle, l’entreprise multiplie les transformations en local, mais reste rig
 > *Un portefeuille vivant impose un design vivant. Une entreprise traverse les saisons stratégiques comme un organisme vivant traverse le temps : elle doit savoir germer, croître, récolter... et se reposer.*
 > 
 
-![Agilité organisationnelle au niveau portfolio](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20portfolio%2017a90eaf28ff80fc9691d0fb59bc4ac6/image.png)
+![Agilité organisationnelle au niveau portfolio](image.png)
 
 Agilité organisationnelle au niveau portfolio
 

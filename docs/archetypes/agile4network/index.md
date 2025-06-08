@@ -8,7 +8,7 @@
 
 🧑‍🎓 **Lexique rapide** **Design Réseau** : structure plate de cellules interconnectées. **Archétype Réseau** : modèle centré sur l’agilité structurelle et les business models autonomes. **Cellule stratégique** : unité propriétaire de son P&L et responsable de sa mission. **Backlog**: file d’attente partagée coordonnant priorités et ressources. **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus. **Couplage faible** : interactions par confiance ou accords légers
 
-![Archétype Réseau dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image.png)
+![Archétype Réseau dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
 
 Archétype Réseau dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -71,7 +71,7 @@ La structure est la plus plate possible, potentiellement sans niveau hiérarchiq
 
 **Entrepreneuriale  (centré vision fondateur)**
 
-![Exemple : startup](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%201.png)
+![Exemple : startup](image%201.png)
 
 Exemple : startup
 
@@ -79,7 +79,7 @@ L'**archétype entrepreneurial** est centralisé. La collaboration repose sur un
 
 **Holistique (cercle auto-organisé)**
 
-![**Exemple** : Sociocratie, Holacratie](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%202.png)
+![**Exemple** : Sociocratie, Holacratie](image%202.png)
 
 **Exemple** : Sociocratie, Holacratie
 
@@ -103,7 +103,7 @@ Dépendance faible entre cellules
 
 ### **Passage à l’échelle**
 
-![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%203.png)
+![image.png](image%203.png)
 
 Un réseau se développe de manière organique, par **dissolution/reformation des cellules** en fonction des besoins émergents ou des décisions stratégiques. Cependant, même un réseau a une structure, créée par les processus formelles ou informelles. Les relations privilégiées qui se développent au sein de ce réseau, et sa structure sont fortement liées à la culture de ce réseau, selon que ces connexions sont plus de l’ordre bureaucratique, économique, opérationnel, culturel ou informationnel. C’est pourquoi dans un réseau, les connexions sont tout aussi importantes que les unités elles-mêmes.
 
@@ -257,7 +257,7 @@ Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
 
 # Synthèse de l’archétype Réseau
 
-![*Alignement stratégique du modèle organisationnel réseau*](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%204.png)
+![*Alignement stratégique du modèle organisationnel réseau*](image%204.png)
 
 *Alignement stratégique du modèle organisationnel réseau*
 
@@ -271,15 +271,15 @@ Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
 
 ### Réseau de startups internes
 
-![Zone d’exploration du modèle 4E](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%205.png)
+![Zone d’exploration du modèle 4E](image%205.png)
 
 Zone d’exploration du modèle 4E
 
-![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%206.png)
+![image.png](image%206.png)
 
 Cycle de vie de l’actif : Lancement
 
-![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%207.png)
+![image.png](image%207.png)
 
 Segment clients : Novateurs et primo adoptants
 
@@ -295,15 +295,15 @@ Une startup est à la recherche d’un business model innovant. Son approche est
 
 ### Réseau d’intraprises
 
-![Zone d’Exploitation du modèle 4E](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%201.png)
+![Zone d’Exploitation du modèle 4E](image%201.png)
 
 Zone d’Exploitation du modèle 4E
 
-![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%208.png)
+![image.png](image%208.png)
 
 Cycle de vie de l’actif : Maturité
 
-![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%209.png)
+![image.png](image%209.png)
 
 Segment clients : Majorité tardive
 
@@ -311,7 +311,7 @@ Les intraprises sont des unités autonomes ayant prouvé leur viabilité à l’
 
 ### Evolution d’une unité stratégique Réseau
 
-![Evolution d’une unité stratégique dans un archétype Réseau](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%2010.png)
+![Evolution d’une unité stratégique dans un archétype Réseau](image%2010.png)
 
 Evolution d’une unité stratégique dans un archétype Réseau
 

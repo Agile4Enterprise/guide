@@ -72,7 +72,7 @@ Ces outils sont conçus pour fonctionner en **boucle adaptative**, calée sur le
 
 ## Le cycle OKR stratégique
 
-![Le cycle OKR stratégique](L%E2%80%99agilite%CC%81%20strate%CC%81gique%20en%20action%2013490eaf28ff80d7ab1de95853019041/image.png)
+![Le cycle OKR stratégique](image.png)
 
 Le cycle OKR stratégique
 

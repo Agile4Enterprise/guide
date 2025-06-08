@@ -53,7 +53,7 @@ La solution ? Osciller selon un cycle maîtrisé. Plutôt que de figer un arché
 
 ## **Naviguer dans le modèle Agile4E par polarités**
 
-![Les polarités dominantes dans le modèle Agile4E](Navigation%20strate%CC%81gique%20par%20polarite%CC%81s%201df90eaf28ff80df863dcaaaf1fb4ae6/Capture_dcran_2025-04-24_152144.png)
+![Les polarités dominantes dans le modèle Agile4E](Capture_dcran_2025-04-24_152144.png)
 
 Les polarités dominantes dans le modèle Agile4E
 

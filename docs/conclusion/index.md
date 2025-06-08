@@ -24,7 +24,7 @@ Propriétaire: Laurent Morisseau
 
 ### Timeline type (0–18 mois)
 
-![image.png](Le%20but%20du%20cadre%20est%20de%20disparai%CC%82tre%201e090eaf28ff80308a1eceba0fb0bbd4/image.png)
+![image.png](image.png)
 
 | Phase | Durée | Objectif clé |
 | --- | --- | --- |

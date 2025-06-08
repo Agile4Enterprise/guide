@@ -6,7 +6,7 @@
 
 # Principes fondamentaux de design vivant
 
-![image.png](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20tactique%2017b90eaf28ff806fa662c684c93ef069/image.png)
+![image.png](image.png)
 
 ## Qu’est-ce qu’une unité tactique ?
 

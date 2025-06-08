@@ -4,7 +4,7 @@
 
 ✨ **Objectif** Découvrir comment le **modèle IMPACTE** vous aide à : 1. Mesurer la maturité agile à chaque strate de votre organisation (équipe, chaîne de valeur, business unit, corporate). 2. Diagnostiquer précisément vos forces et points de blocage sur quatre capacités (réactivité, flexibilité, adaptabilité, proactivité). 3. Structurer un plan d’amélioration continue via des ateliers ciblés et des indicateurs clairs.
 
-![**Outil IMPACTE** (Indicateur de Maturité et de Progression Agile pour la Transformation d’Entreprise)](Mode%CC%80le%20de%20maturite%CC%81%20IMPACTE%2018b90eaf28ff8053a419ccaa7d91bc21/image.png)
+![**Outil IMPACTE** (Indicateur de Maturité et de Progression Agile pour la Transformation d’Entreprise)](image.png)
 
 **Outil IMPACTE** (Indicateur de Maturité et de Progression Agile pour la Transformation d’Entreprise)
 

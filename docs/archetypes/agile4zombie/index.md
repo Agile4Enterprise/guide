@@ -4,7 +4,7 @@
 
 ✨ **Objectif** > Une organisation zombie qui a tout fait… sauf choisir. > Ni flux, ni produit, ni projet, ni réseau. Une organisation zombie a multiplié les initiatives et adopté tous les rituels agiles… sans faire de choix stratégique. ⇒ Elle **ne renonce à rien**, **n’adapte rien**, **ne pilote rien** : elle mime l’agilité, mais reste figée. ⇒ Ce contre-modèle sert à **révéler par contraste** les vraies décisions et renoncements qu’exigent les archétypes vivants.
 
-![L’archétype Zombie](Agile4Zombie%20L%E2%80%99anti-arche%CC%81type%201db90eaf28ff802ebcecd01e11f22848/image.png)
+![L’archétype Zombie](image.png)
 
 L’archétype Zombie
 

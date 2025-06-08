@@ -9,7 +9,7 @@
 > “On avait des décisions. Il nous manquait la cadence.” — Dirigeant, secteur service
 > 
 
-![Cadence du changement stratégique](La%20gouvernance%20adaptative%20strate%CC%81gique%2013b90eaf28ff800996ccf4dc1e54bcc6/image.png)
+![Cadence du changement stratégique](image.png)
 
 Cadence du changement stratégique
 
@@ -159,7 +159,7 @@ Le processus d'apprentissage collectif devient un **levier stratégique** : Feed
 
 ### Le cas TechNova — la désynchronisation des cycles
 
-![image.png](La%20gouvernance%20adaptative%20strate%CC%81gique%2013b90eaf28ff800996ccf4dc1e54bcc6/image%201.png)
+![image.png](image%201.png)
 
 En 2023, TechNova décide de repositionner 30 % de son portefeuille stratégique sur l’IA. Les unités business formulent leurs OKR en décembre. Problème : **le processus budgétaire est clos depuis novembre**.
 

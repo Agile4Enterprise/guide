@@ -4,7 +4,7 @@
 
 ✨ **Objectif** Aligner stratégie, transformation et exécution de vos unités stratégiques via un canevas visuel et un processus en cinq étapes, cadencé par les cycles OKR.
 
-![Outil ACTE (Agile Canevas pour la Transformation d’Entreprise)](Guide%20de%20l%E2%80%99outil%20ACTE%2013490eaf28ff802e8fcde2047f78143b/image.png)
+![Outil ACTE (Agile Canevas pour la Transformation d’Entreprise)](image.png)
 
 Outil ACTE (Agile Canevas pour la Transformation d’Entreprise)
 
@@ -22,11 +22,11 @@ Outil ACTE (Agile Canevas pour la Transformation d’Entreprise)
 
 ## Les 5 étapes clés
 
-![image.png](Guide%20de%20l%E2%80%99outil%20ACTE%2013490eaf28ff802e8fcde2047f78143b/image%201.png)
+![image.png](image%201.png)
 
 ### 1. Vision à un an
 
-![image.png](Guide%20de%20l%E2%80%99outil%20ACTE%2013490eaf28ff802e8fcde2047f78143b/image%202.png)
+![image.png](image%202.png)
 
 Animateur principal : Direction
 
@@ -42,7 +42,7 @@ Animateur principal : Direction
 
 ### 2. Photo actuelle SCRIP
 
-![image.png](Guide%20de%20l%E2%80%99outil%20ACTE%2013490eaf28ff802e8fcde2047f78143b/image%203.png)
+![image.png](image%203.png)
 
 Animateurs principaux : Coach Agile Org / top management
 
@@ -56,7 +56,7 @@ Animateurs principaux : Coach Agile Org / top management
 
 ### 3. OKR tactiques & GAP analysis
 
-![image.png](Guide%20de%20l%E2%80%99outil%20ACTE%2013490eaf28ff802e8fcde2047f78143b/image%204.png)
+![image.png](image%204.png)
 
 Animateurs principaux : Coach agile  / Business owner
 
@@ -75,7 +75,7 @@ Animateurs principaux : Coach agile  / Business owner
 
 ### 4. Plan de transformation
 
-![image.png](Guide%20de%20l%E2%80%99outil%20ACTE%2013490eaf28ff802e8fcde2047f78143b/image%205.png)
+![image.png](image%205.png)
 
 Animateurs principaux : PO / team leader
 
@@ -90,7 +90,7 @@ Animateurs principaux : PO / team leader
 
 ### 5. Suivi et ajustement
 
-![image.png](Guide%20de%20l%E2%80%99outil%20ACTE%2013490eaf28ff802e8fcde2047f78143b/image%206.png)
+![image.png](image%206.png)
 
 Animateur principal : Agile master
 

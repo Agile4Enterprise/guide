@@ -6,7 +6,7 @@
 
 # **Alignement entre modèle d’affaires et modèle opératoire**
 
-![Alignement entre le modèle d’affaire et le modèle opératoire](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Alignement%20strate%CC%81gique%2013d90eaf28ff804f9646fb85ec52b010/image.png)
+![Alignement entre le modèle d’affaire et le modèle opératoire](image.png)
 
 Alignement entre le modèle d’affaire et le modèle opératoire
 
@@ -14,7 +14,7 @@ Une entreprise performante sait **relier ses ambitions externes** (modèle d’a
 
 # Les 4 capacités vitales du système vivant
 
-![Les 4 capacités agiles](Agile4C%20Les%204%20capacite%CC%81s%20organisationnelles%20cle%CC%81s%2013790eaf28ff8077bff1ecf61771656f/image.png)
+![Les 4 capacités agiles](image.png)
 
 Les 4 capacités agiles
 
@@ -83,7 +83,7 @@ Le résultat ? Des transformations qui échouent, des collaborateurs désengagé
 
 ## Apprentissage organisationnel
 
-![D’après le modèle de boucles d’apprentissage collectif de Chris Argyris et Donald Schön](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Les%20capacite%CC%81s%20de%20l%E2%80%99entreprise%20agile%2013690eaf28ff8182abccc48ebecb3bf6/image.png)
+![D’après le modèle de boucles d’apprentissage collectif de Chris Argyris et Donald Schön](image.png)
 
 D’après le modèle de boucles d’apprentissage collectif de Chris Argyris et Donald Schön
 
@@ -167,7 +167,7 @@ Ce n’est pas un luxe, mais un investissement : Une organisation 100% optimisé
 
 # **Rendre ces capacités actionnables avec ACTE**
 
-![Intégration des capacités organisationnelles dans l’outil ACTE](Agile4C%20Les%204%20capacite%CC%81s%20organisationnelles%20cle%CC%81s%2013790eaf28ff8077bff1ecf61771656f/image%201.png)
+![Intégration des capacités organisationnelles dans l’outil ACTE](image%201.png)
 
 Intégration des capacités organisationnelles dans l’outil ACTE
 

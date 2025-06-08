@@ -10,7 +10,7 @@
 
 # Une structure opérationnelle vivante
 
-![image.png](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20ope%CC%81rationn%2017b90eaf28ff80d1a529c5311cb392b5/image.png)
+![image.png](image.png)
 
 L’entreprise agile ne délègue pas l’agilité à ses équipes : elle **design intentionnellement l’organisation opérationnelle** pour qu’elle soutienne l’autonomie, la fluidité et l’impact.
 

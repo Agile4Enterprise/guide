@@ -117,7 +117,7 @@ La gestion des talents évolue dans une entreprise agile :
 > On investit partout. Mais on n’arrête nulle part.
 > 
 
-![image.png](La%20mobilite%CC%81%20strate%CC%81gique%201f590eaf28ff80aeb08ad7b55a2b69d5/image.png)
+![image.png](image.png)
 
 La **mobilité stratégique** inclut non seulement le **redéploiement des ressources**, mais aussi **l’optimisation et le désengagement** des actifs devenus non pertinents. Réallouer, ce n’est pas seulement renforcer. C’est aussi **désengager sans brutalité**.
 

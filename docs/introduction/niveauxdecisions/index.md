@@ -16,7 +16,7 @@ Le changement ne s’ancre pas dans une structure hiérarchique, mais dans la dy
 
 🧑‍🎓 Les niveaux de décision se caractérisent par : 🔹 **Portée** : De l’ensemble de l’entreprise jusqu’aux équipes opérationnelles. 🔹 **Horizon temporel** : Du long terme (plusieurs années) au court terme (quelques jours). 🔹 **Complexité** : Gestion de la transversalité, des dépendances, de l’incertitude. 🔹 **Niveau de risque** : De la transformation profonde aux adaptations opérationnelles. Ces niveaux de décisions ne sont pas **des couches hiérarchiques**, mais **des boucles synchronisées**, chacune cadencée à son propre rythme.
 
-![Les 4 niveaux de prises de décisions](Les%204%20niveaux%20de%20prise%20de%20de%CC%81cision%20%E2%80%93%20Piloter%20un%20s%2019290eaf28ff80049db0c684a64e4fb0/image.png)
+![Les 4 niveaux de prises de décisions](image.png)
 
 Les 4 niveaux de prises de décisions
 
@@ -106,7 +106,7 @@ Parce qu’une entreprise fonctionne à plusieurs rythmes :
 
 ## Le vrai défi : l’alignement dynamique
 
-![Alignement entre le modèle d’affaire et le modèle opératoire](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Alignement%20strate%CC%81gique%2013d90eaf28ff804f9646fb85ec52b010/image.png)
+![Alignement entre le modèle d’affaire et le modèle opératoire](image.png)
 
 Alignement entre le modèle d’affaire et le modèle opératoire
 

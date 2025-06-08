@@ -4,7 +4,7 @@
 
 🔘 **Objectif** Découvrez comment les **4 rôles de transformation agile** – Agile Master, Coach Agile Tactique, Coach Organisation et Coach d’Entreprise – se coordonnent pour porter une agilité **vivante**, **contextuelle** et **durable**, de l’équipe au COMEX.
 
-![Les 4 rôles de coach agile](Ro%CC%82les%20de%20la%20transformation%20agile%2017b90eaf28ff804ea65eeb4b0d94c877/image.png)
+![Les 4 rôles de coach agile](image.png)
 
 Les 4 rôles de coach agile
 

@@ -57,7 +57,7 @@ L’agilité tactique repose sur des **boucles adaptatives structurées**, dont 
 
 ## **Le cycle OKR tactique : cœur battant de l’agilité d’exécution**
 
-![Le cycle OKR tactique](L%E2%80%99agilite%CC%81%20tactique%20en%20action%2013490eaf28ff805bb9f7f2562f76465e/image.png)
+![Le cycle OKR tactique](image.png)
 
 Le cycle OKR tactique
 

@@ -19,7 +19,7 @@ Les entreprises doivent maintenant intégrer en permanence les deux dynamiques c
 
 Autrefois abordées de manière séquentielle, ces tensions doivent aujourd’hui être pilotées simultanément, comme des flux vivants. Et ce ne sont pas les seuls dilemmes à gérer ! Il existe de nombreuses tensions internes dans l’entreprise :
 
-![Les tensions organisationnelles clés d’une entreprise](Les%20de%CC%81fis%20du%20changement%20continu%2019290eaf28ff80108bb2c4a59687abbb/image.png)
+![Les tensions organisationnelles clés d’une entreprise](image.png)
 
 Les tensions organisationnelles clés d’une entreprise
 
@@ -86,7 +86,7 @@ Cela nécessite l’adoption de **la pensée complexe**, qui combine plusieurs p
 
 # **Et concrètement ? Le modèle Cynefin**
 
-![*Modèle Cynefin, adapté de Dave Snowden*](Les%20de%CC%81fis%20du%20changement%20continu%2019290eaf28ff80108bb2c4a59687abbb/image%201.png)
+![*Modèle Cynefin, adapté de Dave Snowden*](image%201.png)
 
 *Modèle Cynefin, adapté de Dave Snowden*
 

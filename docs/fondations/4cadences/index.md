@@ -6,7 +6,7 @@
 
 # **Le cœur battant : les boucles adaptatives**
 
-![Agile4B : 4 boucles adaptatives imbriquées](Agile4B%20Les%204%20boucles%20adaptatives%2013b90eaf28ff8091b4cce85974f50938/image.png)
+![Agile4B : 4 boucles adaptatives imbriquées](image.png)
 
 Agile4B : 4 boucles adaptatives imbriquées
 
@@ -44,7 +44,7 @@ Cette cohérence entre tous les niveaux, nous allons la mettre en musique avec l
 
 # Les 4 cadences du changement
 
-![image.png](Agile4B%20Les%204%20boucles%20adaptatives%2013b90eaf28ff8091b4cce85974f50938/image%201.png)
+![image.png](image%201.png)
 
 Une entreprise qui évolue durablement :
 
@@ -137,7 +137,7 @@ Ils permettent :
 
 C’est un outil de gestion agile d’objectifs d’entreprise, permettant de concentrer les efforts sur les initiatives ayant le plus grand impact.  Ils permettent de mettre en place concrètement ces boucles adaptatives :
 
-![Le processus OKR](Agile4B%20Les%204%20boucles%20adaptatives%2013b90eaf28ff8091b4cce85974f50938/image%202.png)
+![Le processus OKR](image%202.png)
 
 Le processus OKR
 
@@ -147,9 +147,9 @@ Le processus OKR
 
 ## **Les cycles OKR comme pulsations synchronisées**
 
-![image.png](Agile4B%20Les%204%20boucles%20adaptatives%2013b90eaf28ff8091b4cce85974f50938/image%203.png)
+![image.png](image%203.png)
 
-![*Imbrication du cycle stratégique et des cycles tactiques*](Agile4B%20Les%204%20boucles%20adaptatives%2013b90eaf28ff8091b4cce85974f50938/image%204.png)
+![*Imbrication du cycle stratégique et des cycles tactiques*](image%204.png)
 
 *Imbrication du cycle stratégique et des cycles tactiques*
 

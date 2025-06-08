@@ -6,7 +6,7 @@
 
 ➿ **Technova : La genèse d’une gouvernance vivante** Lorsque le PO de Technova Capteurs réalise qu’en trois mois son Backlog est périmé, c’est moins la vitesse qui fait la différence que la **cadence** : savoir quand arrêter, pivoter ou accélérer. **Six mois plus tard** La gouvernance tactique transforme cette urgence en un **rythme maîtrisé**, porté par le management intermédiaire. **Résultats :** réduction du time-to-market de 30 %, réaffectation de 15 % des ressources sur des projets à haut impact, satisfaction client en hausse de 10 %.
 
-![Cadence du changement tactique](La%20gouvernance%20adaptative%20tactique%2013b90eaf28ff8066aa8bc5c28ac35645/image.png)
+![Cadence du changement tactique](image.png)
 
 Cadence du changement tactique
 

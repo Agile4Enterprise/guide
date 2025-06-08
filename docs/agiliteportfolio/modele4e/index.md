@@ -8,7 +8,7 @@
 
 # Le modèle Agile4E en un coup d’œil
 
-![Le modèle Agile4E](Agile4E%20La%20cartographie%20strate%CC%81gique%20vivante%2013490eaf28ff803a884fc20066900149/image.png)
+![Le modèle Agile4E](image.png)
 
 Le modèle Agile4E
 
@@ -28,7 +28,7 @@ Le modèle Agile4E
 
 ## **Zone d’Exploration : Créer la croissance future**
 
-![image.png](Agile4E%20La%20cartographie%20strate%CC%81gique%20vivante%2013490eaf28ff803a884fc20066900149/image%201.png)
+![image.png](image%201.png)
 
 ### **Un printemps d’innovation : semer, tester, apprendre**
 
@@ -55,7 +55,7 @@ Dans cette zone, le but est de démontrer la viabilité du modèle d’affaires 
 
 ## **Zone d’Expansion : Passer à l’échelle pour progresser vers la vision**
 
-![image.png](Agile4E%20La%20cartographie%20strate%CC%81gique%20vivante%2013490eaf28ff803a884fc20066900149/image%202.png)
+![image.png](image%202.png)
 
 ### **Un été stratégique : croître, industrialiser, rester agile**
 
@@ -82,7 +82,7 @@ On a trouvé notre stratégie, et on est orienté efficacité. Si notre activit�
 
 ## **Zone d’Exploitation : Exécuter la mission avec efficience**
 
-![image.png](Agile4E%20La%20cartographie%20strate%CC%81gique%20vivante%2013490eaf28ff803a884fc20066900149/image%203.png)
+![image.png](image%203.png)
 
 ### **Un automne stratégique : récolter, stabiliser, optimiser**
 
@@ -109,7 +109,7 @@ Dans cette zone, le but est de rendre le modèle d’affaires viable le plus lon
 
 ## **Zone d’Exclusion :**  Se désengager stratégiquement
 
-![image.png](Agile4E%20La%20cartographie%20strate%CC%81gique%20vivante%2013490eaf28ff803a884fc20066900149/image%204.png)
+![image.png](image%204.png)
 
 ### **Hiver stratégique : trancher, libérer, réinvestir**
 

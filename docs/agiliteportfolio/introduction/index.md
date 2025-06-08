@@ -19,7 +19,7 @@ Imaginez que votre portefeuille puisse faire de même : il ne s’agit plus d’
 
 💡 **Agilité Portfolio** C’est cette capacité à transformer votre portefeuille d’activités – produits, marchés, projets, innovations – en un système vivant, capable de s’ajuster à l’évolution du marché.
 
-![La place de l’agilité Portfolio dans les boucles d’adaptabilité](L%E2%80%99agilite%CC%81%20Portfolio%20vue%20d%E2%80%99ensemble%2018f90eaf28ff8009b702d2aa0eae18cf/image.png)
+![La place de l’agilité Portfolio dans les boucles d’adaptabilité](image.png)
 
 La place de l’agilité Portfolio dans les boucles d’adaptabilité
 

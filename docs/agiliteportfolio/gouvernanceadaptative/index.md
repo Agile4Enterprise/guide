@@ -6,7 +6,7 @@
 
 # Le modèle de gouvernance d’entreprise
 
-![image.png](La%20gouvernance%20adaptative%20Portfolio%2015f90eaf28ff80f493d9ed25cf094433/image.png)
+![image.png](image.png)
 
 💡 **La gouvernance adaptative portfolio** Elle vise à ajuster en continu les décisions stratégiques de l’entreprise.
 
@@ -87,7 +87,7 @@ Dans Agile4Enterprise, le portefeuille d’activités n’est pas figé par un c
 
 ## **Les 4 cadences d’orchestration**
 
-![image.png](Agile4B%20Les%204%20boucles%20adaptatives%2013b90eaf28ff8091b4cce85974f50938/image%201.png)
+![image.png](image%201.png)
 
 La stratégie corporate a plusieurs horizons temporels :
 

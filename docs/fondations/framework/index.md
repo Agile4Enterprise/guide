@@ -39,7 +39,7 @@ L’objectif n’est pas de rendre l’entreprise « agile » au sens strict, ma
 
 # **Principes fondamentaux du Framework Agile4Enterprise**
 
-![image.png](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image.png)
+![image.png](image.png)
 
 ## Une approche évolutive, pas révolutionnaire
 
@@ -74,7 +74,7 @@ L’agilité n’est pas une fin en soi. C’est **un levier stratégique**, une
 
 ## **Agilité d’équipe + Agilité d’entreprise : une approche mixte**
 
-![image.png](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image%201.png)
+![image.png](image%201.png)
 
 L’agilité d’entreprise ne consiste pas uniquement à généraliser les pratiques agiles des équipes à l’ensemble de l’organisation. L’agilité d’équipe est un levier local d’adaptation.Le cadre favorise un équilibre entre :
 
@@ -89,7 +89,7 @@ Les deux sont complémentaires — mais **ni interchangeables, ni suffisantes l�
 
 # **Un Framework structuré et outillé**
 
-![La boîte à outils Agile4Enterprise](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image%202.png)
+![La boîte à outils Agile4Enterprise](image%202.png)
 
 La boîte à outils Agile4Enterprise
 
@@ -111,7 +111,7 @@ Ce Framework repose sur des principes et des boîtes à outils.
 > *Par exemple, une PME a divisé par trois le nombre d’objectifs stratégiques en coordonnant les cycles tactiques de ses services, pour être plus focus..*
 > 
 
-![image.png](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image%203.png)
+![image.png](image%203.png)
 
 ### Agile4X : Les 4 archétypes agiles
 
@@ -119,7 +119,7 @@ Ce sont des modèles organisationnels alignés qui fournissent des cibles **adap
 
 💡 **Chaque archétype organise l'agilité selon une stratégie dominante :** - Rapide et exploratoire pour une organisation Projet%2013490eaf28ff8030a8aeecf9206d94ea.md), - Fluide et intégrée pour une organisation Flux, - Scalable et évolutive pour une organisation Produit, - Distribuée pour une organisation Réseau.
 
-![image.png](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image%204.png)
+![image.png](image%204.png)
 
 ## **Des outils pour piloter une transformation vivante**
 
@@ -131,13 +131,13 @@ Ces éléments sont les **points d’entrée** pour orienter les décisions stra
 
 Le **modèle d’alignement stratégique agile** pour définir les zones stratégiques : Exploration, expansion, exploitation, et exclusion.
 
-![image.png](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image%205.png)
+![image.png](image%205.png)
 
 **L’outil PACTE**
 
 Le **Portfolio Agile Canevas pour la Transformation d’Entreprise** est conçu pour structurer et piloter le changement au niveau du portefeuille stratégique.
 
-![image.png](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image%206.png)
+![image.png](image%206.png)
 
 ### **Accompagner les entreprises dans leur transformation**
 
@@ -147,7 +147,7 @@ Une approche de la transformation elle-même agile.
 
 L’ **Agile Canevas pour la Transformation d’Entreprise** est conçu pour structurer et piloter le changement.
 
-![image.png](Le%20Framework%20Agile4Enterprise%2014290eaf28ff80448ac8e72cd9499274/image%207.png)
+![image.png](image%207.png)
 
 Et d’autres outils à découvrir :
 

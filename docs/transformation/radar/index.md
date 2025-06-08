@@ -4,7 +4,7 @@
 
 ✨ **Objectif** Découvrez comment le Radar d’entreprise agile vous permet de : 1. Visualiser l’écart entre votre état actuel et vos ambitions agiles. 2. Prioriser vos leviers d’action sur quatre capacités clés. 3. Animer un atelier structuré pour impliquer vos équipes et définir un plan d’amélioration continue.
 
-![RADAR](Radar%20de%20l%E2%80%99entreprise%20agile%2013490eaf28ff80288f7dcd0fee927567/image.png)
+![RADAR](image.png)
 
 RADAR
 
@@ -65,7 +65,7 @@ Découvrir les radar de :
     - Définir responsables, échéances et indicateurs de progrès.
     - Planifier une revue mensuelle du Radar.
 
-➿ **TechNova** TechNova Domotique est passé fin 2024 d’un **archétype Projet** (prototype, équipe ad hoc, proof-of-concept) vers un **archétype Produit** : - Objectif 2025 : industrialiser et fiabiliser la plateforme domotique. - Équipe stable (squad produit), Product Owner dédié, backlog continu et sprints bi-hebdo. ![image.png](Radar%20de%20l%E2%80%99entreprise%20agile%2013490eaf28ff80288f7dcd0fee927567/image%201.png) | **Axe** | **Score actuel (1–5)** | **Score cible (1–5)** | **Écart** | **Action prioritaire** | | --- | --- | --- | --- | --- | | Réactivité | 4,5 | 3,0 | −1,5 | Capitaliser sur les bonnes pratiques (revues quotidiennes), éviter les interruptions non essentielles. | | Flexibilité | 1,0 | 4,0 | +3,0 | Mettre en place un **backlog continu** avec revue hebdo des imprévus et ajustements prioritaires. | | Adaptabilité | 1,0 | 5,0 | +4,0 | Déployer une **roadmap produit event-driven**, intégrer des canaux de feedback client en temps réel. | | Proactivité | 2,0 | 4,0 | +2,0 | Créer un **comité d’innovation** mensuel pour explorer de nouveaux modules et anticiper les évolutions UX. | Ce diagnostic met en lumière les actions clés à lancer immédiatement : focus sur la **flexibilité** et l’**adaptabilité**, tout en structurant la **proactivité** pour soutenir l’évolution vers un véritable **Produit** domotique. **Attention à la réactivité** déjà très élevée – pas d’effort supplémentaire.
+➿ **TechNova** TechNova Domotique est passé fin 2024 d’un **archétype Projet** (prototype, équipe ad hoc, proof-of-concept) vers un **archétype Produit** : - Objectif 2025 : industrialiser et fiabiliser la plateforme domotique. - Équipe stable (squad produit), Product Owner dédié, backlog continu et sprints bi-hebdo. ![image.png](image%201.png) | **Axe** | **Score actuel (1–5)** | **Score cible (1–5)** | **Écart** | **Action prioritaire** | | --- | --- | --- | --- | --- | | Réactivité | 4,5 | 3,0 | −1,5 | Capitaliser sur les bonnes pratiques (revues quotidiennes), éviter les interruptions non essentielles. | | Flexibilité | 1,0 | 4,0 | +3,0 | Mettre en place un **backlog continu** avec revue hebdo des imprévus et ajustements prioritaires. | | Adaptabilité | 1,0 | 5,0 | +4,0 | Déployer une **roadmap produit event-driven**, intégrer des canaux de feedback client en temps réel. | | Proactivité | 2,0 | 4,0 | +2,0 | Créer un **comité d’innovation** mensuel pour explorer de nouveaux modules et anticiper les évolutions UX. | Ce diagnostic met en lumière les actions clés à lancer immédiatement : focus sur la **flexibilité** et l’**adaptabilité**, tout en structurant la **proactivité** pour soutenir l’évolution vers un véritable **Produit** domotique. **Attention à la réactivité** déjà très élevée – pas d’effort supplémentaire.
 
 ## **Template à télécharger**
 

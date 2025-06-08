@@ -58,7 +58,7 @@ Le Shadow Model **Agile4Entropy** part des mêmes polarités que celles pilotée
 
 ### a. Cartographier les tensions
 
-![Tension Mapping Board](Shadow%20Model%20Agile4Entropy%20un%20miroir%20pour%20garder%20l%201e390eaf28ff80639db4f70b50ac8e2b/image.png)
+![Tension Mapping Board](image.png)
 
 Tension Mapping Board
 

@@ -16,7 +16,7 @@ L’agilité opérationnelle est **le moteur d’apprentissage** de l’organisa
 
 Contrairement à la stratégie (qui fixe le cap) et à la tactique (qui orchestre les initiatives), l’opérationnel porte la **concrétisation** : un modèle hybride entre tâches routinières et décisions locales, soutenu par des retours terrain permanents.
 
-![La place de l’agilité Opérationnelle dans les niveaux de décisions](L%E2%80%99agilite%CC%81%20ope%CC%81rationnelle%2013490eaf28ff80e5b767fd273784c80b/image.png)
+![La place de l’agilité Opérationnelle dans les niveaux de décisions](image.png)
 
 La place de l’agilité Opérationnelle dans les niveaux de décisions
 
@@ -60,7 +60,7 @@ L’agilité opérationnelle s’inscrit dans un principe d’**autonomie encadr
 
 # Méthodes agiles contextualisées (Modèle 4E)
 
-![Modèle 4E au niveau de l’équipe](L%E2%80%99agilite%CC%81%20ope%CC%81rationnelle%2013490eaf28ff80e5b767fd273784c80b/image%201.png)
+![Modèle 4E au niveau de l’équipe](image%201.png)
 
 Modèle 4E au niveau de l’équipe
 

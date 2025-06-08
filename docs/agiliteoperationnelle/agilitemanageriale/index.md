@@ -20,7 +20,7 @@ Dans un monde instable, la même posture étouffe l’innovation ou désorganise
 
 # Les 3 casquettes du manager agile
 
-![Les 3 rôles d’encadrement](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/L%E2%80%99agilite%CC%81%20manage%CC%81riale%2014590eaf28ff80f2b04bd2470bcaeb0c/image.png)
+![Les 3 rôles d’encadrement](image.png)
 
 Les 3 rôles d’encadrement
 
@@ -37,7 +37,7 @@ Le manager agile se positionne selon trois rôles clés, adaptés à la nature d
 
 # Pratique zones 4E : fiches express
 
-![image.png](L%E2%80%99agilite%CC%81%20manage%CC%81riale%2018b90eaf28ff8023814bdcc2e0240ac4/image.png)
+![image.png](image.png)
 
 Chaque **zone stratégique** réclame une posture dominante :
 

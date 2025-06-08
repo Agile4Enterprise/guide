@@ -23,7 +23,7 @@ Un archétype n’est pas un “modèle universel”. C’est une **forme opéra
 
 ## Topologie des archétypes
 
-![Modèle des 4 archétypes agiles](Identifier%20votre%20arche%CC%81type%201ab90eaf28ff8085b01aec88b189df18/image.png)
+![Modèle des 4 archétypes agiles](image.png)
 
 Modèle des 4 archétypes agiles
 

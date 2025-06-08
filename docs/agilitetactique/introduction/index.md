@@ -18,7 +18,7 @@ L’**agilité tactique** porte sur la capacité à changer ou répondre aux cha
 
 Une organisation n’est réellement agile que si son processus de décision tactique l’est aussi.
 
-![La place de l’agilité Tactique dans les niveaux de décisions](L%E2%80%99agilite%CC%81%20tactique%20vue%20d%E2%80%99ensemble%2013490eaf28ff806cb428d9b27abb1f82/image.png)
+![La place de l’agilité Tactique dans les niveaux de décisions](image.png)
 
 La place de l’agilité Tactique dans les niveaux de décisions
 

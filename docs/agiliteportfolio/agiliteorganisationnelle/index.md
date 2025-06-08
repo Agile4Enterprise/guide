@@ -9,7 +9,7 @@
 > *"Une structure figée empêche la stratégie de bouger. Une stratégie sans structure reste une intention."*
 > 
 
-![image.png](L%E2%80%99agilite%CC%81%20organisationnelle%2013490eaf28ff80918f84ee8e39eddc99/image.png)
+![image.png](image.png)
 
 ## Aligner modèle d’affaires et modèle opératoire
 
@@ -68,7 +68,7 @@ Le **défi de l’agilité organisationnelle** est de naviguer entre ces tension
 
 ## **Une trajectoire de transformation continue**
 
-![image.png](L%E2%80%99agilite%CC%81%20organisationnelle%2013490eaf28ff80918f84ee8e39eddc99/image%201.png)
+![image.png](image%201.png)
 
 Le choix d’une stratégie soulève une question essentielle : l’organisation est-elle en mesure de l’exécuter ?
 

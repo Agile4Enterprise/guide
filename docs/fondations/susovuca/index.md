@@ -43,7 +43,7 @@ Agile4Enterprise **n’est pas efficace** si vous évoluez dans un environnement
 
 # Calibrer son agilité selon le continuum SUSO–VUCA
 
-![image.png](Quand%20Agile4Enterprise%20est%20pertinent%20%E2%80%94%20et%20quand%20il%201e090eaf28ff807382dbd6288d5bee3f/image.png)
+![image.png](image.png)
 
 Ayant défini où ce cadre s’applique (ou pas), explorons **comment doser** son intensité selon la nature de votre environnement.
 

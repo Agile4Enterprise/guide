@@ -16,7 +16,7 @@ Comprendre ces nuances est essentiel pour construire une organisation qui **ne s
 
 ## **Vers une nouvelle gestion du changement en entreprise**
 
-![*Evolution du modèle, d’une approche alternée à une approche simultanée*](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/L%E2%80%99entreprise%20paradoxale%2014a90eaf28ff801db7c0fdcea85e40f3/image.png)
+![*Evolution du modèle, d’une approche alternée à une approche simultanée*](image.png)
 
 *Evolution du modèle, d’une approche alternée à une approche simultanée*
 
@@ -44,7 +44,7 @@ Mais aujourd’hui, cette alternance n’est plus viable. **Les cycles se raccou
 
 ### L’ambidextrie organisationnelle comme système dynamique
 
-![L’entreprise ambidextre : à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Faire%20cohabiter%20plusieurs%20horizons%20strate%CC%81giques%2013690eaf28ff816f931efc5a173335bc/image.png)
+![L’entreprise ambidextre : à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents](image.png)
 
 L’entreprise ambidextre : à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents
 
@@ -102,7 +102,7 @@ Loin d’être un simple ajustement, cette approche implique une transformation 
 
 ## Cadencer le changement
 
-![Imbrication des boucles adaptatives de l’opérationnelle à la stratégie](Piloter%20le%20changement%20continu%20!%2019190eaf28ff803887cce848d3e35489/image.png)
+![Imbrication des boucles adaptatives de l’opérationnelle à la stratégie](image.png)
 
 Imbrication des boucles adaptatives de l’opérationnelle à la stratégie
 

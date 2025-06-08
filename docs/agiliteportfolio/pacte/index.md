@@ -4,7 +4,7 @@ Propriétaire: Laurent Morisseau
 
 📌 **Objectif : Donner une trajectoire claire aux investissements et transformations** - Modèle basé sur les Agile4E : **Exploration, Expansion, Exploitation, Exclusion**. - Permet d’équilibrer **innovation, croissance et performance**. - Aide à structurer **les arbitrages et décisions stratégiques**. *PACTE devient ainsi le **tableau de bord vivant** de votre portefeuille.*
 
-![Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)](Guide%20de%20l%E2%80%99outil%20PACTE%2017a90eaf28ff8007ae71e576ac507f7e/image.png)
+![Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)](image.png)
 
 Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)
 
@@ -47,7 +47,7 @@ PACTE relie intention stratégique et transformation réelle.
 
 🧟 Attention au PACTE zombie : “On déplace les cartes, mais rien ne change”…
 
-![PACTE **TechNova**](Guide%20de%20l%E2%80%99outil%20PACTE%2017a90eaf28ff8007ae71e576ac507f7e/image%201.png)
+![PACTE **TechNova**](image%201.png)
 
 PACTE **TechNova**
 

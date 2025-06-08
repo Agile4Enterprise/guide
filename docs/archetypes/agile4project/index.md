@@ -272,11 +272,11 @@ L’archétype **Projet** s’applique principalement dans **deux contextes stra
 
 Modèle 4E
 
-![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%206.png)
+![image.png](image%206.png)
 
 Cycle de vie de l’actif : Lancement
 
-![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%207.png)
+![image.png](image%207.png)
 
 Segment clients : Novateurs et primo adoptants
 

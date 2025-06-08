@@ -8,7 +8,7 @@
 
 🧑‍🎓 **Lexique rapide** **Design systémique** : approche holistique considérant l’organisation comme un tout interconnecté. Flux : *Comme un robinet, on ouvre juste ce qu’il faut ; trop peu, c’est goutte-à-goutte ; trop, c’est débordement.* **Archétype Flux** : modèle orienté chaîne de valeur et optimisation du flux. **Zone d’exploitation** : phase de maturité / majorité tardive, où la continuité de service prime. **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus. **Backlog** : file d’attente Kanban, outil de coordination et d’adaptation capacitaire.
 
-![Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image.png)
+![Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
 
 Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -29,15 +29,15 @@ Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti 
 
 ## **Caractéristiques clés**
 
-🧰 ![Zone d’Exploitation du modèle 4E](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%201.png) Zone d’Exploitation du modèle 4E
+🧰 ![Zone d’Exploitation du modèle 4E](image%201.png) Zone d’Exploitation du modèle 4E
 
 **Zone 4E privilégiée** : zone d’exploitation
 
-![image.png](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%202.png)
+![image.png](image%202.png)
 
 Actifs matures
 
-![image.png](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%203.png)
+![image.png](image%203.png)
 
 Clientèle privilégiée : majorité tardive
 
@@ -58,7 +58,7 @@ Clientèle privilégiée : majorité tardive
 
 ## Structure
 
-![Extension à travers un réseau](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Kanban%2017590eaf28ff8002ac08fead95b04e5a/image.png)
+![Extension à travers un réseau](image.png)
 
 Extension à travers un réseau
 

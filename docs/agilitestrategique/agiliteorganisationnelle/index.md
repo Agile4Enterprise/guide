@@ -10,7 +10,7 @@
 
 # Une structure stratégique vivante
 
-![Agilité organisationnelle au niveau stratégique](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20strate%CC%81giqu%2017790eaf28ff80569d37d43fbed7a8ca/image.png)
+![Agilité organisationnelle au niveau stratégique](image.png)
 
 Agilité organisationnelle au niveau stratégique
 
@@ -118,7 +118,7 @@ Cela permet d'expérimenter une organisation qui influencera la structure formel
 
 ## Les 8 principes… en friction
 
-![image.png](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20strate%CC%81giqu%2017790eaf28ff80569d37d43fbed7a8ca/image%201.png)
+![image.png](image%201.png)
 
 Le tableau ci-dessous illustre comment TechNova a activé ces 8 principes — et ce que ça a coûté, produit ou perturbé.
 
