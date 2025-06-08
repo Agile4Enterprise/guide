@@ -1,42 +1,14 @@
 # Agile4Project : Archétype Projet (agile)
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** L’**archétype Projet** structure des **initiatives stratégiques temporaires**, orientées vers l’**exploration**, la **transformation** ou le **désengagement**, avec des **objectifs clairs**, une **durée limitée** et un **focus sur l’impact**.
 
-**Objectif**
-L’**archétype Projet** structure des **initiatives stratégiques temporaires**, orientées vers l’**exploration**, la **transformation** ou le **désengagement**, avec des **objectifs clairs**, une **durée limitée** et un **focus sur l’impact**.
+➿ **TechNova SRE (2024-2025)** Pour explorer la plateforme SRE, TechNova a lancé un programme de projets communs avec un partenaire, dans le cadre d’une alliance stratégique.
 
-</aside>
+🧑‍🎓 **Lexique rapide** **Projet** : effort temporaire, budgété, avec objectif et échéance. **Backlog Projet** : file d’attente des tâches propre à chaque projet. **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus (Projet). **OKR stratégiques vs OKR tactiques** : objectifs programme / initiatives stratégiques vs objectifs de projet.
 
-<aside>
-➿
-
-**TechNova SRE (2024-2025)**
-
-Pour explorer la plateforme SRE, TechNova a lancé un programme de projets communs avec un partenaire, dans le cadre d’une alliance stratégique.
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-**Lexique rapide**
-
-**Projet** : effort temporaire, budgété, avec objectif et échéance.
-
-**Backlog Projet** : file d’attente des tâches propre à chaque projet.
-
-**SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus (Projet).
-
-**OKR stratégiques vs OKR tactiques** : objectifs programme / initiatives stratégiques vs objectifs de projet.
-
-</aside>
-
-![Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
+![Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image.png)
 
 Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -46,7 +18,10 @@ Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son ant
 
 **Logique dominante :** organisation qui se structure autour de ses projets.
 
-**Secteurs cibles** : R&D, plateformes de projets**,** portefeuilles de startups internes.
+**Exemples d’organisations**
+
+- Grandes entreprises : R&D, plateformes de projets**,** portefeuilles de startups internes.
+- Entreprises en transformation.
 
 ## Cas d’usage
 
@@ -76,50 +51,36 @@ Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son ant
 
 ## Structure
 
-![Structure type d’une organisation Projet](image%201.png)
+![Structure type d’une organisation Projet](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%201.png)
 
 Structure type d’une organisation Projet
 
-<aside>
-💡
-
-**Unité stratégique**
-
-C’est le **programme** d’initiatives stratégiques (en exploration ou en désengagement).
-
-</aside>
+💡 **Unité stratégique** C’est le **programme** d’initiatives stratégiques (en exploration ou en désengagement).
 
 Le design de l’archétype Projet repose sur une **organisation fonctionnelle par pool de compétences** avec une zone tactique d’intégration organisée par projet. On trouve différents types d’organisations projets :
 
-- **Structure pure projets** : Projet + [structure fonctionnelle](https://www.notion.so/Le-design-organisationnel-13e90eaf28ff8050add6fa0a5cf907c5?pvs=21) - exemple BTP
-- **Structure mixte projets - fonctions** : Projet + [structure divisionnelle](https://www.notion.so/Le-design-organisationnel-13e90eaf28ff8050add6fa0a5cf907c5?pvs=21) - exemple ESN
-- **Structure matricielle projets - métiers** : Projet + [structure matricielle](https://www.notion.so/Le-design-organisationnel-13e90eaf28ff8050add6fa0a5cf907c5?pvs=21) - exemple sociétés d’ingénierie
+- **Structure pure projets** : Projet + structure fonctionnelle - exemple BTP
+- **Structure mixte projets - fonctions** : Projet + structure divisionnelle - exemple ESN
+- **Structure matricielle projets - métiers** : Projet + structure matricielle - exemple sociétés d’ingénierie
 
-<aside>
-💡
+💡 **Unité tactique** C’est l’espace d’intégration des projets, agile, temporaire et reconfigurable, piloté par l’impact. C’est une structure opérationnelle à durée déterminée.
 
-**Unité tactique**
-
-C’est l’espace d’intégration des projets, agile, temporaire et reconfigurable, piloté par l’impact. C’est une structure opérationnelle à durée déterminée.
-
-</aside>
-
-[**Couplage faible](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) entre projets**
+**Couplage faible entre projets**
 
 Chaque projet est autonome, avec des objectifs et un budget définis.
 
-[**Dépendance faible](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21) entre projets**
+**Dépendance faible entre projets**
 
 **L’interdépendance est liée aux services partagés mutualisés**, tels que des compétences rares ne pouvant être intégrées à l’équipe projet (architecte, sécurité, …).
 
-**Couplage fort au sein d’un projet, autour** du [Backlog](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) projet et des [OKR](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21) pour la fixation des objectifs : OKR stratégique pour le programme et OKR tactique pour le projet.
+**Couplage fort au sein d’un projet, autour** du Backlog projet et des OKR pour la fixation des objectifs : OKR stratégique pour le programme et OKR tactique pour le projet.
 
-[**L’organisation duale**](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21)
+**L’organisation duale**
 
 La structure est la ligne hiérarchique, les projets se font là où se font les affaires.
 
 - **Structure formelle**  = stable par pôles de compétences
-- **Réseau dynamique**  = équipes projet. Ce système informel peut évoluer au gré des [OKR tactiques](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21).
+- **Réseau dynamique**  = équipes projet. Ce système informel peut évoluer au gré des OKR tactiques.
 
 ### **Unité opérationnelle**
 
@@ -179,11 +140,11 @@ C’est un modèle de gestion basé sur l’apprentissage et l’évolution :
 
 **Pilotage par l’impact**, en vue d’atteindre l’objectif associée à l’initiative stratégique, ajusté à chaque itération. L’objectif n’est pas le livrable, mais **l’impact stratégique mesurable**, que l’on pilote grâce à des OKR adaptés.
 
-[**Coordination verticale](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21)** repose sur des **rôles d’[intégrateurs](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)** : ex. chefs de projet agiles, responsables de transformation.
+**Coordination verticale** repose sur des **rôles d’intégrateurs** : ex. chefs de projet agiles, responsables de transformation.
 
-[**Coordination horizontale](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)** est gérée par du management réticulaire. Elle est assurée par un **réseau informel** et des **cadences de synchronisation régulières**.
+**Coordination horizontale** est gérée par du management réticulaire. Elle est assurée par un **réseau informel** et des **cadences de synchronisation régulières**.
 
-[**Cadence de changement**](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21)
+**Cadence de changement**
 
 - Revue opérationnelle quotidienne
 - Revue tactique hebdomadaire ou bi mensuelle des initiatives pour ajuster les priorités.
@@ -194,7 +155,7 @@ C’est un modèle de gestion basé sur l’apprentissage et l’évolution :
 | **Méthode** | **Idéal pour…** | **Pourquoi ?** |
 | --- | --- | --- |
 | **DSDM (Dynamic Systems Development Method)** | Projets structurés, compliance, IT | Gestion hybride avec flexibilité sur le périmètre fonctionnel |
-| [Shape -Up](https://www.notion.so/Shape-Up-17e90eaf28ff80758f0bd20ba1545584?pvs=21) **** | Petits projets, équipes autonomes | Approche fluide sans Backlog, engagement sur 6 semaines |
+| Shape -Up **** | Petits projets, équipes autonomes | Approche fluide sans Backlog, engagement sur 6 semaines |
 | **PMI Agile (PMI-ACP)** | Projets complexes | Standardisation + flexibilité agile |
 | **AgilePM** | Gestion agile de projet | Structure + gouvernance pour projets agiles |
 | **Scrum** | Gestion agile de projet | Flexibilité sur le périmètre fonctionnel |
@@ -234,14 +195,7 @@ Pour ne pas avoir une organisation Projet Zombie :
 > Question : Êtes-vous prêt à sacrifier le nombre de projets pour garantir leur réussite ?
 > 
 
-<aside>
-➿
-
-**Mini-cas d’échec**
-
-Sans OKR clairs, le projet SRE-C a continué 2 mois en dérive, faute de jalons définis.
-
-</aside>
+➿ **Mini-cas d’échec** Sans OKR clairs, le projet SRE-C a continué 2 mois en dérive, faute de jalons définis.
 
 ## La transformation vers l’archétype Projet
 
@@ -269,11 +223,11 @@ L’approche n’est pas nouvelle. Ici, la transformation consiste à basculer s
 
 # Synthèse de l’archétype Projet
 
-![*Alignement stratégique du modèle organisationnel projet*](image%202.png)
+![*Alignement stratégique du modèle organisationnel projet*](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%202.png)
 
 *Alignement stratégique du modèle organisationnel projet*
 
-### 👉 Et maintenant ? Zoom sur l’[anti-archétype Agile4Zombie](https://www.notion.so/Agile4Zombie-L-anti-arch-type-1db90eaf28ff802ebcecd01e11f22848?pvs=21) [](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21)!
+### 👉 Et maintenant ? Zoom sur l’anti-archétype Agile4Zombie [](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257.md)!
 
 ---
 
@@ -281,7 +235,7 @@ L’approche n’est pas nouvelle. Ici, la transformation consiste à basculer s
 
 ## **Types d’organisation projet**
 
-- **La structure pure projets** : Projet + [structure fonctionnelle](https://www.notion.so/Le-design-organisationnel-13e90eaf28ff8050add6fa0a5cf907c5?pvs=21)
+- **La structure pure projets** : Projet + structure fonctionnelle
     
     Les projets sont suffisamment de durée importante, de grande taille, et différents pour que l’organisation se découpe en autant de sous-ensembles quasi indépendants qu’il y a de projets. L’entreprise apparaît comme un conglomérat de projets. Le projet peut donc être considéré comme une unité à part entière.
     
@@ -289,7 +243,7 @@ L’approche n’est pas nouvelle. Ici, la transformation consiste à basculer s
     
     *Exemple : BTP*
     
-- **Les structures mixtes projets - fonctions** : Projet + [structure divisionnelle](https://www.notion.so/Le-design-organisationnel-13e90eaf28ff8050add6fa0a5cf907c5?pvs=21)
+- **Les structures mixtes projets - fonctions** : Projet + structure divisionnelle
     
     Les projets sont plus courts, plus répétitifs, et moins différents les uns des autres.
     
@@ -297,9 +251,9 @@ L’approche n’est pas nouvelle. Ici, la transformation consiste à basculer s
     
     La source majeure d’économie d’échelle porte sur la standardisation des méthodes de gestion de projet.
     
-    *Exemple : Une ESN est typiquement une organisation mixte projets - fonctions. La structure [Front - Back](https://www.notion.so/Le-mix-organisationnel-et-la-logique-dominante-15e90eaf28ff800cbef0fc08b66fb1f3?pvs=21) est également une implémentation de cette structure mixte.*
+    *Exemple : Une ESN est typiquement une organisation mixte projets - fonctions. La structure Front - Back est également une implémentation de cette structure mixte.*
     
-- La structure matricielle projets - métiers : Projet + [structure matricielle](https://www.notion.so/Le-design-organisationnel-13e90eaf28ff8050add6fa0a5cf907c5?pvs=21)
+- La structure matricielle projets - métiers : Projet + structure matricielle
     
     Cette structure s’impose dès que la technologie développée dans les projets est complexe et évolutive. Les projets font appel aux mêmes compétences technologiques.
     
@@ -310,37 +264,37 @@ L’approche n’est pas nouvelle. Ici, la transformation consiste à basculer s
 
 L’archétype **Projet** s’applique principalement dans **deux contextes stratégiques distincts**.
 
-### [Zone d’exploration](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21)
+### Zone d’exploration
 
 **Objectif** : Rechercher un business model innovant ciblé.
 
-![Modèle 4E](image%203.png)
+![Modèle 4E](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%203.png)
 
 Modèle 4E
 
-![image.png](image%204.png)
+![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%206.png)
 
-Cycle de vie de l’actif : [Lancement](https://www.notion.so/Design-organisationnel-de-la-zone-Expansion-13f90eaf28ff8097b421cd0166ec489b?pvs=21)
+Cycle de vie de l’actif : Lancement
 
-![image.png](image%205.png)
+![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%207.png)
 
-Segment clients : [Novateurs et primo adoptants](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21)
+Segment clients : Novateurs et primo adoptants
 
-### [Zone d’exclusion](https://www.notion.so/Design-organisationnel-de-la-zone-Exploitation-13f90eaf28ff801888b5f5f63d62bfae?pvs=21)
+### Zone d’exclusion
 
-![Modèle 4E](image%206.png)
+![Modèle 4E](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%204.png)
 
 Modèle 4E
 
 **Objectif** : Désengager un actif pour libérer des ressources stratégiques.
 
-![image.png](image%207.png)
+![image.png](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%205.png)
 
-Cycle de vie de l’actif : [Déclin](https://www.notion.so/Design-organisationnel-de-la-zone-Expansion-13f90eaf28ff8097b421cd0166ec489b?pvs=21)
+Cycle de vie de l’actif : Déclin
 
-![image.png](image%208.png)
+![image.png](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%206.png)
 
-Segment clients : [Retardataires](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21)
+Segment clients : Retardataires
 
 ### Zone d’exploitation
 

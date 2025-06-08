@@ -1,22 +1,10 @@
 # Modèle de maturité IMPACTE
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Découvrir comment le **modèle IMPACTE** vous aide à : 1. Mesurer la maturité agile à chaque strate de votre organisation (équipe, chaîne de valeur, business unit, corporate). 2. Diagnostiquer précisément vos forces et points de blocage sur quatre capacités (réactivité, flexibilité, adaptabilité, proactivité). 3. Structurer un plan d’amélioration continue via des ateliers ciblés et des indicateurs clairs.
 
-**Objectif**
-
-Découvrir comment le **modèle IMPACTE** vous aide à :
-
-1. Mesurer la maturité agile à chaque strate de votre organisation (équipe, chaîne de valeur, business unit, corporate).
-2. Diagnostiquer précisément vos forces et points de blocage sur quatre capacités (réactivité, flexibilité, adaptabilité, proactivité).
-3. Structurer un plan d’amélioration continue via des ateliers ciblés et des indicateurs clairs.
-</aside>
-
-![**Outil IMPACTE** (Indicateur de Maturité et de Progression Agile pour la Transformation d’Entreprise)](image.png)
+![**Outil IMPACTE** (Indicateur de Maturité et de Progression Agile pour la Transformation d’Entreprise)](Mode%CC%80le%20de%20maturite%CC%81%20IMPACTE%2018b90eaf28ff8053a419ccaa7d91bc21/image.png)
 
 **Outil IMPACTE** (Indicateur de Maturité et de Progression Agile pour la Transformation d’Entreprise)
 
@@ -33,14 +21,9 @@ Le modèle **IMPACTE** (Indicateur de Maturité et de Progression Agile pour la 
 
 ### À chaque niveau, son radar
 
-Le [radar](https://www.notion.so/Radar-de-l-entreprise-agile-13490eaf28ff80288f7dcd0fee927567?pvs=21) se décline à **tous les niveaux de décision** : équipe, chaîne de valeur, business unit, entreprise. La transformation agile ne se fait pas en « big bang » sur toute l’entreprise en même temps, elle progresse **par strates successives**. La question clé devient alors :
+Le radar se décline à **tous les niveaux de décision** : équipe, chaîne de valeur, business unit, entreprise. La transformation agile ne se fait pas en « big bang » sur toute l’entreprise en même temps, elle progresse **par strates successives**. La question clé devient alors :
 
-<aside>
-❓
-
-À quelle profondeur doit-on mener la transformation ?
-
-</aside>
+❓ À quelle profondeur doit-on mener la transformation ?
 
 ## Structure & dimensions
 
@@ -95,14 +78,7 @@ Sur chacune de ces dimensions, on évalue les **4 capacités** :
 
 ---
 
-<aside>
-➿
-
-## IMPACTE TechNova
-
-Suite a une analyse de son département avec IMPACTE, TechNova Capteurs décide d’un plan d’actions cohérent à tous les niveaux de décisions :
-
-</aside>
+➿ ## IMPACTE TechNova Suite a une analyse de son département avec IMPACTE, TechNova Capteurs décide d’un plan d’actions cohérent à tous les niveaux de décisions :
 
 | **Niveau de maturité** | **Réactif** | **Flexible** | **Adaptatif** | **Proactif** |
 | --- | --- | --- | --- | --- |
@@ -113,22 +89,4 @@ Suite a une analyse de son département avec IMPACTE, TechNova Capteurs décide 
 
 ---
 
-# 🔑 Points clés à retenir
-
-- **Un même référentiel 1→5**, déployé sur 4 dimensions, pour un diagnostic fin et cohérent.
-- **Passage à l’action systématique** : chaque écart devient une action prioritaire.
-- **Revue régulière** (trimestrielle ou mensuelle) selon la strate, pour piloter la transformation continue.
-
-> IMPACTE vous donne le cadre pour mesurer, comparer et faire progresser votre agilité, du cœur de vos équipes jusqu’à la gouvernance corporate.
-> 
-
-<aside>
-🔎
-
-[Manuel Facilitateur IMPACTE](https://www.notion.so/Manuel-Facilitateur-IMPACTE-In-Progress-20290eaf28ff800b9d5ef5ab512e6bc8?pvs=21)
-
-</aside>
-
-### 👉 Et maintenant ? Découvrir comment faire un [diagnostique avec Agile4Enterprise](https://www.notion.so/Faire-un-diagnostique-A4E-1f490eaf28ff80379945c3a2ffaecbca?pvs=21) !
-
----
+#

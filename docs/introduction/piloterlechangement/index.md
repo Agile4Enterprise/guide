@@ -1,132 +1,63 @@
 # Piloter le changement continu !
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Aujourd'hui, **le changement est devenu permanent et structurel**. Il ne s'agit plus de piloter des transformations ponctuelles, mais **d'intégrer le changement au fonctionnement quotidien de l'organisation**.
-
-L’enjeu est de **concilier adaptation rapide et création de valeur durable**, tout en évitant les pièges de l'inertie ou de la désorganisation.
-
-</aside>
+✨ **Objectif** Aujourd'hui, **le changement est devenu permanent et structurel**. Il ne s'agit plus de piloter des transformations ponctuelles, mais **d'intégrer le changement au fonctionnement quotidien de l'organisation**. L’enjeu est de **concilier adaptation rapide et création de valeur durable**, tout en évitant les pièges de l'inertie ou de la désorganisation.
 
 # L’enjeu du changement
 
 ## Décrypter le changement
 
-L’agilité est souvent perçue comme la capacité à s’adapter rapidement. Mais elle est bien plus que cela : **c’est la capacité d'une organisation vivante à naviguer dans la complexité du changement**.
+L’agilité est souvent perçue comme la capacité à s’adapter rapidement. Mais elle est bien plus que cela : **c’est la capacité d'une organisation à naviguer dans la complexité du changement**.
 
-<aside>
-❓
-
-**Alors de quel changement parle-t-on ?**
-
-S’agit-il d’un changement progressif et incrémental, façonnant l’entreprise au quotidien ?
-
-Ou d’un bouleversement brutal, provoqué par une crise ou une rupture technologique ?
-
-Est-il induit par des dynamiques internes à l’organisation, ou par des mutations externes du marché ?
-
-</aside>
+❓ **Mais de quel changement parle-t-on ?** S’agit-il d’un changement progressif et incrémental, façonnant l’entreprise au quotidien ? Ou d’un bouleversement brutal, provoqué par une crise ou une rupture technologique ? Est-il induit par des dynamiques internes à l’organisation, ou par des mutations externes du marché ?
 
 Comprendre ces nuances est essentiel pour construire une organisation qui **ne subit pas**, mais **absorbe, transforme et anticipe** le changement pour en tirer parti.
 
 ## **Vers une nouvelle gestion du changement en entreprise**
 
-![*Evolution du modèle, d’une approche alternée à une approche simultanée*](image.png)
+![*Evolution du modèle, d’une approche alternée à une approche simultanée*](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/L%E2%80%99entreprise%20paradoxale%2014a90eaf28ff801db7c0fdcea85e40f3/image.png)
 
 *Evolution du modèle, d’une approche alternée à une approche simultanée*
 
 ## Le changement radical
 
-<aside>
-🔥
-
-**Un changement radical, en vrai : Michelin**
-
-*Pendant 125 ans, Michelin a construit son empire sur un produit unique : le pneu. En 2012, alors que 97 % de son chiffre d’affaires vient encore de cette activité, Jean-Dominique Senard, son nouveau PDG, décide de transformer Michelin en acteur de la mobilité durable.*
-
-*Plutôt que d’attendre la rupture, il l’anticipe et l’oriente :*
-
-- ***Investissement précoce dans l’hydrogène**.*
-- ***Création d’un écosystème d’innovation ouverte**.*
-- *Lancement d’un produit de rupture : le pneu VISION (sans air, biodégradable, connecté).*
-
-*Michelin n’a pas seulement réagi au marché : elle a redéfini sa place dans l’écosystème, et son modèle économique.*
-
-> *Résultat : valorisation doublée, diversification réussie, leadership technologique renforcé.*
-> 
-</aside>
+🔥 **Un changement radical, en vrai : Michelin** *Pendant 125 ans, Michelin a construit son empire sur un produit unique : le pneu. En 2012, alors que 97 % de son chiffre d’affaires vient encore de cette activité, Jean-Dominique Senard, son nouveau PDG, décide de transformer Michelin en acteur de la mobilité durable.* *Plutôt que d’attendre la rupture, il l’anticipe et l’oriente :* - ***Investissement précoce dans l’hydrogène**.* - ***Création d’un écosystème d’innovation ouverte**.* - ***Lancement d’un produit de rupture** : le pneu VISION (sans air, biodégradable, connecté).* *Michelin n’a pas seulement réagi au marché : elle a redéfini sa place dans l’écosystème, et son modèle économique.* > *Résultat : valorisation doublée, diversification réussie, leadership technologique renforcé.* >
 
 ## D’une alternance cyclique à une coexistence continue
 
-Historiquement, la gestion du changement reposait sur une [alternance](https://www.notion.so/La-fabrique-du-changement-14a90eaf28ff8085bd03d715bfdae69e?pvs=21):
+Historiquement, la gestion du changement reposait sur une alternance:
 
-- **De [périodes d’exploitation](https://www.notion.so/L-entreprise-paradoxale-14a90eaf28ff801db7c0fdcea85e40f3?pvs=21)** des actifs existants pour optimiser la rentabilité,
-- **De [phases d’exploration](https://www.notion.so/L-entreprise-paradoxale-14a90eaf28ff801db7c0fdcea85e40f3?pvs=21)** de nouvelles opportunités pour préparer l'avenir.
+- **De périodes d’exploitation** des actifs existants pour optimiser la rentabilité,
+- **De phases d’exploration** de nouvelles opportunités pour préparer l'avenir.
 
 Mais aujourd’hui, cette alternance n’est plus viable. **Les cycles se raccourcissent et se télescopent :**
 
 > L’exploitation et l’exploration doivent cohabiter.
 > 
 
-Le changement n’est plus une crise exceptionnelle à gérer. C’est **le fonctionnement normal d'un système vivant**
+🧑‍🎓 **L'exploitation** Elle se concentre sur l'optimisation des activités existantes pour en améliorer l'efficacité et la rentabilité. Le but est de préserver les avantages concurrentiels viables le plus longtemps possible. Le changement se traduit ici par des **programmes de transformation** de type excellence opérationnelle.
 
-<aside>
-🧑‍🎓
+🧑‍🎓 **L'exploration** Elle implique la recherche et le développement de nouvelles opportunités, produits ou marchés, en quête d’innovations pour rester compétitif. Le changement se traduit ici par un **repositionnement stratégique**.
 
-**L'exploitation**
-
-Elle se concentre sur l'optimisation des activités existantes pour en améliorer l'efficacité et la rentabilité. Le but est de préserver les avantages concurrentiels viables le plus longtemps possible.
-
-Le changement se traduit ici par des **programmes de transformation** de type excellence opérationnelle.
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-**L'exploration**
-
-Elle implique la recherche et le développement de nouvelles opportunités, produits ou marchés, en quête d’innovations pour rester compétitif.
-
-Le changement se traduit ici par un **repositionnement stratégique**.
-
-</aside>
-
-<aside>
-📚
-
-En savoir plus sur la [fabrique du changement en entreprise](https://www.notion.so/La-fabrique-du-changement-14a90eaf28ff8085bd03d715bfdae69e?pvs=21)
-
-</aside>
+📚 En savoir plus sur la fabrique du changement en entreprise
 
 ### L’ambidextrie organisationnelle comme système dynamique
 
-![L’entreprise ambidextre, à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents](image%201.png)
+![L’entreprise ambidextre : à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Faire%20cohabiter%20plusieurs%20horizons%20strate%CC%81giques%2013690eaf28ff816f931efc5a173335bc/image.png)
 
-L’entreprise ambidextre, à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents
+L’entreprise ambidextre : à la fois dans l’exploitation de marchés matures et l’exploration de marchés émergents
 
 ## L’ambidextrie organisationnelle comme système dynamique
 
-L’agilité d’entreprise ne choisit pas. Elle orchestre. Elle pilote cette cohabitation, **l’[ambidextrie organisationnelle](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21),** comme un flux, pas comme une tension à arbitrer une fois pour toutes.
+L’agilité d’entreprise ne choisit pas. Elle orchestre. Elle pilote cette cohabitation, **l’ambidextrie organisationnelle,** comme un flux, pas comme une tension à arbitrer une fois pour toutes.
 
 Pour que cela tienne dans le temps, l’entreprise doit :
 
 - Basculer de l’un à l’autre sans rupture,
 - Maintenir une cohérence collective sans figer l’organisation.
 
-<aside>
-❓
-
-Votre organisation est-elle capable d'orchestrer cette transformation de manière dynamique, durable et efficace ?
-
-</aside>
+❓ Mais, votre organisation est-elle réellement capable d'orchestrer cette transformation de manière dynamique, durable et efficace ?
 
 # Les moteurs du changement
 
@@ -134,8 +65,8 @@ Votre organisation est-elle capable d'orchestrer cette transformation de manièr
 
 Le changement est mû par deux forces complémentaires :
 
-- **L'adaptation** ([**déterminisme darwinien**](https://www.notion.so/Les-moteurs-du-changement-14a90eaf28ff80c3abaad41e4a4370cc?pvs=21)) : survivre en s’ajustant continuellement à un environnement instable,
-- **L'intention stratégique** ([**volontarisme stratégique**](https://www.notion.so/Les-moteurs-du-changement-14a90eaf28ff80c3abaad41e4a4370cc?pvs=21)) : choisir d’agir sur son avenir en créant ses propres opportunités.
+- **L'adaptation** (**déterminisme darwinien**) : survivre en s’ajustant continuellement à un environnement instable,
+- **L'intention stratégique** (**volontarisme stratégique**) : choisir d’agir sur son avenir en créant ses propres opportunités.
 
 L’agilité vit dans la tension entre ces deux forces. **C’est dans cette tension vivante que réside la capacité réelle de transformation.**
 
@@ -153,14 +84,9 @@ L’entreprise ne se contente pas d’adapter son organisation aux contraintes :
 
 - **Défendre** ce qui reste viable,
 - **Passer à l’offensive** pour provoquer les mutations, en innovant ou en redéfinissant ses offres.
-- En combinant les deux, adaptation et création de rupture, dans un cycle maîtrisé.
+- **En combinant les deux**, adaptation et création de rupture, dans un cycle maîtrisé.
 
-<aside>
-📚
-
-En savoir plus sur les [moteurs du changement en entreprise](https://www.notion.so/Les-moteurs-du-changement-14a90eaf28ff80c3abaad41e4a4370cc?pvs=21)
-
-</aside>
+📚 En savoir plus sur les moteurs du changement en entreprise
 
 ## Le changement continu : Un nouvel impératif stratégique
 
@@ -176,59 +102,29 @@ Loin d’être un simple ajustement, cette approche implique une transformation 
 
 ## Cadencer le changement
 
-![Imbrication des boucles adaptatives de l’opérationnelle à la stratégie](image%202.png)
+![Imbrication des boucles adaptatives de l’opérationnelle à la stratégie](Piloter%20le%20changement%20continu%20!%2019190eaf28ff803887cce848d3e35489/image.png)
 
 Imbrication des boucles adaptatives de l’opérationnelle à la stratégie
 
-Le changement n’est pas chaotique. Il doit être [**rythmé**](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21) par des ****cadences de pilotage synchronisées :
+Le changement continu n’est pas chaotique. Il doit être **rythmé** par des ****cadences de pilotage synchronisées :
 
-- **Stratégique** : revisite le cap (trimestrielle à annuelle), arbitrer,
+- **Stratégique** : revisite le cap (trimestrielle à annuelle),
 - **Tactique** : arbitrage des objectifs (mensuelle),
 - **Opérationnelle** : ajustements des initiatives (hebdomadaire ou continu), réagir aux imprévus, intégrer le réel.
 
-> Leur alignement = des boucles adaptatives qui constituent le système nerveux de l’agilité organisationnelle.
+> Le tout orchestré par des **boucles adaptatives** qui constituent le système nerveux de l’agilité organisationnelle.
 > 
 
-<aside>
-🔥
+🔥 ***Exemple de cadences en action*** *Une entreprise de services B2B a structuré son pilotage en synchronisant les cadences :* - ***Stratégique** : Tous les ans le PDG révise les ambitions stratégiques avec les actionnaires. Tous les 4 mois, le comité exécutif révise les grands objectifs.* - ***Tactique** : Chaque trimestre, les comités de direction définissent les objectifs tactiques. Chaque mois, les managers réévaluent les projets en cours selon leur contribution aux objectifs.* - ***Opérationnelle** : Chaque semaine, les équipes adaptent leur Backlog et priorisent en fonction des retours clients et de la progression vers les objectifs.* *Résultat : La stratégie n’est plus un document figé. Elle se développe en parallèle de son exécution.* Pour le PDG, « L’agilité, ce n’est pas aller plus vite. C’est rester aligné quand tout s’accélère. »
 
-***Exemple de cadences en action***
-
-*Une entreprise de services B2B a structuré son pilotage en synchronisant :*
-
-- ***Cadence stratégique** : Tous les ans le PDG révise les ambitions stratégiques avec les actionnaires. Tous les 4 mois, le comité exécutif révise les grands objectifs.*
-- ***Cadence tactique** : Chaque trimestre, les comités de direction définissent les objectifs tactiques. Chaque mois, les managers réévaluent les projets en cours selon leur contribution aux objectifs.*
-- ***Cadence opérationnelle** : chaque semaine, les équipes adaptent leur Backlog et priorisent en fonction des retours clients et de la progression vers les objectifs.*
-
-*Résultat : la stratégie n’est plus un document figé. Elle se développe en parallèle de son exécution.*
-
-Pour le PDG, « L’agilité, ce n’est pas aller plus vite. C’est rester aligné quand tout s’accélère. »
-
-</aside>
-
-<aside>
-📚
-
-En savoir plus sur l’[approche simultanée du changement](https://www.notion.so/L-approche-simultan-e-le-changement-continu-et-mergent-14a90eaf28ff808d8c31cb052208f601?pvs=21)
-
-</aside>
+📚 En savoir plus sur l’approche simultanée du changement
 
 ## **Continuité de création de valeur et gestion des risques**
 
 > Être agile, c’est créer de la valeur durable même dans l’instabilité.
 > 
 
-<aside>
-💡
-
-Piloter le changement continu ne suffit pas : **il faut aussi garantir la continuité de création de valeur :**
-
-- La valeur perçue par les utilisateurs et clients des produits ou des services,
-- La valeur pour les parties prenantes de l’entreprise.
-
-Créer de la valeur sans développement - croissance, innovation, internationalisation ou diversification - reste difficile, même si ces leviers comportent des risques. Par conséquent, la stratégie est un processus continu, tout comme le changement qu’elle entraîne.
-
-</aside>
+💡 Piloter le changement continu ne suffit pas : **il faut aussi garantir la continuité de création de valeur de l’entreprise :** - La valeur perçue par les utilisateurs et clients des produits ou des services, - La valeur pour les parties prenantes de l’entreprise. Créer de la valeur sans développement - croissance, innovation, internationalisation ou diversification - reste difficile, même si ces leviers comportent des risques. Par conséquent, la stratégie est un processus continu, tout comme le changement qu’elle entraîne.
 
 Cela suppose :
 
@@ -236,14 +132,7 @@ Cela suppose :
 2. **Co-créer avec l’écosystème**, pour capter les signaux faibles et renforcer l’adéquation offre/besoin.
 3. **S’adapter sans se trahir** : préserver son identité tout en évoluant.
 
-<aside>
-💡
-
-**Un avantage concurrentiel difficilement réplicable**
-
-Savoir gérer le changement en continu est une capacité qu’une entreprise ne peut ni acheter ni copier facilement. C’est pourquoi elle représente un avantage concurrentiel à développer pour une entreprise.
-
-</aside>
+💡 **Un avantage concurrentiel difficilement réplicable** Savoir gérer le changement en continu est une capacité qu’une entreprise ne peut ni acheter ni copier facilement. C’est pourquoi elle représente un avantage concurrentiel à développer pour une entreprise.
 
 ---
 
@@ -282,24 +171,4 @@ Où en êtes-vous concrètement ?
 
 ---
 
-# 🔑 **Points clés à retenir**
-
-**Agile4Enterprise** ne propose pas seulement de s’adapter en continu, mais de piloter autrement :
-
-- Pour que vos **ambitions stratégiques soient habitées**, pas décoratives.
-- Pour que vos **ruptures deviennent activables**, pas seulement désirées.
-- Pour que votre transformation **devienne un engagement structuré**, pas une intention floue.
-
-**Agile4Enterprise permet des pivotements, des mutations profondes, m**ais **dans un cadre orchestré et évolutif**, pas dans une logique d'instabilité permanente ou de destruction programmée.
-
-> **Agile4Enterprise** n’est pas un cadre d’adaptation. C’est un cadre pour **piloter l’audace et l’ambition dans un monde incertain et complexe.** Il ne pense pas petit. Il pense juste. Dans le mouvement. Et pour de vrai.
-> 
-
-<aside>
-💡
-
-La performance de l’agilité se mesure par son efficacité et son efficience dans le changement et l’apprentissage, ainsi que dans l’augmentation de valeur, durablement.
-
-</aside>
-
-### 👉 Et maintenant ? [Les niveaux de décisions](https://www.notion.so/Les-4-niveaux-de-prise-de-d-cision-Piloter-un-syst-me-vivant-19290eaf28ff80049db0c684a64e4fb0?pvs=21), car le changement s’incarne dans les décisions qui vont nous mener à l’action.
+#

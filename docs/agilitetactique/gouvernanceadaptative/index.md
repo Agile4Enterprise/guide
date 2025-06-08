@@ -1,57 +1,12 @@
 # La gouvernance adaptative tactique
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Montrer comment la gouvernance tactique devient un **métronome adaptatif**, orchestrant revues d’impact, d’ajustement et d’apprentissage pour que chaque unité tactique réoriente ses initiatives, ses ressources et ses priorités au rythme de la stratégie et du terrain.
 
-**Objectif**
+➿ **Technova : La genèse d’une gouvernance vivante** Lorsque le PO de Technova Capteurs réalise qu’en trois mois son Backlog est périmé, c’est moins la vitesse qui fait la différence que la **cadence** : savoir quand arrêter, pivoter ou accélérer. **Six mois plus tard** La gouvernance tactique transforme cette urgence en un **rythme maîtrisé**, porté par le management intermédiaire. **Résultats :** réduction du time-to-market de 30 %, réaffectation de 15 % des ressources sur des projets à haut impact, satisfaction client en hausse de 10 %.
 
-Montrer comment la gouvernance tactique devient un **métronome adaptatif**, orchestrant revues d’impact, d’ajustement et d’apprentissage pour que chaque unité tactique réoriente ses initiatives, ses ressources et ses priorités au rythme de la stratégie et du terrain.
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-## Lexique rapide
-
-- **Unité tactique**
-    
-    Groupe d’équipes autonomes sur une même chaîne de valeur.
-    
-- **OKR tactiques**
-    
-    Objectifs & Résultats Clés traduisant la stratégie en actions mesurables.
-    
-- **Slack tactique**
-    
-    Marge de manœuvre (10–15 %) réservée pour pivoter sans renégocier tout le plan.
-    
-- **Mobilité tactique**
-    
-    Capacité à redistribuer équipes et ressources selon les besoins du trimestre.
-    
-</aside>
-
-<aside>
-➿
-
-## Technova : La genèse d’une gouvernance vivante
-
-Lorsque le PO de Technova Capteurs réalise qu’en trois mois son Backlog est périmé, c’est moins la vitesse qui fait la différence que la **cadence** : savoir quand arrêter, pivoter ou accélérer.
-
-**Six mois plus tard**
-
-La gouvernance tactique transforme cette urgence en un **rythme maîtrisé**, porté par le management intermédiaire.
-
-**Résultats :** réduction du time-to-market de 30 %, réaffectation de 15 % des ressources sur des projets à haut impact, satisfaction client en hausse de 10 %.
-
-</aside>
-
-![Cadence du changement tactique](image.png)
+![Cadence du changement tactique](La%20gouvernance%20adaptative%20tactique%2013b90eaf28ff8066aa8bc5c28ac35645/image.png)
 
 Cadence du changement tactique
 
@@ -80,7 +35,7 @@ Ce qui doit être gouverné :
 - **Mobilité des équipes** comme levier adaptatif.
 - **Autonomie décisionnelle locale**, encadrée par le cap stratégique.
 
-Avec une m**odèle de gouvernance basé sur :**  [**Participatif](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)** et [**itératif**](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
+Avec une m**odèle de gouvernance basé sur :**  **Participatif** et **itératif**
 
 ## Les tensions à équilibrer
 
@@ -106,8 +61,6 @@ Cette gouvernance se joue à l’intersection de trois curseurs :
 ---
 
 ## Cadences tactiques : la respiration d’une organisation adaptable
-
-![image.png](image%201.png)
 
 ## Trois cadences pour faire vivre la tactique
 
@@ -173,12 +126,4 @@ Cette gouvernance se joue à l’intersection de trois curseurs :
 
 ---
 
-# 🔑 Points clés à retenir
-
-✅ Gouvernance = **rythme maîtrisé**, pas réunionite.
-✅ Management intermédiaire = **chef d’orchestre** des boucles adaptatives.
-✅ **Rituels courts** pour aligner et réagir.
-✅ **Pilotage par l’impact** et renoncements ciblés libèrent la capacité d’innovation.
-✅ **Apprentissage collectif** = carburant de la stratégie vivante.
-
-### 👉 Et maintenant ? [S’organiser](https://www.notion.so/L-agilit-organisationnelle-au-niveau-tactique-17b90eaf28ff806fa662c684c93ef069?pvs=21) [](https://www.notion.so/L-agilit-organisationnelle-au-niveau-strat-gique-17790eaf28ff80569d37d43fbed7a8ca?pvs=21)pour faire vivre cette boucle tactique.
+#

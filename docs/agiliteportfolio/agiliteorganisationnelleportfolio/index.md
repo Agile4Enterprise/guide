@@ -1,26 +1,10 @@
 # L’agilité organisationnelle au niveau portfolio
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Transformer le design organisationnel du portefeuille d’activités en **architecture vivante**, capable de s’adapter aux mouvements stratégiques sans s’effondrer ni se figer. Ce chapitre traduit les principes de l’agilité organisationnelle à l’échelle Portfolio : là où se conçoivent les grandes unités, se redistribuent les ressources, se jouent les synergies, et se pilote l’adaptation continue de l’entreprise.
 
-**Objectif**
-
-Transformer le design organisationnel du portefeuille d’activités en **architecture vivante**, capable de s’adapter aux mouvements stratégiques sans s’effondrer ni se figer.
-
-Ce chapitre traduit les principes de l’agilité organisationnelle à l’échelle Portfolio : là où se conçoivent les grandes unités, se redistribuent les ressources, se jouent les synergies, et se pilote l’adaptation continue de l’entreprise.
-
-</aside>
-
-<aside>
-🧰
-
-Les principes généraux de l’[agilité organisationnelle](https://www.notion.so/L-agilit-organisationnelle-13490eaf28ff80918f84ee8e39eddc99?pvs=21)
-
-</aside>
+🧰 En savoir plus sur les principes généraux de l’agilité organisationnelle
 
 # Pourquoi ce niveau est stratégique
 
@@ -31,39 +15,27 @@ L’agilité organisationnelle au niveau portfolio est le **maillon manquant ent
 
 Sans elle, l’entreprise multiplie les transformations en local, mais reste rigide à l’échelle globale.
 
-<aside>
-➿
-
-**Cas TechNova — ou quand la structure ne suit pas**
-
-> *“On investit dans les produits d’avenir avec une organisation d’hier.”*
-> 
-
-*En 2024, TechNova veut réorienter son cœur de métier vers les solutions domotiques. Mais dans les faits, les décisions stratégiques sont ralenties par l’imbrication des unités historiques. Les équipes R&D domotique dépendent d’un service support mutualisé resté centré capteurs.*
-
-***Résultat** : inertie, frustration, perte d’avantage concurrentiel.*
-
-</aside>
+➿ **Cas TechNova — ou quand la structure ne suit pas** > *“On investit dans les produits d’avenir avec une organisation d’hier.”* > *En 2024, TechNova veut réorienter son cœur de métier vers les solutions domotiques. Mais dans les faits, les décisions stratégiques sont ralenties par l’imbrication des unités historiques. Les équipes R&D domotique dépendent d’un service support mutualisé resté centré capteurs.* ***Résultat** : inertie, frustration, perte d’avantage concurrentiel.*
 
 ## Le modèle opératoire doit devenir vivant
 
 > *Un portefeuille vivant impose un design vivant. Une entreprise traverse les saisons stratégiques comme un organisme vivant traverse le temps : elle doit savoir germer, croître, récolter... et se reposer.*
 > 
 
-![Agilité organisationnelle au niveau portfolio](image.png)
+![Agilité organisationnelle au niveau portfolio](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20portfolio%2017a90eaf28ff80fc9691d0fb59bc4ac6/image.png)
 
 Agilité organisationnelle au niveau portfolio
 
 ## **Design stratégique du portfolio**
 
-> Le design stratégique au niveau portfolio est la **réponse [structurelle](https://www.notion.so/Le-design-organisationnel-13e90eaf28ff8050add6fa0a5cf907c5?pvs=21) à la [stratégie corporate](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21).** Il permet d’obtenir un [**avantage parental**](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) : créer plus de valeur en pilotant les synergies que chaque unité n’aurait pu générer seule.
+> Le design stratégique au niveau portfolio est la **réponse structurelle à la stratégie corporate.** Il permet d’obtenir un **avantage parental** : créer plus de valeur en pilotant les synergies que chaque unité n’aurait pu générer seule.
 > 
 
 **Objectifs fondamentaux**
 
 - Identifier et piloter les **unités stratégiques** à impact différencié.
 - Augmenter les **synergies sans créer de dépendances bloquantes**.
-- Organiser la [cohérence](https://www.notion.so/Agile4X-Les-forces-organisationnelles-14290eaf28ff8004874de93022c243f8?pvs=21) et la **cohabitation de plusieurs logiques stratégiques** (Exploration, Expansion, Exploitation, Exclusion).
+- Organiser la cohérence et la **cohabitation de plusieurs logiques stratégiques** (Exploration, Expansion, Exploitation, Exclusion).
 - Favoriser la **reconfiguration rapide** des unités et des ressources.
 
 **Spécificité des entreprises spécialisées**
@@ -77,8 +49,8 @@ Agilité organisationnelle au niveau portfolio
 
 - **Cadre de référence** : Entreprise
 - **Transformation organisationnelle** : Centralisée et descendante pour les grands choix, appuyée sur des capacités locales d’adaptation.
-- **Capacité agile clé** : [Adaptabilité systémique](https://www.notion.so/Agile4C-Les-4-capacit-s-organisationnelles-cl-s-13790eaf28ff8077bff1ecf61771656f?pvs=21)
-- **Portée** : [Structure formelle](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21) de l’organisation.
+- **Capacité agile clé** : Adaptabilité systémique
+- **Portée** : Structure formelle de l’organisation.
 
 > *Par exemple, une direction produit partagée entre deux BU, l’une pour le marketing, l’autre pour l’IT : les délais s’allongent, la redevabilité devient floue, l’innovation s’éteint.*
 > 
@@ -88,7 +60,7 @@ Agilité organisationnelle au niveau portfolio
 Lorsque le portefeuille stratégique évolue dynamiquement :
 
 - Les structures organisationnelles **doivent respirer** au même rythme.
-- L’organisation ne peut plus être figée : elle devient **un organisme adaptatif**, aligné sur les [4 zones stratégiques](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21).
+- L’organisation ne peut plus être figée : elle devient **un organisme adaptatif**, aligné sur les 4 zones stratégiques.
 
 | Transformation | Avant | Après l’Agilité Portfolio | Du côté de TechNova |
 | --- | --- | --- | --- |
@@ -100,11 +72,11 @@ Lorsque le portefeuille stratégique évolue dynamiquement :
 
 ## Des unités stratégiques modulaires
 
-- Structure principale minimale, adaptée au [niveau d’intervention de la fonction corporate](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21).
+- Structure principale minimale, adaptée au niveau d’intervention de la fonction corporate.
     
     Seules les fonctions corporate et les services partagés sont centralisés, les unités sont décentralisées.
     
-- [Faible couplage](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) entre unités, [mix organisationnel](https://www.notion.so/Le-mix-organisationnel-et-la-logique-dominante-15e90eaf28ff800cbef0fc08b66fb1f3?pvs=21) assumé.
+- Faible couplage entre unités, mix organisationnel assumé.
     
     Chaque unité stratégique a son propre modèle organisationnel adapté, ce qui veut dire au niveau Portfolio, de savoir gérer cette hétérogénéité organisationnelle.
     
@@ -121,8 +93,8 @@ Lorsque le portefeuille stratégique évolue dynamiquement :
     
     Aucune BU ne peut être stratégique si elle dépend pour chaque décision de la fonction corporate.
     
-- [Combinant autorité et responsabilité](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
-- Taille cible : < [200 collaborateurs](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) pour préserver la réactivité.
+- Combinant autorité et responsabilité
+- Taille cible : < 200 collaborateurs pour préserver la réactivité.
 - Chaque module est aligné à une **zone stratégique du modèle 4E**.
     
     Elle est conçue pour pouvoir **se repositionner** sans dépendre du reste de l’organisation.
@@ -132,18 +104,13 @@ Lorsque le portefeuille stratégique évolue dynamiquement :
 
 ## Des services partagés sans dépendances essentielles
 
-- Les fonctions support sont [**partagées](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) intelligemment** — mais jamais **imposées comme des points de blocage**.
+- Les fonctions support sont **partagées intelligemment** — mais jamais **imposées comme des points de blocage**.
     
     C’est un point important car l’agilité promeut des unités autonomes, en cherchant à éviter toute dépendance.
     
 - Tout **goulet structurel** est un risque stratégique : RH, IT, Finance, Achats, etc. doivent être pensés **comme catalyseurs**, non comme centres de contrôle.
 
-<aside>
-🧑‍🎓
-
-Une [dépendance est dite “essentielle](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)” si elle est incertaine, critique, et fortement impactante. Toute autre dépendance peut être gérée en tant que services partagés, avec des boucles de feedbacks adaptées.
-
-</aside>
+🧑‍🎓 Une dépendance est dite “essentielle” si elle est incertaine, critique, et fortement impactante. Toute autre dépendance peut être gérée en tant que services partagés, avec des boucles de feedbacks adaptées.
 
 ## La mobilité stratégique comme mode de fonctionnement
 
@@ -181,12 +148,7 @@ Ce Slack est intégré par design :
 - Pour catalyser l'innovation continue,
 - Pour fluidifier la mobilité stratégique.
 
-<aside>
-📚
-
-En savoir plus sur l’agilité organisationnelle dans notre [wiki](https://www.notion.so/L-agilit-organisationnelle-13e90eaf28ff8014ac68ea06b71fabd3?pvs=21), ou dans notre [livre](https://www.notion.so/Section-IV-Le-design-strat-gique-au-service-de-l-agilit-organisationnelle-13790eaf28ff80bbbba7e3484b4e8865?pvs=21).
-
-</aside>
+📚 En savoir plus sur l’agilité organisationnelle dans notre wiki, ou dans notre livre.
 
 ---
 
@@ -199,13 +161,4 @@ En savoir plus sur l’agilité organisationnelle dans notre [wiki](https://www.
 
 ---
 
-# 🔑 Points clés à retenir
-
-- Le **design organisationnel du portfolio** est un **levier stratégique**, pas une conséquence RH.
-- L’organisation doit pouvoir **changer de forme pour rester alignée avec sa stratégie**.
-- L’agilité organisationnelle Portfolio repose sur **modules, mobilité, cadence et slack**.
-
-> Une organisation agile ne se contente pas de suivre le mouvement. Elle est conçue pour le précéder — et pour accueillir toutes les saisons de la stratégie.
-> 
-
-### 👉 Et maintenant ? Zoom sur la [mobilité stratégique](https://www.notion.so/La-mobilit-strat-gique-1f590eaf28ff80aeb08ad7b55a2b69d5?pvs=21).
+#

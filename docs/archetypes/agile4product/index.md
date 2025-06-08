@@ -1,43 +1,14 @@
 # Agile4Product : Archétype Produit
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** L’**archétype Produit** guide les organisations qui veulent **créer des produits différenciants**, centrés sur l’**expérience client** et la **valeur perçue**. Il aligne la structure de l’entreprise sur une stratégie de **différenciation par le produit**, favorisant la **scalabilité** et l’**innovation continue**.
 
-**Objectif**
+➿ “Nous avons doublé notre base utilisateurs en 6 mois, mais comment conserver une organisation efficace en passant de 3 à 10 équipes ?” — Claire, CPO NovaTech.
 
-L’**archétype Produit** guide les organisations qui veulent **créer des produits différenciants**, centrés sur l’**expérience client** et la **valeur perçue**. Il aligne la structure de l’entreprise sur une stratégie de **différenciation par le produit**, favorisant la **scalabilité** et l’**innovation continue**.
+🧑‍🎓 **Lexique rapide** **Design systémique** : considération de l’organisation comme un écosystème interconnecté. **Archétype Produit** : organisation structurée autour d’un produit, de sa croissance et de son usage. **Zone d’expansion** : phase de développement et de conquête (majorité précoce). **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus. **Backlog unique** : liste priorisée de fonctionnalités produit, pilotée par un Product Owner.
 
-</aside>
-
-<aside>
-➿
-
-“Nous avons doublé notre base utilisateurs en 6 mois, mais comment conserver une organisation efficace en passant de 3 à 10 équipes ?” — Claire, CPO NovaTech.
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-**Lexique rapide** 
-
-**Design systémique** : considération de l’organisation comme un écosystème interconnecté.
-
-**Archétype Produit** : organisation structurée autour d’un produit, de sa croissance et de son usage.
-
-**Zone d’expansion** : phase de développement et de conquête (majorité précoce).
-
-**SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus.
-
-**Backlog unique** : liste priorisée de fonctionnalités produit, pilotée par un Product Owner.
-
-</aside>
-
-![Archétype Produit dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
+![Archétype Produit dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](Agile4Product%20Arche%CC%81type%20Produit%2013490eaf28ff80b29733f767568ab6a5/image.png)
 
 Archétype Produit dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -47,23 +18,28 @@ Archétype Produit dans le modèle Agile4X des 4 archétypes agile (et de son an
 
 **Logique dominante :**  approche « produit ».
 
-**Secteurs cibles** : scale-ups, R&D, éditeurs de logiciels, plateformes digitales.
+**Exemples d’organisations**
+
+- Entreprises avec un **portefeuille de produits digitaux** (ex. Airbnb).
+- Business units dans des **groupes industriels**.
+- Scale-ups
+- Editeurs de logiciels
 
 ## **Caractéristiques**
 
-![L’archétype Produit dans le modèle 4E](image%201.png)
+![L’archétype Produit dans le modèle 4E](Agile4Product%20Arche%CC%81type%20Produit%2013490eaf28ff80b29733f767568ab6a5/image%201.png)
 
 L’archétype Produit dans le modèle 4E
 
-**Zone 4E privilégiée** : **Zone d’[expansion](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21)** 
+**Zone 4E privilégiée** : **Zone d’expansion** 
 
-![image.png](image%202.png)
+![image.png](Agile4Product%20Arche%CC%81type%20Produit%2013490eaf28ff80b29733f767568ab6a5/image%202.png)
 
-[Développement et croissance](https://www.notion.so/Design-organisationnel-de-la-zone-Expansion-13f90eaf28ff8097b421cd0166ec489b?pvs=21) de l’actif
+Développement et croissance de l’actif
 
-![image.png](image%203.png)
+![image.png](Agile4Product%20Arche%CC%81type%20Produit%2013490eaf28ff80b29733f767568ab6a5/image%203.png)
 
-Clientèle privilégiée : [majorité précoce](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21).
+Clientèle privilégiée : majorité précoce.
 
 > Réfléchissez : Quel produit est aujourd’hui en phase d’expansion chez vous ?
 > 
@@ -82,16 +58,9 @@ Clientèle privilégiée : [majorité précoce](https://www.notion.so/Explorer-e
 
 ## Structure
 
-![image.png](image%204.png)
+![image.png](Agile4Product%20Arche%CC%81type%20Produit%2013490eaf28ff80b29733f767568ab6a5/image%204.png)
 
-<aside>
-💡
-
-### **Unité stratégique “Groupe Produit”**
-
-Unité autonome possédant toutes les fonctions (développement, marketing, commercial, support) nécessaires à la croissance du produit, sa base clients et utilisateurs;
-
-</aside>
+💡 ### **Unité stratégique “Groupe Produit”** Unité autonome possédant toutes les fonctions (développement, marketing, commercial, support) nécessaires à la croissance du produit, sa base clients et utilisateurs. Aussi appelé **Product Operating Model** (POM).
 
 Ces fonctions se retrouvent soit intégrées dans les équipes soit dans les services partagés du groupe Produit.
 
@@ -102,14 +71,7 @@ Par définition, une unité ne gère qu’un seul produit. Elle est organisée a
 
 Le Product Manager responsable d’une organisation produit doit avoir toute autorité sur le compte de résultat du produit, et celle de décider et la responsabilité d’atteindre les objectifs du produit. C’est donc également un manager senior car il a également le contrôle des ressources nécessaires pour exécuter sa stratégie produit.
 
-<aside>
-💡
-
-### **Unité tactique**
-
-L’espace tactique, si besoin, est structuré autour de **segments de valeur utilisateur**, les [**domaines métier**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21).
-
-</aside>
+💡 ### **Unité tactique** L’espace tactique, si besoin, est structuré autour de **segments de valeur utilisateur**, les **domaines métier**.
 
 Un domaine métier est une composante significative du produit qui répond aux besoins d'un segment client, mais qui n'a pas de valeur ou d'identité distincte en dehors de son intégration dans le produit.
 
@@ -118,14 +80,7 @@ Autrement dit, ce n’est pas un produit en tant que tel. Les équipes de ce dom
 > *Exemple : **Airbnb** a structuré ses équipes en **tribes** et **squads**, avec des domaines de valeur clairs comme "Expérience Voyageur" et "Hôtes".*
 > 
 
-<aside>
-💡
-
-### **Unité opérationnelle**
-
-Equipes pluridisciplinaires, focalisées sur un domaine métier.
-
-</aside>
+💡 ### **Unité opérationnelle** Equipes pluridisciplinaires, focalisées sur un domaine métier.
 
 **Feature team**
 
@@ -139,11 +94,11 @@ Elle est nécessaire lorsque l'état ou la qualité d'un composant ou service em
 
 Avec la croissance, il faut faire évoluer l’organisation produit en parallèle du produit lui-même.
 
-![*Organisation multi produits avec des groupes plateformes*](image%205.png)
+![*Organisation multi produits avec des groupes plateformes*](Agile4Product%20Arche%CC%81type%20Produit%2013490eaf28ff80b29733f767568ab6a5/image%205.png)
 
 *Organisation multi produits avec des groupes plateformes*
 
-Un groupe plateforme se concentre sur des fonctionnalités de commodité ou des services communs à plusieurs groupes produits, tandis que les groupes produits se chargent des développements spécifiques à leurs produits respectifs. Ce n'est pas un produit interne et n'a pas son propre compte de résultat. Cela crée de la dépendance entre les unités permettant d’éviter une duplication de rôles, de compétences ou de composants. Il présente des avantages mais nécessite de prendre en compte certains critères avant sa mise en place : Le service n’est pas [essentiel](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21), les [dépendances](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21) sont séquentielles ou mutualisées, le coût des délais induits par ces dépendances est acceptable et la prédictibilité du service rendu est assuré.
+Un groupe plateforme se concentre sur des fonctionnalités de commodité ou des services communs à plusieurs groupes produits, tandis que les groupes produits se chargent des développements spécifiques à leurs produits respectifs. Ce n'est pas un produit interne et n'a pas son propre compte de résultat. Cela crée de la dépendance entre les unités permettant d’éviter une duplication de rôles, de compétences ou de composants. Il présente des avantages mais nécessite de prendre en compte certains critères avant sa mise en place : Le service n’est pas essentiel, les dépendances sont séquentielles ou mutualisées, le coût des délais induits par ces dépendances est acceptable et la prédictibilité du service rendu est assuré.
 
 Par ailleurs, les services partagés directement liés aux groupes produits, comme l'UX ou la qualité, devraient être intégrés au sein même de chaque groupe produit.
 
@@ -161,7 +116,7 @@ Par ailleurs, les services partagés directement liés aux groupes produits, com
     > *Exemple* : **Apple** adapte ses produits en fonction des avancées technologiques (ex. Face ID, Apple Silicon).
     > 
 - **Proactivité :** Anticipation des besoins futurs des clients, souvent par design stratégique ou innovation technologique.
-- **Amélioration continue : [Innovation de continuité](https://www.notion.so/Les-capacit-s-de-l-entreprise-agile-13690eaf28ff8182abccc48ebecb3bf6?pvs=21)** du produit (nouveaux usages, nouvelles fonctionnalités, ..).
+- **Amélioration continue : Innovation de continuité** du produit (nouveaux usages, nouvelles fonctionnalités, ..).
     
     > *Exemple* : **Tesla** pousse des mises à jour OTA (Over The Air) pour améliorer ses véhicules en continu.
     > 
@@ -197,7 +152,7 @@ Enfin, les individus recherchent l’autonomie en tant que professionnels.
 
 ## Processus
 
-### [**Pilotage par la valeur](https://www.notion.so/Design-organisationnel-de-la-zone-Expansion-13f90eaf28ff8097b421cd0166ec489b?pvs=21) perçue**
+### **Pilotage par la valeur perçue**
 
 - Pilotage est **data-driven**, orienté résultats.
 - **Budget produit :** Investissement progressif aligné sur les retours utilisateurs et l’impact mesurable.
@@ -207,13 +162,13 @@ Enfin, les individus recherchent l’autonomie en tant que professionnels.
 > *Exemple :* Google ajuste en continu ses algorithmes de recherche selon les comportements observés.
 > 
 
-[**Coordination verticale**](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21)
+**Coordination verticale**
 
 - Les processus (les cadences de sprint, …),
-- Un rôle d’intégrateur avec le responsable produit : un [Product Backlog unique avec un Product Owner unique](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) pour le groupe produit, orienté utilisateur. C’est le marqueur du couplage fort d’une groupe produit, toutes les équipes pouvant y contribuer.
+- Un rôle d’intégrateur avec le responsable produit : un Product Backlog unique avec un Product Owner unique pour le groupe produit, orienté utilisateur. C’est le marqueur du couplage fort d’une groupe produit, toutes les équipes pouvant y contribuer.
 - L’intégration du produit lui-même et des objectifs communs.
 
-[**Coordination horizontale**](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)
+**Coordination horizontale**
 
 - Ajustement mutuel (auto organisation des équipes)
     
@@ -221,27 +176,22 @@ Enfin, les individus recherchent l’autonomie en tant que professionnels.
     > 
 - Des règles explicites (définition prêt et de fini, cadence de sprint, …)
 
-Gestion de la [dépendance](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21) entre unités opérationnelles
+Gestion de la dépendance entre unités opérationnelles
 
-- [**Interdépendance mutualisée**](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21) avec les services partagés
+- **Interdépendance mutualisée** avec les services partagés
     - Gérée soit par une approche orientée service soit par des processus.
-- [**Interdépendance réciproque](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21)** avec les équipes agiles
+- **Interdépendance réciproque** avec les équipes agiles
     - Gérée grâce à la pluri disciplinarité, l’auto organisation et la taille réduite des équipes.
 
-[**Organisation duale**](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21)
+**Organisation duale**
 
 Le management produit est souvent séparé de la ligne managériale. Les rôles opérationnels décident du travail à effectuer sans avoir d'autorité RH, tandis que les rôles managériaux se concentrent sur l'amélioration du design organisationnel et de l'efficience des équipes, sans décider du travail à faire.
 
 Les équipes peuvent se reconfigurer rapidement pour s'adapter aux nouvelles priorités ou opportunités.
 
-[**Cadence de changement](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21) :** Inspection et adaptation continues
+**Cadence de changement :** Inspection et adaptation continues
 
-<aside>
-🔎
-
-Retrouver l’implémentation de ces [niveaux de changement dans le Framework SaFE](https://www.notion.so/A4E-et-SAFe-Scaled-Agile-Framework-13490eaf28ff802da4d9d0513fd502b7?pvs=21)
-
-</aside>
+🔎 Retrouver l’implémentation de ces niveaux de changement dans le Framework SaFE
 
 **Méthode privilégiée** : Scrum. 
 
@@ -251,21 +201,21 @@ Retrouver l’implémentation de ces [niveaux de changement dans le Framework Sa
 
 ### Performance
 
-L’organisation produit est [optimisée pour la valeur](https://www.notion.so/Design-organisationnel-de-la-zone-Expansion-13f90eaf28ff8097b421cd0166ec489b?pvs=21) perçue par le client. Le compte de résultats étant directement lié au produit, les indicateurs clés de performance à suivre incluent typiquement la satisfaction des utilisateurs, la qualité du produit, la vitesse de mise sur le marché, l'innovation, l'efficacité opérationnelle et la performance financière. Il existe de nombreux Frameworks de métriques Produit.
+L’organisation produit est optimisée pour la valeur perçue par le client. Le compte de résultats étant directement lié au produit, les indicateurs clés de performance à suivre incluent typiquement la satisfaction des utilisateurs, la qualité du produit, la vitesse de mise sur le marché, l'innovation, l'efficacité opérationnelle et la performance financière. Il existe de nombreux Frameworks de métriques Produit.
 
 > *Exemple : **Amazon Prime** mesure le taux d’engagement client et la fréquence des commandes pour ajuster son offre.*
 > 
 
 **Problématique de la zone d’expansion** : **Préparation à l’intégration**
 
-Préparer, à terme, l’intégration du produit dans le [portefeuille d’exploitation](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21), s’il y en a un, et donc de l’intégration de l’organisation produit dans la zone d’exploitation. Cela a un impact sur la performance à la fois de la zone d’expansion et d’exploitation.
+Préparer, à terme, l’intégration du produit dans le portefeuille d’exploitation, s’il y en a un, et donc de l’intégration de l’organisation produit dans la zone d’exploitation. Cela a un impact sur la performance à la fois de la zone d’expansion et d’exploitation.
 
 > *Exemple : **Google** a intégré YouTube en créant un groupe produit dédié tout en l’intégrant progressivement à son écosystème (ex. monétisation via Google Ads).*
 > 
 
 ### Modèle culturel dominant
 
-L’organisation produit se positionne comme un modèle basé sur les buts relationnels, une logique de marché, et une culture du résultat et de la compétition. Elle se concentre sur la compétitivité et l'atteinte des objectifs. C’est le domaine privilégié des [OKR](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21) !
+L’organisation produit se positionne comme un modèle basé sur les buts relationnels, une logique de marché, et une culture du résultat et de la compétition. Elle se concentre sur la compétitivité et l'atteinte des objectifs. C’est le domaine privilégié des OKR !
 
  Les organisations adoptant cette logique visent la productivité, la rentabilité et la part de marché. Les compétences ainsi que l'expertise sont des éléments clés. Les décisions sont souvent déléguées ou négociées.
 
@@ -338,29 +288,29 @@ Vous avez une organisation produit !  Vous pouvez renforcer vos pratiques de dis
 
 Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
 
-- [Safe](https://www.notion.so/A4E-et-SAFe-Scaled-Agile-Framework-13490eaf28ff802da4d9d0513fd502b7?pvs=21), pour une gestion produit intégrée
-- [Less](https://www.notion.so/A4E-et-LeSS-13490eaf28ff80409221d42e45847c94?pvs=21), pour coordonner plusieurs équipes produit
-- [Spotify](https://www.notion.so/A4E-et-Spotify-14390eaf28ff80708d97d228b2dda3c5?pvs=21), pour uniquement pour l’hyper scalabilité organisationnelle
+- Safe, pour une gestion produit intégrée
+- Less, pour coordonner plusieurs équipes produit
+- Spotify, pour uniquement pour l’hyper scalabilité organisationnelle
 
 ---
 
 # Synthèse de l’archétype Produit
 
-![*Alignement stratégique du modèle organisationnel produit*](image%206.png)
+![*Alignement stratégique du modèle organisationnel produit*](Agile4Product%20Arche%CC%81type%20Produit%2013490eaf28ff80b29733f767568ab6a5/image%206.png)
 
 *Alignement stratégique du modèle organisationnel produit*
 
-### 👉 Et maintenant ? Zoom sur l[’archétype Agile4Network](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21) [](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21)!
+### 👉 Et maintenant ? Zoom sur l’archétype Agile4Network [](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257.md)!
 
 ---
 
 # Annexe
 
-# [Le radar de l’Archétype Produit](https://www.notion.so/Radar-de-l-entreprise-agile-13490eaf28ff80288f7dcd0fee927567?pvs=21)
+# Le radar de l’Archétype Produit
 
 ## **Un outil d’évaluation et d’alignement**
 
-Le radar de l’archétype Produit repose sur le **modèle de maturité [IMPACTE**](https://www.notion.so/Mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21) et permet d’évaluer le niveau de maturité d’une organisation sur **quatre axes clés**, correspondant aux **capacités organisationnelles principales de l’agilité d’entreprise** :
+Le radar de l’archétype Produit repose sur le **modèle de maturité IMPACTE** et permet d’évaluer le niveau de maturité d’une organisation sur **quatre axes clés**, correspondant aux **capacités organisationnelles principales de l’agilité d’entreprise** :
 
 1. **Réactif** – Capacité à ajuster rapidement un produit face aux retours des utilisateurs.
 2. **Flexible** – Aptitude à adapter la roadmap produit aux évolutions du marché.

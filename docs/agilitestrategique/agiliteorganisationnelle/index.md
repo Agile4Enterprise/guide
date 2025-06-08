@@ -1,59 +1,20 @@
 # L’agilité organisationnelle au niveau stratégique
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Votre organisation veut être agile ? Mais qui peut encore la bouger ? - Transformer les unités stratégiques en **systèmes vivants** capables d’adapter en continu leur modèle d’affaires et leurs modes opératoires. - Articuler **8 principes d’architecture organisationnelle**.
 
-**Objectif**
+🧑‍🎓 **Lexique rapide** - **Unité stratégique** : mini-entreprise autonome compte de résultat, stratégie, modèle d’affaires). - **Couplage fort/faible** : degré d’interdépendance entre unités. - **Squad** : petite équipe multidisciplinaire dédiée. - **OKR** : Objectives & Key Results.
 
-Votre organisation veut être agile ? Mais qui peut encore la bouger ?
-
-- Transformer les unités stratégiques en **systèmes vivants** capables d’adapter en continu leur modèle d’affaires et leurs modes opératoires.
-- Articuler **8 principes d’architecture organisationnelle**.
-</aside>
-
-<aside>
-🧑‍🎓
-
-## Lexique rapide
-
-- **Unité stratégique** : mini-entreprise autonome compte de résultat, stratégie, modèle d’affaires).
-- **Couplage fort/faible** : degré d’interdépendance entre unités.
-- **Squad** : petite équipe multidisciplinaire dédiée.
-- **OKR** : Objectives & Key Results.
-</aside>
-
-<aside>
-➿
-
-### TechNova IA en pleine exploration
-
-En janvier, la BU IA de TechNova voit son premier prototype d’analyse prédictive échouer :
-
-- Les data scientists travaillent en silo.
-- La revue stratégique n’a lieu que deux fois par an.
-- La BU Capteurs bloque toute tentative d’intégration.
-
-> En trois mois, la stratégie était devenue obsolète.
-> 
-> 
-> En six mois, l’organisation l’avait enterrée.
-> 
-
-Le responsable IA décide alors de **refondre l’unité comme un système vivant**, capable de pivoter sans imploser.
-
-</aside>
+➿ ### TechNova IA en pleine exploration En janvier, la BU IA de TechNova voit son premier prototype d’analyse prédictive échouer : - Les data scientists travaillent en silo. - La revue stratégique n’a lieu que deux fois par an. - La BU Capteurs bloque toute tentative d’intégration. > En trois mois, la stratégie était devenue obsolète. > > > En six mois, l’organisation l’avait enterrée. > Le responsable IA décide alors de **refondre l’unité comme un système vivant**, capable de pivoter sans imploser.
 
 # Une structure stratégique vivante
 
-![Agilité organisationnelle au niveau stratégique](image.png)
+![Agilité organisationnelle au niveau stratégique](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20strate%CC%81giqu%2017790eaf28ff80569d37d43fbed7a8ca/image.png)
 
 Agilité organisationnelle au niveau stratégique
 
-Le but : **aligner dynamiquement le modèle d’affaires (« quoi ») et le modèle opératoire (« comment »)**. Cela implique d’aligner l’[ensemble des composantes clés](https://www.notion.so/Les-4-niveaux-de-prise-de-d-cision-Piloter-un-syst-me-vivant-19290eaf28ff80049db0c684a64e4fb0?pvs=21) de l’unité avec cette nouvelle stratégie : capacités organisationnelles, structure, processus, systèmes de récompense et gestion des talents.
+Le but : **aligner dynamiquement le modèle d’affaires (« quoi ») et le modèle opératoire (« comment »)**. Cela implique d’aligner l’ensemble des composantes clés de l’unité avec cette nouvelle stratégie : capacités organisationnelles, structure, processus, systèmes de récompense et gestion des talents.
 
 ## Les tensions clés à piloter
 
@@ -97,8 +58,8 @@ Elle regroupe des activités partageant un **même positionnement stratégique**
 ### 3. **Conception de l’extérieur vers l’intérieur (Design "outside-in”)**
 
 - Organisation conçue à partir du **flux de valeur externe** (clients, marché, usage).
-- Structure alignée sur des [**domaines métier (ou valeur)**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21) (logique produit) ou [**chaînes de valeur**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21) (logique flux).
-- Maximiser la [**surface en contact avec la source du changement**](https://www.notion.so/Le-design-organisationnel-strat-gique-13e90eaf28ff8062b577d78ba9e0d923?pvs=21).
+- Structure alignée sur des **domaines métier (ou valeur)** (logique produit) ou **chaînes de valeur** (logique flux).
+- Maximiser la **surface en contact avec la source du changement**.
 
 > Une organisation se conçoit depuis la demande, pas depuis l’organigramme.
 > 
@@ -113,12 +74,7 @@ Elle regroupe des activités partageant un **même positionnement stratégique**
 - Le choix n’est pas figé : il évolue selon la zone stratégique (Exploration, Expansion, etc.).
 - Les transitions entre archétypes sont outillées, pas subies.
 
-<aside>
-🧰
-
-Découvrir comment ce design stratégique se décline selon les [4 archétypes agiles](https://www.notion.so/Agile4X-Les-forces-organisationnelles-14290eaf28ff8004874de93022c243f8?pvs=21) : [projet](https://www.notion.so/Agile4Project-Arch-type-Projet-agile-13490eaf28ff8030a8aeecf9206d94ea?pvs=21), [produit](https://www.notion.so/Agile4Product-Arch-type-Produit-13490eaf28ff80b29733f767568ab6a5?pvs=21), [flux](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21), et [réseau](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21)
-
-</aside>
+🧰 Découvrir comment ce design stratégique se décline selon les 4 archétypes agiles : projet%2013490eaf28ff8030a8aeecf9206d94ea.md), produit, flux, et réseau
 
 ### 5. **Organisation duale = supervision + ajustement mutuel**
 
@@ -129,7 +85,7 @@ Découvrir comment ce design stratégique se décline selon les [4 archétypes a
     - **Réseau informel → Ajustement mutuel, adaptation locale, stratégie émergente, réactivité et flexibilité**
 - L’un cadre, l’autre adapte.
 
-Cela permet d'expérimenter une organisation qui influencera la structure formelle de demain. Miser uniquement sur le réseau informel pour initier le changement est une **limite des Frameworks d’agilité à l’échelle**, [cela freine l’agilité stratégique](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21).
+Cela permet d'expérimenter une organisation qui influencera la structure formelle de demain. Miser uniquement sur le réseau informel pour initier le changement est une **limite des Frameworks d’agilité à l’échelle**, cela freine l’agilité stratégique.
 
 ### 6. H**iérarchie minimale et accélération décisionnelle**
 
@@ -162,7 +118,7 @@ Cela permet d'expérimenter une organisation qui influencera la structure formel
 
 ## Les 8 principes… en friction
 
-![image.png](image%201.png)
+![image.png](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20strate%CC%81giqu%2017790eaf28ff80569d37d43fbed7a8ca/image%201.png)
 
 Le tableau ci-dessous illustre comment TechNova a activé ces 8 principes — et ce que ça a coûté, produit ou perturbé.
 
@@ -177,12 +133,7 @@ Le tableau ci-dessous illustre comment TechNova a activé ces 8 principes — et
 | **Mobilité tactique** | Data engineers détachés temporairement vers la BU Plateforme pour co-développer les API IA | Équipes figées, sous-utilisation des talents |
 | **Boucles de feedback courtes** | OKR hebdomadaires sur dashboard partagé et retours clients intégrés en temps réel | Stratégie déconnectée des signaux du marché |
 
-<aside>
-💡
-
-**Ce n’est pas seulement la stratégie qui change, mais l’organisation qui s’adapte en conséquence**. L’agilité stratégique est un système vivant, pas une couche méthodologique.
-
-</aside>
+💡 **Ce n’est pas seulement la stratégie qui change, mais l’organisation qui s’adapte en conséquence**. L’agilité stratégique est un système vivant, pas une couche méthodologique.
 
 ## Ce que ça a produit (et failli casser)
 
@@ -227,8 +178,6 @@ L’agilité organisationnelle, pensée comme design vivant, peut sous-estimer c
 
 ---
 
----
-
 ## Et concrètement, lundi matin ?
 
 **Organisez une séance de travail avec le CoDir pour tester votre design.**
@@ -264,18 +213,4 @@ L’agilité organisationnelle, pensée comme design vivant, peut sous-estimer c
 
 ---
 
-# 🔑 Points clés à retenir
-
-> L’agilité stratégique, c’est concevoir une organisation capable de se transformer en continu.
-> 
-- Une unité stratégique **n’est pas une boîte figée** : c’est une cellule adaptative.
-- **Chaque principe activé produit un coût** (friction, désalignement temporaire, apprentissage).
-- Ce n’est **pas leur addition**, mais **leur orchestration sous tension** qui produit l’agilité réelle.
-- Le vrai test : pouvez-vous **reconfigurer votre unité** sans tout casser ?
-
-<aside>
-🧰
-
-En savoir plus sur les principes généraux de l’[agilité organisationnelle](https://www.notion.so/L-agilit-organisationnelle-13490eaf28ff80918f84ee8e39eddc99?pvs=21)
-
-</aside>
+#

@@ -1,26 +1,10 @@
 # Agile4Zombie : L’anti-archétype
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** > Une organisation zombie qui a tout fait… sauf choisir. > Ni flux, ni produit, ni projet, ni réseau. Une organisation zombie a multiplié les initiatives et adopté tous les rituels agiles… sans faire de choix stratégique. ⇒ Elle **ne renonce à rien**, **n’adapte rien**, **ne pilote rien** : elle mime l’agilité, mais reste figée. ⇒ Ce contre-modèle sert à **révéler par contraste** les vraies décisions et renoncements qu’exigent les archétypes vivants.
 
-**Objectif**
-
-> Une organisation zombie qui a tout fait… sauf choisir.
-> 
-
-Ni flux, ni produit, ni projet, ni réseau. Une organisation zombie a multiplié les initiatives et adopté tous les rituels agiles… sans faire de choix stratégique. 
-
-⇒ Elle **ne renonce à rien**, **n’adapte rien**, **ne pilote rien** : elle mime l’agilité, mais reste figée. 
-
-⇒ Ce contre-modèle sert à **révéler par contraste** les vraies décisions et renoncements qu’exigent les archétypes vivants.
-
-</aside>
-
-![L’archétype Zombie](image.png)
+![L’archétype Zombie](Agile4Zombie%20L%E2%80%99anti-arche%CC%81type%201db90eaf28ff802ebcecd01e11f22848/image.png)
 
 L’archétype Zombie
 
@@ -62,14 +46,7 @@ Il représente l’organisation qui prétend se transformer mais ne choisit jama
 | **Symptôme mimétique** | **Tout change en surface**, mais la culture et la stratégie profondes restent identiques. |
 | **Miroir inversé** | Par contraste, **révèle** les renoncements et les choix qu’un vrai modèle cohérent (Flux, Produit, Projet ou Réseau) impose. |
 
-<aside>
-⚠️
-
-**Shadow Zombie** 
-
-*Polyglobe Industries, groupe diversifié, a imposé un « KANBAN for all » à toutes ses divisions. Résultat : 15 systèmes Kanban déployés, 120 réunions par mois, des indicateurs unifiés – les équipes ont ressenti une surcharge managériale sans valeur ajoutée et ont cessé de tenir leurs boards à jour.* 
-
-</aside>
+⚠️ **Shadow Zombie** *Polyglobe Industries, groupe diversifié, a imposé un « KANBAN for all » à toutes ses divisions. Résultat : 15 systèmes Kanban déployés, 120 réunions par mois, des indicateurs unifiés – les équipes ont ressenti une surcharge managériale sans valeur ajoutée et ont cessé de tenir leurs boards à jour.*
 
 ## Ce que cet archétype force à interroger
 
@@ -80,26 +57,7 @@ Il représente l’organisation qui prétend se transformer mais ne choisit jama
 | **Rituels sans stratégie** | Mes pratiques agiles servent-elles vraiment ? |
 | **Conformisme stratégique déguisé** | Mon organisation est-elle vraiment agile… ou simplement en train de différer les vrais choix ? |
 
-<aside>
-➿
-
-**Un cas de zombification**
-
-**Contexte :** Polyglobe, en mode zombie, multipliait les daily, retro, board sans impact.
-
-**Bascule :** Choix de passer à l’archétype Flux pour la division service.
-
-- Arrêt de toutes les cérémonies non-essentielles. La présence aux autres est sur la base du volontariat.
-- Co-construction d’un **Kanban bout en bout**
-- Identification de deux classes de service.
-- Suivi de leurs performances.
-
-**Résultat en 3 mois :**
-
-- Lead time réduit de 30 %
-- 40 % de tickets urgents traités dans les SLA
-- Taux de participation aux cérémonies > 90%
-</aside>
+➿ **Un cas de zombification** **Contexte :** Polyglobe, en mode zombie, multipliait les daily, retro, board sans impact. **Bascule :** Choix de passer à l’archétype Flux pour la division service. - Arrêt de toutes les cérémonies non-essentielles. La présence aux autres est sur la base du volontariat. - Co-construction d’un **Kanban bout en bout** - Identification de deux classes de service. - Suivi de leurs performances. **Résultat en 3 mois :** - Lead time réduit de 30 % - 40 % de tickets urgents traités dans les SLA - Taux de participation aux cérémonies > 90%
 
 ## Ce qu’il ne faut surtout pas faire
 
@@ -107,7 +65,7 @@ Il représente l’organisation qui prétend se transformer mais ne choisit jama
 
 ❌ **Le tolérer dans la durée** → Il peut être **un état transitoire**, mais pas une solution durable.
 
-❌ **Légitimer la confusion comme stratégie** → Une entreprise ne peut pas tout faire, tout le temps, avec tout le monde, sinon c’est l’appel du [vide stratégique](https://www.notion.so/L-agilit-strat-gique-13690eaf28ff81cea525c71152fa9611?pvs=21) ou la tentation de la [tactification](https://www.notion.so/OKR-un-outil-de-l-agilit-strat-gique-et-tactique-14590eaf28ff80b3b0f7e344d0764762?pvs=21). La cohérence du Business model et du modèle opératoire amène à arbitrer, à faire des choix assumés. Cela se traduit par le choix d’un archétype.
+❌ **Légitimer la confusion comme stratégie** → Une entreprise ne peut pas tout faire, tout le temps, avec tout le monde, sinon c’est l’appel du vide stratégique ou la tentation de la tactification. La cohérence du Business model et du modèle opératoire amène à arbitrer, à faire des choix assumés. Cela se traduit par le choix d’un archétype.
 
 ## Checklist “Chasse aux Zombies” (actions immédiates)
 
@@ -130,4 +88,4 @@ Il représente l’organisation qui prétend se transformer mais ne choisit jama
 
 ---
 
-### 👉 Et maintenant ? Découvrez comment [utiliser ces archétypes dans votre organisation](https://www.notion.so/Utilisation-d-Agile4X-1ab90eaf28ff8085b01aec88b189df18?pvs=21) !
+### 👉 Et maintenant ? Découvrez comment utiliser ces archétypes dans votre organisation !

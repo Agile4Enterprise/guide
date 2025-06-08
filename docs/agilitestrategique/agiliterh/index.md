@@ -1,29 +1,10 @@
 # L’agilité RH
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Repositionner la fonction RH dans un **système vivant d’adaptation continue**, en l’intégrant pleinement aux boucles stratégiques, tactiques et opérationnelles. Faire des RH un **acteur structurant du changement**, capable de synchroniser les dynamiques humaines avec l’évolution de la stratégie.
 
-**Objectif**
-
-Repositionner la fonction RH dans un **système vivant d’adaptation continue**, en l’intégrant pleinement aux boucles stratégiques, tactiques et opérationnelles. Faire des RH un **acteur structurant du changement**, capable de synchroniser les dynamiques humaines avec l’évolution de la stratégie.
-
-</aside>
-
-<aside>
-➿
-
-> *"On a revu la stratégie. Mais personne n’a revu la RH." — CEO TechNova*
-> 
-
-*En 2023, TechNova lance une transformation agile ambitieuse. Deux ans plus tard : stratégie mobile, équipes figées. Les managers bataillent pour redéployer, les RH restent out of sync. Le turnover explose. La dissonance s’installe.*
-
-***Problème** : la RH est restée une fonction support, alors que l’entreprise est devenue un organisme vivant.*
-
-</aside>
+➿ > *"On a revu la stratégie. Mais personne n’a revu la RH." — CEO TechNova* > *En 2023, TechNova lance une transformation agile ambitieuse. Deux ans plus tard : stratégie mobile, équipes figées. Les managers bataillent pour déployer, les RH restent hors process. Le turnover explose. La dissonance s’installe.* ***Problème** : la RH est restée une fonction support, alors que l’entreprise est devenue un organisme vivant.*
 
 # Les principes de l’agilité RH
 
@@ -57,7 +38,7 @@ Elle permet de :
 | Tension | Si non traité... |
 | --- | --- |
 | Sécurité individuelle ↔ mobilité collective | Démobilisation ou immobilisme |
-| Prédictibilité RH ↔ stratégie adaptative | GPEC hors sol |
+| Prédictibilité RH ↔ stratégie adaptative | Gestion prévisionnelle des emplois et des compétences (GPEC) hors sol |
 | Parcours figés ↔ parcours dynamiques | Inéquité perçue ou fuite des talents |
 | Conformité ↔ expérimentation RH | RH perçue comme frein |
 
@@ -82,7 +63,7 @@ L’agilité RH ne tient pas sans un leadership transformé. Elle exige une **go
 
 - Structure les **cadences de mobilité** et l’**ajustement des compétences** au rythme des boucles stratégiques.
 - Facilite l’**expérimentation RH continue** : feedbacks, rôles évolutifs, dispositifs d’écoute.
-- Synchronise les dynamiques humaines avec les [4 zones stratégiques](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21) - Exploration, Expansion, Exploitation, Exclusion).
+- Synchronise les dynamiques humaines avec les 4 zones stratégiques - Exploration, Expansion, Exploitation, Exclusion).
 - Coconstruit des environnements de travail propices à l’expérimentation et à l’innovation.
 
 ### Le manager : chef d’orchestre tactique
@@ -107,7 +88,7 @@ L’agilité RH ne tient pas sans un leadership transformé. Elle exige une **go
 > Sans RH dans la boucle, l’agilité organisationnelle s’épuise.
 > 
 
-# Ce que produit une RH restée figée
+## Ce que produit une RH restée figée
 
 | Symptôme | Croyance | Effet |
 | --- | --- | --- |
@@ -152,26 +133,8 @@ L’agilité RH ne tient pas sans un leadership transformé. Elle exige une **go
 - Identifiez 3 parcours collaborateurs figées à reconfigurer
 - Intégrez la RH à la prochaine revue Portfolio stratégique
 
-<aside>
-📚
-
-Pour une vision plus exhaustive de l’[Agilité RH](https://www.notion.so/L-agilit-RH-pour-une-culture-agile-14990eaf28ff802a9188c36520f71bf9?pvs=21)
-
-</aside>
+📚 Pour une vision plus exhaustive de l’Agilité RH
 
 ---
 
-# 🔑 Points clés à retenir
-
-✅ **L’agilité RH est une boucle adaptative**, pas une fonction support améliorée.
-
-✅ Elle synchronise les **talents, rôles et trajectoires avec les boucles stratégiques vivantes**.
-
-✅ Elle constitue **l’infrastructure humaine de la mobilité stratégique et tactique**.
-
-✅ Elle révèle les tensions culturelles cachées — et les rend transformables.
-
-✅ Sans RH agile, la transformation se vide de ses leviers humains.
-
-> 💥 Une stratégie agile sans RH agile est une fiction. L’agilité RH est ce qui permet à la stratégie de s’incarner durablement dans le vivant de l’organisation.
->
+#

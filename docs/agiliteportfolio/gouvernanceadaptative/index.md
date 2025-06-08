@@ -1,54 +1,22 @@
 # La gouvernance adaptative Portfolio
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Transformer la gouvernance du portefeuille stratégique en un **système vivant**, capable de respirer, d’écouter, de réagir et de réallouer — plutôt que de figer, projeter, prédire et verrouiller.
-
-Il ne s’agit plus d’exécuter une trajectoire figée, mais de piloter une série d’ajustements à haute fréquence, connectés aux signaux faibles du marché et aux initiatives du terrain.
-
-Le cœur du dispositif : **un COMEX qui apprend, arbitre, redistribue et libère l’énergie là où elle compte le plus.**
-
-</aside>
-
-![image.png](image.png)
+✨ **Objectif** Transformer la gouvernance du portefeuille stratégique en un **système vivant**, capable de respirer, d’écouter, de réagir et de réallouer — plutôt que de figer, projeter, prédire et verrouiller. Il ne s’agit plus d’exécuter une trajectoire figée, mais de piloter une série d’ajustements à haute fréquence, connectés aux signaux faibles du marché et aux initiatives du terrain. Le cœur du dispositif : **un COMEX qui apprend, arbitre, redistribue et libère l’énergie là où elle compte le plus.**
 
 # Le modèle de gouvernance d’entreprise
 
-<aside>
-💡
+![image.png](La%20gouvernance%20adaptative%20Portfolio%2015f90eaf28ff80f493d9ed25cf094433/image.png)
 
-**La gouvernance adaptative portfolio**
-
-Elle vise à ajuster en continu les décisions [stratégiques](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21) de l’entreprise.
-
-</aside>
+💡 **La gouvernance adaptative portfolio** Elle vise à ajuster en continu les décisions stratégiques de l’entreprise.
 
 ## La métaphore : gouverner comme un jardinier
 
-La [gouvernance d’entreprise](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21) classique est celle du planificateur : il trace, chiffre, assigne. La gouvernance adaptative est celle du jardinier : il observe, taille, arrose, redistribue, choisit ce qui doit pousser ou être composté. Elle repose sur **des saisons stratégiques** — et non sur une prévision linéaire. Elle accepte que certaines branches doivent être taillées pour que d’autres fleurissent.
+La gouvernance d’entreprise classique est celle du planificateur : il trace, chiffre, assigne. La gouvernance adaptative est celle du jardinier : il observe, taille, arrose, redistribue, choisit ce qui doit pousser ou être composté. Elle repose sur **des saisons stratégiques** — et non sur une prévision linéaire. Elle accepte que certaines branches doivent être taillées pour que d’autres fleurissent.
 
 Dans une entreprise agile, gouverner ne veut pas dire **contrôler** : cela veut dire **orchestrer, synchroniser, régénérer.**
 
-<aside>
-➿
-
-**Fil rouge : TechNova à l’épreuve du réel**
-
-*L’année dernière, **TechNova** a investi massivement dans la domotique, tout en poursuivant ses lignes de capteurs industriels. Pourtant, malgré les alertes terrain, le budget de R&D n’augmente pas. Résultat ? Les prototypes IA stagnent. La croissance potentielle est ralentie… faute de gouvernance.*
-
-> *“Nous avions une revue stratégique. Mais on la menait comme une rétrospective administrative. On ne touchait à rien.” — CTO TechNova*
-> 
-
-*Cette année, TechNova décide d’appliquer **une gouvernance adaptative Portfolio** : révision trimestrielle du portefeuille, revues codir alignées avec les décisions budgétaires. Résultat : mobilité retrouvée, décisions plus rapides, et un projet RSE arrêté en un mois (au lieu de 14).*
-
-</aside>
+➿ **Fil rouge : TechNova à l’épreuve du réel** *L’année dernière, **TechNova** a investi massivement dans la domotique, tout en poursuivant ses lignes de capteurs industriels. Pourtant, malgré les alertes terrain, le budget de R&D n’augmente pas. Résultat ? Les prototypes IA stagnent. La croissance potentielle est ralentie… faute de gouvernance.* > *“Nous avions une revue stratégique. Mais on la menait comme une rétrospective administrative. On ne touchait à rien.” — CTO TechNova* > *Cette année, TechNova décide d’appliquer **une gouvernance adaptative Portfolio** : révision trimestrielle du portefeuille, revues codir alignées avec les décisions budgétaires. Résultat : mobilité retrouvée, décisions plus rapides, et un projet RSE arrêté en un mois (au lieu de 14).*
 
 ## Principes de gouvernance
 
@@ -68,14 +36,9 @@ Dans une entreprise agile, gouverner ne veut pas dire **contrôler** : cela veut
 - Un slack organisé pour accueillir l’inattendu.
 - Une lecture partagée de la valeur.
 
-<aside>
-💡
+💡 **La gouvernance adaptative portfolio repose sur deux principes** : participatif et itératif.
 
-**La gouvernance adaptative portfolio repose sur deux principes** : participatif et itératif.
-
-</aside>
-
-- [**Participatif**](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
+- **Participatif**
     
     Elle associe les parties prenantes aux décisions stratégiques via ateliers, revues, comités. Cela permet une lecture partagée de la stratégie et une vision commune.
     
@@ -83,7 +46,7 @@ Dans une entreprise agile, gouverner ne veut pas dire **contrôler** : cela veut
     
     Dans une approche purement ascendante, le plan stratégique résulte de l’agrégation des plans des unités stratégiques; ce qui conduit inévitablement à négliger les opportunités transversales : soit communes à plusieurs unités, soit ne concernant aucune unité (relais de croissance).
     
-- [**Itératif**](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
+- **Itératif**
     
     Elle fonctionne par cycles d’apprentissage réguliers (revues stratégiques, tactiques, opérationnelles), plutôt que des plans figés.
     
@@ -98,28 +61,11 @@ L’entreprise agile repose sur un **contrat social** plus que sur un modèle d�
 - Un équilibre entre initiatives locales et cohérence globale,
 - Une flexibilité organisationnelle intégrée, évitant les transformations brutales mais favorisant l’adaptation continue.
 
-<aside>
-⚠️
+⚠️ Une entreprise agile agit dans l’intérêt de tous, mais sans reposer spécifiquement sur une démocratie d’entreprise. Le contrat social unissant les employés à l'entreprise agile repose sur la sécurité et la confiance réciproque.
 
-Une entreprise agile agit dans l’intérêt de tous, mais sans reposer spécifiquement sur une démocratie d’entreprise.
+🧰 En savoir plus sur les Principes fondamentaux d'Agile4Enterprise
 
-Le contrat social unissant les employés à l'entreprise agile repose sur la sécurité et la confiance réciproque.
-
-</aside>
-
-<aside>
-🧰
-
-En savoir plus sur les [Principes fondamentaux d'Agile4Enterprise](https://www.notion.so/Agile4Enterprise-respecter-aligner-faire-respirer-l-organisation-1e390eaf28ff805f8b31e59f0521c37b?pvs=21)
-
-</aside>
-
-<aside>
-📚
-
-En savoir plus sur la [gouvernance](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
-
-</aside>
+📚 En savoir plus sur la gouvernance
 
 # **Gouverner par les cadences du changement**
 
@@ -141,12 +87,12 @@ Dans Agile4Enterprise, le portefeuille d’activités n’est pas figé par un c
 
 ## **Les 4 cadences d’orchestration**
 
-![image.png](image%201.png)
+![image.png](Agile4B%20Les%204%20boucles%20adaptatives%2013b90eaf28ff8091b4cce85974f50938/image%201.png)
 
 La stratégie corporate a plusieurs horizons temporels :
 
 - Une **stratégie plus long terme** portant sur les investissements structurels, l’innovation, et l’expansion géographique ou sectorielle,
-- Une **stratégie plus court terme** portant sur des initiatives stratégiques pour s’adapter aux réactions du marché. C’est le [développement stratégique](https://www.notion.so/L-art-de-l-ex-cution-de-la-strat-gie-et-de-la-tactique-14590eaf28ff8094aff8d88d6b871ea8?pvs=21).
+- Une **stratégie plus court terme** portant sur des initiatives stratégiques pour s’adapter aux réactions du marché. C’est le développement stratégique.
 
 L’agilité d’entreprise ne remet pas en question la nécessité d’un pilotage structuré, mais elle transforme la manière dont celui-ci est effectué. C’est pourquoi, dans la mesure du possible, il faut intégrer les cadences du changement aux instances existantes.
 
@@ -172,9 +118,9 @@ Piloter, ce n’est pas réviser les chiffres : c’est redistribuer la capacit�
 ### Revue stratégique (annuelle)
 
 - Synchronise stratégie et portefeuille
-- Visualiser l’évolution des actifs dans les [zones stratégiques](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21),
+- Visualiser l’évolution des actifs dans les zones stratégiques,
 - Réoriente les grandes allocations
-- Active la [mobilité stratégique](https://www.notion.so/La-mobilit-strat-gique-1f590eaf28ff80aeb08ad7b55a2b69d5?pvs=21)
+- Active la mobilité stratégique
 
 > Trop souvent réduite à un budget annuel, elle devient ici un espace de réalignement vivant.
 > 
@@ -189,25 +135,9 @@ Piloter, ce n’est pas réviser les chiffres : c’est redistribuer la capacit�
 - Donne aux équipes un pouvoir d’adaptation court terme
 - Aligne les décisions locales avec la stratégie
 
-<aside>
-💡
+💡 **Synchronisation et alignement** La clé se trouve dans la synchronisation et l’alignement entre les différentes revues. ***Ce qui dysfonctionne quand cela manque* :** Les sujets sont pilotés de manière indépendante, sans synergie ou mobilité stratégique entre activités, créant des silos entre BU.
 
-**Synchronisation et alignement**
-
-La clé se trouve dans la synchronisation et l’alignement entre les différentes revues.
-
-***Ce qui dysfonctionne quand cela manque* :** 
-
-Les sujets sont pilotés de manière indépendante, sans synergie ou mobilité stratégique entre activités, créant des silos entre BU.
-
-</aside>
-
-<aside>
-📚
-
-En savoir plus sur les [revues stratégiques](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21)
-
-</aside>
+📚 En savoir plus sur les revues stratégiques
 
 # **Les leviers concrets pour activer la gouvernance**
 
@@ -271,16 +201,4 @@ Un portefeuille agile **intègre volontairement du Slack** :
 
 ---
 
-# 🔑 Points clés à retenir
-
-> L’agilité stratégique commence quand le COMEX apprend à lâcher, réallouer et activer des espaces vides pour faire place au vivant.
-> 
-- La gouvernance Portfolio devient une **boucle adaptative**, pas une planification annuelle.
-- Le portefeuille est un **flux stratégique vivant**, piloté par l’impact.
-- La **mobilité stratégique** est une compétence organisationnelle essentielle.
-- Le **slack stratégique** est un facteur d’agilité réel, pas une indulgence.
-- La cartographie 4E permet de suivre, arbitrer et activer les décisions clés en temps réel.
-
-Réinventer la gouvernance Portfolio, c’est rendre la stratégie vivante dans l’exécution.
-
-### 👉 Et maintenant ? Comment [s’organiser](https://www.notion.so/L-agilit-organisationnelle-13490eaf28ff80918f84ee8e39eddc99?pvs=21) pour faire vivre ces boucles ?
+#

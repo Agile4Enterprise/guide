@@ -2,20 +2,9 @@
 
 Propriétaire: Laurent Morisseau
 
-<aside>
-📌
+📌 **Objectif : Donner une trajectoire claire aux investissements et transformations** - Modèle basé sur les Agile4E : **Exploration, Expansion, Exploitation, Exclusion**. - Permet d’équilibrer **innovation, croissance et performance**. - Aide à structurer **les arbitrages et décisions stratégiques**. *PACTE devient ainsi le **tableau de bord vivant** de votre portefeuille.*
 
-**Objectif : Donner une trajectoire claire aux investissements et transformations**
-
-- Modèle basé sur les [Agile4E](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21) : **Exploration, Expansion, Exploitation, Exclusion**.
-- Permet d’équilibrer **innovation, croissance et performance**.
-- Aide à structurer **les arbitrages et décisions stratégiques**.
-
-*PACTE devient ainsi le **tableau de bord vivant** de votre portefeuille.*
-
-</aside>
-
-![Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)](image.png)
+![Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)](Guide%20de%20l%E2%80%99outil%20PACTE%2017a90eaf28ff8007ae71e576ac507f7e/image.png)
 
 Outil **PACTE** (Portfolio Agile Canevas pour la Trajectoire d’Entreprise)
 
@@ -28,7 +17,7 @@ PACTE permet de visualiser et gérer en continu vos actifs stratégiques en les 
 
 ## **Visualiser vos décisions avec un Kanban Portfolio**
 
-PACTE est un [**Kanban](https://www.notion.so/Kanban-17590eaf28ff8002ac08fead95b04e5a?pvs=21) stratégique vivant** structuré selon le modèle Agile4E :
+PACTE est un **Kanban stratégique vivant** structuré selon le modèle Agile4E :
 
 - **Exploration** : détecter et tester des opportunités.
 - **Expansion** : passer à l’échelle un modèle validé.
@@ -56,14 +45,9 @@ Chaque mouvement entre zones (explorer ➝ étendre ➝ exploiter ➝ exclure) e
 
 PACTE relie intention stratégique et transformation réelle.
 
-<aside>
-🧟
+🧟 Attention au PACTE zombie : “On déplace les cartes, mais rien ne change”…
 
-Attention au PACTE zombie : “On déplace les cartes, mais rien ne change”…
-
-</aside>
-
-![PACTE **TechNova**](image%201.png)
+![PACTE **TechNova**](Guide%20de%20l%E2%80%99outil%20PACTE%2017a90eaf28ff8007ae71e576ac507f7e/image%201.png)
 
 PACTE **TechNova**
 
@@ -74,31 +58,26 @@ PACTE **TechNova**
 
 Au départ conçu pour le niveau entreprise, ce modèle peut être décliné à tous les niveaux de l’entreprise :
 
-- **PACTE corporate** ⇒ portefeuille d'activités stratégiques ([agilité portfolio,](https://www.notion.so/L-agilit-Portfolio-vue-d-ensemble-18f90eaf28ff8009b702d2aa0eae18cf?pvs=21) [ambidextrie structurelle](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21))
-- **PACTE stratégique** ⇒  portefeuille d'initiatives des unités stratégiques, pour l’[agilité stratégique](https://www.notion.so/L-agilit-strat-gique-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21)
+- **PACTE corporate** ⇒ portefeuille d'activités stratégiques (agilité portfolio, ambidextrie structurelle)
+- **PACTE stratégique** ⇒  portefeuille d'initiatives des unités stratégiques, pour l’agilité stratégique
     
     Les éléments représentés sont des initiatives stratégiques de l’unité. Ce sont des initiatives nécessaires pour le succès des OKR stratégiques et l’atteinte des KPI.
     
-    <aside>
-    🧰
-    
-    C’est le principe du [**Lean Portfolio Management**](https://www.notion.so/Lean-portfolio-management-16f90eaf28ff80f6b4f2d32d142a9a8f?pvs=21) de Safe.
-    
-    </aside>
+    🧰 C’est le principe du **Lean Portfolio Management** de Safe.
     
     *Par exemple, une ESN cartographie son catalogue de formations — certaines en exploitation, d'autres en exploration ou en retrait.*
     
-- **PACTE tactique** ⇒ portefeuille de fonctionnalités ou de services d’une chaine de valeur, pour l’[agilité tactique](https://www.notion.so/L-agilit-tactique-13490eaf28ff806cb428d9b27abb1f82?pvs=21)
+- **PACTE tactique** ⇒ portefeuille de fonctionnalités ou de services d’une chaine de valeur, pour l’agilité tactique
     
     *Par exemple, la formation cyber sécurité du catalogue peut contenir un module praticien en développement, un module fondations en e-learning en exploitation, et un modèle expert en exploration.*
     
-- **PACTE tactique** ⇒ portefeuille d’initiatives opérationnelles d’une équipe, pour l’[agilité opérationnelle](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21) ([ambidextrie contextuelle](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21))
+- **PACTE tactique** ⇒ portefeuille d’initiatives opérationnelles d’une équipe, pour l’agilité opérationnelle (ambidextrie contextuelle)
 
 Cette déclinaison soutient un **pilotage en cascade aligné**, respectueux de l’autonomie des unités tout en assurant cohérence et impact.
 
 ## Connecter stratégie et exécution avec PACTE & ACTE
 
-Les actifs figurant dans ce tableau sont portés par les unités et modélisés dans l'outil [ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21). L’ensemble des ACTEs constitue un portefeuille visible, connecté, et gouvernable à tous les niveaux.
+Les actifs figurant dans ce tableau sont portés par les unités et modélisés dans l'outil ACTE. L’ensemble des ACTEs constitue un portefeuille visible, connecté, et gouvernable à tous les niveaux.
 
 ---
 
@@ -109,7 +88,7 @@ Les actifs figurant dans ce tableau sont portés par les unités et modélisés 
 > 
 > **Pour chaque carte** : unité porteuse, statut, KPI/OKR, budget, responsable, échéance.
 > 
-> PACTE s’intègre dans les [**boucles adaptatives**](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21) du Framework Agile4Enterprise :
+> PACTE s’intègre dans les **boucles adaptatives** du Framework Agile4Enterprise :
 > 
 > - **Cadence Portfolio** (annuelle) : équilibre global et redirection stratégique.
 > - **Cadence Stratégique** (trimestrielle) : ajustement des grandes priorités.
@@ -130,15 +109,4 @@ Les erreurs fréquentes à éviter :
 
 ---
 
-# 🔑 Points clés à retenir
-
-PACTE permet de :
-
-- Visualiser l'équilibre entre les zones stratégiques
-- Orchestrer les arbitrages d'investissements et de compétences
-- Coordonner les mouvements stratégiques avec les unités d'exécution
-- Aligner stratégie, exécution et design organisationnel
-- Piloter le changement de manière rythmée et adaptative
-
-> Utilisez PACTE pour révéler les tensions, synchroniser vos décisions, et rendre visibles les mouvements qui comptent.
->
+#

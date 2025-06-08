@@ -1,19 +1,8 @@
 # Shadow Model Agile4Entropy : un miroir pour garder l'agilité vivante
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Incarner la [navigation par polarités](https://www.notion.so/Navigation-strat-gique-par-polarit-s-1df90eaf28ff80df863dcaaaf1fb4ae6?pvs=21) grâce à :
-
-- L’existence d’un **Shadow Model** (Agile4Entropy) comme miroir critique vivant du cadre,
-- La création d’un **méta cadre dialectique** basé sur la gestion incarnée des tensions,
-</aside>
+✨ **Objectif** Incarner la navigation par polarités grâce à : - L’existence d’un **Shadow Model** (Agile4Entropy) comme miroir critique vivant du cadre, - La création d’un **méta cadre dialectique** basé sur la gestion incarnée des tensions,
 
 # Pourquoi un “miroir critique” ?
 
@@ -21,7 +10,7 @@ Quand on met en place Agile4Enterprise (Scrum, Radar, IMPACTE, ACTE…), on stru
 
 Un cadre d'agilité organisationnelle ne peut survivre à long terme que s'il accepte **de se confronter à ses propres limites**, et de faire une place **aux forces contraires qu'il génère.**
 
-Alors pour éviter que le cadre devienne un système figé, nous introduisons volontairement un dispositif complémentaire basé sur les [polarités](https://www.notion.so/Navigation-strat-gique-par-polarit-s-1df90eaf28ff80df863dcaaaf1fb4ae6?pvs=21) qui pousse les tensions à l’extrême, pour en faire des leviers de transformation et ancré dans les tensions du réel.
+Alors pour éviter que le cadre devienne un système figé, nous introduisons volontairement un dispositif complémentaire basé sur les polarités qui pousse les tensions à l’extrême, pour en faire des leviers de transformation et ancré dans les tensions du réel.
 
 ## Agile4Entropy
 
@@ -37,12 +26,7 @@ Agile4Entropy ne remplace pas Agile4Enterprise. Il ne propose pas un autre modè
 2. **Injecter du désalignement génératif** : explorer ce qu’une tension non résolue peut produire de fécond.
 3. **Pratiquer une prise de décision intuitive** : privilégier la narration, le ressenti, l’émergence locale plutôt que la cascade méthodologique.
 
-<aside>
-🔥
-
-Son rôle : maintenir une distance critique vis-à-vis du cadre.
-
-</aside>
+🔥 Son rôle : maintenir une distance critique vis-à-vis du cadre.
 
 ## Les grands principes d'Agile4Entropy
 
@@ -59,7 +43,7 @@ Son rôle : maintenir une distance critique vis-à-vis du cadre.
 
 ## L’idée clé : habiter les tensions
 
-Le Shadow Model **Agile4Entropy** part des [mêmes polarités](https://www.notion.so/Navigation-strat-gique-par-polarit-s-1df90eaf28ff80df863dcaaaf1fb4ae6?pvs=21) que celles pilotées dans **Agile4Enterprise**. Au lieu de chercher à éliminer toutes les frictions, on exploite les **tensions** comme sources d’énergie :
+Le Shadow Model **Agile4Entropy** part des mêmes polarités que celles pilotées dans **Agile4Enterprise**. Au lieu de chercher à éliminer toutes les frictions, on exploite les **tensions** comme sources d’énergie :
 
 | Tension | Polarité Agile4Enterprise | Polarité Agile4Entropy | Usage |
 | --- | --- | --- | --- |
@@ -74,7 +58,7 @@ Le Shadow Model **Agile4Entropy** part des [mêmes polarités](https://www.notio
 
 ### a. Cartographier les tensions
 
-![Tension Mapping Board](image.png)
+![Tension Mapping Board](Shadow%20Model%20Agile4Entropy%20un%20miroir%20pour%20garder%20l%201e390eaf28ff80639db4f70b50ac8e2b/image.png)
 
 Tension Mapping Board
 
@@ -123,43 +107,8 @@ Chaque design organisationnel passe par :
 - Hypothèse contraire (Agile4Entropy),
 - Synthèse productive ou conservation consciente de la tension.
 
-<aside>
-➿
-
-**TechNova Domotique**
-
-> Contexte : l’équipe produit de TechNova a adopté Scrum avec Product Owner : tout est priorisé et visible. Résultat ? Une « usine à fonctionnalités » qui tourne sans fin… et plus aucune place pour l’innovation !
-> 
-
-**Comment ils ont utilisé les tensions** :
-
-1. **Cartographie**
-    - Polarité choisie : **Exploration vs Exploitation**.
-    - Ils ont tracé leur fonctionnement actuel (100 % features) et l’idéal (80/20).
-2. **Shadow Role**
-    - Un développeur devient “Perturbateur” :
-        - En réunion, il demande : “Et si on arrêtait tout pour un jour et qu’on testait cette idée folle ?”
-    - Résultat : un “Innovation Day” mensuel est né.
-
-**Impact** : l’équipe a réintégré un cycle d’expérimentation libre, générant 3 prototypes en un trimestre, dont un qui a conduit à un nouveau capteur intelligent.
-
-« Grâce au rôle de Perturbateur, l’équipe a enfin écouté mon idée folle et l’expérimenter. » — Dev. TechNova
-
-</aside>
+➿ **TechNova Domotique** > Contexte : l’équipe produit de TechNova a adopté Scrum avec Product Owner : tout est priorisé et visible. Résultat ? Une « usine à fonctionnalités » qui tourne sans fin… et plus aucune place pour l’innovation ! > **Comment ils ont utilisé les tensions** : 1. **Cartographie** - Polarité choisie : **Exploration vs Exploitation**. - Ils ont tracé leur fonctionnement actuel (100 % features) et l’idéal (80/20). 2. **Shadow Role** - Un développeur devient “Perturbateur” : - En réunion, il demande : “Et si on arrêtait tout pour un jour et qu’on testait cette idée folle ?” - Résultat : un “Innovation Day” mensuel est né. **Impact** : l’équipe a réintégré un cycle d’expérimentation libre, générant 3 prototypes en un trimestre, dont un qui a conduit à un nouveau capteur intelligent. « Grâce au rôle de Perturbateur, l’équipe a enfin écouté mon idée folle et l’expérimenter. » — Dev. TechNova
 
 ---
 
-# 🔑 Points clés à retenir
-
-- Le **Shadow Model** n’est pas une méthode concurrente : c’est un miroir pour faire vivre votre agilité.
-- **Habiter les tensions**, c’est transformer les frictions en leviers d’innovation, pas en problèmes à résoudre.
-- Avec quelques **cartographies**, **Shadow Roles** et **rituels** simples, vous redonnez du souffle à votre transformation.
-- La magie ? Vous gardez le cadre Agile4Enterprise, tout en restant **ouvert au changement** et à l’**inattendu**.
-
-> Agile4Enterprise structure votre transformation.
-> 
-> 
-> **Agile4Entropy** l’anime pour qu’elle reste vivante.
-> 
-
-### 👉 Et maintenant ? Découvrir comment faire un [diagnostic avec Agile4Enterprise](https://www.notion.so/Faire-un-diagnostic-A4E-1f490eaf28ff80379945c3a2ffaecbca?pvs=21) !
+#

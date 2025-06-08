@@ -1,20 +1,8 @@
 # Faire un diagnostic A4E
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Comment **croiser** vos outils Agile4Enterprise pour :
-
-1. **Analyser** : Poser un diagnostic riche, non pas outil par outil, mais à travers dix **perspectives complémentaires** de l’entreprise.
-2. **Focaliser** : Aller au-delà des méthodes (SCRIP, 4D, 4E, Radar, IMPACTE, ACTE…) pour capter les tensions et synergies entre strates.
-3. **Coordonner** : Assurer la cohérence de votre plan d’action global, de l’équipe au comité de direction.
-</aside>
+✨ **Objectif** Comment **croiser** vos outils Agile4Enterprise pour : 1. **Analyser** : Poser un diagnostic riche, non pas outil par outil, mais à travers dix **perspectives complémentaires** de l’entreprise. 2. **Focaliser** : Aller au-delà des méthodes (SCRIP, 4D, 4E, Radar, IMPACTE, ACTE…) pour capter les tensions et synergies entre strates. 3. **Coordonner** : Assurer la cohérence de votre plan d’action global, de l’équipe au comité de direction.
 
 ## Objectif du diagnostique
 
@@ -60,8 +48,4 @@ Dans une transformation agile, chaque modèle (SCRIP, 4D, 4E, Radar, IMPACTE, AC
 
 ---
 
-# 🔑 Points clés à retenir
-
-- **Le diagnostic A4E = 10 perspectives**, pas 10 outils isolés.
-- **Le croisement** des modèles révèle les priorités réelles et les tensions invisibles.
-- **L’alignement** de vos plans d’action garantit une transformation **cohérente et durable**, du cœur d’équipe jusqu’à la gouvernance corporate.
+#

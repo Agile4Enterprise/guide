@@ -1,35 +1,10 @@
 # Démarche transformationnelle
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Piloter un **changement à la fois local, global, structuré et adaptatif** en combinant : - **Ascendant** (bottom-up) : initiatives émergentes, portées par les équipes - **Descendant** (top-down) : directives stratégiques, portées par la direction Vous obtenez ainsi **adaptation continue** (court terme) et **transformation en profondeur** (long terme), tout en maintenant un alignement transparent à chaque niveau.
 
-**Objectif**
-
-Piloter un **changement à la fois local, global, structuré et adaptatif** en combinant :
-
-- **Ascendant** (bottom-up) : initiatives émergentes, portées par les équipes
-- **Descendant** (top-down) : directives stratégiques, portées par la direction
-
-Vous obtenez ainsi **adaptation continue** (court terme) et **transformation en profondeur** (long terme), tout en maintenant un alignement transparent à chaque niveau.
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-**Lexique rapide**
-
-- **Ascendant (bottom-up) :** Approche émergente portée par les équipes : idées et solutions remontent du terrain vers la stratégie.
-- **Descendant (top-down) :** Démarche structurée portée par la direction : la vision et les objectifs sont déclinés vers les équipes.
-- **Agile4D :** Les 4 dimensions d’agilité d’entreprise : opérationnelle, tactique, stratégique, portfolio.
-- **PACTE : P**ortfolio **A**gile **C**anevas pour la **T**rajectoire d’**E**ntreprise : outil de pilotage et de priorisation au niveau corporate.
-- **ACTE : A**gile **C**anevas pour la **T**ransformation d’**E**ntreprise : relie stratégie, tactique et transformation pour exposer les désalignements.
-- **IMPACTE :** Modèle de **maturité** pour évaluer l’impact et la progression de l’agilité à l’échelle de l’entreprise.
-</aside>
+🧑‍🎓 **Lexique rapide** - **Ascendant (bottom-up) :** Approche émergente portée par les équipes : idées et solutions remontent du terrain vers la stratégie. - **Descendant (top-down) :** Démarche structurée portée par la direction : la vision et les objectifs sont déclinés vers les équipes. - **Agile4D :** Les 4 dimensions d’agilité d’entreprise : opérationnelle, tactique, stratégique, portfolio. - **PACTE : P**ortfolio **A**gile **C**anevas pour la **T**rajectoire d’**E**ntreprise : outil de pilotage et de priorisation au niveau corporate. - **ACTE : A**gile **C**anevas pour la **T**ransformation d’**E**ntreprise : relie stratégie, tactique et transformation pour exposer les désalignements. - **IMPACTE :** Modèle de **maturité** pour évaluer l’impact et la progression de l’agilité à l’échelle de l’entreprise.
 
 # Intention holistique & déploiement progressif
 
@@ -54,27 +29,20 @@ La puissance vient de l’alignement, c’est le pivot stratégique de ce Framew
     
     Ce n’est pas le cadre qui décide. C’est votre réalité stratégique qui commande.
     
-2. **Par niveau de décision** ([Agile4D](https://www.notion.so/Agile4D-Les-4-dimensions-cl-s-de-l-agilit-d-entreprise-15f90eaf28ff80bf80d2eef1834aec41?pvs=21))
+2. **Par niveau de décision** (Agile4D)
     - Étendre le cadre selon les quatre dimensions d’agilité :
         
         Opérationnel ↔ Tactique ↔ Stratégique ↔ Portfolio.
         
 
-<aside>
-➿
-
-**TechNova**
-
-Le CSO décide de piloter un ensemble de prototypes IA de manière distribuée suite à besoin business identifié mais encore très diffus. Alors que le COO cherche à synchroniser OKR stratégiques et chaînes de valeur afin d’améliorer la cohérence des décisions / actions et surtout éviter les initiatives locales redondantes.
-
-</aside>
+➿ **TechNova** Le CSO décide de piloter un ensemble de prototypes IA de manière distribuée suite à besoin business identifié mais encore très diffus. Alors que le COO cherche à synchroniser OKR stratégiques et chaînes de valeur afin d’améliorer la cohérence des décisions / actions et surtout éviter les initiatives locales redondantes.
 
 > Principe : on active ce qui est nécessaire, là où la tension l’exige. Le but est rendre pilotable les vrais lieux de décision.
 > 
 
 # Principes d’une démarche mixte
 
-![image.png](image.png)
+![image.png](De%CC%81marche%20transformationnelle%2018b90eaf28ff800582fff48437349af8/image.png)
 
 ## Pourquoi un cadre mixte ?
 
@@ -92,7 +60,7 @@ L’objectif est de garantir à la fois **l’adaptation continue** du système 
 
 ## Gouvernance de la transformation
 
-![4 cadences de changement et de gestion de risques](image%201.png)
+![4 cadences de changement et de gestion de risques](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Une%20approche%20mixte%20et%20cadence%CC%81e%20du%20changement%2018290eaf28ff806ab935cdfd0c0ff10e/image.png)
 
 4 cadences de changement et de gestion de risques
 
@@ -107,14 +75,7 @@ Chaque niveau de décision possède son propre référent transformationnel, ses
 | **Tactique** | Alignement court terme (priorités) | Trimestrielle | ACTE | Coach Agile |
 | **Opérationnel** | Exécution fluide & qualité continue | Hebdo / bimensuel | Cadences Agiles | Agile Master |
 
-<aside>
-➿
-
-**TechNova**
-
-Avant de transformer toute la zone d’exploitation en Flux, le COO décide d’organiser la transformation autour d’un premier objectif stratégique commun.
-
-</aside>
+➿ **TechNova** Avant de transformer toute la zone d’exploitation en Flux, le COO décide d’organiser la transformation autour d’un premier objectif stratégique commun.
 
 ---
 
@@ -156,71 +117,4 @@ Cela implique pour Agile4Enterprise de :
 
 ---
 
-# 🔑 Points clés à retenir
-
-- **Mixte** = condition sine qua non de l’agilité d’entreprise.
-- **Activation contextuelle** : pas de dogme, mais un choix éclairé.
-- **Gouvernance intégrée** : piloter par niveaux avec cadences et outils adaptés.
-- Ecouter les gestes et signaux faibles, pas seulement les métriques.
-
-> Avec ce cadre, vous évitez le « n’importe quoi, n’importe comment » et installez une agilité responsable, durable et alignée.
-> 
-
-### 👉 Et maintenant ? Puisqu’il s’agit d’activer les tensions, explorons la [navigation par polarités](https://www.notion.so/Navigation-strat-gique-par-polarit-s-1df90eaf28ff80df863dcaaaf1fb4ae6?pvs=21).
-
----
-
-# Annexes
-
-### Niveau Portfolio – *Pilotage global de la trajectoire*
-
-- Objectif : Implémenter une **gouvernance adaptative corporate**.
-- Cadence : Revue annuelle + synchronisation avec les unités stratégiques.
-- Outil : [**PACTE**](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21), [IMPACTE](https://www.notion.so/Mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21)
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Coach agile d’entreprise](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
-
-### Niveau Stratégique – *Design stratégique agile*
-
-- Objectif : Amener chaque BU au niveau de maturité stratégique.
-- Cadence : Revue trimestrielle + cycle OKR annuel.
-- Outils : [ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21), OKR, [IMPACTE](https://www.notion.so/Mod-le-de-maturit-IMPACTE-18b90eaf28ff8053a419ccaa7d91bc21?pvs=21)
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Coach agile d’organisation](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
-
-### Niveau Tactique – *Alignement court terme*
-
-- Objectif : Maturité tactique (OKR, initiatives, priorités partagées).
-- Cadence : Revue tactique trimestrielle.
-- Outil : [ACTE](https://www.notion.so/Guide-de-l-outil-ACTE-13490eaf28ff802e8fcde2047f78143b?pvs=21)
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Coach agile](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
-
-### Niveau Opérationnel – *Exécution continue*
-
-- Objectif : Atteindre la maturité opérationnelle d’équipe.
-- Cadence : Daily + revue hebdo/bimensuelle.
-- Outil : Cadences + pratiques agiles.
-- Rôle : [Agile master](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-<aside>
-🦸
-
-Rôle de transformation agile : [Agile Master](https://www.notion.so/R-les-de-la-transformation-agile-17b90eaf28ff804ea65eeb4b0d94c877?pvs=21)
-
-</aside>
+#

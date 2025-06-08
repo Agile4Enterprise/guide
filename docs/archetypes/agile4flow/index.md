@@ -1,48 +1,14 @@
 # Agile4Flow : Archétype Flux
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** L’archétype **Flux** optimise les **chaînes de valeur continues** pour garantir **fluidité**, **stabilité** et **prédictibilité**. Il sert l’**excellence opérationnelle durable** et la **différenciation par le service** dans des contextes stables et exigeants.
 
-**Objectif**
-L’archétype **Flux** optimise les **chaînes de valeur continues** pour garantir **fluidité**, **stabilité** et **prédictibilité**. Il sert l’**excellence opérationnelle durable** et la **différenciation par le service** dans des contextes stables et exigeants.
+➿ TechNova fournit des capteurs IoT avec un contrat « commande → fin de vie ». Fin 2023, le COO de Technova challenge l’organisation « Nous avons stabilisé notre flux de capteurs… mais comment maintenir un lead time < 24 h quand le volume double ? » En 2024, ils intègre un système Kanban et des classes de service pour maintenir leurs engagements.
 
-</aside>
+🧑‍🎓 **Lexique rapide** **Design systémique** : approche holistique considérant l’organisation comme un tout interconnecté. Flux : *Comme un robinet, on ouvre juste ce qu’il faut ; trop peu, c’est goutte-à-goutte ; trop, c’est débordement.* **Archétype Flux** : modèle orienté chaîne de valeur et optimisation du flux. **Zone d’exploitation** : phase de maturité / majorité tardive, où la continuité de service prime. **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus. **Backlog** : file d’attente Kanban, outil de coordination et d’adaptation capacitaire.
 
-<aside>
-➿
-
-TechNova fournit des capteurs IoT avec un contrat « commande → fin de vie ». 
-
-Fin 2023, le COO de Technova challenge l’organisation « Nous avons stabilisé notre flux de capteurs… mais comment maintenir un lead time < 24 h quand le volume double ? »
-
-En 2024, ils intègre un système Kanban et des classes de service pour maintenir leurs engagements. 
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-**Lexique rapide**
-
-**Design systémique** : approche holistique considérant l’organisation comme un tout interconnecté.
-
-Flux : *Comme un robinet, on ouvre juste ce qu’il faut ; trop peu, c’est goutte-à-goutte ; trop, c’est débordement.*
-
-**Archétype Flux** : modèle orienté chaîne de valeur et optimisation du flux.
-
-**Zone d’exploitation** : phase de maturité / majorité tardive, où la continuité de service prime.
-
-**SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus.
-
-**Backlog** : file d’attente Kanban, outil de coordination et d’adaptation capacitaire.
-
-</aside>
-
-![Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
+![Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image.png)
 
 Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -53,28 +19,25 @@ Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti 
 - **Excellence opérationnelle** : optimisation continue des processus pour réduire les coûts.
 - **Différenciation par le service** : engagement sur les niveaux de service (SLA) grâce aux classes de service.
 
-**Logique dominante :** flux tiré ([Kanban](https://www.notion.so/Kanban-17590eaf28ff8002ac08fead95b04e5a?pvs=21)), continuité de service, classes de service**.**
+**Logique dominante :** flux tiré (Kanban), continuité de service, classes de service**.**
 
-**Secteurs cibles** : support IT, maintenance, supply chain, production, services.
+**Exemples d’organisations**
+
+- Services IT et DevOps (infrastructure, support, maintenance).
+- Supply chain et production industrielle en environnement agile.
+- Opérations nécessitant une **forte standardisation des processus.**
 
 ## **Caractéristiques clés**
 
-<aside>
-🧰
+🧰 ![Zone d’Exploitation du modèle 4E](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%201.png) Zone d’Exploitation du modèle 4E
 
-![Zone d’Exploitation du modèle 4E](image%201.png)
+**Zone 4E privilégiée** : zone d’exploitation
 
-Zone d’Exploitation du modèle 4E
-
-</aside>
-
-**Zone 4E privilégiée** : zone d’[exploitation](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21)
-
-![image.png](image%202.png)
+![image.png](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%202.png)
 
 Actifs matures
 
-![image.png](image%203.png)
+![image.png](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%203.png)
 
 Clientèle privilégiée : majorité tardive
 
@@ -95,18 +58,11 @@ Clientèle privilégiée : majorité tardive
 
 ## Structure
 
-![Extension à travers un réseau](image%204.png)
+![Extension à travers un réseau](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Kanban%2017590eaf28ff8002ac08fead95b04e5a/image.png)
 
 Extension à travers un réseau
 
-<aside>
-💡
-
-### **Unité stratégique ”groupe Service”**
-
-Réseau de services alignés sur les chaînes de valeur, sous forme de réseau de systèmes Kanban.
-
-</aside>
+💡 ### **Unité stratégique ”groupe Service”** Réseau de services alignés sur les chaînes de valeur, sous forme de réseau de systèmes Kanban.
 
 > ***Technova** optimise la gestion des demandes clients via des classes de service : urgences critiques, maintenance planifiée, incidents mineurs.*
 > 
@@ -116,14 +72,7 @@ Pour passer à l’échelle, les équipes se regroupent en **groupes multi-servi
 
 **Caractéristiques** : 20 à 40 personnes, 4 à 6 équipes, 6 à 8 services.
 
-<aside>
-💡
-
-### **Unité tactique**
-
-C’est la [**chaîne de valeur**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21), bout en bout, stable, et orientée utilisateur.
-
-</aside>
+💡 ### **Unité tactique** C’est la **chaîne de valeur**, bout en bout, stable, et orientée utilisateur.
 
 *Exemples : parcours utilisateur, un processus métier, ou un processus interne, comme la facturation. Cet utilisateur peut être celui d’un produit ou le membre d’une organisation (comme pour l'onboarding).*
 
@@ -132,14 +81,7 @@ C’est la [**chaîne de valeur**](https://www.notion.so/Concevoir-les-unit-s-ta
 
 Une chaîne de valeur peut impacter plusieurs produits ou plusieurs services.
 
-<aside>
-💡
-
-### Unité opérationnelle
-
-Équipes stables, pluridisciplinaires, responsables de leur flux.
-
-</aside>
+💡 ### Unité opérationnelle Équipes stables, pluridisciplinaires, responsables de leur flux.
 
 Les équipes sont regroupées en fonction des différentes étapes d’une chaîne de valeur, avec des frontières claires. Chaque équipe est responsable et **propriétaire de son processus,** et donc a toutes les compétences nécessaires pour l’exploiter et le faire évoluer : processus et de son WIP.
 
@@ -159,9 +101,9 @@ L’équipe peut se spécialiser pour répondre aux enjeux distincts d’efficie
     > 
 - **Adaptabilité** : buffers dynamiques, slack, réallocation capacitaire.
     
-    Le réseau de systèmes Kanban constitue le [réseau informelle de l’organisation duale](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21), facilitant ainsi la [reconfigurabilité](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21) et permettant une [agilité organisationnelle](https://www.notion.so/L-agilit-organisationnelle-au-niveau-strat-gique-17790eaf28ff80569d37d43fbed7a8ca?pvs=21).
+    Le réseau de systèmes Kanban constitue le réseau informelle de l’organisation duale, facilitant ainsi la reconfigurabilité et permettant une agilité organisationnelle.
     
-- **Amélioration continue** : [**innovation d’efficience**](https://www.notion.so/Les-capacit-s-de-l-entreprise-agile-13690eaf28ff8182abccc48ebecb3bf6?pvs=21) centrée sur le flux, plutôt que sur les ressources.
+- **Amélioration continue** : **innovation d’efficience** centrée sur le flux, plutôt que sur les ressources.
 
 ## Reconnaissance
 
@@ -173,7 +115,7 @@ La reconnaissance repose sur la capacité des équipes à tenir leurs engagement
 
 ## Individu & management
 
-[**Style managériale**](https://www.notion.so/L-agilit-manag-riale-18b90eaf28ff8023814bdcc2e0240ac4?pvs=21) : Leadership facilitateur, management délégatif.
+**Style managériale** : Leadership facilitateur, management délégatif.
 
 **Compétences** : La spécialisation peut être un atout dans une équipe flux si la stratégie est plus orientée opération que service.
 
@@ -185,16 +127,16 @@ La reconnaissance repose sur la capacité des équipes à tenir leurs engagement
 
 ## Processus
 
-**Pilotage par le flux :** approche en flux tiré, reposant notamment sur le Kanban et le juste-à-temps, à tous les niveaux : du portefeuille d’[initiatives stratégiques](https://www.notion.so/Les-4-niveaux-de-prise-de-d-cision-Piloter-un-syst-me-vivant-19290eaf28ff80049db0c684a64e4fb0?pvs=21) aux tâches.
+**Pilotage par le flux :** approche en flux tiré, reposant notamment sur le Kanban et le juste-à-temps, à tous les niveaux : du portefeuille d’initiatives stratégiques aux tâches.
 
 > ***Exemple :** Une entreprise SaaS utilise un **système Kanban multi-niveaux** pour gérer les demandes clients, les incidents critiques et l'amélioration continue de ses produits.*
 > 
 
-[**Coordination verticale](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21)** basée sur les processus (les cadences de revues), les standards (définition d’entrée et de sortie, limites, …), et les procédures.
+**Coordination verticale** basée sur les processus (les cadences de revues), les standards (définition d’entrée et de sortie, limites, …), et les procédures.
 
-[**Coordination horizontale**](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21)
+**Coordination horizontale**
 
-- Couplage par [classes de service](https://www.notion.so/A4E-et-ESP-14390eaf28ff80869706ce0d8ef2e12f?pvs=21), marqueurs d’une stratégie orientée niveaux de service.
+- Couplage par classes de service, marqueurs d’une stratégie orientée niveaux de service.
 - Gestion de la dépendance
     
     Le long de la chaîne de valeur, **les** tâches sont spécialisées et séquentielles, avec des dépendances principalement linéaires entre les équipes, gérées simplement entre :
@@ -205,16 +147,11 @@ La reconnaissance repose sur la capacité des équipes à tenir leurs engagement
         C’est un Backlog d’équipe, distinct pour chaque système kanban, formant un réseau de Backlogs connectés, plutôt qu'un unique Backlog centralisé ou un ensemble de Backlogs cascadés. Ils peuvent avoir de multiples sources en entrée.
         
 
-**Méthodes privilégiées :** Kanban, DevOps, [Kanban](https://www.notion.so/Kanban-17590eaf28ff8002ac08fead95b04e5a?pvs=21), DevOps, Lean.
+**Méthodes privilégiées :** Kanban, DevOps, Kanban, DevOps, Lean.
 
-### [**Cadence de changement**](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21)
+### **Cadence de changement**
 
-<aside>
-🔎
-
-Retrouver l’implémentation de ces [niveaux de changement dans le Framework ESP](https://www.notion.so/A4E-et-ESP-14390eaf28ff80869706ce0d8ef2e12f?pvs=21) : Les 7 boucles de rétroactions 
-
-</aside>
+🔎 Retrouver l’implémentation de ces niveaux de changement dans le Framework ESP : Les 7 boucles de rétroactions
 
 ## Résultats : Performance & Culture
 
@@ -225,9 +162,9 @@ L’objectif principal est de **réduire les temps de cycle** et d'améliorer la
 - **Métriques centrées flux** : Temps de livraison des services (lead Time), débit de traitement (throughput), prédictibilité des délais (due date Performance).
 - **Engagement de services** (SLA) :
     
-    Là où l’[organisation produit](https://www.notion.so/Agile4Product-Arch-type-Produit-13490eaf28ff80b29733f767568ab6a5?pvs=21) est responsable de son compte de résultat, idéalement le groupe service l’est aussi, mais avant tout elle est responsable de ses engagements de services.
+    Là où l’organisation produit est responsable de son compte de résultat, idéalement le groupe service l’est aussi, mais avant tout elle est responsable de ses engagements de services.
     
-- **Gestion de risques** : modèle du [coût du délai](https://www.notion.so/Kanban-17590eaf28ff8002ac08fead95b04e5a?pvs=21), permettant de prioriser les tâches en fonction de leur impact potentiel sur le business.
+- **Gestion de risques** : modèle du coût du délai, permettant de prioriser les tâches en fonction de leur impact potentiel sur le business.
 
 Ce type de performance est possible principalement dans la zone d’exploitation, du fait de la stabilité, et beaucoup plus difficile à tenir dans la zone d’expansion.
 
@@ -252,12 +189,7 @@ La **culture Flux** encourage :
 - **Développement des personnes** : Développer les compétences pour augmenter le potentiel du système, tout en favorisant l'auto-organisation.
 - **Réduction du cycle de temps** : Accroître la réactivité aux besoins du marché.
 
-<aside>
-⚙
-
-En savoir plus sur les [9 valeurs du Kanban](https://www.notion.so/Kanban-17590eaf28ff8002ac08fead95b04e5a?pvs=21)
-
-</aside>
+⚙ En savoir plus sur les 9 valeurs du Kanban
 
 ---
 
@@ -285,12 +217,7 @@ Pour ne pas avoir une organisation Flux Zombie :
 - **Accélérer** vos cycles (juste-à-temps, apprentissages rapides)
 - **Soutenir** la performance durable de vos équipes
 
-<aside>
-➿
-
-TechNova a doublé son volume de capteurs tout en réduisant son lead time de 20 %.
-
-</aside>
+➿ TechNova a doublé son volume de capteurs tout en réduisant son lead time de 20 %.
 
 ## Et concrètement, demain…
 
@@ -328,77 +255,12 @@ Vous avez une organisation en flux ! Modifiez votre premier WIP limit de 5→3 e
 
 Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
 
-- [Enterprise Service Planning](https://www.notion.so/A4E-et-ESP-14390eaf28ff80869706ce0d8ef2e12f?pvs=21) (ESP)
-- [SaFE](https://www.notion.so/A4E-et-SAFe-Scaled-Agile-Framework-13490eaf28ff802da4d9d0513fd502b7?pvs=21)
-- [Flight levels](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21) de Klaus Leopold
-- [**Flow**](https://flowframework.org/) de Mik Kersten
+- Enterprise Service Planning (ESP)
+- SaFE
+- Flight levels de Klaus Leopold
+- **Flow** de Mik Kersten
 - Kanban@Scale
 
 ---
 
-# 🔑 Points clés à retenir
-
-![*Alignement stratégique de l’archétype Flux*](image%205.png)
-
-*Alignement stratégique de l’archétype Flux*
-
-### 👉 Et maintenant ? Zoom sur l’[archétype Agile4Product](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21) !
-
----
-
-# Annexes
-
-## Replay de la conférence Flowcon 2025
-
-[https://youtu.be/V6z38eWTAm4?si=SilW7n2jVqtW40EU](https://youtu.be/V6z38eWTAm4?si=SilW7n2jVqtW40EU)
-
----
-
-## [Radar de l’Archétype Flux](https://www.notion.so/Radar-de-l-entreprise-agile-13490eaf28ff80288f7dcd0fee927567?pvs=21)
-
-L’organisation en flux met un accent particulier sur la **prédictibilité, la gestion du travail en continu et l’optimisation des processus**. Cela se reflète dans sa signature radar :
-
-1. **Réactif (court terme)**
-    
-    Capacité à gérer les variations de demande, les incidents et les imprévus sans perturber la continuité du flux.
-    
-2. **Flexible (moyen terme)**
-    
-    Ajustement de la capacité et des ressources en fonction des priorités et des cycles de charge, sans transformation structurelle majeure.
-    
-3. **Adaptatif (long terme)**
-    
-    Capacité de l’organisation à évoluer en fonction des tendances du marché et des améliorations continues de ses processus.
-    
-4. **Proactif (anticipation)**
-    
-    Intégration de pratiques d’amélioration continue et de **gestion du risque** pour stabiliser le flux et optimiser la performance sur le long terme.
-    
-
----
-
-## **Niveaux de maturité pour l’archétype Flux**
-
-| Niveau | Réactif | Flexible | Adaptatif | Proactif |
-| --- | --- | --- | --- | --- |
-| **1. Initial** | Gestion des urgences non structurée, actions ponctuelles. | Incapacité à absorber les variations de charge. | Faible intégration de l'amélioration continue. | Aucun effort d'anticipation des tendances. |
-| **2. Émergent** | Développement d’une première gestion des urgences avec priorisation basique. | Ajustement manuel des ressources et premières flexibilités dans les engagements. | Expérimentation de revues de flux et amélioration ponctuelle. | Introduction d’indicateurs pour détecter les variations anticipées. |
-| **3. Structuré** | Intégration des classes de service et des SLAs pour une gestion des urgences plus efficace. | Pilotage du Backlog via Kanban et ajustement régulier des priorités. | Boucles de feedback régulières intégrées dans l'amélioration des flux. | Intégration d’outils prédictifs (ex: Monte Carlo, simulation de flux). |
-| **4. Avancé** | Détection et réaction automatique aux variations du flux avec buffers dynamiques. | Gestion adaptative des priorités avec une allocation dynamique des capacités. | Transformation des chaînes de valeur basée sur des analyses continues. | Mise en place d’expérimentations proactives pour optimiser le service. |
-| **5. Amélioration continue** | Systèmes Kanban interconnectés, gestion en temps réel des fluctuations. | Alignement fluide entre prévisions de charge et capacités disponibles. | Organisation systémique de l’amélioration continue intégrée aux pratiques métiers. | Capacité à anticiper et intégrer les évolutions du marché avec fluidité. |
-
----
-
-## **Déclinaison du radar selon les dimensions agiles**
-
-L’archétype Flux s’applique principalement dans un contexte où **la stabilité et l’optimisation des flux** sont prioritaires. Il peut être évalué sous [4 dimensions](https://www.notion.so/Agile4D-Les-4-dimensions-cl-s-de-l-agilit-d-entreprise-15f90eaf28ff80bf80d2eef1834aec41?pvs=21) :
-
-1. [**Agilité Opérationnelle**](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21) (Niveau Équipe) → Évaluation de la gestion du travail en flux (lead time, work-in-progress).
-2. [**Agilité Tactique**](https://www.notion.so/L-agilit-tactique-vue-d-ensemble-13490eaf28ff806cb428d9b27abb1f82?pvs=21) (Niveau Chaîne de Valeur) → Capacité d’adaptation de la chaîne de valeur aux variations de charge.
-3. [**Agilité Stratégique**](https://www.notion.so/L-agilit-strat-gique-vue-d-ensemble-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) (Niveau Business Unit) → Capacité d’évolution et d’adaptation des processus aux changements de l’environnement.
-4. [**Agilité Portfolio**](https://www.notion.so/L-agilit-Portfolio-vue-d-ensemble-18f90eaf28ff8009b702d2aa0eae18cf?pvs=21) (Niveau Corporate) → Intégration des flux dans une stratégie d’entreprise agile.
-
-> *Exemple : Une organisation en mode flux ayant un niveau 5 sur l’axe Réactif mais un niveau 2 en Proactif pourrait être efficace dans la gestion de ses engagements à court terme, mais manquerait d’anticipation stratégique sur ses évolutions.*
-> 
-
----
+#

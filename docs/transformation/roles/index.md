@@ -1,18 +1,10 @@
 # Rôles de la transformation agile
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-🔘
+🔘 **Objectif** Découvrez comment les **4 rôles de transformation agile** – Agile Master, Coach Agile Tactique, Coach Organisation et Coach d’Entreprise – se coordonnent pour porter une agilité **vivante**, **contextuelle** et **durable**, de l’équipe au COMEX.
 
-**Objectif**
-Découvrez comment les **4 rôles de transformation agile** – Agile Master, Coach Agile Tactique, Coach Organisation et Coach d’Entreprise – se coordonnent pour porter une agilité **vivante**, **contextuelle** et **durable**, de l’équipe au COMEX.
-
-</aside>
-
-![Les 4 rôles de coach agile](image.png)
+![Les 4 rôles de coach agile](Ro%CC%82les%20de%20la%20transformation%20agile%2017b90eaf28ff804ea65eeb4b0d94c877/image.png)
 
 Les 4 rôles de coach agile
 
@@ -25,13 +17,13 @@ Les rôles internes (leaders, managers, collaborateurs) ne sont **pas des rôles
 > *Par exemple, le leader agile joue un rôle clé en garantissant une stratégie dynamique et en facilitant la mise en œuvre des ajustements stratégiques nécessaires pour maintenir un avantage concurrentiel.*
 > 
 
-Ces rôles doivent également s’ajuster selon les [zones de management](https://www.notion.so/Les-zones-de-management-14590eaf28ff80fc9395fe20b7c9f556?pvs=21) : C’est l’[agilité managériale](https://www.notion.so/L-agilit-manag-riale-18b90eaf28ff8023814bdcc2e0240ac4?pvs=21) en action.
+Ces rôles doivent également s’ajuster selon les zones de management : C’est l’agilité managériale en action.
 
 ## **Rôles de transformation**
 
 Les **rôles de transformation** ne sont pas des fonctions permanentes : ce sont des **catalyseurs** appelés à disparaître quand l’organisation devient **auto-transformante**. Leur mission : faciliter, structurer et aligner les pratiques agiles, tout en maintenant la posture critique grâce aux Shadow Roles (Agile4Entropy).
 
-Chaque rôle est un **levier de transformation situé** au service de l’agilité dans sa dimension locale et systémique. Tous doivent maîtriser les fondations du framework **Agile4Enterprise** et s'inscrire dans une dynamique d’apprentissage continu, appuyée par un [cursus de formation dédié](https://www.notion.so/Training-A4E-Certified-Learning-13590eaf28ff809db713ca5f8378e44c?pvs=21).
+Chaque rôle est un **levier de transformation situé** au service de l’agilité dans sa dimension locale et systémique. Tous doivent maîtriser les fondations du framework **Agile4Enterprise** et s'inscrire dans une dynamique d’apprentissage continu, appuyée par un cursus de formation dédié.
 
 | Rôle | Mission clé | Shadow Role |
 | --- | --- | --- |
@@ -55,12 +47,7 @@ Chaque rôle est un **levier de transformation situé** au service de l’agilit
 2. Mettre en place l’amélioration continue et les feedback rapides.
 3. Mesurer la fluidité (WIP, cycles courts).
 
-<aside>
-🔎
-
- En savoir plus sur le rôle [Agile Master](https://www.notion.so/Agile-Master-20290eaf28ff8055b4b7cd3a9568e9d7?pvs=21)
-
-</aside>
+🔎 En savoir plus sur le rôle Agile Master
 
 **Coach Tactique**
 
@@ -68,12 +55,7 @@ Chaque rôle est un **levier de transformation situé** au service de l’agilit
 2. Piloter les OKR tactiques.
 3. Synchroniser cadences stratégique/tactique.
 
-<aside>
-🔎
-
- En savoir plus sur le rôle [Coach agile tactique](https://www.notion.so/Coach-Agile-Tactique-20290eaf28ff80c7a5a6c72580a7cb1f?pvs=21)
-
-</aside>
+🔎 En savoir plus sur le rôle Coach agile tactique
 
 **Coach Organisation**
 
@@ -81,12 +63,7 @@ Chaque rôle est un **levier de transformation situé** au service de l’agilit
 2. Mettre en place une gouvernance adaptative.
 3. Cultiver la culture agile (archétypes).
 
-<aside>
-🔎
-
- En savoir plus sur le rôle [Coach agile organisation](https://www.notion.so/Coach-Agile-Organisation-20290eaf28ff807da55fc4db36ba73d8?pvs=21)
-
-</aside>
+🔎 En savoir plus sur le rôle Coach agile organisation
 
 **Coach d’Entreprise**
 
@@ -94,49 +71,11 @@ Chaque rôle est un **levier de transformation situé** au service de l’agilit
 2. Animer le COMEX en revue adaptative.
 3. Piloter l’écosystème des coaches.
 
-<aside>
-🔎
-
- En savoir plus sur le rôle [Coach agile entreprise](https://www.notion.so/Coach-Agile-d-Entreprise-20290eaf28ff803ea2cdfff95e87f582?pvs=21)
-
-</aside>
+🔎 En savoir plus sur le rôle Coach agile entreprise
 
 ---
 
-<aside>
-➿
-
-**TechNova**
-
-Dans la salle du COMEX, lundi matin :
-
-> « Comment financer notre prototype IA sans sacrifier le CA des capteurs historiques ? » lance la Directrice des Opérations.
-> 
-> 
-> « La domotique doit s’étendre maintenant, pas dans trois ans ! » rétorque le Directeur Commercial.
-> 
-
-Pendant que le CFO brandit ses tableurs, le CTO plaide pour le programme RSE – en vain. Chaque BU défend son modèle opératoire : flux pour l’exploitation, produit pour la domotique, réseau pour la R&D. Le débat tourne en rond : pas de décision claire, pas d’arbitrages partagés.
-
-**Le Coach Agile d’Entreprise** propose alors un atelier 4E pour cartographier leurs cinq activités :
-
-- Capteurs : Exploitation
-- Domotique : Expansion
-- Cloud industriel : Expansion
-- Prototype IA : Exploration
-- Projets RSE : Exclusion
-
-Armé d’un grand tableau PACTE, il trace les zones, invite chaque membre à placer un post-it. Le silence retombe, la vision se fait nette. En quelques minutes, les tensions s’éclaircissent :
-
-1. **Entrée expansion** devient un point d’arbitrage programmé : un “Kill Review” mensuel décidera de continuer ou d’arrêter chaque pilote.
-2. **Court terme vs Long terme** trouve sa réponse dans un jeu d’OKR d’entreprise liant résultats trimestriels et jalons R&D.
-3. **Centralisation vs Autonomie** se traduit par un comité PACTE restreint, qui délègue certaines décisions tactiques tout en gardant un fil rouge stratégique.
-
-Au terme de l’atelier, le COMEX adopte un plan d’action clair : budgets réalloués, calendrier des revues et indicateurs partagés.
-
-TechNova a désormais une **gouvernance agile unifiée**, capable de piloter un portefeuille hétérogène sans étouffer l’innovation.
-
-</aside>
+➿ **TechNova** Dans la salle du COMEX, lundi matin : > « Comment financer notre prototype IA sans sacrifier le CA des capteurs historiques ? » lance la Directrice des Opérations. > > > « La domotique doit s’étendre maintenant, pas dans trois ans ! » rétorque le Directeur Commercial. > Pendant que le CFO brandit ses tableurs, le CTO plaide pour le programme RSE – en vain. Chaque BU défend son modèle opératoire : flux pour l’exploitation, produit pour la domotique, réseau pour la R&D. Le débat tourne en rond : pas de décision claire, pas d’arbitrages partagés. **Le Coach Agile d’Entreprise** propose alors un atelier 4E pour cartographier leurs cinq activités : - Capteurs : Exploitation - Domotique : Expansion - Cloud industriel : Expansion - Prototype IA : Exploration - Projets RSE : Exclusion Armé d’un grand tableau PACTE, il trace les zones, invite chaque membre à placer un post-it. Le silence retombe, la vision se fait nette. En quelques minutes, les tensions s’éclaircissent : 1. **Entrée expansion** devient un point d’arbitrage programmé : un “Kill Review” mensuel décidera de continuer ou d’arrêter chaque pilote. 2. **Court terme vs Long terme** trouve sa réponse dans un jeu d’OKR d’entreprise liant résultats trimestriels et jalons R&D. 3. **Centralisation vs Autonomie** se traduit par un comité PACTE restreint, qui délègue certaines décisions tactiques tout en gardant un fil rouge stratégique. Au terme de l’atelier, le COMEX adopte un plan d’action clair : budgets réalloués, calendrier des revues et indicateurs partagés. TechNova a désormais une **gouvernance agile unifiée**, capable de piloter un portefeuille hétérogène sans étouffer l’innovation.
 
 ## Checklist atelier onboarding
 
@@ -148,14 +87,4 @@ TechNova a désormais une **gouvernance agile unifiée**, capable de piloter un 
 
 ---
 
-# 🔑 Points clés à retenir
-
-- **4 rôles de coach**, 4 niveaux de facilitation : équipe, tactique, stratégique, corporate.
-- **Les Shadow Roles** garantissent un regard critique et une agilité **anti-fragile**.
-- Ce sont des rôles de transformation, temporaires
-
-> Agile4Enterprise pose la structure.
-> 
-> 
-> **Vos coaches** en incarnent la dynamique.
->
+#

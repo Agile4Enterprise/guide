@@ -1,21 +1,12 @@
 # A qui s’adresse ce Framework ?
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Clarifier à qui s’adresse **Agile4Enterprise**, dans quels contextes il est activable avec succès, et à quelles fonctions ou profils il apporte des leviers concrets de transformation.
-
-</aside>
+✨ **Objectif** Clarifier à qui s’adresse **Agile4Enterprise**, dans quels contextes il est activable avec succès, et à quelles fonctions ou profils il apporte des leviers concrets de transformation.
 
 # Pour quels types d’organisations ?
 
-Si **Agile4Enterprise** est un cadre adaptable à de nombreuses formes d’organisation, il est plus particulièrement conçu pour les PME en mutation, confrontées à des environnements [VUCA](https://www.notion.so/Quand-Agile4Enterprise-est-pertinent-et-quand-il-ne-l-est-pas-1e090eaf28ff807382dbd6288d5bee3f?pvs=21).
+Si **Agile4Enterprise** est un cadre adaptable à de nombreuses formes d’organisation, il est plus particulièrement conçu pour les PME en mutation, confrontées à des environnements VUCA.
 
 ### PME : cœur de cible
 
@@ -107,9 +98,9 @@ Même si vous n’êtes pas directement impliqué dans la transformation, ce cad
 
 # Comment démarrer ?
 
-- Explorez le [wiki Agile4Enterprise](https://www.notion.so/13690eaf28ff80ea9d55d7d1c545597e?pvs=21) : outils, principes, diagnostics.
-- Rejoignez le [Meetup de l’Entreprise Agile](https://www.meetup.com/business-agility-meetup-group/), actif depuis 2023.
-- Suivez les formations [Agile4Enterprise](https://agile4enterprise.com/coach-agile/).
+- Explorez le wiki Agile4Enterprise : outils, principes, diagnostics.
+- Rejoignez le Meetup de l’Entreprise Agile, actif depuis 2023.
+- Suivez les formations Agile4Enterprise.
 - Téléchargez le kit de démarrage ou le mémo stratégique dirigeant (en développement).
 
 > Commencez petit, là où les tensions sont palpables. Le cadre s’active par ajustement, pas par décret.

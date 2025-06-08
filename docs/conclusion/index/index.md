@@ -24,7 +24,7 @@ Propriétaire: Laurent Morisseau
 
 ### Timeline type (0–18 mois)
 
-![image.png](image.png)
+![image.png](Le%20but%20du%20cadre%20est%20de%20disparai%CC%82tre%201e090eaf28ff80308a1eceba0fb0bbd4/image.png)
 
 | Phase | Durée | Objectif clé |
 | --- | --- | --- |
@@ -33,16 +33,7 @@ Propriétaire: Laurent Morisseau
 | **9–12 mois** | Autonomisation | Transférer progressivement les responsabilités. |
 | **12–18 mois** | Disparition progressive | Retirer les rôles de transformation et mesurer l’autonomie réelle. |
 
-<aside>
-➿
-
-TechNova
-
-**Bénéfice** : en 14 mois, réduction de 35 % des blocages inter-équipes et adoption de rituels de synchronisation.
-
-**Clé du succès** : Atelier de transition « Agile4Enterprise off » animé dès le mois 12, piloté par le coach agile d’entreprise, avec simulation de retrait des rôles.
-
-</aside>
+➿ TechNova **Bénéfice** : en 14 mois, réduction de 35 % des blocages inter-équipes et adoption de rituels de synchronisation. **Clé du succès** : Atelier de transition « Agile4Enterprise off » animé dès le mois 12, piloté par le coach agile d’entreprise, avec simulation de retrait des rôles.
 
 ## Fonctions essentielles du Framework
 
@@ -88,9 +79,4 @@ Il se mesure **au moment où l’organisation peut dire** :
 Nous savons choisir et changer ensemble.”**
 > 
 
-<aside>
-🔥
-
-À ce moment-là, **Agile4Enterprise** aura disparu. Et c’est ainsi qu’il est censé réussir.
-
-</aside>
+🔥 À ce moment-là, **Agile4Enterprise** aura disparu. Et c’est ainsi qu’il est censé réussir.

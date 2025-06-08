@@ -1,17 +1,8 @@
 # L’agilité opérationnelle en action
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Cette section décrit **3 familles d’outils activables** pour ancrer l’agilité opérationnelle au quotidien : adapter en continu, coordonner sans friction et impulser l’initiative locale, tout en restant aligné sur la stratégie.
-
-</aside>
+✨ **Objectif** Cette section décrit **3 familles d’outils activables** pour ancrer l’agilité opérationnelle au quotidien : adapter en continu, coordonner sans friction et impulser l’initiative locale, tout en restant aligné sur la stratégie.
 
 # Des outils pour piloter un système opérationnel vivant
 
@@ -25,7 +16,7 @@ L’agilité opérationnelle repose sur un ensemble d’outils et de repères co
 
 ## Modèles d’analyse opérationnelle
 
-- [**Modèle 4E**](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21)
+- **Modèle 4E**
     
     **À l’usage :** Positionnez chaque équipe dans l’une des 4 zones (Exploration, Expansion, Exploitation, Exclusion).
     **Template :** Tableau 4E (zone / mission / méthode / management).
@@ -66,6 +57,10 @@ L’agilité opérationnelle repose sur un ensemble d’outils et de repères co
 > Avec ces outils, votre système opérationnel devient un écosystème vivant, capable d’adapter, d’innover et de délivrer en continu.
 > 
 
+### 👉 Et maintenant ? Découvrez les archétypes agiles !
+
+---
+
 # **Annexe : Autres outils et alternatives**
 
 ## **Approches alternatives**
@@ -75,5 +70,5 @@ L’agilité opérationnelle repose sur un ensemble d’outils et de repères co
 ## Outils complémentaires
 
 - Toutes les méthodes agiles
-- Le [**modèle Cynefin**](https://www.notion.so/L-entreprise-complexe-14a90eaf28ff803e9a40c1c2d3a78b1b?pvs=21) pour le choix de l’approche selon la complexité
-- Une **typologie d’équipe**, telles que [Team topologies](https://www.notion.so/Glossaire-des-notions-14a90eaf28ff80f69393d8335f1b6460?pvs=21)
+- Le **modèle Cynefin** pour le choix de l’approche selon la complexité
+- Une **typologie d’équipe**, telles que Team topologies

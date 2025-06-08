@@ -1,20 +1,12 @@
 # L’agilité organisationnelle au niveau tactique
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-Faire des **unités tactiques** des cellules autonomes et adaptables, capables de livrer et coopérer au cœur des chaînes de valeur. Ici, l’**agilité par le design** inscrit la réactivité organisationnelle dans la structure même, sans lancer de gros programmes de transformation.
-
-</aside>
+✨ **Objectif** Faire des **unités tactiques** des cellules autonomes et adaptables, capables de livrer et coopérer au cœur des chaînes de valeur. Ici, l’**agilité par le design** inscrit la réactivité organisationnelle dans la structure même, sans lancer de gros programmes de transformation.
 
 # Principes fondamentaux de design vivant
 
-![image.png](image.png)
+![image.png](L%E2%80%99agilite%CC%81%20organisationnelle%20au%20niveau%20tactique%2017b90eaf28ff806fa662c684c93ef069/image.png)
 
 ## Qu’est-ce qu’une unité tactique ?
 
@@ -22,26 +14,11 @@ C’est une structure d’exécution quasi autonome, conçue pour maximiser l’
 
 Elle est centrée sur la création directe de valeur pour les utilisateurs et clients. Elle regroupe équipes et processus clés capables de livrer cette valeur de manière autonome tout en restant alignée avec la stratégie globale de l’unité stratégique à laquelle elle appartient.
 
-<aside>
-⚠️
-
-**Pour les petites organisations**, les niveaux tactique et opérationnel fusionnent souvent : l'unité tactique correspond directement à une équipe unique sans structure intermédiaire.
-
-</aside>
+⚠️ **Pour les petites organisations**, les niveaux tactique et opérationnel fusionnent souvent : l'unité tactique correspond directement à une équipe unique sans structure intermédiaire.
 
 ## Pourquoi repenser le design organisationnel tactique ?
 
-<aside>
-➿
-
-Quand le backlog de Technova Capteurs est devenu obsolète en 3 mois, l’urgence n’était pas un manque de plan, mais un manque de **structure organique** pour pivoter vite. Plutôt que de lancer un grand programme, l’entreprise a redessiné ses unités tactiques pour qu’elles s’adaptent **en continu** à chaque signal terrain.
-
-> Avant : plans figés, 0 pivot en 6 mois
-> 
-> 
-> **Après :** 4 pivots réussis, time-to-market réduit de 20 %, satisfaction client +15 %
-> 
-</aside>
+➿ Quand le backlog de Technova Capteurs est devenu obsolète en 3 mois, l’urgence n’était pas un manque de plan, mais un manque de **structure organique** pour pivoter vite. Plutôt que de lancer un grand programme, l’entreprise a redessiné ses unités tactiques pour qu’elles s’adaptent **en continu** à chaque signal terrain. > Avant : plans figés, 0 pivot en 6 mois > > > **Après :** 4 pivots réussis, time-to-market réduit de 20 %, satisfaction client +15 % >
 
 L’agilité tactique ne repose pas uniquement sur des pratiques d’équipe. Elle s’incarne dans un **design organisationnel horizontal**, orienté vers :
 
@@ -77,16 +54,7 @@ Dans la gouvernance tactique, quatre tensions fondamentales exigent une posture 
 | **3. Boucles de feedback intégrées** | Apprentissage rapide et aligné | Revues tactiques (mensuelles), feedback terrain structuré |
 | **4. Allègement hiérarchique** | Libérer la capacité d’action collective | - Moins de niveaux intermédiaires- Rôles clairs mais légers- Manager = facilitateur d’impact |
 
-<aside>
-➿
-
-**Reteaming réussi** 
-
-Une unité a réorganisé ses équipes à chaque début de sprint pour s’assurer de travailler sur les sujets à plus forts impacts.
-
-**Résultat** :  Meilleur taux de réussite d’atteinte des OKR tactiques partagés.
-
-</aside>
+➿ **Reteaming réussi** Une unité a réorganisé ses équipes à chaque début de sprint pour s’assurer de travailler sur les sujets à plus forts impacts. **Résultat** :  Meilleur taux de réussite d’atteinte des OKR tactiques partagés.
 
 ### Mécanismes de coordination tactique
 
@@ -101,24 +69,15 @@ Les unités tactiques nécessitent une **coordination horizontale fluide** :
 
 | Logique | Principe de découpage | Principe de coordination |
 | --- | --- | --- |
-| **Projet** | Équipe pluridisciplinaire autonome orientée initiative | Coordination par l’intégration, avec un [Backlog unique](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
-| **Produit** | [**Domaines métier (ou valeur)**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21) | Coordination par l’intégration, avec un [Backlog unique](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
-| **Flux** | [**Chaînes de valeur**](https://www.notion.so/Concevoir-les-unit-s-tactiques-de-l-ext-rieur-vers-l-int-rieur-14390eaf28ff80108d31d366d1dc42af?pvs=21) | Coordination par les processus, avec un [réseau de Backlogs](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
-| **Réseau** | Cellules connectées adaptatives autour d’un sujet émergent | Coordination par les processus, avec un [réseau de Backlogs](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21) |
+| **Projet** | Équipe pluridisciplinaire autonome orientée initiative | Coordination par l’intégration, avec un Backlog unique |
+| **Produit** | **Domaines métier (ou valeur)** | Coordination par l’intégration, avec un Backlog unique |
+| **Flux** | **Chaînes de valeur** | Coordination par les processus, avec un réseau de Backlogs |
+| **Réseau** | Cellules connectées adaptatives autour d’un sujet émergent | Coordination par les processus, avec un réseau de Backlogs |
 
 > La coordination devient un organe vivant plutôt qu’un organe de contrôle.
 > 
 
-<aside>
-➿
-
-**Technova**
-
-En retravaillant son design, Technova Capteurs a créé 5 unités tactiques horizontales. Chacune a son propre backlog orienté utilisateur, et ses propres OKR tactiques.
-
-Une unité a attendu la revue trimestrielle pour pivoter. Les retards cumulés ont coûté 3 semaines de time-to-market. Des revues ad-hoc peuvent être maintenant déclenchés à la demande.  
-
-</aside>
+➿ **Technova** En retravaillant son design, Technova Capteurs a créé 5 unités tactiques horizontales. Chacune a son propre backlog orienté utilisateur, et ses propres OKR tactiques. Une unité a attendu la revue trimestrielle pour pivoter. Les retards cumulés ont coûté 3 semaines de time-to-market. Des revues ad-hoc peuvent être maintenant déclenchés à la demande.
 
 ## Votre feuille de route 1ʳᵉ trimestre
 
@@ -161,19 +120,4 @@ Une unité a attendu la revue trimestrielle pour pivoter. Les retards cumulés o
 
 ---
 
-# **🔑 Points clés à retenir**
-
-✅ **Design horizontal** : unités structurées pour livrer et coopérer, pas siloter.
-
-✅ **Autonomie & feedback** : décisions locales, cycles courts, apprentissage constant.
-
-✅ **Hiérarchie allégée** : manager = coach, moins de filtres, plus de fluidité.
-
-✅ **Synchronisation multi-archétypes** : adaptez le backlog et les rituels à chaque modèle.
-
-✅ **Reconfigurabilité** : structurez pour évoluer par petits pas, au rythme des besoins et des apprentissages.
-
-> Le design tactique est votre plate-forme de réactivité : elle transforme l’organisation en système vivant, prêt à réagir et s’adapter.
-> 
-
-### 👉 La suite ? [Passez à l’action](https://www.notion.so/L-agilit-Tactique-en-action-13490eaf28ff805bb9f7f2562f76465e?pvs=21) avec des outils tactiques actionnables.
+# **

@@ -1,54 +1,20 @@
 # Portefeuille Agile 4E-4X
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Montrer comment articuler les archétypes Agile4X au sein du portefeuille stratégique  Agile4E, pour transformer vos investissements en leviers d’innovation et de performance.
 
-**Objectif**
+➿ TechNova La direction souhaite cartographier ses initiatives dans le modèle 4E, et s’assurer du bon alignement stratégique de ses unités d’affaires : - **Un proof of concept IA** à tester. - **Le passage à l’échelle d’un produit domotique**. - **La maintenance de vos services critiques**. - **La fermeture d’une offre en perte**. **Question** : Quel modèle opératoire adopter pour chacune de ces initiatives ?
 
-Montrer comment articuler les archétypes Agile4X au sein du portefeuille stratégique  Agile4E, pour transformer vos investissements en leviers d’innovation et de performance.
-
-</aside>
-
-<aside>
-➿
-
-TechNova
-
-La direction souhaite cartographier ses initiatives dans le modèle 4E, et s’assurer du bon alignement stratégique de ses unités d’affaires :
-
-- **Un proof of concept IA** à tester.
-- **Le passage à l’échelle d’un produit domotique**.
-- **La maintenance de vos services critiques**.
-- **La fermeture d’une offre en perte**.
-
-**Question** : Quel modèle opératoire adopter pour chacune de ces initiatives ?
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-Lexique rapide
-
-**Agile4E** : Exploration, Expansion, Exploitation, Exclusion.
-
-**Archétypes** : Réseau, Projet, Produit, Flux, adaptés à chaque zone.
-
-**PACTE** : Portfolio Agile Canevas pour la Trajectoire d’Entreprise
-
-</aside>
+🧑‍🎓 Lexique rapide **Agile4E** : Exploration, Expansion, Exploitation, Exclusion. **Archétypes** : Réseau, Projet, Produit, Flux, adaptés à chaque zone. **PACTE** : Portfolio Agile Canevas pour la Trajectoire d’Entreprise
 
 # Un ancrage dans le modèle 4E
 
-![Les archétypes agiles et le modèle 4E](image.png)
+![Les archétypes agiles et le modèle 4E](Portefeuille%20Agile%204E-4X%2020190eaf28ff8077a529ee0238c15549/image.png)
 
 Les archétypes agiles et le modèle 4E
 
-Vous avez cartographier vos activités stratégiques dans le modèle Agile4E avec l’[outil PACTE](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21). Pour un alignement stratégique, il vous maintenant définir un modèle opératoire agile adapté pour chaque zone stratégique. 
+Vous avez cartographier vos activités stratégiques dans le modèle Agile4E avec l’outil PACTE. Pour un alignement stratégique, il vous maintenant définir un modèle opératoire agile adapté pour chaque zone stratégique. 
 
 Chaque zone du modèle appelle un ou deux archétypes privilégiés :
 
@@ -57,7 +23,7 @@ Chaque zone du modèle appelle un ou deux archétypes privilégiés :
 - **Exploitation** ➔ Archétype **Flux** ou **Réseau**
 - **Transformation** ➔ Archétype **Projet**
 
-Cela permet de concevoir une [**organisation réellement ambidextre**](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21), capable de faire coexister différents modèles opératoires.
+Cela permet de concevoir une **organisation réellement ambidextre**, capable de faire coexister différents modèles opératoires.
 
 ## Zone d’Exploration
 
@@ -77,22 +43,22 @@ Cela permet de concevoir une [**organisation réellement ambidextre**](https://w
 - **Stratégie** : engagement de service.
 - **Contexte** : services établis, maintenance, support.
 
-Dans cette zone, il s’agit d’exploiter au mieux et durablement les services et produits existants. Plusieurs axes sont possibles en partant du type de [portefeuille stratégique](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) basé sur son niveau d’intégration :
+Dans cette zone, il s’agit d’exploiter au mieux et durablement les services et produits existants. Plusieurs axes sont possibles en partant du type de portefeuille stratégique basé sur son niveau d’intégration :
 
-- [Portefeuille intégré](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
+- Portefeuille intégré
     
-    Stratégie Service associée à un l’[archétype Flux](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21)
+    Stratégie Service associée à un l’archétype Flux
     
-- [Portefeuille couplé](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
+- Portefeuille couplé
     
     Stratégie Client / marché, modèle front-back “agile”
     
-- [Portefeuille découplé](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) et [conglomérat](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
+- Portefeuille découplé et conglomérat
     
-    Archétype [réseau de mini entreprises](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21) (intraprises)
+    Archétype réseau de mini entreprises (intraprises)
     
 
-Et enfin, la zone de productivité avec ses programmes de transformation avec l’[archétype Projet](https://www.notion.so/Agile4Project-Arch-type-Projet-agile-13490eaf28ff8030a8aeecf9206d94ea?pvs=21).
+Et enfin, la zone de productivité avec ses programmes de transformation avec l’archétype Projet%2013490eaf28ff8030a8aeecf9206d94ea.md).
 
 ## Zone d’Exclusion
 
@@ -103,27 +69,13 @@ Et enfin, la zone de productivité avec ses programmes de transformation avec l�
 
 Dans cette typologie, les zones sont des domaines privilégiés pour les modèles organisationnels, cela ne veut pas dire qu’on ne les retrouve pas dans d’autres contextes. 
 
-<aside>
-➿
-
-**Portefeuille TechNova**
-
-| Initiative | Zone | Archétype | KPI principal | Responsable |
-| --- | --- | --- | --- | --- |
-| Prototype IA | Exploration | Réseau | % d’hypothèses validées | Dir. R&D |
-| Domotique | Expansion | Produit | Ventes mensuelles | CPO |
-| Maintenance Capteurs | Exploitation | Flux | SLA 95 % | COO |
-| Retrait SRE | Exclusion | Projet | Coût de sortie | CSO (stratégie) |
-
-**Prochaine revue** : T1 2025
-
-</aside>
+➿ **Portefeuille TechNova** | Initiative | Zone | Archétype | KPI principal | Responsable | | --- | --- | --- | --- | --- | | Prototype IA | Exploration | Réseau | % d’hypothèses validées | Dir. R&D | | Domotique | Expansion | Produit | Ventes mensuelles | CPO | | Maintenance Capteurs | Exploitation | Flux | SLA 95 % | COO | | Retrait SRE | Exclusion | Projet | Coût de sortie | CSO (stratégie) | **Prochaine revue** : T1 2025
 
 # Une organisation agile vit des transitions entre archétypes
 
 Les archétypes agissent comme des instantanés figés des tensions organisationnelles. Mais la vie d’une organisation, c’est le **mouvement entre ces tensions**, pas leur neutralisation.
 
-Une transformation agile suppose **de passer d’un archétype à un autre** au fil de la stratégie. Cela génère des tensions — que l’outil [PACTE](https://www.notion.so/Guide-de-l-outil-PACTE-17a90eaf28ff8007ae71e576ac507f7e?pvs=21) permet d’accompagner.
+Une transformation agile suppose **de passer d’un archétype à un autre** au fil de la stratégie. Cela génère des tensions — que l’outil PACTE permet d’accompagner.
 
 Chaque transition suppose :
 
@@ -132,12 +84,7 @@ Chaque transition suppose :
 - Des renoncements à des pratiques anciennes,
 - Une nouvelle cohérence à construire.
 
-<aside>
-⚠️
-
-Une organisation peut et va évoluer. Mais **elle ne peut pas tout être en même temps**.
-
-</aside>
+⚠️ Une organisation peut et va évoluer. Mais **elle ne peut pas tout être en même temps**.
 
 ## Tout changement d’archétype implique une rupture
 
@@ -148,12 +95,7 @@ Passer du mode projet au mode produit ce n’est pas simplement livrer des fonct
 - *Passer du Projet au Produit : abandonner la logique de livrable, accepter l’itération, reconstruire le sens de la valeur.*
 - *Passer du Flux au Réseau : renoncer à la performance prévisible, faire confiance aux interactions auto-organisées.*
 
-<aside>
-💡
-
-Changer d’archétype, c’est changer de logique sous-jacente, et donc à la fin de performance et de culture différentes !
-
-</aside>
+💡 Changer d’archétype, c’est changer de logique sous-jacente, et donc à la fin de performance et de culture différentes !
 
 ## La cohérence est plus exigeante que le changement
 
@@ -185,18 +127,4 @@ Animez un atelier 4E–4X
 
 ---
 
-# 🔑 Points clés à retenir
-
-- **Agile 4E + 4X** vous offrent une double grille de lecture (zone ↔ archétype).
-- **Choisir l’archétype** adapté à chaque zone renforce la cohérence et l’efficacité.
-- **Transition** : chaque changement d’archétype exige renoncements et arbitrages culturels.
-- PACTE aide à visualiser ces zones, et ces transitions.
-
-<aside>
-💡
-
-**Agile4X n’est pas une méthode. C’est un choix stratégique structurant.**
-
-</aside>
-
-### 👉 Et maintenant ? Nous avons maintenant tous les modèles et tous les outils pour [accompagner la transformation](https://www.notion.so/Agile4Enterprise-respecter-aligner-faire-respirer-l-organisation-1e390eaf28ff805f8b31e59f0521c37b?pvs=21) !
+#

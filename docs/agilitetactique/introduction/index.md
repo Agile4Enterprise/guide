@@ -1,45 +1,24 @@
 # L’agilité tactique : vue d’ensemble
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Poser les bases de l’agilité tactique : une boucle adaptative intermédiaire garantissant l’alignement vivant entre stratégie business et exécution opérationnelle.
 
-**Objectif**
+🧑‍🎓 **Lexique rapide de l’agilité tactique** - **Unité tactique** Groupe d’équipes autonomes sur une même chaîne de valeur. - **OKR tactiques** Objectifs & Résultats Clés traduisant la stratégie en actions mesurables. - **Slack tactique** Marge de manœuvre (10–15 %) réservée pour pivoter sans renégocier tout le plan. - **Mobilité tactique** Capacité à redistribuer équipes et ressources selon les besoins du trimestre.
 
-Poser les bases de l’agilité tactique : une boucle adaptative intermédiaire garantissant l’alignement vivant entre stratégie business et exécution opérationnelle.
-
-</aside>
-
-<aside>
-➿
-
-## Technova
-
-Quand Technova Capteurs, lance sa feuille de route annuelle, elle ne s’attend pas à ce que trois mois suffisent à rendre son backlog obsolète. Clients exigeants, concurrents agiles, contraintes réglementaires… Le responsable produit (PO) se rend compte qu’il doit redéfinir ses priorités en deux semaines plutôt que de poursuivre un plan déjà dépassé. C’est ce basculement, entre planification et réalité, qui définit l’**agilité tactique** : une boucle vivante d’apprentissage et d’ajustement.
-
-</aside>
+➿ ## Technova Quand Technova Capteurs, lance sa feuille de route annuelle, elle ne s’attend pas à ce que trois mois suffisent à rendre son backlog obsolète. Clients exigeants, concurrents agiles, contraintes réglementaires… Le responsable produit (PO) se rend compte qu’il doit redéfinir ses priorités en deux semaines plutôt que de poursuivre un plan déjà dépassé. C’est ce basculement, entre planification et réalité, qui définit l’**agilité tactique** : une boucle vivante d’apprentissage et d’ajustement.
 
 # Piloter la tactique comme une boucle adaptative vivante
 
 ## **Qu'est-ce que l'agilité tactique ?**
 
-<aside>
-💡
-
-L’**agilité tactique** joue un rôle clé dans l'exécution dynamique de la [stratégie adaptative](https://www.notion.so/L-agilit-strat-gique-vue-d-ensemble-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) et de la tactique.
-
-C’est un processus adaptatif continu qui orchestre retours fréquents, pilotage par l’impact et mobilisation flexible des ressources pour aligner stratégie et opérationnel.
-
-</aside>
+💡 L’**agilité tactique** joue un rôle clé dans l'exécution dynamique de la stratégie adaptative et de la tactique. C’est un processus adaptatif continu qui orchestre retours fréquents, pilotage par l’impact et mobilisation flexible des ressources pour aligner stratégie et opérationnel.
 
 L’**agilité tactique** porte sur la capacité à changer ou répondre aux changements de manière appropriée et efficace au niveau de chaque unité tactique.
 
 Une organisation n’est réellement agile que si son processus de décision tactique l’est aussi.
 
-![La place de l’agilité Tactique dans les niveaux de décisions](image.png)
+![La place de l’agilité Tactique dans les niveaux de décisions](L%E2%80%99agilite%CC%81%20tactique%20vue%20d%E2%80%99ensemble%2013490eaf28ff806cb428d9b27abb1f82/image.png)
 
 La place de l’agilité Tactique dans les niveaux de décisions
 
@@ -121,17 +100,7 @@ Technova identifie une unité pilote transverse. Pour rester aligné tout en res
 
 ---
 
-<aside>
-➿
-
-## Technova gagne en agilité
-
-> « Après chaque cycle tactique, on ne demande pas seulement : ‘Avons‑nous terminé ?’ mais ‘Quel impact avons‑nous créé ?’ » – PO, Technova
-> 
-
-Après deux cycles, Technova réduit de 30 % son time‑to‑market, et réaffecte 15 % de ses ressources sur des projets à plus fort impact. L’agilité tactique transforme l’exécution en un moteur d’innovation continue.
-
-</aside>
+➿ ## Technova gagne en agilité > « Après chaque cycle tactique, on ne demande pas seulement : ‘Avons‑nous terminé ?’ mais ‘Quel impact avons‑nous créé ?’ » – PO, Technova > Après deux cycles, Technova réduit de 30 % son time‑to‑market, et réaffecte 15 % de ses ressources sur des projets à plus fort impact. L’agilité tactique transforme l’exécution en un moteur d’innovation continue.
 
 # Et concrètement, lundi matin ?
 
@@ -150,17 +119,4 @@ Après deux cycles, Technova réduit de 30 % son time‑to‑market, et réaff
 
 ---
 
-# 🔑 Points clés à retenir
-
-1. **Boucles courtes** : chaque sprint est un apprentissage.
-2. **Pilotage par l’impact** : valeur avant complétion.
-3. **Autonomie encadrée** : liberté dans des limites claires.
-4. **Renoncements ciblés** : moins, mais mieux.
-5. **Développement stratégique** : plan et feedback nourrissent mutuellement la stratégie.
-
-> L’agilité tactique est le cœur battant de votre alignement en mouvement.
-> 
-
-### 👉 Et maintenant ? Prêt·e à faire battre le [cœur de votre tactique](https://www.notion.so/La-gouvernance-adaptative-tactique-13b90eaf28ff8066aa8bc5c28ac35645?pvs=21) ?
-
-##
+#

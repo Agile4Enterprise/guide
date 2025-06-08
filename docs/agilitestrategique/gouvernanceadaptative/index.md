@@ -1,37 +1,19 @@
 # La gouvernance adaptative stratégique
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Piloter l’**agilité stratégique** des unités business par une **gouvernance vivante**, alliant autonomie locale et alignement global, grâce à **des cycles d’apprentissage continu**, un **pilotage par l’impact**, et une **synchronisation dynamique** avec le portefeuille stratégique de l’entreprise.
-
-Ce chapitre prolonge ceux sur **l’agilité stratégique** et **l’agilité RH**. Il en est le chaînon structurel : la gouvernance adaptative en est le métronome. Sans elle, la stratégie reste théorique, la RH devient bureaucratique et l’exécution se désynchronise.
-
-</aside>
+✨ **Objectif** Piloter l’**agilité stratégique** des unités business par une **gouvernance vivante**, alliant autonomie locale et alignement global, grâce à **des cycles d’apprentissage continu**, un **pilotage par l’impact**, et une **synchronisation dynamique** avec le portefeuille stratégique de l’entreprise. Ce chapitre prolonge ceux sur **l’agilité stratégique** et **l’agilité RH**. Il en est le chaînon structurel : la gouvernance adaptative en est le métronome. Sans elle, la stratégie reste théorique, la RH devient bureaucratique et l’exécution se désynchronise.
 
 # Une gouvernance vivante au service de l’agilité stratégique
 
 > “On avait des décisions. Il nous manquait la cadence.” — Dirigeant, secteur service
 > 
 
-![Cadence du changement stratégique](image.png)
+![Cadence du changement stratégique](La%20gouvernance%20adaptative%20strate%CC%81gique%2013b90eaf28ff800996ccf4dc1e54bcc6/image.png)
 
 Cadence du changement stratégique
 
-<aside>
-💡
-
-**La gouvernance adaptative stratégique**
-
-Elle porte sur l’[agilité stratégique](https://www.notion.so/L-agilit-strat-gique-vue-d-ensemble-13490eaf28ff80e2b4d8f6ab581de0f3?pvs=21) des unités business. Elle structure la manière dont elles ajustent leur stratégie localement, tout en s’inscrivant dans une dynamique globale.
-
-</aside>
+💡 **La gouvernance adaptative stratégique** Elle porte sur l’agilité stratégique des unités business. Elle structure la manière dont elles ajustent leur stratégie localement, tout en s’inscrivant dans une dynamique globale.
 
 Sans cadence, une stratégie même brillante s’épuise dans l’incohérence. La gouvernance adaptative stratégique ne consiste pas à faire “plus de réunions”. Elle transforme **la manière même dont une organisation décide, ajuste et respire**.
 
@@ -51,12 +33,7 @@ Elle repose sur une conviction simple :
 > Une gouvernance agile ne pilote pas l’exécution. Elle **cadence l’ajustement**.
 > 
 
-<aside>
-💡
-
-Voir aussi : Les [grands principes de l’agilité organisationnelle](https://www.notion.so/L-agilit-organisationnelle-au-niveau-portfolio-17a90eaf28ff80fc9691d0fb59bc4ac6?pvs=21)
-
-</aside>
+💡 Voir aussi : Les grands principes de l’agilité organisationnelle
 
 ## Gouvernance participative et itérative
 
@@ -64,14 +41,9 @@ Voir aussi : Les [grands principes de l’agilité organisationnelle](https://ww
 - Décisions stratégiques évolutives,
 - Apprentissage organisationnel continu.
 
-Contrairement à la [gouvernance Portfolio](https://www.notion.so/La-gouvernance-adaptative-Portfolio-15f90eaf28ff80f493d9ed25cf094433?pvs=21), elle agit **au plus près du terrain**.
+Contrairement à la gouvernance Portfolio, elle agit **au plus près du terrain**.
 
-<aside>
-💡
-
-**Modèle de gouvernance agilité stratégique** : [**Participatif](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)** et [**itératif**](https://www.notion.so/Dans-l-int-r-t-de-tous-14d90eaf28ff804ba5fac52ce3b7ad55?pvs=21)
-
-</aside>
+💡 **Modèle de gouvernance agilité stratégique** : **Participatif** et **itératif**
 
 ## Ce que cette gouvernance dérange réellement
 
@@ -80,16 +52,9 @@ Contrairement à la [gouvernance Portfolio](https://www.notion.so/La-gouvernance
 - Les **budgets figés** deviennent des hypothèses discutables.
 - Le **middle management** perd son confort de validation par escalade.
 
-<aside>
-⚠️
-
-Une gouvernance vivante ne se contente pas d’accélérer les décisions. Elle redistribue le pouvoir de les prendre.
-
-</aside>
+⚠️ Une gouvernance vivante ne se contente pas d’accélérer les décisions. Elle redistribue le pouvoir de les prendre.
 
 ## **Gouverner par les cadences du changement**
-
-![image.png](image%201.png)
 
 La gouvernance adaptative stratégique s’articule autour de trois boucles imbriquées :
 
@@ -130,7 +95,7 @@ La gouvernance adaptative est un **système de rythme**, pas un nouveau reportin
 - **Incohérence d’exécution** : les actions ne s’alimentent plus des décisions
 - **Asphyxie organisationnelle** : les arbitrages bloqués empêchent la stratégie de se réactualiser
 
-### [Mobilité stratégique](https://www.notion.so/La-mobilit-strat-gique-1f590eaf28ff80aeb08ad7b55a2b69d5?pvs=21) : décisions clés
+### Mobilité stratégique : décisions clés
 
 - Une unité stratégique est **structurellement stable sur un cycle**, mais peut évoluer d’un cycle à l’autre en fonction :
     - des résultats,
@@ -145,7 +110,7 @@ La gouvernance adaptative est un **système de rythme**, pas un nouveau reportin
 
 ### Par l’impact, pas par le plan
 
-Passer de la **roadmap d’initiatives** au [**pilotage par l’impact**](https://www.notion.so/L-agilit-tactique-14590eaf28ff80389786c75686ab58e9?pvs=21) :
+Passer de la **roadmap d’initiatives** au **pilotage par l’impact** :
 
 - S’engager sur des **objectifs et résultats à atteindre**, et non sur des projets spécifiques
 - Réallouer les moyens selon les résultats,
@@ -154,15 +119,7 @@ Passer de la **roadmap d’initiatives** au [**pilotage par l’impact**](https:
 
 C’est le **cadre d’impact** qui stabilise l’intention, pas la liste des projets.  Ce qui change avec une approche agile, outre la fréquence des décisions qui augmente, c’est la nature des décisions. L’un des principaux apports de l’agilité est de mieux distinguer les décisions stratégiques nécessitant une stabilité et celles qui doivent être prises plus fréquemment pour favoriser l’adaptation.
 
-<aside>
-🔥
-
-**Ce que cette gouvernance rend impossible à simuler**
-
-- Une stratégie figée.
-- Une RH administrative.
-- Une exécution automatique.
-</aside>
+🔥 **Ce que cette gouvernance rend impossible à simuler** - Une stratégie figée. - Une RH administrative. - Une exécution automatique.
 
 ### Par le risque
 
@@ -202,18 +159,13 @@ Le processus d'apprentissage collectif devient un **levier stratégique** : Feed
 
 ### Le cas TechNova — la désynchronisation des cycles
 
-![image.png](image%202.png)
+![image.png](La%20gouvernance%20adaptative%20strate%CC%81gique%2013b90eaf28ff800996ccf4dc1e54bcc6/image%201.png)
 
 En 2023, TechNova décide de repositionner 30 % de son portefeuille stratégique sur l’IA. Les unités business formulent leurs OKR en décembre. Problème : **le processus budgétaire est clos depuis novembre**.
 
 **Résultat** : les OKR stratégiques IA étaient en décalage avec les décisions budgétaires. Les revues stratégiques sont trop tardives, la réallocation échoue, le recrutement est compliqué.
 
-<aside>
-❌
-
-**Dysfonction système** : stratégie en mouvement ≠ budgets figés
-
-</aside>
+❌ **Dysfonction système** : stratégie en mouvement ≠ budgets figés
 
 L’année suivante, TechNova synchronise les cycles :
 
@@ -257,19 +209,4 @@ L’année suivante, TechNova synchronise les cycles :
 
 ---
 
-# 🔑 Points clés à retenir
-
-✅ La gouvernance adaptative est le **cœur organisationnel** de l’agilité stratégique.
-
-✅ Elle structure le **rythme décisionnel** entre intention stratégique et exécution vivante.
-
-✅ Elle s’ajuste à la nature de chaque zone stratégique.
-
-✅ Elle permet un **pilotage par l’impact**, ancré dans la réalité du terrain.
-
-✅ Elle synchronise **vision, tactique, RH et budget** sur un même tempo.
-
-> Une gouvernance vivante n’ajoute pas des réunions : elle redonne une respiration à la stratégie.
-> 
-
----
+#

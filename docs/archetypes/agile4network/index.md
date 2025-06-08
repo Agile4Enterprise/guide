@@ -1,44 +1,14 @@
 # Agile4Network : Archétype Réseau
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif de cette section** L’archétype **Réseau** organise l’entreprise en **cellules stratégiques** visant l’**innovation distribuée**, l’**expérimentation rapide** et l’**autonomie**, tout en maintenant un **alignement stratégique dynamique**.
 
-**Objectif de cette section**
-L’archétype **Réseau** organise l’entreprise en **cellules stratégiques** visant l’**innovation distribuée**, l’**expérimentation rapide** et l’**autonomie**, tout en maintenant un **alignement stratégique dynamique**.
+➿ Pour explorer le marché domotique, TechNova a réalloué 20 % de sa R&D à trois petites équipes (IoT résidentiel, cloud industriel, IA embarquée), chacune responsable de son prototype et de ses résultats.
 
-</aside>
+🧑‍🎓 **Lexique rapide** **Design Réseau** : structure plate de cellules interconnectées. **Archétype Réseau** : modèle centré sur l’agilité structurelle et les business models autonomes. **Cellule stratégique** : unité propriétaire de son P&L et responsable de sa mission. **Backlog**: file d’attente partagée coordonnant priorités et ressources. **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus. **Couplage faible** : interactions par confiance ou accords légers
 
-<aside>
-➿
-
-Pour explorer le marché domotique, TechNova a réalloué 20 % de sa R&D à trois petites équipes (IoT résidentiel, cloud industriel, IA embarquée), chacune responsable de son prototype et de ses résultats.
-
-</aside>
-
-<aside>
-🧑‍🎓
-
-**Lexique rapide**
-
-**Design Réseau** : structure plate de cellules interconnectées.
-
-**Archétype Réseau** : modèle centré sur l’agilité structurelle et les business models autonomes.
-
-**Cellule stratégique** : unité propriétaire de son P&L et responsable de sa mission.
-
-**Backlog**: file d’attente partagée coordonnant priorités et ressources.
-
-**SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus.
-
-Couplage faible : interactions par confiance ou accords légers
-
-</aside>
-
-![Archétype Réseau dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
+![Archétype Réseau dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image.png)
 
 Archétype Réseau dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -46,11 +16,15 @@ Archétype Réseau dans le modèle Agile4X des 4 archétypes agile (et de son an
 
 **Stratégie d’innovation** **distribuée :** nouveaux business models dans des niches émergentes, reposant sur une **différenciation forte** (plutôt que sur l’efficience ou la scalabilité).
 
-**Logique dominante : entrepreneuriale décentralisée, mode projet.**
+**Logique dominante : entrepreneuriale décentralisée.**
 
-**Secteurs cibles** : start-up, R&D, incubateur, portefeuilles de startups internes.
+**Exemples d’organisations**
 
-L’[organisation réseau](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21) est le fruit, entre autres, d’une stratégie qui s’est complexifiée, d’une décentralisation qui s’affirme et d’un modèle d’innovation qui s’invite dans l’entreprise.
+- Organisations **décentralisées** (coopératives, franchises).
+- Entreprises avec **hubs autonomes d’innovation** (ex. incubateurs internes).
+- R&D exploratoire dans des environnements à forte diversité culturelle et organisationnelle.
+
+L’organisation réseau est le fruit, entre autres, d’une stratégie qui s’est complexifiée, d’une décentralisation qui s’affirme et d’un modèle d’innovation qui s’invite dans l’entreprise.
 
 ## Caractéristiques clés
 
@@ -66,12 +40,7 @@ L’[organisation réseau](https://www.notion.so/Design-organisationnel-de-la-zo
 
 Cette forme de design organisationnelle est encore émergente. Elle n’est pas encore identifiée comme un modèle d’organisation à part entière.
 
-<aside>
-⚠️
-
-Il s’agit ici d’un réseau interne, les unités appartiennent à l’entreprise. Nous ne considérons pas ici le réseau externe, constitué par les partenaires de l’entreprise.
-
-</aside>
+⚠️ Il s’agit ici d’un réseau interne, les unités appartiennent à l’entreprise. Nous ne considérons pas ici le réseau externe, constitué par les partenaires de l’entreprise.
 
 ## Vue synthétique SCRIP
 
@@ -85,10 +54,10 @@ Il s’agit ici d’un réseau interne, les unités appartiennent à l’entrepr
 
 ## Cas d’usage
 
-1. [**Réseau de startups internes**](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21)
+1. **Réseau de startups internes**
     - **Objectif** : tester plusieurs MVP simultanément.
     - **Exemple TechNova** : quatre prototypes lancés en 3 mois, dont un pilote domotique viable.
-2. [**Réseau d’intraprises**](https://www.notion.so/Agile4Network-Arch-type-R-seau-13490eaf28ff805c8fcfeed28b68a77b?pvs=21)
+2. **Réseau d’intraprises**
     - **Objectif** : exploiter des activités matures en quasi autonomie.
     - **Exemple** : unité IA embarquée, déjà rentable, fournit un service récurrent au cœur du portefeuille industriel.
 
@@ -96,28 +65,21 @@ Il s’agit ici d’un réseau interne, les unités appartiennent à l’entrepr
 
 ## Structure
 
-<aside>
-💡
-
-### Unité stratégique
-
-C’est un réseau de cellules, **faiblement couplées,** où la logique de marché interne prime sur la logique hiérarchique.
-
-</aside>
+💡 ### Unité stratégique C’est un réseau de cellules, **faiblement couplées,** où la logique de marché interne prime sur la logique hiérarchique.
 
 La structure est la plus plate possible, potentiellement sans niveau hiérarchique. Deux grands modèles opposés existent :
 
-[**Entrepreneuriale](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21)  (centré vision fondateur)**
+**Entrepreneuriale  (centré vision fondateur)**
 
-![Exemple : startup](image%201.png)
+![Exemple : startup](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%201.png)
 
 Exemple : startup
 
 L'**archétype entrepreneurial** est centralisé. La collaboration repose sur une supervision directe par l’équipe fondatrice, les décisions reflètent sa vision, et l'organisation résiste à toute structure formelle, limitant la hiérarchie managériale. Cela permet des décisions rapides et évite les conflits, mais repose largement sur quelques personnes. Ce modèle permet de changer rapidement l'ensemble de l'organisation.
 
-[**Holistique](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21) (cercle auto-organisé)**
+**Holistique (cercle auto-organisé)**
 
-![**Exemple** : Sociocratie, Holacratie](image%202.png)
+![**Exemple** : Sociocratie, Holacratie](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%202.png)
 
 **Exemple** : Sociocratie, Holacratie
 
@@ -125,22 +87,15 @@ Modèle alternatif : **sociocratie, gouvernance dynamique**.
 
 Le modèle **holistique**, ou **holacratie**, propose une vision radicale de la structure organisationnelle, où le pouvoir et les responsabilités sont distribués plutôt que centralisés. Ce modèle repose sur la gouvernance par des cercles d'équipes autoorganisées, chacun possédant une grande autonomie dans la gestion de ses affaires. Les cercles ont une durée de vie liée à leur mission, et non à une personne. Et peuvent se décider sans accord hiérarchique.
 
-<aside>
-💡
+💡 ### Unité tactique/ opérationnelle C’est une cellule (ou pôle) autonome définie par sa mission. Il n’y a pas de niveau tactique comme pour le produit ou le projet.
 
-### Unité tactique/ opérationnelle
+Couplage faible entre cellules
 
-C’est une cellule (ou pôle) autonome définie par sa mission. Il n’y a pas de niveau tactique comme pour le produit ou le projet.
-
-</aside>
-
-[Couplage faible](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21) entre cellules
-
-- Ce réseau de cellules constitue le [réseau informelle de l’organisation duale](https://www.notion.so/La-reconfigurabilit-organisationnelle-14390eaf28ff80a3bb7dcfa1a866df07?pvs=21).
+- Ce réseau de cellules constitue le réseau informelle de l’organisation duale.
 - Chacune cellule est spécialisée dans une fonction spécifique. Elle peut fonctionner de manière indépendante tout en étant interconnectée.
 - Les équipes peuvent se reconfigurer rapidement en fonction des besoins émergents, tout en maintenant une cohérence et une direction stratégique globale.
 
-[Dépendance faible](https://www.notion.so/Minimiser-les-interd-pendances-14390eaf28ff804f9da7d83917dd8232?pvs=21) entre cellules
+Dépendance faible entre cellules
 
 - **Les cellules sont pluri fonctionnelles car l’interdépendance principale est mutualisée**. Les dépendances résiduelles entre cellules sont gérées par ajustement mutuel entre équipes.
 
@@ -148,9 +103,9 @@ C’est une cellule (ou pôle) autonome définie par sa mission. Il n’y a pas 
 
 ### **Passage à l’échelle**
 
-![image.png](image%203.png)
+![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%203.png)
 
-Un réseau se développe de manière organique, par **dissolution/reformation des cellules** en fonction des besoins émergents ou des décisions stratégiques. Cependant, même un [réseau a une structure](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21), créée par les processus formelles ou informelles. Les relations privilégiées qui se développent au sein de ce réseau, et sa structure sont fortement liées à la [culture de ce réseau](https://www.notion.so/Les-mod-les-organisationnels-une-approche-culturelle-15e90eaf28ff8007833ff2ce6c1bcea7?pvs=21), selon que ces connexions sont plus de l’ordre bureaucratique, économique, opérationnel, culturel ou informationnel. C’est pourquoi dans un réseau, les connexions sont tout aussi importantes que les unités elles-mêmes.
+Un réseau se développe de manière organique, par **dissolution/reformation des cellules** en fonction des besoins émergents ou des décisions stratégiques. Cependant, même un réseau a une structure, créée par les processus formelles ou informelles. Les relations privilégiées qui se développent au sein de ce réseau, et sa structure sont fortement liées à la culture de ce réseau, selon que ces connexions sont plus de l’ordre bureaucratique, économique, opérationnel, culturel ou informationnel. C’est pourquoi dans un réseau, les connexions sont tout aussi importantes que les unités elles-mêmes.
 
 Là ou les autres formes organisationnelles se caractérisent par leur capacité de mise en œuvre d’une stratégie existante, le réseau n’est pas lié au choix d’une stratégie donnée, ouvrant le champ des possibles aux innovations.
 
@@ -164,7 +119,7 @@ Là ou les autres formes organisationnelles se caractérisent par leur capacité
 - **Proactivité :** Provoquer le changement dès que possible pour accélérer l'apprentissage et ajuster rapidement.
 - **Amélioration continue :** Elle porte sur sa capacité à expérimenter son business. Il s’agit d’améliorer son processus de flux d’expérimentations pour le rendre le plus efficient possible : réduire la durée entre l’idée et l’apprentissage. On peut parler de Time To Test Idea.
 
-L’innovation est distribuée, contrairement à l’[organisation Projet](https://www.notion.so/Agile4Project-Arch-type-Projet-agile-13490eaf28ff8030a8aeecf9206d94ea?pvs=21) dont l’innovation est ciblée sur un objectif.
+L’innovation est distribuée, contrairement à l’organisation Projet%2013490eaf28ff8030a8aeecf9206d94ea.md) dont l’innovation est ciblée sur un objectif.
 
 | Capacité | TechNova |
 | --- | --- |
@@ -188,7 +143,7 @@ L’enjeu managérial va être l’alignement, s’assurer que chaque cellule re
 
 Il existe une logique de pollinisation croisée au sein du réseau.
 
-[Style managérial](https://www.notion.so/L-agilit-op-rationnelle-13490eaf28ff80e5b767fd273784c80b?pvs=21) : leadership stratégique, entrepreneurial, participatif et adaptatif. Il n’y a pas de rôle managérial figé, et le leadership est basé sur la mission, pas sur la position.
+Style managérial : leadership stratégique, entrepreneurial, participatif et adaptatif. Il n’y a pas de rôle managérial figé, et le leadership est basé sur la mission, pas sur la position.
 
 La multi compétences et les profils en T sont valorisés pour favoriser l’**autonomie** et la transversalité, au travers la **coopération inter cellules**.
 
@@ -196,19 +151,19 @@ La multi compétences et les profils en T sont valorisés pour favoriser l’**a
 
 **Pilotage par la mission :** Les cellules se créent et s’arrêtent par rapport à la mission qu’on leur fixe ou qu’elles se fixent. Ces missions sont définies au niveau tactique.
 
-[**Coordination horizontale](https://www.notion.so/La-coordination-horizontale-14390eaf28ff803ca06ccdf8026760d7?pvs=21),** [le réseau de Backlogs](https://www.notion.so/Le-Backlog-un-outil-d-int-gration-ou-de-coordination-14490eaf28ff805e9950ccf8c65367cb?pvs=21)
+**Coordination horizontale,** le réseau de Backlogs
 
 Chaque équipe possède son propre Backlog. La coordination horizontale est gérée par du management réticulaire.
 
-[**Coordination verticale**](https://www.notion.so/La-coordination-verticale-14390eaf28ff807b9cafd0f0af71e154?pvs=21)
+**Coordination verticale**
 
 Le besoin en coordination est par définition beaucoup moins important que dans les autres contextes. La coordination minimum se fait par agrégation de tous ces Backlogs au niveau de l’organisation, dans un but d’alignement et d’allocation budgétaire. Cette coordination verticale est centralisée par la direction et assurée par des principes stratégiques partagés.
 
-[**Cadence de changement**](https://www.notion.so/Agile4B-Les-4-boucles-adaptatives-13b90eaf28ff8091b4cce85974f50938?pvs=21)
+**Cadence de changement**
 
 Une cadence tactique et opérationnelle uniquement.
 
-**Méthode privilégiée** : [Lean Startup](https://www.notion.so/Lean-StartUp-18390eaf28ff80bc8928d9d864ef7628?pvs=21) pour l’exploration, Design Thinking de manière plus générale lorsque la mission ne peut se découper en éléments plus élémentaires.
+**Méthode privilégiée** : Lean Startup pour l’exploration, Design Thinking de manière plus générale lorsque la mission ne peut se découper en éléments plus élémentaires.
 
 ## Résultats : Performance & Culture
 
@@ -255,12 +210,7 @@ Pour ne pas avoir une organisation Réseau Zombie :
 > Ce modèle est idéal pour les environnements incertains, complexes et évolutifs, où l’agilité structurelle est un levier de survie et de différenciation.
 > 
 
-<aside>
-➿
-
-**Question** : TechNova aurait-elle innové aussi vite sans cette structure réseau ?
-
-</aside>
+➿ **Question** : TechNova aurait-elle innové aussi vite sans cette structure réseau ?
 
 ## Ce qu’on sacrifie en choisissant ce modèle
 
@@ -299,19 +249,19 @@ Si vous n’avez pas trois oui, mais que vous souhaitez vous orienter vers un **
 
 Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
 
-- [Agile Organization](https://www.notion.so/Agile-Organization-1ab90eaf28ff8003bfade060d325859d?pvs=21) de Pierre Neis
-- [Beta Codex](https://www.notion.so/Design-organisationnel-de-la-zone-Exploration-13f90eaf28ff8012b2fcc13892e9048e?pvs=21) de Niels Pflaeging
-- Sociocratie et [Holacratie](https://www.notion.so/Holacratie-18990eaf28ff80bab083f63fda00359b?pvs=21)
+- Agile Organization de Pierre Neis
+- Beta Codex de Niels Pflaeging
+- Sociocratie et Holacratie
 
 ---
 
 # Synthèse de l’archétype Réseau
 
-![*Alignement stratégique du modèle organisationnel réseau*](image%204.png)
+![*Alignement stratégique du modèle organisationnel réseau*](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%204.png)
 
 *Alignement stratégique du modèle organisationnel réseau*
 
-### 👉 Et maintenant ? Zoom sur l’[archétype Agile4Project](https://www.notion.so/Agile4Project-Arch-type-Projet-agile-13490eaf28ff8030a8aeecf9206d94ea?pvs=21) [](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21)!
+### 👉 Et maintenant ? Zoom sur l’archétype Agile4Project%2013490eaf28ff8030a8aeecf9206d94ea.md) [](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257.md)!
 
 ---
 
@@ -321,17 +271,17 @@ Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
 
 ### Réseau de startups internes
 
-![Zone d’exploration du modèle 4E](image%205.png)
+![Zone d’exploration du modèle 4E](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%205.png)
 
 Zone d’exploration du modèle 4E
 
-![image.png](image%206.png)
+![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%206.png)
 
-Cycle de vie de l’actif : [Lancement](https://www.notion.so/Design-organisationnel-de-la-zone-Expansion-13f90eaf28ff8097b421cd0166ec489b?pvs=21)
+Cycle de vie de l’actif : Lancement
 
-![image.png](image%207.png)
+![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%207.png)
 
-Segment clients : [Novateurs et primo adoptants](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21)
+Segment clients : Novateurs et primo adoptants
 
 Les startups internes sont conçues comme des entités exploratoires cherchant à tester des business models innovants. Elles combinent :
 
@@ -341,48 +291,35 @@ Les startups internes sont conçues comme des entités exploratoires cherchant �
 
 Une startup est à la recherche d’un business model innovant. Son approche est à la fois tactique et opportuniste. Elle n’est pas encore viable financièrement.
 
-<aside>
-⚠️
-
-Cela implique qu’une entreprise ne peut pas n’être qu’un réseau de startups internes : La somme d’organisations non viables n’en fait pas une organisation viable. 
-
-</aside>
+⚠️ Cela implique qu’une entreprise ne peut pas n’être qu’un réseau de startups internes : La somme d’organisations non viables n’en fait pas une organisation viable.
 
 ### Réseau d’intraprises
 
-![Zone d’Exploitation du modèle 4E](image%208.png)
+![Zone d’Exploitation du modèle 4E](Agile4Flow%20Arche%CC%81type%20Flux%2013490eaf28ff809bac54ed5deaa8a257/image%201.png)
 
 Zone d’Exploitation du modèle 4E
 
-![image.png](image%209.png)
+![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%208.png)
 
-Cycle de vie de l’actif : [Maturité](https://www.notion.so/Design-organisationnel-de-la-zone-Expansion-13f90eaf28ff8097b421cd0166ec489b?pvs=21)
+Cycle de vie de l’actif : Maturité
 
-![image.png](image%2010.png)
+![image.png](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%209.png)
 
-Segment clients : [Majorité tardive](https://www.notion.so/Explorer-et-comprendre-la-strat-gie-13690eaf28ff81d18468ca20936fdecc?pvs=21)
+Segment clients : Majorité tardive
 
-Les intraprises sont des unités autonomes ayant prouvé leur viabilité à l’échelle dans la zone d’expansion. Elles cherchent à **exploiter un avantage concurrentiel durable dans la zone d’exploitation tout en restant quasi autonomes** (contrairement aux organisations cherchant à s’intégrer au cœur de métier). On les retrouve principalement dans le cas de portefeuilles stratégiques [découplés](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21).
+Les intraprises sont des unités autonomes ayant prouvé leur viabilité à l’échelle dans la zone d’expansion. Elles cherchent à **exploiter un avantage concurrentiel durable dans la zone d’exploitation tout en restant quasi autonomes** (contrairement aux organisations cherchant à s’intégrer au cœur de métier). On les retrouve principalement dans le cas de portefeuilles stratégiques découplés.
 
 ### Evolution d’une unité stratégique Réseau
 
-![Evolution d’une unité stratégique dans un archétype Réseau](image%2011.png)
+![Evolution d’une unité stratégique dans un archétype Réseau](Agile4Network%20Arche%CC%81type%20Re%CC%81seau%2013490eaf28ff805c8fcfeed28b68a77b/image%2010.png)
 
 Evolution d’une unité stratégique dans un archétype Réseau
 
-Les cellules du réseau naissent de petites unités autonomes créées pour explorer de nouvelles opportunités. Elles sont au départ protégées au sein d’organisations internes conçues spécifiquement pour cet objectif (type incubateur interne). Puis elles passent progressivement au stade de startups internes qui évoluent en organisations produit si elles trouvent leur **adéquation produit-marché**. En passant à l’échelle, elles intègrent la **zone d’exploitation** et peuvent basculer vers un [archétype Flux](https://www.notion.so/Agile4Flow-Arch-type-Flux-13490eaf28ff809bac54ed5deaa8a257?pvs=21) (différenciation par le service) ou [archétype Produit](https://www.notion.so/Agile4Product-Arch-type-Produit-13490eaf28ff80b29733f767568ab6a5?pvs=21) (différenciation par la valeur).
+Les cellules du réseau naissent de petites unités autonomes créées pour explorer de nouvelles opportunités. Elles sont au départ protégées au sein d’organisations internes conçues spécifiquement pour cet objectif (type incubateur interne). Puis elles passent progressivement au stade de startups internes qui évoluent en organisations produit si elles trouvent leur **adéquation produit-marché**. En passant à l’échelle, elles intègrent la **zone d’exploitation** et peuvent basculer vers un archétype Flux (différenciation par le service) ou archétype Produit (différenciation par la valeur).
 
-<aside>
-➿
+➿ **Exemple TechNova** IA: - Mode startup : prototype IA validé, pilote domotique sur les 100 premiers foyers. - Mode produit : Déploiement à 80% de la base client sur la gamme IA. - Mode flux : Intégration dans tous les capteurs industriels en exploitation.
 
-**Exemple TechNova** IA:
-
-- Mode startup : prototype IA validé, pilote domotique sur les 100 premiers foyers.
-- Mode produit : Déploiement à 80% de la base client sur la gamme IA.
-- Mode flux : Intégration dans tous les capteurs industriels en exploitation.
-</aside>
-
-## [Le radar de l’Archétype Réseau](https://www.notion.so/Radar-de-l-entreprise-agile-13490eaf28ff80288f7dcd0fee927567?pvs=21)
+## Le radar de l’Archétype Réseau
 
 Voici la déclinaison du **Radar de l’Entreprise Agile** pour l’**Archétype Réseau**, permettant d’évaluer et de guider la transformation des organisations adoptant une structure en **réseau d’unités stratégiques autonomes**.
 

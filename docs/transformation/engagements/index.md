@@ -2,13 +2,7 @@
 
 Propriétaire: Laurent Morisseau
 
-<aside>
-💡
-
-**Objectifs**
-Avant de démarrer votre transformation, clarifier les **10 engagements non négociables** : ils guident chaque choix, chaque outil et chaque action, en plaçant toujours le **pourquoi** avant le **comment**.
-
-</aside>
+💡 **Objectifs** Avant de démarrer votre transformation, clarifier les **10 engagements non négociables** : ils guident chaque choix, chaque outil et chaque action, en plaçant toujours le **pourquoi** avant le **comment**.
 
 ## Pourquoi ces engagements ?
 
@@ -111,11 +105,4 @@ La transformation agile est **un flux**, pas un état atteint. L’entreprise **
 
 ---
 
-# 🔑 Points clés à retenir
-
-- **Le pourquoi** avant le **comment** : engagez‐vous d’abord.
-- **10 engagements** = GPS de votre transformation.
-- **Design des tensions** : là où on ne peut plus faire semblant.
-- **Action immédiate** : choisissez, testez, mesurez, ajustez.
-
-### 👉 Et maintenant ? Vous êtes prêt à passer à la [démarche transformationnelle](https://www.notion.so/D-marche-transformationnelle-18b90eaf28ff800582fff48437349af8?pvs=21) !
+#

@@ -1,18 +1,10 @@
 # La gouvernance adaptative opérationnelle
 
-Propriétaire: Laurent Morisseau
 
-- Sommaire
 
-<aside>
-✨
+✨ **Objectif** Mettre en place un cadre **vivant** où chaque équipe opère **librement** tout en restant **alignée** sur les cycles tactiques et stratégiques, grâce à des **cadences intégrées**, des **boucles de feedback**.
 
-**Objectif**
-Mettre en place un cadre **vivant** où chaque équipe opère **librement** tout en restant **alignée** sur les cycles tactiques et stratégiques, grâce à des **cadences intégrées**, des **boucles de feedback**.
-
-</aside>
-
-![Cadence du changement opérationnel](image.png)
+![Cadence du changement opérationnel](La%20gouvernance%20adaptative%20ope%CC%81rationnelle%2013b90eaf28ff80da8cefeb9b98d6b1c9/image.png)
 
 Cadence du changement opérationnel
 
@@ -33,16 +25,11 @@ L’agilité ne se limite pas à un framework : elle se structure par un **syst�
     Des rythmes stables — **quotidien**, **hebdo/bimensuel**, **trimestriel** — qui garantissent un ajustement permanent.
     
 
-<aside>
-⚠️
-
-Lorsque l’unité tactique n’a qu’une équipe, les deux niveaux - tactique et opérationnel - sont fusionnés.
-
-</aside>
+⚠️ Lorsque l’unité tactique n’a qu’une équipe, les deux niveaux - tactique et opérationnel - sont fusionnés.
 
 ## Les cadences opérationnelles
 
-![image.png](image%201.png)
+![image.png](La%20gouvernance%20adaptative%20ope%CC%81rationnelle%2013b90eaf28ff80da8cefeb9b98d6b1c9/image%201.png)
 
 > Cadence = rythme de vie de l’équipe
 > 
@@ -57,23 +44,7 @@ Lorsque l’unité tactique n’a qu’une équipe, les deux niveaux - tactique 
 | **Revue tactique** | Trimestrielle | Alignement sur les OKR tactiques, ajustement des objectifs |
 | **Rétro actionnable** | Mensuelle ou bimensuelle | Capitalisation des apprentissages et ajustement du cadre |
 
-<aside>
-➿
-
-## l’équipe **Orion** en cadence
-
-1. **Daily Stand-up**
-    - Chacun fait un point « Aujourd’hui / Hier / Bloqué ».
-    - L’équipe identifie le besoin de support sur un incident paiement.
-2. **Revue d’adaptation hebdo**
-    - On réalloue 10 % de la capacité au hotfix.
-    - Mise à jour du backlog et des OKR tactiques.
-3. **Revue tactique trimestrielle**
-    - Analyse des indicateurs : latence, satisfaction client.
-    - Redéfinition des OKR : la fiabilité devient l’objectif du prochain cycle.
-4. **Rétro mensuelle actionnable**
-    - Format « I Saw / I Did / I Want » : adoption d’un nouveau template de revue d’incident.
-</aside>
+➿ ## l’équipe **Orion** en cadence 1. **Daily Stand-up** - Chacun fait un point « Aujourd’hui / Hier / Bloqué ». - L’équipe identifie le besoin de support sur un incident paiement. 2. **Revue d’adaptation hebdo** - On réalloue 10 % de la capacité au hotfix. - Mise à jour du backlog et des OKR tactiques. 3. **Revue tactique trimestrielle** - Analyse des indicateurs : latence, satisfaction client. - Redéfinition des OKR : la fiabilité devient l’objectif du prochain cycle. 4. **Rétro mensuelle actionnable** - Format « I Saw / I Did / I Want » : adoption d’un nouveau template de revue d’incident.
 
 ## Mécanismes clés de la gouvernance déléguée
 
@@ -122,16 +93,4 @@ Lorsque l’unité tactique n’a qu’une équipe, les deux niveaux - tactique 
 
 ---
 
-# 🔑 Points clés à retenir
-
-- **Cadences = vie d’équipe** : daily, hebdo, mensuel, trimestriel.
-- **Autonomie encadrée** : délégué, pas abandonné.
-- **Gouvernance adaptative** : cycles courts + feedbacks multi-niveaux.
-- **Résilience structurelle** : changement incrémental sans projet lourd.
-
-> La gouvernance adaptative opérationnelle est l’ossature flexible qui donne vie à l’agilité au quotidien.
-> 
-
----
-
-### 👉 Et maintenant ? [Comment s’organiser](https://www.notion.so/L-agilit-organisationnelle-au-niveau-op-rationnel-17b90eaf28ff80d1a529c5311cb392b5?pvs=21) pour mettre cela en musique !
+#

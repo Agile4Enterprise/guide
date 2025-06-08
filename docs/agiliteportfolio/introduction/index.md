@@ -5,52 +5,21 @@ Propriétaire: Laurent Morisseau
 
 - Sommaire
 
-<aside>
-✨
-
-**Objectif**
-
-Piloter votre portefeuille stratégique : détecter en continu les opportunités, redistribuer talents et budgets en temps réel, et maximiser la création de valeur.
-
-**Les enjeux**
-
-Bâtir des synergies entre activités et garantir une mobilité stratégique fluide, pour rester à l’avant-poste face à la concurrence.
-
-</aside>
+✨ **Objectif** Piloter votre portefeuille stratégique : détecter en continu les opportunités, redistribuer talents et budgets en temps réel, et maximiser la création de valeur. **Les enjeux** Bâtir des synergies entre activités et garantir une mobilité stratégique fluide, pour rester à l’avant-poste face à la concurrence.
 
 # Un panorama stratégique
 
-<aside>
-➿
+➿ ***Fil rouge : TechNova, une entreprise fictive*** *Fin 2024, cette scale-up de l’IoT détecte une demande montante pour la domotique. Plutôt que d’attendre son cycle budgétaire annuel, elle réalloue immédiatement 20 % de ses équipes R&D vers un prototype de capteurs intelligents. En moins de trois mois, le MVP est testé sur le marché.*
 
-***Fil rouge : TechNova, une entreprise fictive***
-
-*Fin 2024, cette scale-up de l’IoT détecte une demande montante pour la domotique. Plutôt que d’attendre son cycle budgétaire annuel, elle réalloue immédiatement 20 % de ses équipes R&D vers un prototype de capteurs intelligents. En moins de trois mois, le MVP est testé sur le marché.*
-
-</aside>
-
-Imaginez que votre portefeuille puisse faire de même : il ne s’agit plus d’un inventaire figé, mais d’un **système dynamique** qui s’ajuste au fil des signaux du marché. C’est l’essence de l’**Agilité Portfolio** !
+Imaginez que votre portefeuille puisse faire de même : il ne s’agit plus d’un inventaire figé, mais d’un **système dynamique** qui s’ajuste au fil des signaux du marché. Dans un environnement où l’incertitude et la complexité sont devenues la norme, la **capacité d’adaptation du portefeuille** est un facteur clé de résilience et de compétitivité. C’est l’essence de l’**Agilité Portfolio** !
 
 ## Définitions clés
 
-<aside>
-🔎
+🔎 Portefeuille stratégique Il regroupe l’ensemble des activités et investissements d’une entreprise. L’objectif ? **Maximiser la valeur globale** de votre entreprise en répartissant ressources et priorités entre des initiatives aux horizons et risques variés.
 
-[Portefeuille stratégique](https://www.notion.so/Faire-cohabiter-plusieurs-horizons-strat-giques-13690eaf28ff816f931efc5a173335bc?pvs=21)
-Il regroupe l’ensemble des activités et investissements d’une entreprise.
-L’objectif ? **Maximiser la valeur globale** de votre entreprise en répartissant ressources et priorités entre des initiatives aux horizons et risques variés.
+💡 **Agilité Portfolio** C’est cette capacité à transformer votre portefeuille d’activités – produits, marchés, projets, innovations – en un système vivant, capable de s’ajuster à l’évolution du marché.
 
-</aside>
-
-<aside>
-💡
-
-**Agilité Portfolio**
-C’est cette capacité à transformer votre portefeuille d’activités – produits, marchés, projets, innovations – en un système vivant, capable de s’ajuster à l’évolution du marché.
-
-</aside>
-
-![La place de l’agilité Portfolio dans les boucles d’adaptabilité](image.png)
+![La place de l’agilité Portfolio dans les boucles d’adaptabilité](L%E2%80%99agilite%CC%81%20Portfolio%20vue%20d%E2%80%99ensemble%2018f90eaf28ff8009b702d2aa0eae18cf/image.png)
 
 La place de l’agilité Portfolio dans les boucles d’adaptabilité
 
@@ -67,7 +36,7 @@ Les enjeux :
 
 - **Réévaluer en continu** vos initiatives (ex. : détecter un nouveau segment de clientèle).
     
-    *TechNova surveille cinq PoC en temps réel*
+    *TechNova surveille cinq prototypes en temps réel*
     
 - **Réallouer immédiatement** talents, budgets et technologies vers les priorités émergentes.
     
@@ -92,7 +61,7 @@ Le but est de le faire avant la concurrence ou de manière plus efficace pour en
     
 3. **Performance durable** : un cercle vertueux d’innovation, d’apprentissage et de réinvestissement.
     
-    *Chaque PoC réussi alimente la roadmap 2025*
+    *Chaque prototype réussi alimente la roadmap 2025*
     
 
 Sans adaptation permanente, vous risquez d’investir dans un projet obsolète et de manquer la vague suivante.
@@ -101,7 +70,7 @@ Sans adaptation permanente, vous risquez d’investir dans un projet obsolète e
 
 Une gestion agile du portefeuille stratégique s’appuie sur 4 piliers :
 
-1. [**Gouvernance adaptative**](https://www.notion.so/La-gouvernance-adaptative-Portfolio-15f90eaf28ff80f493d9ed25cf094433?pvs=21)
+1. **Gouvernance adaptative**
     - Revues annuelles pour ajuster la vision long terme.
     - Points trimestriels pour réorienter budgets et équipes.
     
@@ -110,7 +79,7 @@ Une gestion agile du portefeuille stratégique s’appuie sur 4 piliers :
 2. **Pilotage dynamique**
     - Boucle continue de décision « build-measure-learn ».
     - Des décisions en fonction des évènements, et non selon des cycles budgétaires.
-3. [**Cartographie stratégique 4E**](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21)
+3. **Cartographie stratégique 4E**
     
     Un modèle simple – **Exploration**, **Expansion**, **Exploitation**, **Exclusion** – pour visualiser et prioriser vos zones stratégiques.
     
@@ -130,7 +99,7 @@ L’Agilité Portfolio n’est pas une évidence : elle bouscule plusieurs équi
     
 - **Court terme vs moyen/long terme**
     
-    *Elle équilibre livraisons rapides de PoC et vision 2030 sur l’IA embarquée.*
+    *Elle équilibre livraisons rapides de prototype et vision 2030 sur l’IA embarquée.*
     
 - **Autonomie locale vs cohérence globale**
     
@@ -143,16 +112,13 @@ L’Agilité Portfolio n’est pas une évidence : elle bouscule plusieurs équi
     Qui tranche : le comité exécutif ou les managers de terrain ? Comment concilier direction claire et prises d’initiatives locales ?
     
 
-Chacune de ces polarités doit être arbitrée, pas masquée. Cela ne se décide pas dans un comité mais s’ajuste avec des [boucles adaptatives](https://www.notion.so/La-gouvernance-adaptative-Portfolio-15f90eaf28ff80f493d9ed25cf094433?pvs=21) (*TechNova organise un “flash review” dès qu’un KPI dépasse un seuil critique).*
+Chacune de ces polarités doit être arbitrée, pas masquée. Cela ne se décide pas dans un comité mais s’ajuste avec des boucles adaptatives (*TechNova organise un “flash review” dès qu’un KPI dépasse un seuil critique).*
 
-<aside>
-🔎
+🔎 En savoir plus sur les typologies de portefeuilles
 
-En savoir plus sur les [typologies de portefeuilles](https://www.notion.so/Les-principes-de-design-strat-gique-13e90eaf28ff80628778e05ec7ed18cc?pvs=21)
+## Et concrètement, lundi matin ?
 
-</aside>
-
-## Checklist rapide : évaluez votre besoin en Agilité Portfolio
+Évaluez votre besoin en Agilité Portfolio !
 
 ### Confiance dans le système
 
@@ -183,7 +149,7 @@ En savoir plus sur les [typologies de portefeuilles](https://www.notion.so/Les-p
 
 ---
 
-## [Processus clés](https://www.notion.so/La-gouvernance-adaptative-Portfolio-15f90eaf28ff80f493d9ed25cf094433?pvs=21) impactés
+## Processus clés impactés
 
 Listez vos processus à synchroniser pour vivre l’Agilité Portfolio :
 
@@ -194,18 +160,4 @@ Listez vos processus à synchroniser pour vivre l’Agilité Portfolio :
 
 ---
 
-# 🔑 Points clés à retenir
-
-- Votre portefeuille devient un **système vivant** d’ajustements synchronisés.
-- **Synergies** et **mobilité** entre BU sont essentielles pour la compétitivité.
-- **Boucle adaptative** = revues annuelles + ajustements trimestriels + KPI en continu.
-- **Cartographie 4E** pour piloter exploration, expansion, exploitation et exclusion.
-- **Mobilité stratégique** : déplacez talents et budgets en semaines, pas en trimestres.
-- **Tensions** à arbitrer constamment : stabilité / flexibilité, court terme / futur, local / global, top-down / bottom-up.
-
-> Agile4Enterprise transforme votre portefeuille en un levier de performance et de résilience.
-> 
-
-### 👉 Et maintenant ? Prêt·e à faire battre le cœur de votre stratégie ?
-
-Votre portefeuille a tout à gagner à devenir un atout **vivant** plutôt qu’un simple inventaire statique. Tournez la page : le voyage commence par la [**Cartographie Agile4E**](https://www.notion.so/Agile4E-La-cartographie-strat-gique-vivante-13490eaf28ff803a884fc20066900149?pvs=21).
+#
