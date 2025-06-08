@@ -46,7 +46,7 @@ La stratégie IA avait du potentiel. Mais sans slack, pas de réinvention. Sans 
 
 # Trois erreurs classiques de la stratégie à désactiver
 
-![De l’intention stratégique à la stratégie réalisée, d’après Mintzberg et Waters](image%201.png)
+![De l’intention stratégique à la stratégie réalisée, d’après Mintzberg et Waters](image 1.png)
 
 De l’intention stratégique à la stratégie réalisée, d’après Mintzberg et Waters
 
@@ -78,7 +78,7 @@ L’Agilité Stratégique n’est pas une évidence : elle bouscule également p
 
 ## **Un curseur d’agilité pour naviguer dans ces tensions**
 
-![image.png](image%202.png)
+![image.png](image 2.png)
 
 Si l’objectif d’une stratégie est de construire un **avantage concurrentiel durable**, ,aujourd’hui, la **rapidité du changement** remet en cause cette notion. Un avantage concurrentiel peut durer dix ans ou dix mois. Désormais, **le degré d'agilité stratégique requis** dépend directement de l'évolution du contexte. L’avantage concurrentiel est :
 
@@ -92,7 +92,7 @@ Si l’objectif d’une stratégie est de construire un **avantage concurrentiel
 > L’agilité stratégique pilote l’évolution permanente entre ce que l’on vise et ce que l’on apprend.
 > 
 
-![Le modèle d’agilité stratégique](image%203.png)
+![Le modèle d’agilité stratégique](image 3.png)
 
 Le modèle d’agilité stratégique
 
@@ -111,7 +111,7 @@ La **stratégie réalisée** **est le produit de ces quatre dynamiques.**
 
 # Modèle 3R — Les 3 boucles du changement stratégique
 
-![*Les trois niveaux de réponses stratégiques au changement*](image%204.png)
+![*Les trois niveaux de réponses stratégiques au changement*](image 4.png)
 
 *Les trois niveaux de réponses stratégiques au changement*
 

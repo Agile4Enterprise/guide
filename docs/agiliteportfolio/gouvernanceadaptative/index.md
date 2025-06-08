@@ -87,7 +87,7 @@ Dans Agile4Enterprise, le portefeuille d’activités n’est pas figé par un c
 
 ## **Les 4 cadences d’orchestration**
 
-![image.png](image%201.png)
+
 
 La stratégie corporate a plusieurs horizons temporels :
 

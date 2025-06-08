@@ -8,7 +8,7 @@
 
 🧑‍🎓 **Lexique rapide** **Design systémique** : approche holistique considérant l’organisation comme un tout interconnecté. Flux : *Comme un robinet, on ouvre juste ce qu’il faut ; trop peu, c’est goutte-à-goutte ; trop, c’est débordement.* **Archétype Flux** : modèle orienté chaîne de valeur et optimisation du flux. **Zone d’exploitation** : phase de maturité / majorité tardive, où la continuité de service prime. **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus. **Backlog** : file d’attente Kanban, outil de coordination et d’adaptation capacitaire.
 
-![Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
+
 
 Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -29,15 +29,15 @@ Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti 
 
 ## **Caractéristiques clés**
 
-🧰 ![Zone d’Exploitation du modèle 4E](image%201.png) Zone d’Exploitation du modèle 4E
+🧰 ![Zone d’Exploitation du modèle 4E](image 1.png) Zone d’Exploitation du modèle 4E
 
 **Zone 4E privilégiée** : zone d’exploitation
 
-![image.png](image%202.png)
+![image.png](image 2.png)
 
 Actifs matures
 
-![image.png](image%203.png)
+![image.png](image 3.png)
 
 Clientèle privilégiée : majorité tardive
 
@@ -58,7 +58,7 @@ Clientèle privilégiée : majorité tardive
 
 ## Structure
 
-![Extension à travers un réseau](image.png)
+
 
 Extension à travers un réseau
 

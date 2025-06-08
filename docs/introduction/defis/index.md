@@ -86,7 +86,7 @@ Cela nécessite l’adoption de **la pensée complexe**, qui combine plusieurs p
 
 # **Et concrètement ? Le modèle Cynefin**
 
-![*Modèle Cynefin, adapté de Dave Snowden*](image%201.png)
+![*Modèle Cynefin, adapté de Dave Snowden*](image 1.png)
 
 *Modèle Cynefin, adapté de Dave Snowden*
 

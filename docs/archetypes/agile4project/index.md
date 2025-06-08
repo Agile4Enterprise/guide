@@ -8,7 +8,7 @@
 
 🧑‍🎓 **Lexique rapide** **Projet** : effort temporaire, budgété, avec objectif et échéance. **Backlog Projet** : file d’attente des tâches propre à chaque projet. **SCRIP** : Structure, Capacités, Reconnaissance, Individus, Processus (Projet). **OKR stratégiques vs OKR tactiques** : objectifs programme / initiatives stratégiques vs objectifs de projet.
 
-![Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image.png)
+%2013490eaf28ff8030a8aeecf9206d94ea/image.png)
 
 Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
 
@@ -51,7 +51,7 @@ Archétype Projet dans le modèle Agile4X des 4 archétypes agile (et de son ant
 
 ## Structure
 
-![Structure type d’une organisation Projet](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%201.png)
+%2013490eaf28ff8030a8aeecf9206d94ea/image%201.png)
 
 Structure type d’une organisation Projet
 
@@ -223,7 +223,7 @@ L’approche n’est pas nouvelle. Ici, la transformation consiste à basculer s
 
 # Synthèse de l’archétype Projet
 
-![*Alignement stratégique du modèle organisationnel projet*](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%202.png)
+%2013490eaf28ff8030a8aeecf9206d94ea/image%202.png)
 
 *Alignement stratégique du modèle organisationnel projet*
 
@@ -268,31 +268,31 @@ L’archétype **Projet** s’applique principalement dans **deux contextes stra
 
 **Objectif** : Rechercher un business model innovant ciblé.
 
-![Modèle 4E](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%203.png)
+%2013490eaf28ff8030a8aeecf9206d94ea/image%203.png)
 
 Modèle 4E
 
-![image.png](image%206.png)
+![image.png](image 6.png)
 
 Cycle de vie de l’actif : Lancement
 
-![image.png](image%207.png)
+
 
 Segment clients : Novateurs et primo adoptants
 
 ### Zone d’exclusion
 
-![Modèle 4E](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%204.png)
+%2013490eaf28ff8030a8aeecf9206d94ea/image%204.png)
 
 Modèle 4E
 
 **Objectif** : Désengager un actif pour libérer des ressources stratégiques.
 
-![image.png](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%205.png)
+%2013490eaf28ff8030a8aeecf9206d94ea/image%205.png)
 
 Cycle de vie de l’actif : Déclin
 
-![image.png](Agile4Project%20Arche%CC%81type%20Projet%20(agile)%2013490eaf28ff8030a8aeecf9206d94ea/image%206.png)
+%2013490eaf28ff8030a8aeecf9206d94ea/image%206.png)
 
 Segment clients : Retardataires
 

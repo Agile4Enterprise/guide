@@ -118,7 +118,7 @@ Cela permet d'expérimenter une organisation qui influencera la structure formel
 
 ## Les 8 principes… en friction
 
-![image.png](image%201.png)
+![image.png](image 1.png)
 
 Le tableau ci-dessous illustre comment TechNova a activé ces 8 principes — et ce que ça a coûté, produit ou perturbé.
 

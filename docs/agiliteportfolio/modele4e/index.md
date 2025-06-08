@@ -28,7 +28,7 @@ Le modèle Agile4E
 
 ## **Zone d’Exploration : Créer la croissance future**
 
-![image.png](image%201.png)
+![image.png](image 1.png)
 
 ### **Un printemps d’innovation : semer, tester, apprendre**
 
@@ -55,7 +55,7 @@ Dans cette zone, le but est de démontrer la viabilité du modèle d’affaires 
 
 ## **Zone d’Expansion : Passer à l’échelle pour progresser vers la vision**
 
-![image.png](image%202.png)
+![image.png](image 2.png)
 
 ### **Un été stratégique : croître, industrialiser, rester agile**
 
@@ -82,7 +82,7 @@ On a trouvé notre stratégie, et on est orienté efficacité. Si notre activit�
 
 ## **Zone d’Exploitation : Exécuter la mission avec efficience**
 
-![image.png](image%203.png)
+![image.png](image 3.png)
 
 ### **Un automne stratégique : récolter, stabiliser, optimiser**
 
@@ -109,7 +109,7 @@ Dans cette zone, le but est de rendre le modèle d’affaires viable le plus lon
 
 ## **Zone d’Exclusion :**  Se désengager stratégiquement
 
-![image.png](image%204.png)
+![image.png](image 4.png)
 
 ### **Hiver stratégique : trancher, libérer, réinvestir**
 

@@ -44,7 +44,7 @@ Cette cohérence entre tous les niveaux, nous allons la mettre en musique avec l
 
 # Les 4 cadences du changement
 
-![image.png](image%201.png)
+![image.png](image 1.png)
 
 Une entreprise qui évolue durablement :
 
@@ -137,7 +137,7 @@ Ils permettent :
 
 C’est un outil de gestion agile d’objectifs d’entreprise, permettant de concentrer les efforts sur les initiatives ayant le plus grand impact.  Ils permettent de mettre en place concrètement ces boucles adaptatives :
 
-![Le processus OKR](image%202.png)
+![Le processus OKR](image 2.png)
 
 Le processus OKR
 
@@ -147,9 +147,9 @@ Le processus OKR
 
 ## **Les cycles OKR comme pulsations synchronisées**
 
-![image.png](image%203.png)
+![image.png](image 3.png)
 
-![*Imbrication du cycle stratégique et des cycles tactiques*](image%204.png)
+![*Imbrication du cycle stratégique et des cycles tactiques*](image 4.png)
 
 *Imbrication du cycle stratégique et des cycles tactiques*
 

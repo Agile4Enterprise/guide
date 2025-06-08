@@ -110,7 +110,7 @@ L’apprentissage existe sur deux axes complémentaires :
 
 ## **Les capacités d’innovation au service de l’agilité**
 
-![*Adapté du modèle d’innovation de Galbraith[13](https://www.notion.so/Les-capacit-s-de-l-entreprise-agile-13690eaf28ff8182abccc48ebecb3bf6?pvs=21)*](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Les%20capacite%CC%81s%20de%20l%E2%80%99entreprise%20agile%2013690eaf28ff8182abccc48ebecb3bf6/image%201.png)
+*](../../Agile4Enterprise%20753acc762e1742f6aac43f7170f2da39%20/Agile4Enterprise%2013490eaf28ff8014bfc2de7660c8c327/Wiki%20Agile4Enterprise%2013690eaf28ff80ea9d55d7d1c545597e/Les%20capacite%CC%81s%20de%20l%E2%80%99entreprise%20agile%2013690eaf28ff8182abccc48ebecb3bf6/image%201.png)
 
 *Adapté du modèle d’innovation de Galbraith13*
 
@@ -167,7 +167,7 @@ Ce n’est pas un luxe, mais un investissement : Une organisation 100% optimisé
 
 # **Rendre ces capacités actionnables avec ACTE**
 
-![Intégration des capacités organisationnelles dans l’outil ACTE](image%201.png)
+![Intégration des capacités organisationnelles dans l’outil ACTE](image 1.png)
 
 Intégration des capacités organisationnelles dans l’outil ACTE
 

@@ -47,7 +47,7 @@ PACTE relie intention stratégique et transformation réelle.
 
 🧟 Attention au PACTE zombie : “On déplace les cartes, mais rien ne change”…
 
-![PACTE **TechNova**](image%201.png)
+![PACTE **TechNova**](image 1.png)
 
 PACTE **TechNova**
 

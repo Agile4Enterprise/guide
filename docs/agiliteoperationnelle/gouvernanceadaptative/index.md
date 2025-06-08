@@ -29,7 +29,7 @@ L’agilité ne se limite pas à un framework : elle se structure par un **syst�
 
 ## Les cadences opérationnelles
 
-![image.png](image%201.png)
+![image.png](image 1.png)
 
 > Cadence = rythme de vie de l’équipe
 > 

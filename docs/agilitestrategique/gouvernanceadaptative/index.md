@@ -159,7 +159,7 @@ Le processus d'apprentissage collectif devient un **levier stratégique** : Feed
 
 ### Le cas TechNova — la désynchronisation des cycles
 
-![image.png](image%201.png)
+![image.png](image 1.png)
 
 En 2023, TechNova décide de repositionner 30 % de son portefeuille stratégique sur l’IA. Les unités business formulent leurs OKR en décembre. Problème : **le processus budgétaire est clos depuis novembre**.
 
