@@ -19,16 +19,8 @@ Il ne vous dit pas comment faire. Il vous aide à **penser ce que vous faites**,
 
 ## 🗓️ Phase de relecture contributive – Juin / Juillet 2025
 
-📅 Du **13 juin au 11 juillet 2025**, rejoignez la relecture publique de la V1.
+📅 Du **13 juin au 11 juillet 2025** : la phase de relecture est clôturée.
 
-### Deux modalités :
-🔹 **Relecteur engagé** :  
-Lecture complète sur Notion, feedbacks structurés, reconnaissance dans le guide imprimé.
-
-🔸 **Contributeur libre** :  
-Suggestions via issues ou pull request GitHub, critiques ou forks publics valorisés.
-
-📩 [→ Rejoindre la phase de relecture](https://agile4enterprise.com/lancement)  
 📖 [→ Lire la version web du guide](https://agile4enterprise.github.io/guide/docs)
 
 ---
@@ -43,6 +35,18 @@ La version figée **v1.0** du guide sera publiée en novembre 2025, en formats :
 
 ---
 
+## 🛡️ Gouvernance ouverte
+
+Agile4Enterprise est un cadre contributif gouverné selon une structure ouverte :
+
+- **Core Team (Maintainers)** : arbitrent les contributions majeures et veillent à la cohérence du cadre.
+- **Relecteurs** : assurent la qualité des relectures, donnent du feedback structuré.
+- **Contributeurs** : proposent idées, issues, PR, forks → base du vivant du cadre.
+
+📜 Voir [CONTRIBUTING.md](./CONTRIBUTING.md) pour contribuer.
+
+---
+
 ## 📂 Structure du dépôt
 
 Ce dépôt contient :
@@ -54,7 +58,6 @@ Ce dépôt contient :
 - `CONTRIBUTING.md` → Modalités de contribution
 - `CODE_OF_CONDUCT.md` → Règles communautaires
 - `LICENSE.md` → Licence Creative Commons BY-ND 4.0
-- `.gitignore`
 
 ---
 
@@ -68,11 +71,21 @@ Ce dépôt contient :
 > Tous les retours sont visibles.  
 > Les intégrations à la version officielle sont arbitrées collectivement.
 
+## 👥 Core Team
+
+Les maintainers actuels du projet :
+
+- **Laurent Morisseau** – Fondateur et architecte du cadre [GitHub](https://github.com/morisseau)
+- **Romain Couturier** – Responsable des retours terrains [Linkedin](https://www.linkedin.com/in/romaincouturier/)
+
+👉 Pour rejoindre la core team, voir [CONTRIBUTING.md](./CONTRIBUTING.md)
+
 ---
 
 ## 📄 Licence
 
 **Creative Commons BY-ND 4.0**  
+
 - Usage, diffusion, copie autorisés **avec attribution**  
 - **Aucune modification** de la version officielle sans validation collective  
 - **Usage commercial réservé** (notamment édition papier, formations, exploitation sous marque)
@@ -84,7 +97,7 @@ Plus d’infos : [https://creativecommons.org/licenses/by-nd/4.0](https://creati
 ## 🌐 Ressources
 
 - Site du cadre : [https://agile4enterprise.com](https://agile4enterprise.com)
-- Contact : hello@agile4enterprise.com
+- [Contact](mail:hello@agile4enterprise.com)
 
 ---
 
