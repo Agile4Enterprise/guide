@@ -84,7 +84,7 @@ Les maintainers actuels du projet :
 
 ## 📄 Licence
 
-**Creative Commons BY-ND 4.0**  
+**Licence** : [CC BY-ND + Accord Commercial](./LICENSE.md)  
 
 - Usage, diffusion, copie autorisés **avec attribution**  
 - **Aucune modification** de la version officielle sans validation collective  
