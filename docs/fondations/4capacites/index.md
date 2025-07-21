@@ -122,7 +122,7 @@ L’apprentissage existe sur deux axes complémentaires :
 
 ## **Les capacités d’innovation au service de l’agilité**
 
-![*Adapté du modèle d’innovation de Galbraith*](image 1.png)
+![*Adapté du modèle d’innovation de Galbraith*](image%201.png)
 
 *Adapté du modèle d’innovation de Galbraith*
 
@@ -179,7 +179,7 @@ Ce n’est pas un luxe, mais un investissement : Une organisation 100% optimisé
 
 # **Rendre ces capacités actionnables avec ACTE**
 
-![Intégration des capacités organisationnelles dans l’outil ACTE](image 1.png)
+![Intégration des capacités organisationnelles dans l’outil ACTE](image%202.png)
 
 Intégration des capacités organisationnelles dans l’outil ACTE
 
