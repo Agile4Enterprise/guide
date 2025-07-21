@@ -1,0 +1,2 @@
+# Agilité Corporate
+C’est cette capacité à transformer votre portefeuille d’activités stratégiques – produits, marchés, projets, innovations – en un système vivant, capable de s’ajuster à l’évolution du marché.

@@ -1,0 +1,1 @@
+# C’est le principe du Lean Portfolio Management de Safe.

@@ -1,0 +1,1 @@
+# Dans PACTE, la capacité de chaque zone (Exploration, Expansion…) guide la mobilité.

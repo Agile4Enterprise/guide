@@ -1,0 +1,1 @@
+# Faire passer l’Agilité Portfolio du concept à l’action : outiller la stratégie vivante, ancrer la transformation dans des outils concrets, et créer un pilotage collectif et continu du portefeuille.
