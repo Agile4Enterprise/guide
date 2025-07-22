@@ -59,7 +59,7 @@ La structure est la plus plate possible, potentiellement sans niveau hiérarchiq
 
 **Entrepreneuriale  (centré vision fondateur)**
 
-![Exemple : startup](image 1.png)
+![Exemple : startup](image%201.png)
 
 Exemple : startup
 
@@ -67,7 +67,7 @@ L'**archétype entrepreneurial** est centralisé. La collaboration repose sur un
 
 **Holistique (cercle auto-organisé)**
 
-![**Exemple** : Sociocratie, Holacratie](image 2.png)
+![**Exemple** : Sociocratie, Holacratie](image%202.png)
 
 **Exemple** : Sociocratie, Holacratie
 
@@ -91,7 +91,7 @@ Dépendance faible entre cellules
 
 ### **Passage à l’échelle**
 
-![image.png](image 3.png)
+![image.png](image%203.png)
 
 Un réseau se développe de manière organique, par **dissolution/reformation des cellules** en fonction des besoins émergents ou des décisions stratégiques. Cependant, même un réseau a une structure, créée par les processus formelles ou informelles. Les relations privilégiées qui se développent au sein de ce réseau, et sa structure sont fortement liées à la culture de ce réseau, selon que ces connexions sont plus de l’ordre bureaucratique, économique, opérationnel, culturel ou informationnel. C’est pourquoi dans un réseau, les connexions sont tout aussi importantes que les unités elles-mêmes.
 

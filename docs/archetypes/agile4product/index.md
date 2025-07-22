@@ -27,17 +27,17 @@ Archétype Produit dans le modèle Agile4X des 4 archétypes agile (et de son an
 
 ## **Caractéristiques**
 
-![L’archétype Produit dans le modèle 4E](image 1.png)
+![L’archétype Produit dans le modèle 4E](image%201.png)
 
 L’archétype Produit dans le modèle 4E
 
 **Zone 4E privilégiée** : **Zone d’expansion** 
 
-![image.png](image 2.png)
+![image.png](image%202.png)
 
 Développement et croissance de l’actif
 
-![image.png](image 3.png)
+![image.png](image%203.png)
 
 Clientèle privilégiée : majorité précoce.
 
@@ -48,7 +48,7 @@ Clientèle privilégiée : majorité précoce.
 
 ## Structure
 
-![image.png](image 4.png)
+![image.png](image%204.png)
 
 💡 ### **Unité stratégique “Groupe Produit”** Unité autonome possédant toutes les fonctions (développement, marketing, commercial, support) nécessaires à la croissance du produit, sa base clients et utilisateurs. Aussi appelé **Product Operating Model** (POM).
 
@@ -84,7 +84,7 @@ Elle est nécessaire lorsque l'état ou la qualité d'un composant ou service em
 
 Avec la croissance, il faut faire évoluer l’organisation produit en parallèle du produit lui-même.
 
-![*Organisation multi produits avec des groupes plateformes*](image 5.png)
+![*Organisation multi produits avec des groupes plateformes*](image%205.png)
 
 *Organisation multi produits avec des groupes plateformes*
 

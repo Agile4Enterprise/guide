@@ -82,7 +82,7 @@ Le **défi de l’agilité organisationnelle** est de naviguer entre ces tension
 
 ## **Une trajectoire de transformation continue**
 
-![image.png](image 1.png)
+![image.png](image%201.png)
 
 Le choix d’une stratégie soulève deux questions essentielles : l’organisation est-elle en mesure de l’exécuter ? Est-elle optimisée pour celle-ci ?
 

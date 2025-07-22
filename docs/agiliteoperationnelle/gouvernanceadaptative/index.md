@@ -34,7 +34,7 @@ L’agilité ne se limite pas à un framework : elle se structure par un **syst�
 > Cadence = rythme de vie de l’équipe
 > 
 
-![image.png](image 1.png)
+![image.png](image%201.png)
 
 | Cadence | Fréquence | Finalité |
 | --- | --- | --- |

@@ -69,7 +69,7 @@ L’agilité n’est pas une fin en soi. C’est **un levier stratégique**, une
 
 ### **L’agilité d’entreprise est différente de l’agilité d’équipe : approche mixte**
 
-![image.png](image 1.png)
+![image.png](image%201.png)
 
 > **Le problème** : L’agilité d’équipe n’a pas modifié durablement les capacités stratégiques des entreprises.
 > 
@@ -94,7 +94,7 @@ Ce cadre fait donc le constat de l’émergence d’une forme d’agilité dite 
 
 ✨ **Le système vivant d’Agile4Enterprise repose sur les 4D (quoi), les 4C (quand), les 4X (comment), et les 4E (où).**
 
-![Le Framework Agile4Enterprise](image 2.png)
+![Le Framework Agile4Enterprise](image%202.png)
 
 Le Framework Agile4Enterprise
 
@@ -113,7 +113,7 @@ Ce Framework repose sur des modèles et des outils :
     ➔ *Annuelle*, *Trimestrielle*, *Mensuelle/Bimensuelle*, *Hebdomadaire*.
     
 
-![*4B (boucle) = 4D (dimension) + 4C (cadence)*](image 3.png)
+![*4B (boucle) = 4D (dimension) + 4C (cadence)*](image%203.png)
 
 *4B (boucle) = 4D (dimension) + 4C (cadence)*
 
@@ -131,25 +131,25 @@ Une approche scalable et évolutive en adoptant une organisation Produit,
 
 Une approche distribuée en adoptant une organisation Réseau.
 
-![image.png](image 4.png)
+![image.png](image%204.png)
 
 ### **Agile4E**
 
 Le **modèle d’alignement stratégique agile** pour définir les zones stratégiques : Exploration, expansion, exploitation, et exclusion.
 
-![image.png](image 5.png)
+![image.png](image%205.png)
 
 ### **PACTE**
 
 Le **Portfolio Agile Canevas pour la Transformation d’Entreprise** est conçu pour structurer et piloter le changement au niveau du portefeuille.
 
-![image.png](image 6.png)
+![image.png](image%206.png)
 
 ### **ACTE**
 
 L’ **Agile Canevas pour la Transformation d’Entité** est conçu pour structurer et piloter le changement.
 
-![image.png](image 7.png)
+![image.png](image%207.png)
 
 Et d’autres outils à découvrir :
 

@@ -27,7 +27,7 @@ C'est une capacité à développer, pas une méthode à appliquer, celle de chan
 
 # Le modèle vivant de l’agilité stratégique
 
-![De l’intention stratégique à la stratégie réalisée, d’après Mintzberg et Waters](image 1.png)
+![De l’intention stratégique à la stratégie réalisée, d’après Mintzberg et Waters](image%201.png)
 
 De l’intention stratégique à la stratégie réalisée, d’après Mintzberg et Waters
 
@@ -48,7 +48,7 @@ L'agilité stratégique est le **mécanisme d’alignement dynamique** entre l�
 
 # Modèle 3R — Les 3 boucles du changement stratégique
 
-![*Les trois niveaux de réponses stratégiques au changement*](image 2.png)
+![*Les trois niveaux de réponses stratégiques au changement*](image%202.png)
 
 *Les trois niveaux de réponses stratégiques au changement*
 
@@ -140,7 +140,7 @@ L’Agilité Stratégique n’est pas une évidence : elle bouscule également p
 
 ## **Un curseur d’agilité pour naviguer dans ces tensions**
 
-![image.png](image 3.png)
+![image.png](image%203.png)
 
 Si l’objectif d’une stratégie est de construire un **avantage concurrentiel durable**, ,aujourd’hui, la **rapidité du changement** remet en cause cette notion. Un avantage concurrentiel peut durer dix ans ou dix mois. Désormais, **le degré d'agilité stratégique requis** dépend directement de l'évolution du contexte. L’avantage concurrentiel est :
 

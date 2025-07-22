@@ -28,7 +28,7 @@ Le modèle Agile4E ne décrit pas des cases statiques, mais le **cycle de vie de
 
 ## **Zone d’Exploration : Créer la croissance future**
 
-![image.png](image 1.png)
+![image.png](image%201.png)
 
 ### **Un printemps d’innovation : semer, tester, apprendre**
 
@@ -58,7 +58,7 @@ C’est cette métrique qui **oriente les efforts tactiques** et permet d’alim
 
 ## **Zone d’Expansion : Passer à l’échelle pour progresser vers la vision**
 
-![image.png](image 2.png)
+![image.png](image%202.png)
 
 ### **Un été stratégique : croître, industrialiser, rester agile**
 
@@ -85,7 +85,7 @@ On a trouvé notre stratégie, et on est orienté efficacité. Si notre activit�
 
 ## **Zone d’Exploitation : Exécuter la mission avec efficience**
 
-![image.png](image 3.png)
+![image.png](image%203.png)
 
 ### **Un automne stratégique : récolter, stabiliser, optimiser**
 
@@ -112,7 +112,7 @@ Dans cette zone, le but est de rendre le modèle d’affaires viable le plus lon
 
 ## **Zone d’Exclusion :**  Se désengager stratégiquement
 
-![image.png](image 4.png)
+![image.png](image%204.png)
 
 ### **Hiver stratégique : préparer la prochaine récolte, libérer, réinvestir**
 

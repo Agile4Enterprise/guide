@@ -56,7 +56,7 @@ L’agilité opérationnelle s’inscrit dans un principe d’**autonomie encadr
 
 # Méthodes agiles contextualisées (Modèle Agile4E)
 
-![Modèle 4E au niveau de l’équipe](image 1.png)
+![Modèle 4E au niveau de l’équipe](image%201.png)
 
 Modèle 4E au niveau de l’équipe
 

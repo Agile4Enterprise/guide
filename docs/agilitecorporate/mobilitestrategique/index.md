@@ -128,7 +128,7 @@ La gestion des talents évolue :
 > On investit partout. Mais on n’arrête nulle part.
 > 
 
-![image.png](image 1.png)
+![image.png](image%201.png)
 
 La **mobilité stratégique** inclut non seulement le **redéploiement des ressources**, mais aussi **l’optimisation et le désengagement** des actifs devenus non pertinents. Réallouer, ce n’est pas seulement renforcer. C’est aussi **désengager sans brutalité**.
 

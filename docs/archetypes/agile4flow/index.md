@@ -29,17 +29,17 @@ Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti 
 
 ## **Caractéristiques clés**
 
-![Zone d’Exploitation du modèle 4E](image 1.png)
+![Zone d’Exploitation du modèle 4E](image%201.png)
 
 Zone d’Exploitation du modèle 4E
 
 **Zone 4E privilégiée** : zone d’exploitation
 
-![image.png](image 2.png)
+![image.png](image%202.png)
 
 Actifs matures
 
-![image.png](image 3.png)
+![image.png](image%203.png)
 
 Clientèle privilégiée : majorité tardive
 

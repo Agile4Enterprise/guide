@@ -41,7 +41,7 @@ Car l’enjeu n’est pas de tout réinventer, mais d’y apporter un **cadre co
 
 # Les 4 cadences du changement
 
-![Imbrication des boucles adaptatives](image 1.png)
+![Imbrication des boucles adaptatives](image%201.png)
 
 Imbrication des boucles adaptatives
 
@@ -130,7 +130,7 @@ Ils permettent :
 
 C’est un outil de gestion agile d’objectifs d’entreprise, permettant de concentrer les efforts sur les initiatives ayant le plus grand impact.
 
-![Le processus OKR](image 2.png)
+![Le processus OKR](image%202.png)
 
 Le processus OKR
 
@@ -163,7 +163,7 @@ Imaginez que l’entreprise soit une voiture en mouvement.
 
 ## **Les cycles OKR comme pulsations synchronisées**
 
-![*Imbrication du cycle stratégique et des cycles tactiques*](image 3.png)
+![*Imbrication du cycle stratégique et des cycles tactiques*](image%203.png)
 
 *Imbrication du cycle stratégique et des cycles tactiques*
 

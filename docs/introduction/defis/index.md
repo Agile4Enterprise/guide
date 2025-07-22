@@ -68,7 +68,7 @@ Cela nécessite l’adoption de **la pensée complexe**, qui combine plusieurs p
 
 # Adapter le pilotage à la nature du problème grâce au modèle Cynefin
 
-![*Modèle Cynefin, adapté de Dave Snowden*](image 1.png)
+![*Modèle Cynefin, adapté de Dave Snowden*](image%201.png)
 
 *Modèle Cynefin, adapté de Dave Snowden*
 

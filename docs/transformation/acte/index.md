@@ -28,11 +28,11 @@ Il s’applique globalement au niveau d’une unité centrale et se décline au 
 
 ## Les 5 étapes clés
 
-![image.png](image 1.png)
+![image.png](image%201.png)
 
 ### 1. Vision à un an
 
-![image.png](image 2.png)
+![image.png](image%202.png)
 
 Animateur principal : Direction
 
@@ -48,7 +48,7 @@ Animateur principal : Direction
 
 ### 2. Photo actuelle SCRIP
 
-![image.png](image 3.png)
+![image.png](image%203.png)
 
 Animateurs principaux : Coach Agile Org / top management
 
@@ -62,7 +62,7 @@ Animateurs principaux : Coach Agile Org / top management
 
 ### 3. OKR tactiques & GAP analysis
 
-![image.png](image 4.png)
+![image.png](image%204.png)
 
 Animateurs principaux : Coach agile  / Business owner
 
@@ -81,7 +81,7 @@ Animateurs principaux : Coach agile  / Business owner
 
 ### 4. Plan de transformation
 
-![image.png](image 5.png)
+![image.png](image%205.png)
 
 Animateurs principaux : PO / team leader
 
@@ -96,7 +96,7 @@ Animateurs principaux : PO / team leader
 
 ### 5. Suivi et ajustement
 
-![image.png](image 6.png)
+![image.png](image%206.png)
 
 Animateur principal : Agile master
 
