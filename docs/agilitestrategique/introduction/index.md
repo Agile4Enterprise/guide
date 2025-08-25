@@ -215,4 +215,3 @@ Elle exige de rendre le pilotage stratégique aussi vivant que l’environnement
 - Le modèle **3R** — Réajuster, Réorienter et Réinventer — articule trois niveaux d’adaptation stratégique.
 
 > L’agilité stratégique, ce n’est pas changer de cap sans cesse : c’est savoir quand le garder, quand le remettre en cause, et quand le réinventer.
-
