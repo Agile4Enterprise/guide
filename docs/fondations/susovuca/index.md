@@ -81,7 +81,6 @@ La performance repose alors sur la standardisation et l’excellence opérationn
 Ce sont des environnements changeants. La stratégie recherche un avantage compétitif éphémère. D’où l’importance vitale de l’adaptation rapide et de l’expérimentation continue. Il s’agit de survivre et prospérer par ajustement permanent.
 
 **Environnement VUCA** : Volatile, Incertain, Complexe, et Ambigu.
-</zoom>
 
 **Caractéristiques** :
 
