@@ -55,13 +55,9 @@ Elle est incarnée dans le modèle Agile4E : **performer aujourd’hui ⇄ inn
 
 Pour naviguer dans ce modèle, **Agile4Enterprise** maintient les tensions vivantes grâce à des revues de polarités intégrées aux cadences de changement. Ces revues ne cherchent pas à constater ce qui fonctionne, mais à explorer ce qui tire dans deux directions.
 
-<div data-type="définition">
-
  **Revue de polarité** :
 
 Rituel où l’on examine les déséquilibres, non pour les gommer, mais pour ajuster les dynamiques. Elles s’inscrivent dans l’agenda des revues existantes. Chaque zone du modèle représente un ancrage temporaire autour d’une polarité dominante.
-
- </div>
 
 🌀**Exemple** :
 *

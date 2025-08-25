@@ -148,11 +148,8 @@ Situez-vous sur le **quadrant réadaptative**. C’est un outil de diagnostic st
 
 Votre organisation occupe-t-elle la place qui devrait être la sienne ?
 
-<div data-type="keypoint">
-
 > Réservez **Agile4Enterprise** aux contextes où l’alignement constitue un levier stratégique.
 
 - **Quand l’adopter** : pour piloter un organisme vivant, structurer sans rigidifier.
 - **Quand s’en abstenir** : si le chaos ou l’improvisation permanente sont la règle.
 - **Comment l’ajuster** : évaluez votre position sur l’axe SUSO–VUCA et dosez la fréquence et l’intensité de vos boucles adaptatives en conséquence.
-

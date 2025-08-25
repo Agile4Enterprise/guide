@@ -202,7 +202,6 @@ Vous pouvez vous inspirer de l’un de ces modèles :
 - Beta Codex de Niels Pflaeging
 - Sociocratie et Holacratie
 
-<div data-type="keypoint">
 ### SCRIPt de l’organisation Réseau
 
 **Structure** :
@@ -235,4 +234,3 @@ Vous pouvez vous inspirer de l’un de ces modèles :
 - **Pilotage** : Par la mission
 - **Coordination** : Locale et distribuée, Backlog par cellule
 - **Méthode privilégiée** : Lean Startup, Scrum selon la maturité
-

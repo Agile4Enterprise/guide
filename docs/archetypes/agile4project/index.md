@@ -179,7 +179,6 @@ La transformation consiste à basculer sur une gestion agile de ces projets. Que
 - Project Management Institute (PMI) propose une approche agile de la gestion de projet
 - Disciplined Agile
 
-<div data-type="keypoint">
 ### SCRIPt de l’organisation Projet
 
 **Structure** :
@@ -212,4 +211,3 @@ La transformation consiste à basculer sur une gestion agile de ces projets. Que
 - **Pilotage :** Par l’impact, lié à un objectif précis.
 - **Coordination :** Forte coordination autour d’un Backlog commun multi-équipes.
 - **Méthode privilégiée :** Gestion de projet agile, Shape-up
-

@@ -231,8 +231,6 @@ Inspirez-vous de l’un de ces modèles :
 - **Flow** de Mik Kersten
 - Kanban@Scale
 
-<div data-type="keypoint">
-
 ### SCRIPt de l’organisation Flux
 
 **Structure** :
@@ -269,4 +267,3 @@ Métriques centrées flux :
 - Coordination verticale = revues, définitions d’entrées/sorties, limites.
 - Coordination horizontale = Backlogs interconnectés, ajustement mutuel.
 - Boucles adaptatives « Inspect & Adapt ».
-

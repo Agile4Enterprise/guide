@@ -249,8 +249,6 @@ Vous pouvez vous inspirer de l’un de ces modèles :
 - LeSS, pour coordonner plusieurs équipes produit
 - Spotify (Agile@Scale), pour la scalabilité organisationnelle
 
-<div data-type="keypoint">
-
 ### Vue synthétique SCRIP
 
 **Structure** :
@@ -283,4 +281,3 @@ Vous pouvez vous inspirer de l’un de ces modèles :
 - Pilotage par la valeur (OKR, data-driven)
 - Coordination verticale/horizontale autour du Backlog.
 - Méthode privilégiée : Scrum
-
