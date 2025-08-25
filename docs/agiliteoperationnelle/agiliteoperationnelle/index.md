@@ -141,8 +141,3 @@ En tant qu’équipe :
 - **Agile Master agnostique** : garant du « quoi » et du « pourquoi », jamais du « comment » imposé.
 
 > L’agilité opérationnelle n’est pas un outil figé : c’est la capacité d’une équipe à choisir, ajuster et apprendre en continu.
-
-<div data-type="next">
-
-Prêt à faire battre le cœur de votre quotidien ?
-</div/>
