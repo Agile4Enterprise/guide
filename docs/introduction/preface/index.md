@@ -1,14 +1,19 @@
 # Préface
 
-Propriétaire: Laurent Morisseau, Romain Couturier
-
-À la croisée des trajectoires : ce que nous avons découvert avec Agile4Enterprise
+À la croisée des trajectoires : ce que nous avons découvert avec **Agile4Enterprise**
 Il y a des formations qui marquent. Non pas parce qu’elles livrent des réponses toutes faites, mais parce qu’elles ouvrent des perspectives, déplacent des certitudes, questionnent en profondeur nos manières de voir l’entreprise, la stratégie, l’agilité.
-Nous avons participé, en avril 2025, à la première formation du framework Agile4Enterprise, proposé en open source par Laurent Morisseau. Et chacun d’entre nous y a vécu, à sa manière, un petit basculement. Ce livre prolonge ce moment. Il en amplifie la portée, en éclaire les concepts, et trace des chemins pour aller plus loin. C’est à cette expérience que nous souhaitons donner voix ici.
+
+Nous avons participé, en avril 2025, à la première formation du framework **Agile4Enterprise**, proposé en open source par Laurent Morisseau. Et chacun d’entre nous y a vécu, à sa manière, un petit basculement. Ce livre prolonge ce moment. Il en amplifie la portée, en éclaire les concepts, et trace des chemins pour aller plus loin. C’est à cette expérience que nous souhaitons donner voix ici.
 Dès les premiers échanges, une idée a résonné avec force : et si la stratégie, elle aussi, pouvait évoluer en continu ? Comme le développement produit, comme l’apprentissage des équipes. Et si cette adaptabilité n’était pas un luxe, mais une nécessité pour les entreprises plongées dans des contextes instables, incertains, fragmentés ?
+
 Ce que nous avons découvert, ce n’est pas une énième méthode. C’est un cadre souple, systémique, qui met en dialogue tous les niveaux de l’organisation. Un langage commun entre les équipes opérationnelles et les comités de direction. Un moyen de relier les cycles d’apprentissage du terrain avec les grands choix stratégiques. Bref, un pont.
+
 Un pont entre ce que l’agilité a toujours porté — l’empirisme, l’amélioration continue, le respect des contextes — et ce que les entreprises doivent aujourd’hui apprendre à faire : piloter dans le brouillard, aligner sans figer, investir tout en s’ajustant.
+
 À travers les échanges, les modèles, les outils, chacun de nous a enrichi sa lecture de l’agilité. Certains ont vu leur pratique confirmée, d’autres ont découvert des zones encore floues — comme celle, mystérieuse et prometteuse, de l’organisation en réseau. Mais toutes et tous, nous sommes repartis avec un sentiment partagé : celui d’avoir mis la main sur quelque chose d’utile, de juste, de vivifiant pour nos métiers et pour les organisations.
+
 Ce livre n’impose pas une vision unique. Il outille pour comprendre les contextes, poser les bonnes questions, et concevoir des réponses adaptées. Il ne prétend pas avoir tout résolu. Il propose une base solide pour expérimenter, construire, et accompagner des entreprises qui souhaitent, réellement, devenir agiles — dans leur tête comme dans leurs actes.
+
 Alors, au lecteur, à la lectrice de ce livre : bienvenue dans l’après. Ce moment particulier où, après la prise de conscience, vient le choix d’agir. Nous espérons que, comme nous, vous y trouverez un levier. Ou peut-être un déclencheur.
-— @Romain Couturier
+
+— Romain Couturier

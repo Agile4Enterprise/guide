@@ -1,163 +1,177 @@
 # La gouvernance adaptative stratégique
 
+✨**Objectif**
 
+Piloter l’**agilité stratégique** des unités business par une **gouvernance adaptative**.
 
-✨ **Objectif** Piloter l’**agilité stratégique** des unités business par une **gouvernance vivante**. Ce chapitre prolonge ceux sur **l’agilité stratégique** et **l’agilité RH**. Il en est le chaînon structurel : la gouvernance adaptative en est le métronome. Sans elle, la stratégie reste théorique, la RH devient bureaucratique et l’exécution se désynchronise.
+**L’agilité stratégique** est le chaînon structurel : la gouvernance adaptative en est le métronome.
 
-🧑‍🎓 **Ce que vous allez apprendre** - Les **trois cadences fondamentales** d’une gouvernance vivante : stratégique, tactique, et slack. - Les **risques d’une gouvernance rigide ou absente** : désalignement, inertie, asphyxie. - Comment piloter **par l’impact et par le risque**, au lieu de piloter par le plan.
+🧑‍🎓**Ce que vous allez apprendre ici**
 
-📚 **Petit lexique** Pilotage par l’impact = Logique de gouvernance centrée sur les résultats visés, non les actions planifiées
+- Les trois cadences fondamentales d’une gouvernance vivante : stratégique, tactique, et Slack.
+- Les risques d’une gouvernance rigide ou absente : désalignement, inertie, asphyxie.
+- Comment piloter par l’impact et par le risque, au lieu de piloter par le plan ?
 
-# Une gouvernance vivante au service de l’agilité stratégique
+📚**Petit lexique**
 
-> “On avait des décisions. Il nous manquait la cadence.” — Dirigeant, secteur service
-> 
+- **Pilotage par l’impact** = Logique de gouvernance centrée sur les résultats visés, non sur les actions planifiées
 
-💡 **La gouvernance adaptative stratégique** Elle porte sur l’agilité stratégique des unités business. Elle structure la manière dont elles ajustent leur stratégie localement, tout en s’inscrivant dans une dynamique globale.
+## Une gouvernance adaptative au service de l’agilité stratégique
 
-Sans cadence, une stratégie même brillante s’épuise dans le désalignement. La gouvernance adaptative stratégique ne consiste pas à faire “plus de réunions”. Elle transforme **la manière même dont une organisation décide et ajuste**.
+> « On avait des décisions. Il nous manquait la cadence. » — dirigeant, secteur service
 
-Elle repose sur une conviction simple :
+🧑‍🎓
 
-> **Ce n’est pas l'intention stratégique qui compte. C’est sa capacité à évoluer.**
-> 
+**La gouvernance adaptative stratégique** :
 
-## Les principes structurants
+Elle concerne l’agilité des unités d’affaires et définit comment elles ajustent leur stratégie locale tout en restant cadrées.
+
+La gouvernance transforme la manière de décider et de gérer les choix. Sans rythme établi, même une stratégie brillante s’épuise dans le désalignement. Elle repose sur une conviction simple :
+
+> Définir une intention stratégique ne suffit pas, sans capacité pour l’adapter.
+
+### Une gouvernance participative et itérative
+
+Elle reproduit la gouvernance corporate :
 
 | Principe | Ce que cela implique |
 | --- | --- |
-| **Autonomie régulée** | Chaque unité stratégique ajuste sa stratégie dans un cadre d’alignement global. |
-| **Itération continue** | Les décisions sont prises en cycles courts, en fonction de l’impact, pas du calendrier. |
-| **Synchronisation multi-niveaux** | Cadences reliées à celles du portefeuille, de la tactique et de la RH. |
+| **Autonomie régulée** | Chaque unité ajuste sa stratégie dans un cadre d’alignement global. |
+| **Cycle itératif** | Les décisions suivent des cycles courts, en fonction de l’impact, pas du calendrier. |
+| **Synchronisation multiniveau** | Cadences reliées à celles du portefeuille et de la tactique. |
 
-> Une gouvernance agile ne pilote pas l’exécution. Elle **cadence l’ajustement**.
-> 
+L’approche participative gagne en importance, car, contrairement à la gouvernance corporate, elle agit au plus près du terrain.
 
-💡 Voir aussi : Les grands principes de l’agilité organisationnelle
+### Ce que cette gouvernance remet en question réellement
 
-## Gouvernance participative et itérative
-
-- Cycles courts de revue,
-- Décisions stratégiques évolutives,
-- Apprentissage organisationnel continu.
-
-Contrairement à la gouvernance corporate, elle agit **au plus près du terrain**.
-
-💡 **Modèle de gouvernance agilité stratégique** : **Participatif** et **itératif**
-
-## Ce que cette gouvernance dérange réellement
-
-- Les **directions centrales** ne sont plus les seules à arbitrer.
-- Les **roadmaps annuelles, voire pluriannuelles,** ne dictent plus le mouvement.
+- Les **directions centrales** n’arbitrent plus seules,
+- Les **feuilles de route annuelles**, voire pluriannuelles, ne dictent plus l’action,
 - Les **budgets figés** deviennent des hypothèses discutables.
 
-⚠️ Une gouvernance vivante ne se contente pas d’accélérer les décisions. Elle redistribue le pouvoir de les prendre.
+⚠️
+Une gouvernance vivante ne se contente pas d’accélérer les décisions. Elle redistribue le pouvoir de les prendre.
 
-# **Gouverner par les cadences du changement**
+## Gouverner par les cadences du changement
 
 > Sans cadence stratégique claire, l’entreprise respire au rythme de ses urgences, pas de ses intentions.
-> 
 
 ![Cadence du changement stratégique](image.png)
 
-Cadence du changement stratégique
+La gouvernance adaptative crée un système de rythme, pas un nouveau reporting. Elle s’appuie sur des boucles imbriquées :
 
-La gouvernance adaptative est un **système de rythme**, pas un nouveau reporting. Elle s’articule autour de trois boucles imbriquées :
+**Revue stratégique business** :
 
-**Cadence stratégique business**
+- **Fréquence** : Au moins annuelle (cible trimestrielle).
+- **But** : Réviser les objectifs et enclencher, selon les besoins, une **mobilité**.
 
-- Fréquence : au moins trimestrielle, typiquement annuelle
-- Finalité : réviser les **objectifs stratégiques** et enclencher, si besoin, une **mobilité stratégique** (modification du périmètre, des priorités, ou des zones 4E).
-    
-    Une unité stratégique est **structurellement stable sur un cycle**, mais peut évoluer d’un cycle à l’autre en fonction des résultats, des opportunités, et des zones stratégiques dans lesquelles elle est placée.
-    
-- Décision de **stabilité ou évolution** du positionnement des unités.
-- Synchronisée avec les revues corporate.
+    Une unité reste stable pendant le cycle, mais peut évoluer au bilan selon ses résultats et sa zone stratégique.
 
-**Revue tactique business**
+- Coordonnée avec les revues corporate.
 
-- Fréquence : au moins mensuelle, typiquement trimestrielle
-- Finalité : ajuster les OKR stratégiques en se basant sur le bilan des **OKR tactiques**.
-- Fait remonter les besoins de réorientation ou réajustement stratégique.
+**Synchronisation avec les revues tactiques** :
 
-**Slack stratégique**
+- **Fréquence** : au minimum trimestriel (cible mensuelle).
+- **But** :
+  - Ajuster les OKR stratégiques en se basant sur le bilan des **OKR tactiques**,
+  - Remonter les besoins de changements **3R**.
 
-- Fréquence : continue
-- Finalité : Capture d’opportunités hors-cycle.
+**Slack** :
 
-**Risques en cas d’absence de ces cadences**
+- **Fréquence** : Continue.
+- **But** : Capture d’opportunités hors cadence.
 
-- **Décalage entre direction et terrain**
-- **Incohérence d’exécution** : les actions ne s’alimentent plus des décisions
-- **Asphyxie organisationnelle** : les arbitrages bloqués empêchent la stratégie de se réactualiser
+    🌀**Exemple** :
+*
+    Une entreprise consacre 5 % de sa capacité d’investissement annuel à un budget non affecté.
+    En juin, un concurrent majeur annonce soudainement l’arrêt d’un service demandé par le segment de clients principal.
+    Grâce à ce Slack, elle peut immédiatement mobiliser une équipe et financer le développement d’une offre alternative, sans attendre la prochaine revue.
+    *
+
+**Risques en cas d’absence de ces cadences** :
+
+- Décalage entre direction et terrain,
+- Incohérence d’exécution : les actions cessent de s’alimenter des décisions,
+- Les arbitrages bloqués empêchent la stratégie de se réactualiser
 
 ## Le pilotage
 
 ### Par l’impact, pas par le plan
 
-Passer de la **roadmap d’initiatives** au **pilotage par l’impact** :
+Passer du pilotage d’initiatives au **pilotage par l’impact** :
 
-- S’engager sur des **objectifs et résultats à atteindre (OKR stratégiques)**, et non sur des projets spécifiques,
-- Réallouer les moyens selon les résultats,
-- Arbitrer en fonction de la valeur, pas du plan,
-- **Un cadre clair défini par les valeurs de l’entreprise et les contraintes budgétaires**, sans rigidité excessive quant aux actions à entreprendre.
+- S’engager sur des **OKR stratégiques** à atteindre et non sur des projets spécifiques
+- Arbitrer en fonction du résultat, pas du plan
+- Un cadre clair défini par les valeurs et les contraintes budgétaires, sans fixer les actions à entreprendre.
 
-Ce qui change avec une approche agile, outre la fréquence des décisions qui augmente, c’est la nature des décisions. L’un des principaux apports est de mieux distinguer les décisions stratégiques nécessitant une stabilité et celles qui doivent être prises plus fréquemment pour favoriser l’adaptation.
+Ce qui change avec une approche agile, outre la fréquence des décisions qui augmente, c’est leur nature. L’apport majeur est la distinction entre les décisions qui demandent de la stabilité (objectifs) et celles qui permettent des ajustements fréquents (initiatives).
 
 ### Par le risque
 
-L’agilité n’élimine pas le risque. Elle le **rend pilotable**.
+L’agilité n’élimine pas le risque. Elle le rend pilotable :
 
 - Proactivité et cycles décisionnels courts = détection précoce
 - Slack stratégique = réponse rapide
 - Scénarios multiples = préparation active
 - Capacité de pivot rapide en cas d’événement critique.
 
-> La gouvernance n’est pas une tour de contrôle. C’est un radar dynamique, au service de de l’impact. Elle doit rendre le changement possible même au plus haut niveau décisionnel.
-> 
+➿**TechNova**
 
-## Synchroniser décisions et boucles d’apprentissage
+**La désynchronisation des cycles** :
 
-La gouvernance synchronise :
+![La désynchronisation des cycles](image 1.png)
 
-- **Les cycles de décisions stratégiques**,
-- **Les cycles budgétaires**,
-- **Les cycles RH.**
+En 2024, TechNova repositionne 10 % de son portefeuille sur l’IA. Face aux signaux du marché, la direction générale saisit rapidement l’opportunité.
 
-en assurant une **capacité permanente de réalignement stratégique**.
+Chaque département formule leurs **OKR**. Mais le budget a été bouclé le mois précédent. Impossible d’intégrer ces nouvelles orientations.
 
-Le processus d'apprentissage collectif devient un **levier stratégique** : Feedback du terrain → Ajustement tactique → Révision stratégique.
+**Résultat** : une stratégie révisée qui vient s’ajouter à des moyens inchangés. Les équipes restent contraintes par des décisions passées.
 
-> L’alignement devient un effet du système, pas un vœu pieux.
-> 
+**Un an plus tard** :
 
-➿ ### TechNova — la désynchronisation des cycles ![image.png](image%201.png) En 2024, TechNova décide de repositionner 10 % de son portefeuille stratégique sur l’IA générative. Les signaux marché sont clairs, la direction générale s’aligne rapidement sur l’opportunité. Chaque Business Unit formule des **OKR stratégiques ambitieux**. Mais le **processus budgétaire s’est clôturé un mois avant**, sans intégration de ces nouvelles orientations. Les ressources allouées, les enveloppes RH et les projets en cours sont gelés sur une stratégie désormais obsolète. > Résultat : une stratégie révisée, mais des moyens inchangés. Les équipes restent contraintes par des décisions passées. > ### **Un an plus tard : synchronisation mise en place** Face à cette **désynchronisation systémique**, TechNova reconfigure son cycle de gouvernance stratégique en 2025 : 1. **Remontée des signaux faibles terrain** via OKR tactiques et feedback client. 2. **Revue stratégique corporate synchronisée avec la planification budgétaire entre septembre et mi-novembre.** **Boucle RH intégrée dès le cadrage stratégique.** Les initiatives IA progressent en ligne avec les cycles budgétaires et RH. Les unités ont appris à **reconfigurer leur stratégie et leur organisation dans un même rythme.** > Résultat : alignement des intentions, des moyens et des actions. >
+Face à cette divergence structurelle, TechNova reconfigure son processus :
 
-## Ce que produit une gouvernance absente ou rigide
+1. OKR stratégiques et budget sont synchronisés à partir de septembre,
+2. Validation des grandes orientations avec les actionnaires mi-novembre,
+3. OKR tactiques définis mi-décembre.
+
+**Résultat** : alignement des intentions, des moyens et des actions. Les initiatives progressent maintenant en ligne avec les cycles budgétaires et RH.
+
+### Ce que produit une gouvernance absente ou rigide
 
 > On ne gouverne pas un système vivant avec les outils d’un monde figé.
-> 
 
-| Symptôme | Ce qui se passe | Ce que ça produit |
-| --- | --- | --- |
-| Gouvernance annuelle unique | Revue unique en décembre | Stratégie figée, exécution obsolète |
-| Décisions non déléguées | Tout remonte au COMEX | Ralentissement systémique |
-| Absence de slack | Aucune marge de manœuvre. Une roadmap planifiée à plus de 100% des capacités. | Aucune capture d’opportunité |
-| Pilotage par les projets | Focus livrables, pas résultats | Déconnection stratégique |
+| Symptôme | Ce que ça produit |
+| --- | --- |
+| Gouvernance annuelle unique | Stratégie figée, exécution obsolète |
+| Décisions non déléguées | Tout remonte au COMEX, ralentissement systémique |
+| Absence de Slack | Une feuille de route planifiée à plus de 100 % des capacités, aucune capture d’opportunité |
+| Pilotage par les projets | Les livrables priment sur les résultats, décrochage stratégique |
 
-## Ce que cette gouvernance ne voit pas toujours
+### Ce que cette gouvernance ne voit pas toujours
 
-- La **résistance des anciens modèles politiques**.
-- Le **besoin de stabilité rituelle** de certaines fonctions support.
-- Le **temps long de l’appropriation managériale** (la gouvernance n’agit pas seule).
+- La résistance des anciens modèles politiques,
+- Le besoin de stabilité rituelle de certaines fonctions,
+- Le temps long de l’appropriation managériale (la gouvernance n’agit pas seule).
 
 ## 👣 Et concrètement, lundi matin ?
 
-- Cartographiez les rythmes de gouvernance existants dans vos unités : y a-t-il 3 cadences ?
-- Supprimez une réunion de revue inutile. **Remplacez-la par une cadence à impact.**
-- Cessez de piloter par plan annuel : lancez un pilote OKR dans votre unité.
-- Osez une décision hors plan... puis alignez le reste ensuite.
+Cartographiez les rythmes existants dans vos unités :
 
----
+- Disposez-vous de trois cadences ?
+- Supprimez une réunion de revue inutile.
+- Cessez de gérer par plan annuel : lancez un pilote OKR trimestriel.
+- Osez une décision hors cycle… puis alignez le reste ensuite.
 
-#
+## 🔑 Points clés à retenir
+
+| Cadence | Fréquence | Finalité | Exemple d’instance |
+| --- | --- | --- | --- |
+| **Cadence stratégique** | Annuelle | Ajuster les objectifs stratégiques et activer la mobilité | CODIR |
+| **Revue tactique** | Trimestrielle | Ajuster les objectifs tactiques, réaligner les initiatives | Comités métiers |
+| **Slack stratégique** | Continue | Capture d’opportunités hors cycle | Slack Review |
+
+- La gouvernance adaptative est le cœur organisationnel de l’agilité stratégique.
+- Elle structure le rythme décisionnel entre intention stratégique et tactique.
+- Elle permet un pilotage par l’impact, ancré dans la réalité du terrain.
+- Elle synchronise vision, tactique, RH et budget sur un même tempo.
+

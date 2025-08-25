@@ -1,320 +1,286 @@
 # Agile4Product : Archétype Produit
 
+✨**Objectif**
 
+L’**archétype Produit** guide les organisations qui veulent créer des produits différenciants, centrés sur l’expérience client et la valeur perçue. Il aligne la structure de l’entreprise sur une stratégie de différenciation par le produit, favorisant la scalabilité et l’innovation de continuité.
 
-✨ **Objectif** L’**archétype Produit** guide les organisations qui veulent **créer des produits différenciants**, centrés sur l’**expérience client** et la **valeur perçue**. Il aligne la structure de l’entreprise sur une stratégie de **différenciation par le produit**, favorisant la **scalabilité** et l’**innovation continue**.
+🧑‍🎓**Ce que vous allez apprendre ici**
 
-🧑‍🎓 **Ce que vous allez apprendre** - Comment une organisation peut s’aligner sur une **logique produit cohérente et scalable**. - Les **principes structurels** d’une organisation produit : groupe produit, domaine métier, feature team.
+- Comment une organisation peut s’aligner sur une **logique produit cohérente et scalable**.
+- Les **principes structurels** d’une organisation produit : groupe produit, domaine métier, feature team.
 
-📚 **Lexique rapide** **Archétype Produit** = organisation structurée autour d’un produit, de sa croissance et de son usage. **Zone d’expansion** = phase de développement et de conquête (majorité précoce). **Backlog unique** = liste consolidée et priorisée des fonctionnalités produit, pilotée par un Product Owner. **Product Operating Model (POM)** = structure complète (développement, marketing, support, etc.) dédiée à la croissance d’un produit. **Domaine métier** = segment de valeur utilisateur stable au sein du produit, non autonome en tant qu’offre. **T-Shaped** = profil combinant une expertise forte dans un domaine et une polyvalence sur d’autres.
+📚**Petit lexique**
 
-![Archétype Produit dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
+- **Backlog unique** = liste consolidée et priorisée des fonctionnalités produit, pilotée par un Product Owner.
+- **Product Operating Model (POM)** = structure complète (développement, marketing, support, etc.) dédiée à la croissance d’un produit.
+- **Domaine métier** = segment de valeur utilisateur stable au sein du produit, non autonome en tant qu’offre.
+- **T-Shaped** = profil combinant une expertise forte dans un domaine et une polyvalence sur d’autres.
 
-Archétype Produit dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
+![Archétype Produit dans le modèle Agile4X](image.png)
 
-# Positionnement
+## Positionnement
 
-**Stratégie orientée produit :** Différencier l’offre par l’usage et l’expérience produit. Le produit ou le service est le principal moteur de valeur pour l’entreprise et ses clients. 
+**Stratégie orientée produit :** Différencier l’offre par l’usage et l’expérience utilisateur. L’actif incarne le moteur central de valeur pour l’entreprise et ses clients : produit et business ne font qu’un !
 
-**Logique dominante :**  approche « produit ».
+**Logique dominante :** approche « produit ».
 
-**Exemples d’organisations**
+**Exemples d’organisations** :
 
-- Entreprises avec un **portefeuille de produits digitaux** (ex. Airbnb).
-- Business units produits dans des **groupes**.
+- **Portefeuille de produits digitaux** (ex. Airbnb).
+- Unités d’affaires dans des **groupes**.
 - Scale-ups
-- Editeurs de logiciels
+- Éditeurs de logiciels
 
-## **Caractéristiques**
+### Caractéristiques
 
-![L’archétype Produit dans le modèle 4E](image%201.png)
+![L’archétype Produit dans le modèle Agile4E](image 1.png)
 
-L’archétype Produit dans le modèle 4E
+**Zone Agile4E privilégiée** : **Expansion**
 
-**Zone 4E privilégiée** : **Zone d’expansion** 
+![Développement et croissance de l’actif](image 2.png)
 
-![image.png](image%202.png)
+![Clientèle privilégiée majorité précoce](image 3.png)
 
-Développement et croissance de l’actif
+## Design organisationnel Produit
 
-![image.png](image%203.png)
+### Structure
 
-Clientèle privilégiée : majorité précoce.
+![Structure groupe produit](image 4.png)
 
-> Réfléchissez : Quel produit est aujourd’hui en phase d’expansion chez vous ?
-> 
+🧑‍🎓
 
-# Design organisationnel Produit
+**Unité stratégique « Groupe Produit »** :
 
-## Structure
+Unité autonome réunissant toutes les fonctions nécessaires à la croissance de l’actif, de sa base clients et de ses utilisateurs. Certaines de ces fonctions sont intégrées dans les équipes, d’autres relèvent des services partagés du groupe. Ce modèle est également connu sous le nom de Product Operating Model (POM).
 
-![image.png](image%204.png)
+🌀**Exemple** :
+*
 
-💡 ### **Unité stratégique “Groupe Produit”** Unité autonome possédant toutes les fonctions (développement, marketing, commercial, support) nécessaires à la croissance du produit, sa base clients et utilisateurs. Aussi appelé **Product Operating Model** (POM).
+Chez **Amazon**, chaque produit clé (ex. Alexa, AWS, Prime) fonctionne comme un **groupe autonome**.
+*
 
-Ces fonctions se retrouvent soit intégrées dans les équipes soit dans les services partagés du groupe Produit.
+Par définition, une unité gère un seul produit. Elle s’organise autour d’un unique Product Backlog, sous la responsabilité d’un unique Product Owner, avec une structure plate, et un minimum de niveaux hiérarchiques. Le Product Manager, garant de l’organisation produit, détient l’autorité sur le compte de résultat et le pouvoir de décision pour atteindre les objectifs. Son rôle, de niveau senior, implique aussi le pilotage des ressources nécessaires à l’exécution de la stratégie.
 
-> *Exemple : Chez **Amazon**, chaque produit clé (ex. Alexa, AWS, Prime) fonctionne comme un **groupe produit autonome** avec ses propres équipes de développement, marketing et support.*
-> 
+🧑‍🎓
 
-Par définition, une unité ne gère qu’un seul produit. Elle est organisée autour d’un unique Product Backlog, responsabilité d’un unique Product Owner, avec une structure la plus plate possible, avec un minimum de niveaux hiérarchiques.
+**Unité tactique** :
 
-Le Product Manager responsable d’une organisation produit doit avoir toute autorité sur le compte de résultats du produit, et celle de décider et la responsabilité d’atteindre les objectifs du produit. C’est donc également un manager senior car il a également le contrôle des ressources nécessaires pour exécuter sa stratégie produit.
+L’espace tactique, lorsqu’il existe, se structure autour de **domaines métiers**.
 
-💡 ### **Unité tactique** L’espace tactique, si besoin, est structuré autour de **segments de valeur utilisateur**, les **domaines métier**.
+Un domaine métier représente une composante significative du produit, adressant un segment client, mais sans valeur ni identité propres en dehors de son intégration au produit. Les équipes peuvent livrer des éléments de Backlog utiles aux utilisateurs, mais toujours dans le cadre de l’incrément. On recherche en général un domaine stable, indépendant de toute solution technique particulière.
 
-Un domaine métier est une composante significative du produit qui répond aux besoins d'un segment client, mais qui n'a pas de valeur ou d'identité distincte en dehors de son intégration dans le produit.
+🌀**Exemple** :
+*
 
-Autrement dit, ce n’est pas un produit en tant que tel. Les équipes de ce domaine peuvent livrer des éléments de Backlog pertinents pour les utilisateurs, mais dans l'incrément de produit. Généralement, on recherche un domaine stable et indépendant de toute solution spécifique.
+**Airbnb** a organisé ses équipes autour de domaines de valeur comme « Expérience voyageur » et « Hôte ».
+*
 
-> *Exemple : **Airbnb** a structuré ses équipes **autour** de domaines de valeur clairs comme "Expérience Voyageur" et "Hôtes".*
-> 
+🧑‍🎓
 
-💡 ### **Unité opérationnelle** Equipes pluridisciplinaires, focalisées sur un domaine métier.
+**Unité opérationnelle** :
 
-**Feature team**
+Équipe pluridisciplinaire, stable, organisée par fonctionnalité, favorisant à la fois l’apprentissage métier et la performance collective.
 
-L’équipe est auto organisée, pluri disciplinaire. Elle est stable par domaine métier ou par fonctionnalité, permettant l’apprentissage métier et la performance de l’équipe.
+**Équipe composant** :
 
-**Component Team**
+Elle intervient lorsque l’état ou la qualité d’un composant empêche son usage efficace par d’autres équipes. Sa mission consiste à refactorer et désendetter ce composant pour qu’il réintègre le Backlog commun. Une fois cette mission accomplie, elle n’a plus de raison d’exister. Sa durée de vie reste donc limitée. La dérive possible : devenir une équipe produit interne ou un groupe plateforme.
 
-Elle est nécessaire lorsque l'état ou la qualité d'un composant ou service empêche son utilisation efficace par d'autres équipes. Sa mission est de refactorer et désendetter ce composant afin qu'il puisse être réintégré dans le Backlog commun. Une fois cette mission accomplie, l'équipe composant n'a plus de raison d'exister. Elle a donc une durée de vie limitée. Le risque est de devenir stable et de se transformer en équipe produit interne ou en groupe plateforme.
+#### Groupes plateformes
 
-### **Passage à l’échelle: Inter groupes produit et les groupes plateformes**
+![*Organisation multiproduits avec des groupes plateformes*](image 5.png)
 
-Avec la croissance, il faut faire évoluer l’organisation produit en parallèle du produit lui-même.
+Il se concentre sur les services communs et les fonctionnalités de commodité utilisés par plusieurs groupes. Contrairement à ces derniers, il ne gère pas de produit ni de compte de résultat propre. Son rôle crée donc une dépendance entre unités, mais permet d’éviter la duplication des rôles, compétences ou composants. Avant de mettre en place un tel groupe, certains critères doivent être examinés :
 
-![*Organisation multi produits avec des groupes plateformes*](image%205.png)
+- Service non essentiel avec dépendances linéaires ou partagées,
+- Le coût des délais induits par ces dépendances reste acceptable,
+- La prédictibilité du service rendu est assurée (approche en flux privilégiée).
 
-*Organisation multi produits avec des groupes plateformes*
-
-Un groupe plateforme se concentre sur des fonctionnalités de commodité ou des services communs à plusieurs groupes produits, tandis que les groupes produits se chargent des développements spécifiques à leurs produits respectifs. Ce n'est pas un produit interne et n'a pas son propre compte de résultat. Cela crée de la dépendance entre les unités permettant d’éviter une duplication de rôles, de compétences ou de composants. Il présente des avantages mais nécessite de prendre en compte certains critères avant sa mise en place : 
-
-- Le service n’est pas essentiel,
-- Les dépendances sont séquentielles ou mutualisées,
-- Le coût des délais induits par ces dépendances est acceptable,
-- La prédictibilité du service rendu est assuré.
-
-Par ailleurs, les services partagés directement liés aux groupes produits, comme l'UX ou la qualité, devraient être intégrés au sein même de chaque groupe produit.
+En revanche, les services partagés directement liés aux groupes, comme l’expérience utilisateur ou la qualité, doivent être intégrés dans chaque groupe.
 
 ### Capacités organisationnelles
 
-L’enjeu paradoxal est de **p**asser l'agilité à l’échelle du marché (business et organisation), tout en restant agile.
+L’enjeu paradoxal consiste à passer à l’échelle — marché et structure interne — tout en préservant l’agilité. **Agile4C** appliqué au Produit :
 
-- **Réactivité:** Intégration rapide des retours utilisateurs
-    
-    > *Exemple : **Netflix** teste constamment de nouvelles interfaces en A/B testing pour optimiser l'expérience utilisateur.*
-    > 
-- **Flexibilité :** Adaptation continue de la roadmap aux signaux du marché (pivot produit, innovation incrémentale) et aux usages évolutifs.
-- **Adaptabilité :** Reconfiguration organisationnelle en fonction de la croissance du produit et intégration continue des innovations technologiques et marché.
-    
-    > *Exemple* : **Apple** adapte ses produits en fonction des avancées technologiques (ex. Face ID, Apple Silicon).
-    > 
-- **Proactivité :** Anticipation des besoins futurs des clients, souvent par design stratégique ou innovation technologique.
-- **Amélioration continue : Innovation de continuité** du produit (nouveaux usages, nouvelles fonctionnalités, ..).
-    
-    > *Exemple* : **Tesla** pousse des mises à jour OTA (Over The Air) pour améliorer ses véhicules en continu.
-    > 
+- **Réactivité** : Intégration rapide des retours utilisateurs.
 
-## Reconnaissance
+    🌀**Exemple** :
+*
 
-L’enjeu individuel est celui de la compétition. Il est lié à la contribution au produit, à l’impact métier, et au développement de la compétence collective. Cette organisation valorise l'expertise et la performance. Elle vise des résultats supérieurs grâce à la maîtrise technique ou professionnelle.
+    **Netflix** effectue constamment des tests A/B sur les interfaces pour optimiser l’expérience utilisateur.
+    *
+- **Flexibilité** : Adaptation permanente de la feuille de route aux usages évolutifs.
+- **Adaptabilité** : Reconfiguration selon la croissance du produit et intégration continue des innovations technologiques et marché.
 
-L’avancement se fait principalement par la méritocratie.
+    🌀**Exemple** :
+*
 
-L’enjeu managérial est l’atteinte des objectifs, et le Time To Market des fonctionnalités.
+    **Apple** ajuste ses produits en fonction des avancées, comme Face ID ou Apple Silicon.
+    *
+- **Proactivité** : Anticipation des besoins futurs.
+- **Innovation de continuité** (usages, fonctionnalités…).
 
-## Individu
+    🌀**Exemple** :
+*
 
-**Management : Servant Leadership** et subsidiarité pour l’accompagnement des équipes.
+    **Tesla** met souvent à jour ses véhicules à distance (OTA — Over The Air) pour les améliorer.
+    *
 
-> *Exemple : Chez **Zappos**, le management laisse les équipes maximiser l’expérience client plutôt que d’imposer des directives rigides.*
-> 
+### Reconnaissance
 
-**L’apprentissage multi compétences : Profils T-Shaped** : expertise + polyvalence métier.
+Pour l’individu, l’enjeu central devient la compétition. Il est lié à la contribution au produit, à l’impact métier et au développement de la compétence collective. Cette organisation valorise l’expertise et la performance. Elle vise des résultats supérieurs grâce à la maîtrise technique ou professionnelle. L’avancement repose surtout sur la méritocratie. L’enjeu managérial consiste à atteindre les objectifs et à réduire le Time-To-Market des fonctionnalités.
 
-Les profils en T sont un atout. Il faut rechercher le bon équilibre entre l’efficience d’un expert et la performance d’un travail d’équipe.
+### Individu
 
-> *Exemple : **SpaceX** forme ses ingénieurs sur plusieurs disciplines (propulsion, logiciels embarqués, design structurel).*
-> 
+**Style de gestion** : Servant Leadership et subsidiarité.
 
-**Les tensions classiques :**
+🌀**Exemple** :
+*
 
-- Mettre en place des équipes pluri disciplinaires et embaucher des spécialistes techniques n’ayant pas envie d’apprendre sur le domaine fonctionnelle et le métier adressé,
-- Evaluer la performance individuelle sur la productivité de chacun plutôt que sur les compétences interpersonnelles permettant à l’équipe d’atteindre les objectifs communs.
+Chez **Zappos**, le management laisse les équipes maximiser l’expérience client plutôt que d’imposer des directives rigides.
+*
+
+**L’apprentissage multicompétences** : Les profils en T, alliant expertise et polyvalence métier, constituent un véritable atout. Visez l’équilibre entre l’efficience de l’expert et l’efficacité de l’équipe.
+
+🌀**Exemple** :
+*
+
+**SpaceX** forme ses ingénieurs sur plusieurs disciplines (propulsion, logiciels embarqués, design structurel).
+*
 
 Enfin, les individus recherchent l’autonomie en tant que professionnels.
 
-## Processus
+### Processus
 
-**Pilotage par la valeur perçue**
+**Pilotage par la valeur** perçue :
 
-- Pilotage **data-driven**, orienté résultats.
-- **Budget produit :** Investissement progressif aligné sur les retours utilisateurs et l’impact mesurable.
-- **Gestion du portefeuille** d’initiatives stratégiques Produit, piloté par la valeur délivrée, non par la roadmap planifiée.
-- **OKR produit** orientés sur le comportement des utilisateurs.
+- Pilotage fondé sur les données.
+- Budget produit alloué de façon progressive, aligné sur l’impact mesurable.
+- Gestion du portefeuille d’initiatives stratégiques guidée par la valeur délivrée plutôt que par une feuille de route planifiée.
+- **OKR** orientés sur les comportements utilisateurs.
 
-> *Exemple :* Google  ajuste en continu ses algorithmes de recherche selon les comportements observés, tout comme LinkedIn pour ses algorithmes de publication.
-> 
+🌀**Exemple** :
+*
+
+Google et LinkedIn adaptent constamment leurs algorithmes de recherche et de publication, respectivement, selon l’usage qu’en font les utilisateurs.
+*
 
 **Coordination verticale**
 
-- Les processus (les cadences de sprint, …),
-- Un rôle d’intégrateur avec le responsable produit : un Product Backlog unique avec un Product Owner unique pour le groupe produit, orienté utilisateur. C’est le marqueur du couplage fort d’une groupe produit, toutes les équipes pouvant y contribuer.
-- L’intégration du produit lui-même et des objectifs communs.
+- Processus communs (cadences de sprint, de version, etc.).
+- Rôle d’intégrateur : un Product Backlog unique avec un Product Owner unique, marqueur du couplage fort du groupe.
+- Intégration du produit et alignement sur des objectifs partagés.
 
 **Coordination horizontale**
 
-- Ajustement mutuel (auto organisation des équipes)
-    
-    > *Exemple : **Salesforce** intègre étroitement ses équipes produits et commerciales pour assurer un alignement constant.*
-    > 
-- Des règles explicites (définition prêt et de fini, cadence de sprint, …)
+- Ajustement mutuel (auto-organisation des équipes),
+- Des règles explicites (définition de « prêt » et de « fini », cadence de sprint…).
 
-**Gestion de la dépendance entre unités opérationnelles**
+**Gestion de la dépendance**
 
-- **Interdépendance mutualisée** avec les services partagés
-    - Gérée soit par une approche orientée service soit par des processus.
-- **Interdépendance réciproque** avec les équipes agiles
-    - Gérée grâce à la pluri disciplinarité, l’auto organisation et la taille réduite des équipes.
+- **Interdépendance mutualisée** avec les services partagés : Gérée soit par une approche orientée service soit par des processus.
+- **Interdépendance réciproque** avec les équipes opérationnelles : Gérée grâce à la pluridisciplinarité, l’auto-organisation et la taille réduite des équipes.
 
 **Organisation duale**
 
-Le management produit est souvent séparé de la ligne managériale. Les rôles opérationnels décident du travail à effectuer sans avoir d'autorité RH, tandis que les rôles managériaux se concentrent sur l'amélioration du design organisationnel et de l'efficience des équipes, sans décider du travail à faire.
+La gestion Produit se distingue de la ligne hiérarchique. Les rôles opérationnels décident du travail à réaliser sans responsabilité RH, tandis que les managers se consacrent à l’amélioration du design organisationnel et de l’efficience des équipes, sans intervenir sur le contenu du travail. Elles peuvent ainsi se reconfigurer rapidement.
 
-Les équipes peuvent se reconfigurer rapidement pour s'adapter aux nouvelles priorités ou opportunités.
+**Méthode privilégiée** : Scrum.
 
-**Cadence de changement :** Inspection et adaptation continues
+### Résultats : Performance & Culture
 
-**Méthode privilégiée** : Scrum. 
+#### Performance
 
-**Modes de collaboration privilégiées** : pair programming, mob programming.
+L’organisation se construit autour de la valeur perçue par la clientèle. Puisque le compte de résultat dépend du produit, les indicateurs clés de performance en dépendent également.
 
-## Résultats : Performance & Culture
+🌀**Exemple** :
+*
 
-### Performance
+**Amazon Prime** mesure le taux d’engagement client et la fréquence des commandes pour ajuster son offre.
+*
 
-L’organisation produit est optimisée pour la valeur perçue par le client. Le compte de résultats étant directement lié au produit, les indicateurs clés de performance le sont également. Il existe de nombreux Frameworks de métriques Produit.
+**Problématique de la zone d’expansion** :
 
-> *Exemple : **Amazon Prime** mesure le taux d’engagement client et la fréquence des commandes pour ajuster son offre.*
-> 
+Préparer, à terme, l’intégration du produit dans le portefeuille d’exploitation, lorsqu’il existe. Cela impacte autant la performance des deux zones.
 
-**Problématique de la zone d’expansion** : **Préparation à l’intégration**
+🌀**Exemple** :
+*
 
-Préparer, à terme, l’intégration du produit dans le portefeuille d’exploitation, s’il y en a un, et donc de l’intégration de l’organisation produit dans la zone d’exploitation. Cela a un impact sur la performance à la fois de la zone d’expansion et d’exploitation.
+**Google** a intégré YouTube en l’assimilant progressivement à son écosystème (ex. : la monétisation avec Google Ads).
+*
 
-> *Exemple : **Google** a intégré YouTube en créant un groupe produit dédié tout en l’intégrant progressivement à son écosystème (ex. monétisation via Google Ads).*
-> 
+#### Modèle culturel dominant
 
-### Modèle culturel dominant
+L’organisation produit se présente comme un modèle basé sur les buts relationnels, une logique de marché et une culture du résultat. Elle se concentre sur la compétitivité et l’atteinte des objectifs. C’est un domaine privilégié des OKR. Celles qui adoptent cette logique visent la productivité, la rentabilité et les parts de marché. Compétences et expertises forment des atouts déterminants. Les décisions sont souvent déléguées ou négociées.
 
-L’organisation produit se positionne comme un modèle basé sur les buts relationnels, une logique de marché, et une culture du résultat et de la compétition. Elle se concentre sur la compétitivité et l'atteinte des objectifs. C’est un domaine privilégié des OKR.
+Ce modèle favorise une **culture Produit** qui encourage :
 
- Les organisations adoptant cette logique visent la productivité, la rentabilité et la part de marché. Les compétences ainsi que l'expertise sont des éléments clés. Les décisions sont souvent déléguées ou négociées.
+- **Innovation continue** : Exploration des usages, test & learn rapide.
+- **Centrée utilisateur** : Valeur = usage + expérience perçue.
 
-**Culture Produit**
+### Bénéfices clés
 
-En complément d'une performance orientée vers la réussite du produit, cette approche favorise l'émergence d'une **culture produit** :
-
-- **Centrée utilisateur** : Valeur = usage + expérience perçue.
-- **Innovation continue** : Exploration des usages, test & learn rapide.
-
-> *Exemple : **Airbnb** optimise l’expérience de réservation en testant en continu différentes mises en page.*
-> 
-
-## Ce qu’il faut éviter
-
-Pour ne pas avoir une organisation Produit Zombie :
-
-- Backlogs par équipe → perte de cohérence.
-- Product Owner affaibli ou absent.
-- Spécialistes isolés sans polyvalence.
-- Roadmap rigide, non ajustée aux données.
-- Succession de projets sans mesure d’impact.
-
-> Piège : multiplier les squads sans Product Backlog unifié, et n’avoir ni vision long terme ni métriques client.
-> 
-
-## Bénéfices clés
-
-- **Scalabilité fluide** : structure modulaire.
-- **Alignement fort** : cohérence business ↔ produit.
-- **Efficience produit** : réduction du time-to-market.
+- **Scalabilité fluide** : structure modulaire.
+- **Alignement fort** : cohérence business ↔ produit.
+- **Efficience** : réduction du Time-To-Market fonctionnalité.
 
 ## 👣 Et concrètement, lundi matin ?
 
-**Êtes-vous déjà une organisation Produit ?** Cochez si vous pouvez répondre oui à au moins 3 de ces questions :
+**Fonctionnez-vous déjà en Produit ?** Cochez les questions suivantes :
 
-- [ ]  Un **Product Backlog unique** pilote-t-il toutes vos équipes ?
-- [ ]  Mesurez-vous **NPS**, rétention et usage par fonctionnalité ?
-- [ ]  Adaptez-vous votre roadmap à chaque retour utilisateur ?
-- [ ]  Vos équipes sont-elles **pluridisciplinaires** et **T-shaped** ?
-- [ ]  Disposez-vous d’**OKR produit** couplés à votre budget ?
+- [ ] Un Product Backlog unique pilote-t-il toutes vos équipes ?
+- [ ] Mesurez-vous NPS, rétention et usage par fonctionnalité ?
+- [ ] Adaptez-vous votre Backlog à chaque retour utilisateur ?
+- [ ] Vos équipes combinent-elles pluridisciplinarité et profils en T ?
+- [ ] Disposez-vous d’**un OKR produit** couplé à votre budget ?
 
-**Plus de 3 oui** : vous êtes en route vers l’organisation produit.
+**Plus de 3 oui** : vous êtes déjà engagés sur la bonne voie.
 
-**Moins de 3 oui**, et vous souhaitez souhaitez passer en produit, suivez ces principes :
+**Moins de 3 oui**, pour y parvenir, suivez ces principes :
 
-1. **Passer de la startup à la scale-up** : structurer l’organisation sans perdre l’agilité.
-    
-    > *Exemple : **Uber** est passé d’une startup à une entreprise internationale en adaptant progressivement sa structure produit.*
-    > 
-2. **Mettre à l’échelle l’organisation produit** : passage de feature teams à une structure modulaire, orientée domaine.
-    
-    > *Exemple : **Stripe** est passé d’une API pour développeurs à une plateforme complète de gestion des paiements.*
-    > 
-3. **Préparer l’intégration dans la zone d’exploitation** : formalisation, industrialisation, productisation.
-    
-    > *Exemple : Uber a progressivement structuré ses fonctions produit à mesure de sa croissance internationale.*
-    > 
+1. Passer de la start-up à la scale-up.
+2. Mettre à l’échelle l’organisation produit.
+3. Préparer l’intégration dans la zone d’exploitation.
 
-## Implémentations & Cadres d’inspiration
+## Implémentations & cadres d’inspiration
 
-Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
+Vous pouvez vous inspirer de l’un de ces modèles :
 
-- Safe, pour une gestion produit intégrée
+- SAFe, pour une gestion intégrée
 - LeSS, pour coordonner plusieurs équipes produit
 - Spotify (Agile@Scale), pour la scalabilité organisationnelle
 
----
+<div data-type="keypoint">
 
-# Synthèse de l’archétype Produit
+### Vue synthétique SCRIP
 
-## Vue synthétique SCRIP
-
-**Structure**
+**Structure** :
 
 - Unité stratégique autour du produit, d’un domaine métier
 - Alignement autour d’un Product Owner et d’un Backlog unique.
 - Equipe : pluri disciplinaire, auto organisée, stable
 
-**Capacités**
+**Capacités** :
 
-Réactivité : feedbacks utilisateurs et clients
+- Réactivité : feedbacks utilisateurs et clients
+- Flexibilité : usage du produit spécifique
+- Adaptabilité : au marché et à la technologie
+- Proactivité : au nouveaux usages métier / produit
+- Amélioration continue orientée innovation de continuité
 
-Flexibilité : usage du produit spécifique
-
-Adaptabilité : au marché et à la technologie
-
-Proactivité : au nouveaux usages métier / produit
-
-Amélioration continue orientée innovation de continuité
-
-**Reconnaissance**
+**Reconnaissance** :
 
 - Performance managériale : Time To Market (TTM) fonctionnalités, atteinte des objectifs
 - Performance individuelle : apprentissages métier / produit
 
-**Individus**
+**Individus** :
 
 - Servant leadership et ajustement mutuel
 - Développement : multi compétences autour du produit /métier
 - Mobilité : Mono équipe, au sein du groupe tactique
 
-**Processus**
+**Processus** :
 
 - Pilotage par la valeur (OKR, data-driven)
 - Coordination verticale/horizontale autour du Backlog.
 - Méthode privilégiée : Scrum
 
-###

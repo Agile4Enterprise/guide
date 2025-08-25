@@ -1,147 +1,178 @@
-# Piloter le changement continu !
+# Piloter le changement continu
 
+✨**Objectif**
 
+Aujourd’hui, le changement est donc devenu permanent et structurel. Il ne s’agit plus de piloter des transformations ponctuelles, mais de les intégrer au fonctionnement quotidien de l’organisation.
 
-✨ **Objectif** Aujourd'hui, **le changement est devenu permanent et structurel**. Il ne s'agit plus de piloter des transformations ponctuelles mais **d'intégrer le changement au fonctionnement quotidien de l'organisation**. L’enjeu est de **concilier adaptation rapide et création de valeur durable**, tout en évitant les pièges de l'inertie ou de la désorganisation.
+L’enjeu consiste à **concilier adaptation et création de valeur durable**, tout en évitant les pièges de l’inertie ou de la désorganisation.
 
-🧑‍🎓 **Ce que vous allez apprendre ici** - Pourquoi l’ambidextrie (explorer et exploiter en même temps) est devenue une compétence clé. - Comment piloter une stratégie **qui évolue sans perdre son cap**.
+🧑‍🎓**Ce que vous allez apprendre ici**
 
-# L’enjeu du changement
+- Pourquoi l’ambidextrie (« explorer » et « exploiter » en même temps) est-elle une compétence clé ?
+- Comment gérer une stratégie **qui évolue sans perdre son cap** ?
 
-## Décrypter le changement
+## L’enjeu du changement
 
-L’agilité est souvent perçue comme la capacité à s’adapter rapidement. Mais elle est bien plus que cela : **c’est la capacité d'une organisation à naviguer dans la complexité du changement**.
+### Décrypter les mécanismes
 
-❓ **De quel changement parle-t-on ?** S’agit-il d’un changement progressif et incrémental, façonnant l’entreprise au quotidien ? D’un bouleversement brutal, provoqué par une crise ou une rupture technologique ? Est-il induit par des dynamiques internes à l’organisation, ou par des mutations externes du marché ?
+L’agilité est souvent perçue comme la capacité à s’adapter rapidement. Mais plus que cela, **c’est naviguer dans l’incertitude et la complexité du changement**.
 
-Comprendre ces nuances est essentiel pour bâtir une organisation qui **ne subit pas le changement**, mais **le transforme en levier d’opportunités**. Cela suppose d’ajuster en conséquence sa gouvernance, son leadership et son modèle opératoire.
+❓
+De quoi parle-t-on ?
 
-Encore faut-il respecter **la capacité d’absorption réelle des individus**. Le changement ne se décrète pas : il se vit, il se négocie. Il peut susciter résistances et craintes légitimes. La capacité d’adaptation d’une organisation ne dépasse jamais celle de son collectif. Elle ne peut donc se construire au détriment de l’humain.
+- D’une évolution progressive et incrémentale, avec un impact quotidien ?
 
-Nous approfondirons ce point dans la section dédiée à l’agilité individuelle.
+- D’un bouleversement brutal, provoqué par une crise ou une rupture technologique ?
 
-## **Vers une nouvelle gestion du changement en entreprise**
+- De dynamiques internes à l’organisation, ou de mutations externes du marché ?
 
-🔥 **Un changement radical : Michelin** *Pendant 125 ans, Michelin a construit son empire sur un produit unique : le pneu. En 2012, alors que 97 % de son chiffre d’affaires vient encore de cette activité, Jean-Dominique Senard, son nouveau PDG, décide de transformer Michelin en acteur de la mobilité durable.* *Plutôt que d’attendre la rupture, il l’anticipe et l’oriente :* - ***Investissement précoce dans l’hydrogène**.* - ***Création d’un écosystème d’innovation ouverte**.* - ***Lancement d’un produit de rupture** : le pneu VISION (sans air, biodégradable, connecté).* *Michelin n’a pas seulement réagi au marché : La société a redéfini sa place dans l’écosystème, et son modèle économique.* > *Résultat : valorisation doublée, diversification réussie, leadership technologique renforcé.* >
+Comprendre ces nuances est essentiel pour bâtir une entreprise qui **transforme le changement en levier d’opportunités, sans le subir**. Cela suppose d’ajuster en conséquence sa gouvernance, son leadership et son modèle opératoire.
 
-## Exploitation vs exploration
+Encore faut-il respecter la capacité d’absorption réelle par les individus. Elle ne se décrète pas : elle se vit, elle se négocie. Elle peut susciter résistances et craintes légitimes. Mais surtout, elle ne dépasse jamais celle de son collectif et ne peut se construire au détriment de l’humain.
 
+### Vers une nouvelle gestion
 
+🌀**Exemple** :
+*
 
-*Evolution du modèle, d’une approche alternée à une approche simultanée*
+**Un changement radical** : Michelin
 
-Historiquement, la gestion du changement reposait sur une alternance:
+*Pendant 125 ans, Michelin a construit son empire sur un produit unique : le pneu. En 2012, alors que 97 % de son chiffre d’affaires vient encore de cette activité, Jean-Dominique Senard, son nouveau PDG, décide de transformer Michelin en acteur de la mobilité durable.*
 
-- De **phases d’exploration** pour préparer l'avenir, accompagnés de changements radicaux à l’image de Michelin,
-- Puis de **périodes d’exploitation** des actifs existants pour optimiser la rentabilité.
+*Plutôt que d’attendre la rupture, il l’anticipe et l’oriente avec :*
 
-🧑‍🎓 **L'exploration** Elle implique la recherche et le développement de nouvelles opportunités, produits ou marchés, en quête d’innovations pour rester compétitif. Le changement se traduit ici par un **repositionnement stratégique**.
+- *La création d’un écosystème d’innovation ouverte,*
+- *Le lancement d’un produit révolutionnaire
+: le pneu VISION — sans air, biodégradable, connecté.*
 
-🧑‍🎓 **L'exploitation** Elle se concentre sur l'optimisation des activités existantes pour en améliorer l'efficacité et la rentabilité. Le but est de préserver les avantages concurrentiels viables le plus longtemps possible. Le changement se traduit ici par des **programmes de transformation** de type excellence opérationnelle.
+*Michelin n’a pas seulement réagi au marché : la société a redéfini sa place et son modèle économique.*
 
-📚 En savoir plus sur la fabrique du changement en entreprise
+> *Résultat : valorisation doublée, diversification réussie, avec un leadership technologique renforcé.*
+*
 
-## Une dynamique entre adaptation et intention stratégique
+### Exploitation vs exploration
 
-Ces phases sont mues par deux forces complémentaires :
+![*Évolution du modèle, d’une approche alternée à une simultanée*](image.png)
 
-- **L'intention stratégique** (**volontarisme stratégique**) : choisir d’agir sur son avenir en créant ses propres opportunités.
-- **L'adaptation** (**déterminisme darwinien**) : survivre en s’ajustant continuellement à un environnement instable.
+La transformation radicale est-elle la seule issue ? Historiquement, la gestion du changement reposait sur une alternance :
 
-L’entreprise vit dans la tension entre ces deux forces. **C’est dans cette tension vivante que réside la capacité réelle de changement.**
+- De **phases d’exploration** pour préparer l’avenir. Elles sont accompagnées de mutations profondes, généralement liées à un renouvellement de la direction, à l’image de Michelin,
+- Puis de **périodes d’exploitation** des actifs existants.
 
-- Trop d’intention sans adaptation = elle tombe dans le dogmatisme et l’idéologie.
-- Trop d’adaptation sans intention = c’est l’opportunisme désordonné ou l’inefficience organique qui prend le dessus.
+🧑‍🎓
+
+**L’exploration** :
+
+Elle implique la recherche et le développement de nouvelles opportunités, produits ou marchés, en quête d’innovations pour rester compétitif.
+
+Le changement se traduit ici par un repositionnement stratégique.
+
+🧑‍🎓
+
+**L’exploitation** :
+
+Elle se concentre sur l’optimisation des activités pour en améliorer l’efficacité et la rentabilité, et pour préserver les avantages concurrentiels viables le plus longtemps possible.
+
+Le changement se traduit cette fois par des programmes de transformation, par exemple pour tendre vers l’excellence opérationnelle.
+
+### Une dynamique entre adaptation et intention stratégique
+
+Deux forces complémentaires animent ces phases :
+
+- **L’intention stratégique** : choisir d’agir sur son avenir en créant ses propres opportunités,
+- **L’adaptation** : survivre en s’ajustant continuellement à un environnement instable.
+
+L’entreprise vit dans la tension entre ces deux forces. C’est dans cette polarité que réside la capacité réelle de changement.
+
+- Trop d’intentions sans adaptation = elle tombe dans le dogmatisme et l’idéologie.
+- Trop d’adaptation sans intention = c’est l’inefficience organique qui prend le dessus.
 
 Entre ces deux extrêmes, l’**inertie organisationnelle** agit souvent comme un frein au changement.
 
-## L’ambidextrie organisationnelle
+➿**TechNova**
 
-➿ **TechNova** Pendant **17 ans**, l’entreprise a capitalisé sur son modèle B2B : des capteurs industriels, fiables, prévisibles, optimisés à l’extrême. Une exploitation maîtrisée, sans remise en question. Quand la domotique est apparue comme nouveau relais de croissance, il a fallu **des années** pour oser s’y engager pleinement. Mais l’IA, elle, **n’a pas attendu**. En quelques mois seulement, des clients l’exigent. Des concurrents l’intègrent. Un prototype est prêt. Et déjà, tout le système grince. > TechNova découvre qu’il ne suffit plus d’explorer après avoir exploité. > > > Il faut désormais **savoir faire les deux… en même temps.** >
+Pendant 17 ans, l’entreprise a mis à profit son modèle B2B : des capteurs industriels, fiables, prévisibles et optimisés à l’extrême. Elle vit de l’exploitation maîtrisée, sans profonde remise en question.
 
+TechNova a patienté des années pour oser s’engager pleinement quand la domotique est apparue comme nouveau relais de croissance.
 
+Mais l’IA, elle, n’a pas attendu. En quelques mois seulement, la clientèle l’exige. La concurrence l’intègre. Un prototype fonctionne. Et déjà, tout le système coince.
 
-L’entreprise ambidextre
+> La direction découvre qu’exploiter après avoir exploré ne suffit plus. Elle devra apprendre à faire les deux… en même temps.
 
-Mais aujourd’hui, cette alternance n’est plus viable. **Les cycles se raccourcissent et se télescopent :** L’exploitation et l’exploration doivent cohabiter. Cette capacité est appelée **ambidextrie organisationnelle**. Elle se pilote comme un flux, pas comme une tension à arbitrer une fois pour toutes.
+### L’ambidextrie organisationnelle
 
-Pour que cela tienne dans le temps, l’entreprise doit :
+![L’entreprise ambidextre](image 1.png)
 
-- Basculer de l’un à l’autre sans rupture,
+Car aujourd’hui, cette alternance n’est plus viable. Les cycles se raccourcissent et se télescopent : Exploitation et Exploration doivent cohabiter. C’est l’**ambidextrie organisationnelle**. Pour que cela tienne dans le temps, l’entreprise doit :
+
+- Basculer de l’une à l’autre sans rupture. Elle se pilote comme une dynamique, plutôt qu’une opposition à arbitrer une fois pour toutes.
 - Maintenir une cohérence collective sans figer l’organisation.
 
-❓ **Bienvenue dans l’entreprise ambidextre** Votre organisation est-elle capable d'orchestrer cette transformation de manière dynamique, durable et efficace ?
+### Le changement continu : Un nouvel impératif stratégique
 
-## Le changement continu : Un nouvel impératif stratégique
+Le changement n’est plus un projet ou un programme à initier. C’est un système vivant, intégré aux processus de l’entreprise, au même titre que les autres, tels que la gestion de risque :
 
-Le changement n’est plus **un projet ou un programme à initier**. C’est **un système vivant,** intégré aux processus de l’entreprise, au même titre que les autres processus tels que la gestion de risque.
+- La stratégie devient **adaptative**, nourrie en continu par les signaux faibles issus du terrain et de son environnement.
+- Le design organisationnel devient, lui, **flexible et reconfigurable**, pour permettre de faire émerger de nouvelles capacités stratégiques.
+- **L’exécution** intègre l’expérimentation et l’apprentissage en continu.
 
-- La stratégie devient **adaptative** : elle n’est plus figée, mais **évolutive, itérative et participative**, nourrie en continu par les **signaux faibles** issus du terrain et de l’environnement.
-- Le design organisationnel devient **flexible et reconfigurable**, pour permettre à l’entreprise d’absorber l’incertitude et de faire émerger de nouvelles capacités stratégiques.
-- **L’exécution** intègre l'expérimentation et l'apprentissage en continu.
+Cette approche implique une transformation en profondeur de la manière dont l’entreprise conçoit son fonctionnement. Piloter les changements est alors une **compétence clé du leadership**.
 
-Loin d’être un simple ajustement, cette approche implique une transformation en profondeur de la manière dont l’entreprise conçoit son fonctionnement. La capacité à piloter ces changements devient une **compétence clé du leadership**.
+### Flux continu de création de valeur
 
-## **Flux continu de création de valeur**
+> L’agilité permet de créer de la valeur en continu même dans le changement.
 
-> Être agile, c’est créer de la valeur durable même dans le changement.
-> 
+Si ce n’est pas le cas, alors l’organisation a un problème lorsque la perturbation est permanente !
+**La continuité de la création de valeur doit être garantie**, qu’il s’agisse de celle :
 
-Le risque est de ne plus être capable de créer de la valeur le temps du changement. Et si le changement est continu, alors l’organisation a un problème !
+- Perçue par les utilisateurs et clients,
+- Pour les parties prenantes de l’entreprise.
 
-Donc piloter le changement continu ne suffit pas : **il faut aussi garantir la continuité de création de valeur de l’entreprise,** qu’il s’agisse de :
+Cela suppose un **pilotage par l’impact** : s’assurer le plus rapidement possible que ce que nous réalisons produit l’effet souhaité. Un pilotage par les livrables, s’il reste essentiel, n’est plus suffisant.
 
-- La valeur perçue par les utilisateurs et clients,
-- La valeur pour les parties prenantes de l’entreprise.
+### Préserver son identité
 
-Cela suppose un **pilotage par la valeur**. C’est-à-dire s’assurer le plus rapidement possible que ce que nous réalisons apporte bien la valeur souhaitée. Un pilotage par le projet ou les livrables n’est plus suffisant.
+Changer en permanence peut, à terme, créer une perte de référentiel : évoluer, oui, mais en préservant ses repères essentiels.
+Cela implique de savoir protéger son identité organisationnelle tout en se transformant. Et soulève une question de fond : **l’agilité doit-elle encourager l’évolution de la raison d’être de l’entreprise ?** Certaines approches le proposent.
 
-## Préserver son identité
+Ici, **la stratégie guide le changement**, elle-même conçut pour se développer dans un cadre stable. Cela implique un véritable travail de fond sur son identité et sur l’ensemble des artefacts qui l’incarnent : mission, raison d’être, vision et valeurs.
 
-Changer en permanence peut, à terme, créer une perte de repères. Il est donc essentiel de **rester capable de s’adapter sans renier ce que l’on est** : évoluer, oui, mais sans se trahir. Cela implique de savoir préserver son identité organisationnelle tout en se transformant.
+## Alors, s’adapter ou oser ?
 
-Cela soulève une question de fond : **l’agilité d’entreprise doit-elle encourager l’évolution de sa raison d’être ?** La réflexion est pertinente, d’autant que certains modèles organisationnels proposent une **raison d’être évolutive**.
+Le changement continu peut conduire l’organisation à devenir une machine à optimiser l’existant, et opter pour une posture d’ajustement permanente, trop modeste pour se transformer vraiment. Pour contrer cette dérive — se contenter de « fluidifier les processus » ou de « responsabiliser les équipes » — une autre ambition s’impose :
 
-Dans notre approche, **le changement est guidé par la stratégie**, elle-même conçue pour évoluer dans un cadre stable, défini par la finalité de l’entreprise et ses valeurs. Ce cadre de référence permet à la stratégie de s’adapter tout en conservant une cohérence identitaire forte.
+> **Retrouver une liberté de manœuvre, là où l’incertitude paralyse l’action**.
 
-Cela implique un véritable travail de fond sur l’identité organisationnelle et sur l’ensemble des artefacts qui l’incarnent : mission, vision, valeurs.
+On ne cherche pas à éviter les risques associés, mais à en prendre de manière lucide et maîtrisée. C’est une discipline pour rendre possibles les paris stratégiques dans des conditions où le collectif est outillé pour naviguer dans l’instabilité. Ce n’est pas parce qu’on évolue en continu qu’on transforme petit.
 
----
-
-# Alors, s’adapter ou oser ?
-
-Le changement, s’il est continu, peut conduire l’entreprise à devenir une machine à optimiser l’existant, une posture d’adaptation permanente, trop modeste pour transformer vraiment. Il faut résister à cette dérive, ne pas se contenter pas de “fluidifier les processus” ou de “responsabiliser les équipes” en vase clos. Il faut une autre ambition :
-
-> **Retrouver une liberté de manœuvre stratégique** là où l’incertitude paralyse l’action, en gérant le risque associé au changement.
-> 
-
-On ne cherche pas à éviter les risques, mais à **en prendre de manière lucide et maîtrisée :**
-
-- **Pas des risques subis**, comme une rupture technologique non anticipée faute de veille ou d’alignement stratégique.
-- **Pas des risques générés en interne**, comme des ruptures désincarnées, décidées sans lien avec le terrain ni alignement collectif.
-
-C’est une **discipline pour rendre possible les paris stratégiques** dans des conditions où le collectif est outillé pour traverser l’incertitude, et non pas la subir. Ce n’est pas parce qu’on transforme en continu qu’on transforme petit.
-
-> L’organisation qui sait gérer le changement en continu, tout en créant de la valeur, sans perdre son identité, a un réel **avantage concurrentiel**. Et cet avantage ne peut ni s’acheter ni être copié facilement !
-> 
+> L’organisation qui sait gérer le changement, tout en créant de la valeur, sans perdre son identité, se crée un réel **avantage concurrentiel**. Et cet avantage ne peut ni s’acheter ni être copié facilement !
 
 ## 👣 Et concrètement, lundi matin ?
 
-Demandez-vous où en êtes-vous concrètement ?
+Demandez-vous où vous en êtes concrètement ?
 
-✅ Nous avons une **vision stratégique**, revue régulièrement, et partagée.
+  -[ ] Nous avons une **vision stratégique**, revue régulièrement, et partagée.
 
-✅ Nos équipes savent **qui décide quoi**, à quel rythme.
+  -[ ] Les membres des équipes savent **qui prend les décisions**, quand, et dans quel domaine.
 
-✅ Nous adaptons nos projets en fonction des retours terrain, **sans attendre la fin d’un cycle**.
+  -[ ] Nous adaptons nos projets en fonction des retours terrain, **sans attendre la fin d’un cycle**.
 
-✅ Les priorités sont révisées au moins **une fois par mois**.
+  -[ ] Les priorités sont révisées au minimum **une fois par mois**.
 
-✅ La valeur produite est mesurée **autrement que par les livrables ou les délais**.
+  -[ ] La valeur produite est mesurée **autrement que par les livrables ou les délais**.
 
-> **Au moins 3 cases cochées ?** Félicitations, vous êtes en mouvement !
-> 
+> **Au moins 3 cases cochées ?** Félicitations, vous êtes en mouvement !
 
----
+## 🔑 Points clés à retenir
 
-#
+- Passer **d’une alternance exploration/exploitation à une cohabitation ambidextre** et fluide des deux dynamiques.
+
+- **Le changement est permanent** et ne peut plus être géré comme un projet ponctuel.
+
+- La transformation réussie repose sur **l’équilibre entre intention stratégique et adaptation continue**. Trop de l’un sans l’autre mène à l’échec.
+
+- Piloter le changement, c’est **garantir la continuité de création de valeur** tout au long de la transformation.
+
+🔥
+La performance de l’agilité se mesure par son efficacité et son efficience dans le changement et l’apprentissage, ainsi que dans l’augmentation de valeur, durablement.
+

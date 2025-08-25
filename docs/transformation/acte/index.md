@@ -1,129 +1,188 @@
 # Guide de l’outil ACTE
 
+✨**Objectif**
 
+Ce chapitre vous présente **ACTE**, le canevas central pour orchestrer une transformation d’unité. Il permet de relier stratégie, modèle opératoire et exécution concrète dans une séquence claire en 5 étapes.
 
-✨ **Objectif** Ce chapitre vous présente **ACTE**, le canevas central pour orchestrer une transformation d’unité stratégique. Il permet de relier ambition stratégique, modèle opératoire et exécution concrète dans une séquence claire en 5 étapes. ACTE rend visibles les écarts entre ambition et réalité opérationnelle, pour guider la transformation sans déconnexion ni injonction floue.
+ACTE rend visible les écarts entre ambition et réalité opérationnelle, pour guider la transformation sans déconnexion ni injonction floue.
 
-🧑‍🎓 **Ce que vous allez apprendre** - Ce qu’est ACTE et pourquoi il structure la transformation d’une entité stratégique de manière dynamique et mesurable. - Comment relier vision stratégique, transformation organisationnelle et plan d’action dans un processus fluide. - Comment cartographier votre modèle opératoire actuel avec les 5 dimensions SCRIP. - Comment formuler des **OKR tactiques** à double entrée : impact business et culture d’exécution.
+🧑‍🎓**Ce que vous allez apprendre ici**
 
-📚 **Petit lexique** - **Ambition stratégique** : stratégie à 1 an, traduite en OKR globaux pour l’unité. - **OKR tactiques** : objectifs à 3 mois, différenciés entre enjeux business et transformation. - **GAP analysis** : identification des écarts entre l’état actuel et la cible. - **Initiatives** : actions concrètes planifiées pour atteindre les OKR définis.
+- Ce qu’est ACTE et pourquoi il structure la transformation d’une entité.
+- Comment relier ambition stratégique, transformation organisationnelle et plan d’action dans un processus fluide.
+- Comment cartographier votre modèle opératoire actuel avec les 5 dimensions SCRIPt.
+
+📚**Petit lexique**
+
+- **Ambition stratégique** : stratégie à 1 an, traduite en OKR globaux pour l’unité.
+- **OKR tactiques** : objectifs à 3 mois, différenciés entre enjeux business et transformation.
+- **GAP analysis** : identification des écarts entre l’état actuel et la cible.
 
 ![Outil ACTE (Agile Canevas pour la Transformation d’Entité)](image.png)
 
-Outil ACTE (Agile Canevas pour la Transformation d’Entité)
+## Qu’est-ce que l’ACTE ?
 
-# Qu’est-ce qu’ACTE ?
+**ACTE** — *Agile Canevas pour la Transformation d’Entité* — est un outil à la fois **visuel** et **processuel** qui :
 
-**ACTE** — *Agile Canevas pour la Transformation d’Entité* — est un outil à la fois **visuel** et **processuel** qui :
+- Articule **trois niveaux de décision** : stratégique, tactique et opérationnel
+- Couvre les **5 dimensions SCRIPt d’une organisation** : Structure, capacités, individus, reconnaissance et processus
+- S’intègre aux **cycles OKR**.
 
-- Relie **stratégie ↔ exécution** : cohérence, alignement, développement stratégique
-- Articule **trois niveaux de décision** : stratégique, tactique, opérationnel
-- Couvre les **5 dimensions d’une organisation :** Structure, Capacités, Individus, Reconnaissance, Processus (SCRIP)
-- S’intègre nativement aux **cycles OKR**
+Il s’applique aux unités stratégiques et se décline ensuite au niveau de chaque unité tactique, puis opérationnelle.
 
-Il s’applique globalement au niveau d’une unité centrale et se décline au niveau de chaque unité tactique.
+> Pourquoi ACTE ? Pour rassembler autour d’un même outil dirigeants, managers, coachs et convertir les ambitions en actions mesurables.
 
-> Pourquoi ACTE ? Pour rassembler autour d’une même table dirigeants, managers, coachs et transformer les ambitions en actions mesurables.
-> 
+### Les 5 étapes clés
 
-## Les 5 étapes clés
+![Les zones de l’outil ACTE](image 1.png)
 
-![image.png](image%201.png)
+#### 1. Ambition à un an
 
-### 1. Vision à un an
+![Étape 1](image 2.png)
 
-![image.png](image%202.png)
+- **Animateur principal** : Coach agile d’organisation
+- **Participants** : CODIR de l’unité stratégique
+- **But** : Formaliser l’ambition à un an.
+- **Livrables** :
+  - Ambition stratégique
+  - Maximum 3 OKR stratégiques
+- **Comment** : Atelier 1/2 à 1 journée
+  1. Présentation de la vision *business*
+  2. Définition des OKR stratégiques
 
-Animateur principal : Direction
+#### 2. Photo actuelle SCRIPt
 
-- **But** : formaliser votre ambition et vos OKR stratégiques.
-- **Livrables** :
-    - Ambition stratégique
-    - Max. 3 OKR stratégiques
-- **Comment** : atelier 1/2 journée
-    1. Présentation de la vision *business*
-    2. Définition des OKR stratégiques
+![Étape 2](image 3.png)
 
----
+- **Animateur principal** : Coach agile organisation
+- **Participants** : CODIR
+- **But** : Cartographier votre modèle opératoire existant.
+- **Livrables** : Canevas SCRIPt actuel
+- **Comment** : Atelier collaboratif 2 h
+  1. Chacun note sa perception actuelle sur les 5 cases SCRIPt
+  2. Synthèse et divergences
 
-### 2. Photo actuelle SCRIP
+#### 3. OKR tactiques et GAP analysis
 
-![image.png](image%203.png)
+![Étape 3](image 4.png)
 
-Animateurs principaux : Coach Agile Org / top management
+- **Animateur principal** : Coach agile tactique
+- **Participants** : Responsables de chaque unité tactique
+- **But** :
+  - Choisir une cible en identifiant un **archétype Agile4X** inspirant.
+  - Détecter écarts
+  - Définir OKR tactiques
+- **Livrables** :
+  - SCRIPt cible,
+  - OKR tactique Business (performance)
+  - OKR tactique Transformation (culture et organisation)
+- **Comment** : atelier 1/2 à 1 journée
+  1. Identification des écarts clés
+  2. Formulation d’OKR tactiques
 
-- **But** : cartographier votre modèle opératoire existant.
-- **Livrables** : Canevas SCRIP actuel
-- **Comment** : atelier collaboratif 2h
-    1. Chacun note sa perception actuelle sur les 5 cases SCRIP
-    2. Synthèse et divergences
+#### 4. Plan de transformation
 
----
+![Étape 4](image 5.png)
 
-### 3. OKR tactiques & GAP analysis
+- **Animateur principal** : Agile Master
+- **Participants** : Par équipe
+- **But** : Détail des initiatives et responsabilités
+- **Livrables** :
+  - Plan de transformation sous forme de liste d’initiatives
+  - Budget
+- **Comment** : Atelier 2 heures
+  1. Identifier les actions contribuant aux OKR tactiques
+  2. Assigner des responsabilités
 
-![image.png](image%204.png)
+#### 5. Suivi et ajustement
 
-Animateurs principaux : Coach agile  / Business owner
+![Étape 5](image 6.png)
 
-- **But** :
-    - Choisir une cible, identifiant un **archétype Agile4X** inspirant.
-    - Détecter écarts & définir OKR tactiques
-- **Livrables** :
-    - *OKR Business* (impact)
-    - *OKR Transformation* (culture & organisation)
-- **Comment** : atelier 2 heures
-    1. Identification des écarts clés
-    2. Formulation d’OKR tactiques
-    3. Priorisation selon effort/valeur
+- **Animateur principal** : Coach agile tactique
+- **Participants** : Par équipe
+- **But** : Cadencer revues OKR et ajustements
+- **Livrables** :
+  - Calendrier de revue (hebdomadaire, trimestrielle)
+  - OKR et plan de transformation ajustés
+- **Comment** : Atelier 2 heures
+  1. Cadencement des rituels OKR
+  2. Définition des indicateurs de progrès
 
----
+➿**TechNova**
 
-### 4. Plan de transformation
+**Du Projet au Produit** : la domotique chez TechNova
 
-![image.png](image%205.png)
+Début 2024, l’entreprise lance un prototype de système domotique en mode projet pilote. Les premiers retours clients sont prometteurs, alors la direction souhaite désormais passer à l’échelle sans retomber dans le prototype jetable. Les responsables traduisent cette transformation dans l’ACTE :
 
-Animateurs principaux : PO / team leader
+**1. Ambition & OKR stratégiques (1 an)** :
 
-- **But** : Détail des initiatives & responsabilités
-- **Livrables** :
-    - Plan de transformation sous forme de liste d’initiatives
-- **Comment** : atelier 1 heure
-    1. Identifier les actions contribuant aux OKR tactiques
-    2. Assigner des responsabilités
+- **Ambition** : Hisser la domotique TechNova à l’échelle nationale.
+- **OKR stratégiques** :
+  1. **Tripler le chiffre d’affaires** d’ici fin 2024.
+  2. **Taux de satisfaction** >= 85 % (NPS).
+- **KPI :**
+  - **Taux de qualité** < 2 % d’incidents critiques.
 
----
+**2. Photo actuelle vs cible SCRIPt** :
 
-### 5. Suivi et ajustement
+La transformation se traduit par :
 
-![image.png](image%206.png)
+| Dimension | Aujourd’hui (Projet) | Cible (Produit) |
+| --- | --- | --- |
+| **Structure** | Équipe temporaire, rôle de chef de projet | Équipe produit dédiée, Product Owner domotique |
+| **Capacités** | Compétences R&D et découverte produit | Time-To-Market fonctionnalité à moins de deux semaines, feed-back utilisateur |
+| **Processus** | Revue projet hebdomadaire | Backlog continu, sprints de deux semaines, OKR pour les objectifs du produit |
+| **Individus** | Consultants externes, turnover post-pilote | Équipe stable, pair-programming, formation métier |
+| **Reconnaissance** | Nouvelles compétences acquises | KPI de produit centré utilisateur |
 
-Animateur principal : Agile master
+**Temporalité** : L’horizon de la cible est fixé à 1 an.
 
-- **But** : Cadencer revues OKR & ajustements
-- **Livrables** :
-    - Calendrier de revue (hebodmadaire, trimestrielle, annuelle)
-    - OKR et plan de transformation ajustés
-- **Comment** : atelier 1 heure
-    1. Cadencement des rituels OKR
-    2. Définition des indicateurs de progrès
+**3. OKR tactiques et GAP** pour le premier trimestre :
 
-🧑‍🎓 ## ACTE TechNova : passage de l’archétype Projet à Produit pour la domotique **Contexte** TechNova a lancé fin 2024 un prototype de système domotique sous forme de projet pilote : équipe ad hoc détachée 3 mois, focus proof-of-concept. Les premiers retours clients sont prometteurs, la direction veut passer à l’échelle sans retomber en mode prototype jetable. ### 1. Vision & OKR stratégiques (1 an) - **Vision** : hisser la domotique Technova à l’échelle du marché français. - **OKR stratégiques** : 1. **CA domotique x3** d’ici fin 2025. 2. **Taux de satisfaction** >= 90 % (NPS). - **KPI :** - **Taux de qualité** < 2 % d’incidents critiques. ### 2. Photo actuelle vs cible SCRIPt La direction décide d’évoluer l’organisation projet d’aujourd’hui vers une organisation produit d’ici un an. Cela se traduit par : | Dimension | Aujourd’hui (Projet) | Cible (Produit) | | --- | --- | --- | | **Structure** | Équipe temporaire, rôle de chef de projet | Squad produit dédiée, Product Owner domotique | | **Capacités** | Compétences R&D & découverte produit | Compétences DevOps, TTM à moins de deux semaines, feedback utilisateurs | | **Processus** | Revue projet hebdomadaire | Backlog continu, sprints bimensuels, OKR tactiques produit | | **Individus** | Consultants externes, turnover post-pilote | Équipe stable, pair-programming, formation métier | | **Reconnaissance** | Nouvelles compétences acquises | KPI de produit (CA, NPS), centrée utilisateur | **temporalité** : la cible est à horizon 1 an. ### 3. OKR tactiques & GAP - **GAP analysis** : - Gestion de projet ≠ gestion de produit - Squad projet ≠ autonome produit - **OKR tactiques** : - *Business* : Lancer 1 offre packagée domotique (+15 % CA Q1). - *Transformation* : Pouvoir livrer l’incrément produit tous les 15 jours. ### 4. Plan de transformation | Initiative | Responsable | Échéance | Cadence revue | | --- | --- | --- | --- | | Créer squad produit domotique | CPO | T1 2024 | Revue produit mensuelle | | Mettre en place Backlog continu | Product Owner | T2 2024 | Sprint bimensuel | | Déployer pipeline CI/CD | DevOps Lead | T3 2024 | Revue qualité bimensuelle | | Former équipe au support 24/7 | RH & Coach | T4 2024 | Rétrospective trimestrielle | ### 5. Suivi & rituels - **Daily stand-up** (10 min) centré bugs & features - **Sprint review** bimensuelle avec parties prenantes - **Revue trimestrielle ACTE** : ajustement vision, OKR & plan de transformation **Bénéfices attendus** → Cycle produit pérenne, prévisibilité accrue, engagement client renforcé, ROI optimisé.
+- GAP analysis :
+  - Gestion de projet ≠ gestion de produit
+  - Équipe projet ≠ Équipe produit
+- OKR tactiques :
+  - *Business* : Lancer notre offre packagée domotique avec succès (+15 % CA).
+  - *Transformation* : Pouvoir livrer un incrément produit tous les 15 jours.
+
+**4. Plan de transformation** : T1 2024
+
+| Initiative | Responsable | Cadence revue |
+| --- | --- | --- |
+| Créer une équipe produit domotique | Product Manager | Revue produit mensuelle |
+| Mettre en place un Backlog produit | Product Owner | Sprint bimensuel |
+| Déployer un pipeline CI/CD | DevOps lead | Revue qualité bimensuelle |
+
+**5. Suivi et rituels** :
+
+- **Daily stand-up** (15 min) centré bogue et fonctionnalités
+- **Sprint review** bimensuelle avec parties prenantes
+- **Revue trimestrielle ACTE** : ajustement vision, OKR et plan de transformation
+
+**Bénéfices attendus** : Cycle produit pérenne, prévisibilité accrue, engagement client renforcé.
 
 ## 👣 Et concrètement, lundi matin ?
 
-1. **Réservez 2 h** pour un atelier ACTE.
-2. **Constituez votre équipe** : direction, coach agile, manager, PO, business lead, 1 facilitateur.
-3. **Préparez** le canevas imprimé ou sur outil collaboratif.
-4. Et posez les bonnes questions :
-    - *Structure* :  Comment l’organisation du travail soutient-elle la stratégie ?
-    - *Capacités* : Sommes-nous capables de délivrer ce que cela exige ?
-    - *Processus* : Quels processus clés supportent la stratégie ?
-    - *Individus* : Les compétences sont-elles suffisantes pour son exécution ?
-    - *Reconnaissance* : Que valorisons-nous vraiment dans notre organisation ?
-    - *Performance* : Pilote-t-on avec les bons indicateurs ?
-    - *Culture* : A-t-on le bon état d’esprit pour se mettre en succès ?
+Lancez votre premier atelier ACTE :
 
----
+1. Constituez votre équipe : direction, coach agile, manager, Product Owner, Business Owner.
+2. Préparez le canevas imprimé ou sur un outil collaboratif.
+3. Posez les questions essentielles :
+    - *Structure* : Comment l’organisation du travail soutient-elle la stratégie ?
+    - *Capacités* : Avons-nous les moyens de délivrer ce qui est attendu ?
+    - *Processus* : Quels processus clés appuient la stratégie ?
+    - *Individus* : Quelles compétences devons-nous mobiliser pour réussir ?
+    - *Reconnaissance* : Que valorisons-nous vraiment dans notre organisation ?
+    - *Performance* : Pilotons-nous avec les bons indicateurs ?
+    - *Culture* : Notre état d’esprit favorise-t-il la réussite ?
 
-#
+## 🔑 Points clés à retenir
+
+ACTE apporte un cadre pour rendre la transformation visible, concrète et actionnable :
+
+- Permet de relier la stratégie à l’organisation.
+- Crée un langage commun entre directions, managers et équipes.
+- Aligne ambition, structure, compétences et culture.
+- S’intègre dans une gouvernance adaptative.
+

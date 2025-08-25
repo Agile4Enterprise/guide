@@ -1,207 +1,230 @@
-# Les 4 types de prise de décision
+# Les 4 types de prise de décision
 
+✨**Objectif**
 
+La performance **repose sur la capacité collective** à :
 
-✨ **Objectif** La performance **repose sur la capacité collective** à : - Recentrer l’attention sur les **décisions qui ont de l’impact pour l’organisation**, - Articuler ces décisions **au bon niveau**, - Garantir un **alignement stratégique** ancré dans la réalité opérationnelle.
+- Recentrer l’attention sur les **décisions qui ont de l’impact pour l’organisation**,
+- Articuler ces décisions **au bon niveau**,
+- Garantir un **alignement stratégique** ancré dans la réalité opérationnelle.
 
-# **Le changement : une question de décisions**
+## Le changement : une question de décisions
 
-Si l’agilité est **l’art de piloter le changement et la transformation en continu**, alors ce changement s’incarne nécessairement **dans les décisions que l’organisation prend**.
+### Les quatre types de décisions d’une entreprise
 
-Décider, c’est agir. Une entreprise agile, c’est une organisation capable de **décider autrement**, avant, pendant **et même après** l’exécution.
+L’agilité est **l’art de piloter le changement et la transformation en continu**. Il s’ancre nécessairement **dans les décisions que l’organisation prend**, non dans une structure hiérarchique, et à tous les niveaux de l’entreprise.
 
-## Les quatre types de décision d’une entreprise
+🌀**Exemple** :
+*
+![*La canopée*](image.png)
 
-Le changement ne s’ancre pas dans une structure hiérarchique, mais dans la dynamique des prises de décision, et à tous les niveaux de l’entreprise.
+Prenons la métaphore de la canopée d’une forêt.
+Dans le **sous-bois**, la visibilité est limitée : on navigue à vue. C’est là que se jouent les interconnexions locales.
 
-🧑‍🎓 Les décisions se caractérisent par : 🔹 **Une portée** : De l’ensemble de l’entreprise jusqu’aux équipes opérationnelles. 🔹 **Un horizon temporel** : Parce qu’une entreprise fonctionne à plusieurs rythmes : - Le temps long des ambitions, - Le temps moyen des marchés, - Le temps court des initiatives, - Le temps réel de l’exécution. 🔹 **Une complexité** : Gestion de la transversalité, des dépendances, de l’incertitude. 🔹 **Un niveau de risque** : De la transformation profonde aux adaptations opérationnelles. Ces types de décisions ne sont pas **des couches hiérarchiques**, mais **des boucles synchronisées**, chacune cadencée à son propre rythme. **Chaque type porte une partie du changement.** C’est leur synchronisation et leur alignement qui produit la performance globale.
+Plus haut, dans la zone intermédiaire formée par **les troncs et les branches**, les interactions se multiplient et commencent à structurer l’ensemble.
 
-![Les 4 natures de prises de décisions](image.png)
+Au sommet, la **canopée** offre un panorama sur l’écosystème, permettant de percevoir les signaux faibles, venus aussi bien du taillis que de l’extérieur.
 
-Les 4 natures de prises de décisions
+Tous ces niveaux sont liés. Vue du sol, cette voûte végétale agit comme une barrière : un **plafond naturel** qui masque la perspective globale. Cela donne un bon cadre pour différencier les types de décisions.
+*
 
-C’est sur ces natures de prises de décision que nous allons construire le cadre agile pour l’entreprise.
+🧑‍🎓
+Ils se caractérisent par :
 
-## La finalité : Un cap stable pour un système vivant
+🔹 **Une portée** : De l’ensemble de l’entreprise jusqu’aux équipes terrain.
 
-L’entreprise se définit par sa **finalité, c’est-à-dire sa** mission, ses valeurs et sa vision. Ce sont les fondations de l’entreprise. Ces éléments ne changent pas au gré des ajustements : **Ils offrent la boussole nécessaire à l’évolution.** Sans cap stable, le pilotage dynamique devient erratique.
+🔹 **Un horizon temporel** : Parce qu’une entreprise fonctionne à plusieurs rythmes. On y trouve le temps long des ambitions, moyen des marchés, court des initiatives et le temps réel de l’exécution.
 
-S’il existe des modèles d’organisation incluant une raison d’être évolutive, **Agile4Enterprise** respecte cette stabilité fondatrice tout en organisant l’adaptation permanente en son sein.
+🔹 **Une complexité** : Gestion de la transversalité, des dépendances, de l’incertitude.
 
-> La finalité ne fait donc pas partie de cette approche, mais est omniprésente.
-> 
+🔹 **Un niveau de risque** : De la transformation profonde aux adaptations opérationnelles.
 
-## Les décisions corporate — Piloter la stratégie globale
+Ce ne sont pas **des niveaux hiérarchiques**. Chaque type porte une partie du changement. C’est leur synchronisation et leur alignement qui produit la performance d’ensemble.
 
-- **Portée** : Ensemble de l’entreprise
-- **Décisions clés** :  Politique de l’entreprise, stratégie corporate et portefeuille d’investissement stratégique : arbitrages sur les investissements et allocation des ressources.
-- **Horizon de temps** : 5 à 10 ans.
+![*Les 4 types de décisions*](image 1.png)
 
-**Pourquoi est-ce clé ?**
+C’est sur ces natures de décision que nous avons conçu **Agile4Entreprise**.
 
-Ce niveau définit **les grandes orientations**. Il assure une cohérence entre les initiatives stratégiques et les ressources disponibles.
+### La finalité
 
-💡 **Stratégie Corporate** L’objectif est de créer de la valeur en modifiant les frontières de l’entreprise. La stratégie corporate s'intéresse aux choix des entreprises et marchés dans lesquels l'entreprise rentre en concurrence, ou en sort, et comment. C’est un cadre commun à toutes les unités d’affaires de l’entreprise. Elle consiste à rechercher un avantage concurrentiel groupe multi métiers. Le défi de la stratégie corporate est de créer plus de valeurs pour les entreprises et les marchés sur lesquels la firme est en concurrence que si ces entreprises étaient gérées de manière indépendante les unes des autres.
+L’entreprise se définit d’abord par sa mission, sa raison d’être, ses valeurs et sa vision. Ce sont ses racines. Elles ne changent pas au gré des ajustements, mais offrent **la boussole nécessaire à toute évolution**. Sans cap stable, le pilotage dynamique devient erratique.
 
-⚠️ **Portefeuille d’investissements** Dans l’entreprise, le terme *portefeuille* peut désigner différentes réalités : portefeuille de projets, portefeuille de produits, portefeuille d’initiatives stratégiques, etc. Ces usages varient selon les contextes et relèvent essentiellement de choix de définition. - **Portefeuille des domaines d’activités stratégiques** (DAS) : C’est la liste des différents secteurs d’activités dans lesquels l’entreprise intervient. C’est un artéfact de la stratégie corporate, et c’est la définition que nous utilisons dans ce Framework. - **Portefeuille d’initiatives stratégiques** : C’est la liste des initiatives contribuant au niveau suivant, celui de la stratégie business. - **Portefeuille d’actifs** (ou catalogue) : Il se situe également au niveau de la stratégie business, et est constitué des produits ou services que l’organisation exploite ou développe.
+> **Agile4Enterprise** respecte cette stabilité fondatrice tout en organisant l’adaptation permanente en son sein. La finalité n’en fait pas partie directement, mais demeure omniprésente.
 
-> *Technova : Décider d’investir dans la domitique et dans l’IA par développement organique. sont des choix corporate*
-> 
+➿**TechNova**
 
-## Les décisions stratégiques — Traduire la vision en priorités business
+**Mission** :
 
-- **Portée** : **Unités stratégiques** (ex. : unités d’affaires, départements avec budget dédié).
-- **Décisions clés** :  **Stratégie Business**, différenciation concurrentielle pour chaque unité : Positionnement, offres, canaux, cibles…
-- **Horizon de temps** : 3 à 5 ans.
-- **Contexte** : Pour une entreprise non diversifiée, entreprise et unité stratégique se confondent.
+> Rendre les environnements physiques plus durables et connectés.
 
-**Pourquoi est-ce clé ?**
+**Vision** :
 
-Chaque unité stratégique doit adapter les grandes orientations corporate à son contexte tout en restant alignée avec la vision d’ensemble.
+> Rendre les environnements connectés intelligents.
 
-💡 **Stratégie Business** L'objet de la stratégie business est de définir la façon par laquelle une unité stratégique va créer son propre avantage concurrentiel dans un domaine de son portefeuille. Les performances sont mesurées par rapport à la concurrence: Elle doit surpasser ses concurrents de manière constante et significative.
+**Valeurs** :
 
-> ***Exemple** : Une business unit redéfinit son offre pour adresser un segment émergent.*
-> 
+- **Fiabilité** : Nos systèmes doivent tenir dans le temps, même là où la technologie est invisible.
+- **Écoute** : Nos innovations partent du terrain, pas des tendances.
+- **Responsabilité** : Nous cherchons la durabilité, pas l’effet de mode.
+- **Sobriété technologique** : L’intelligence n’est pas dans la surenchère, mais dans la pertinence.
+- **Cohérence** : Nous refusons de sacrifier le présent au nom du futur, ou l’inverse.
 
-## Les décisions tactiques — Traduire la stratégie en initiatives exécutables
+### Les décisions corporate
 
-- **Portée** : **Unités tactiques** (ex. : chaîne de valeur, train de Safe, domaine fonctionnel ou métier).
-- **Décisions clés** : Traduire la stratégie en actions spécifiques et en ajustements nécessaires pour progresser vers les objectifs.
-- **Horizon de temps** : 3 à 12 mois.
+- **Portée** : Ensemble de l’entreprise
+- **Décisions clés** : Stratégie corporate et portefeuille d’investissement.
+- **Horizon de temps** : 5 à 10 ans.
 
-**Pourquoi est-ce clé ?**
+Il définit les grandes orientations et assure une cohérence entre les initiatives et les ressources disponibles.
 
-La tactique est **la courroie de distribution entre stratégie et opérationnel**. Une bonne tactique assure que les décisions prises aux niveaux supérieurs se traduisent en actions concrètes et réalisables.
+🧑‍🎓
 
-> ***Exemple** : Un département décide de renforcer les équipes de développement sur une technologie clé pour accélérer la mise sur le marché d’un produit.*
-> 
+**Stratégie Corporate** (ou groupe) :
 
-## Les décisions opérationnelles — Ajuster au plus près du terrain
+Elle concerne les choix des marchés sur lesquels elle entre en concurrence ou qu’elle quitte, et la manière de s’y prendre. Elle modifie les frontières de l’entreprise.
 
-- **Portée** : **Unités opérationnelles**, les équipes, collectifs de réalisation.
-- **Décisions clés** :
-    - Exécuter les actions définies au plus près du terrain, qui permettent de s’ajuster au jour le jour,
-    - Gérer les interdépendances et les priorités immédiates.
-- **Horizon de temps** : quotidien à quelques semaines.
-- **Contexte** : Dans les petites structures, les niveaux **opérationnel** et **tactique** tendent à se confondre.
+C’est un cadre partagé par toutes les unités d’affaires. Il vise à rechercher un avantage compétitif pour le groupe multimétier, en créant davantage de valeur que si chaque entreprise était gérée de façon indépendante.
 
-**Pourquoi est-ce clé ?**
+🧑‍🎓
+
+**Portefeuille d’investissements** :
+
+Le terme *portefeuille* peut désigner différentes réalités : projets, produits, initiatives… Ces usages varient selon les contextes et relèvent essentiellement d’un choix de définition.
+Celle que nous utilisons dans ce guide est le **portefeuille des domaines d’activités stratégiques** (DAS) : c’est la liste des différents secteurs dans lesquels l’entreprise intervient. C’est un artéfact de la stratégie corporate.
+
+> *Par exemple, TechNova a décidé d’investir dans la domotique. Sa stratégie consiste à trouver des synergies entre les différents secteurs répondant à sa mission.*
+
+### Les décisions business
+
+C’est la canopée de notre forêt.
+
+- **Portée** : **Unité stratégique** (ex. : unité d’affaires, département avec un budget dédié).
+- **Décisions clés** : **Stratégie Business**
+- **Horizon de temps** : 3 à 5 ans.
+- **Contexte** : Dans les organisations mono activités, les deux niveaux — **stratégique** et **corporate** — se confondent.
+
+Chaque unité doit adapter les grandes orientations à ses spécificités tout en restant alignée avec la vision d’ensemble.
+
+🧑‍🎓
+
+**Stratégie Business** :
+
+Définir la façon par laquelle une unité stratégique créera son propre avantage concurrentiel, en surpassant la concurrence de manière constante et significative.
+
+> *Par exemple, le département domotique de TechNova a choisi de se démarquer par l’efficacité énergétique de ses solutions.*
+
+### Les décisions tactiques
+
+Ce sont les troncs et les branches des arbres de notre forêt.
+
+- **Portée** : **Unité tactique** (ex. : chaîne de valeur, train de SAFe, domaine fonctionnel ou métier).
+- **Décisions clés** : Traduire la stratégie en actions spécifiques et réalisables pour progresser vers les objectifs.
+- **Horizon de temps** : Quelques mois.
+
+C’est la courroie de distribution entre stratégie et opérationnelle.
+
+> *Par exemple, le département domotique décide de renforcer les équipes de développement de sa technologie clé : les thermostats intelligents.*
+
+### Les décisions opérationnelles
+
+Ce sont les sous-bois de notre forêt.
+
+- **Portée** : **Unité opérationnelle** (ex. : équipe, collectif)
+- **Décisions clés** :
+  - Exécuter les actions définies au plus près du terrain, qui permettent de s’ajuster au jour le jour.
+  - Gérer les interdépendances et les priorités immédiates.
+- **Horizon de temps** : Quotidien à quelques semaines.
+- **Contexte** : Dans les petites structures, les deux niveaux — **opérationnel** et **tactique** — tendent à se confondre.
 
 L’opérationnel est **le cœur de la création de valeur**.
 
-> ***Exemple** : Une équipe Scrum ajuste son Backlog en fonction du feedback utilisateur reçu lors d’un sprint review.*
-> 
+> *Par exemple, une équipe Scrum alimente le Backlog des thermostats intelligents de fonctionnalités de détection de présence/absence, et de prise en compte des conditions météorologiques réelles.*
 
-📚 En savoir plus sur ces niveaux de décisions
+## L’alignement dynamique des décisions
 
-➿ **Finalité de TechNova** 🧩 **Mission** > Rendre les environnements physiques plus intelligents, durables et connectés, en intégrant des solutions technologiques fiables, évolutives et accessibles. > 🔭 **Vision** > Rendre les environnements connectés intelligents, en combinant robustesse industrielle, expérience utilisateur et intelligence embarquée. > 💠 **Valeurs** - **Fiabilité** : Nos systèmes doivent tenir dans le temps, même là où la technologie est invisible. - **Écoute client** : Nos innovations partent du terrain, pas des tendances. - **Responsabilité** : Nous cherchons la durabilité, pas l’effet de mode. - **Sobriété technologique** : L’intelligence n’est pas dans la surenchère, mais dans la pertinence. - **Cohérence** : Nous refusons de sacrifier le présent au nom du futur, ou l’inverse. **🧭 Stratégie corporate** Sa stratégie groupe repose sur une recherche de synergie entre les différents secteurs répondant à sa mission, qu’il s’agisse de B2B ou de B2C, avec une croissance organique.
+### Le défi
 
-# **L’alignement dynamique des décisions**
+![*Alignement entre le modèle d’affaires et le modèle opératoire*](image 2.png)
 
-## Le défi : l’alignement dynamique
+> *« Il y a les décisions prises en CODIR, et celles prises dans les couloirs ou à la pause-café ! »*
 
-![Alignement entre le modèle d’affaire et le modèle opératoire](image.png)
+L’alignement est sans aucun doute **le problème n° 1 de l’exécution stratégique** dans les entreprises. Plus que « suivre le plan », c’est faire en sorte que toutes les composantes de l’organisation avancent dans la même direction, avec cohérence.
 
-Alignement entre le modèle d’affaire et le modèle opératoire
+Différentes approches, chacune à leur manière, cherchent à résoudre ce problème :
 
-> *“Il y a les décisions prises en CODIR, et celles prises dans les couloirs ou à la pause café !”*
-> 
+- **Hoshin Kanri** (Toyota, Lean Management) : déployer la stratégie en cascade à travers tous les niveaux.
+- **Objectives & Key Results** (OKR) : aligner les efforts autour d’objectifs clairs, mesurables, et partagés.
+- **Balanced Scorecard** (Kaplan & Norton) : traduire la stratégie en indicateurs équilibrés (financiers, clients, processus internes, apprentissage), pour l’ancrer dans les réalités multiples de l’entreprise.
+- **Tension-based alignment** (Holacratie, Sociocratie) : faire émerger l’alignement par la gestion des tensions (écarts entre ce qui est et ce qui devrait être).
 
-L’alignement est sans doute **le problème n°1 de l’exécution stratégique** dans les entreprises. Il ne s’agit pas simplement de “suivre le plan”, mais de faire en sorte que toutes les composantes de l’organisation avancent **dans une même direction**, avec **cohérence**.
+Ces approches tentent toutes de résoudre ce paradoxe : comment garder une direction commune, tout en laissant les équipes décider localement ? Sans boucles explicites, les actions se dispersent.
 
-Différentes approches, chacune à leur manière, cherchent à résoudre ce même problème d’**alignement stratégique** :
+Dans un monde en mutation rapide, deux dynamiques doivent être articulées :
 
-- **Hoshin Kanri** (Japon, Toyota, lean management) : 
-Déployer la stratégie par "cascading" à travers tous les niveaux, via un processus de *catchball* (boucles de dialogue).
-- **Objectives & Key Results** (OKR) :
-    
-    Aligner les efforts autour d’objectifs clairs, mesurables, et partagés dans l’organisation.
-    
-- **Balanced Scorecard** (Kaplan & Norton) :
-    
-    Traduire la stratégie en indicateurs équilibrés (financiers, clients, processus internes, apprentissage), pour l’ancrer dans les réalités multiples de l’entreprise.
-    
-- **Tension-based alignment** (Holacracy, Sociocracy) :
-    
-    Faire émerger l’alignement par la gestion explicite des tensions (écarts entre ce qui est et ce qui devrait être).
-    
+- Le **modèle d’affaires** évolue pour capter de nouvelles opportunités : il s’incarne dans des arbitrages, des positions, des investissements.
+- Le **modèle opératoire** doit suivre et soutenir cette évolution : il mobilise les structures, les processus, les systèmes de reconnaissance et les équipes qui portent l’exécution.
 
-Ces approches tentent toutes de résoudre ce paradoxe : comment garder une **direction commune**, tout en laissant les équipes **décider localement** ? Sans boucle d’alignement explicite, les décisions continuent de se disperser.
+C’est là que naît la tension. On change le « quoi », sans ajuster le « comment », et l’on s’étonne que rien ne bouge.
 
-Dans un monde en mutation rapide, deux dynamiques doivent être articulées :
+🧑‍🎓
 
-- Le **modèle d’affaire** évolue pour capter de nouvelles opportunités : il s’incarne dans des arbitrages, des positions stratégiques, des investissements.
-- Le **modèle opératoire** doit suivre et soutenir cette évolution : il mobilise les structures, les processus, les systèmes de reconnaissance et les équipes qui portent les transformations.
-
-C’est là que naît la tension.
-
-> On change le “quoi” (stratégie), sans adapter le “comment” (organisation), et l’on s’étonne que rien ne bouge.
-> 
-
-**L’alignement dynamique**, c’est cette capacité à rendre cohérent en continu :
+**L’alignement dynamique**, c’est cette capacité à rendre cohérent en continu :
 
 - La **vision**, la **stratégie** et l’**exécution**,
-- Le **modèle d’affaire** (adaptatif) et le **modèle opératoire** (agile),
+- Le **modèle d’affaires** (adaptatif) et le **modèle opératoire** (agile),
 - Les arbitrages et les réalités du terrain.
 
-📚 En savoir plus sur l’alignement stratégique
+### Le problème
 
-## Le problème
+Lorsque ces éléments cessent d’être synchronisés, l’organisation se fige ou se fragmente. Traditionnellement, l’alignement existe, mais il est de nature descendante :
 
-Lorsque ces éléments ne sont plus synchronisés, l’organisation se fige ou se disperse. Dans les organisations traditionnelles, cet alignement peut exister mais il est descendant :
-
-- La stratégie est pensée « en haut »,
-- L’opérationnel est censé exécuter,
+- La stratégie est pensée « en haut »,
+- L’opérationnel est censé exécuter les tâches,
 - Le management est là pour contrôler,
-- Les décalages entre intention et action s’accumulent.
+- Les décalages entre intentions et actions s’accumulent.
 
-Et surtout, il n’est pas dynamique. Un alignement insuffisant ou incohérent génère des tensions et freine l’adaptation, notamment lorsque certaines dimensions évoluent tandis que d’autres restent figées.
+Et surtout, il reste statique. Un désalignement génère des tensions et freine l’adaptation, notamment lorsque certaines dimensions évoluent, tandis que d’autres demeurent inchangées.
 
-❌ **Pour TechNova, ce désalignement se manifeste par une incapacité croissante à créer des synergies entre les différentes unités d’affaires.** Chacune avance selon ses propres priorités — produits, clients, budgets — **sans cap commun clairement articulé**. Résultat : les décisions s’empilent, mais **ne s’alignent plus**.
+➿**TechNova**
 
-## La cible
+Il se manifeste par une incapacité croissante à créer des synergies entre les différentes unités d’affaires Capteurs et Domotique.
 
-Dans une organisation dynamique :
+Chacune avance selon ses propres priorités — produits, clients, budgets — sans cap commun clairement articulé.
+
+Résultat : les décisions s’empilent, mais ne s’alignent plus.
+
+### La cible
+
+Dans une organisation dynamique :
 
 - Les décisions et actions s’alignent en continu,
-- Les boucles de feedback remontent les signaux terrains,
+- Les boucles de feed-back remontent les signaux terrain,
 - Chaque niveau influence les autres — sans dépendance rigide.
 
-Pour y parvenir, ces natures de décision doivent :
+Pour y parvenir, ces types de décisions doivent :
 
-- **Coïncider avec les niveaux organisationnels** :
-    
-    Ce sont les principes de design. Les décisions stratégique business sont prises au niveau d’une unité stratégique, il en va de même pour les autres niveaux.
-    
-- **Etre associés à des cadences de changement** : ce sont les **boucles adaptatives**.
+- **Coïncider avec les niveaux organisationnels** :
 
-## Niveaux de décision ≠ niveau hiérarchique
+    Ce sont les principes de design. Les décisions stratégiques relèvent de l’unité stratégique, les décisions tactiques de l’unité tactique, et les décisions opérationnelles de l’unité opérationnelle.
 
-Ces natures de décisions ne sont pas des niveaux hiérarchiques. Imaginons une équipe complètement autonome : ces décisions seront à la fois de nature stratégique, tactique et opérationnelle. Cependant, dans une organisation, cette autonomie dépend du niveau de délégation :
-
-*C’est ce que l’on fait par exemple avec les OKR d’équipes : ce sont des décisions tactiques déléguées à l’équipe. Dans la même idée, l’agilité opérationnelle a permis de déléguer les décisions opérationnelles, autrefois prises par le management, à l’équipe, supprimant ainsi le micro management.*
+- **Être associés à des cadences de changement** : ce sont les **boucles adaptatives**.
 
 ## 👣 Et concrètement, lundi matin ?
 
-1. **Cartographier vos niveaux de décisions**
-    
-    ➝ Qui décide quoi aujourd’hui ? À quel niveau ? Avec quel impact ?
-    
-2. **Identifier ce qui dysfonctionne**
-    
-    ➝ Une stratégie mal traduite ? Des décisions opérationnelles non alignées ?
-    
-3. **Ouvrir un dialogue inter-niveaux**
-    
-    ➝ Provoquer une discussion entre une équipe et son niveau tactique ou stratégique :
-    
-    Que faudrait-il changer dans notre fonctionnement pour que l’exécution soit plus fluide ?
-    
+1. **Cartographiez les niveaux de décisions**
+    Qui décide quoi aujourd’hui ? À quel niveau ? Avec quel impact ?
+2. **Identifiez ce qui dysfonctionne**
+    Une stratégie mal traduite ? Des décisions opérationnelles non alignées ?
+3. **Ouvrez un dialogue entre niveaux**
+    Que changer pour que l’exécution soit plus fluide ?
 
-> Ne cherchez pas à “caler” tous les niveaux parfaitement dès le départ. Commencez par fluidifier un seul lien. Mesurez les gains. Puis alignez les autres à partir de problématiques réelles.
-> 
+> Ne cherchez pas à tout « caler » parfaitement dès le départ. Commencez par un seul lien. Mesurez les gains. Puis alignez les autres à partir de problématiques réelles.
 
----
+## 🔑 Points clés à retenir
 
-#
+- L’agilité pilote le changement qui s’incarne dans les décisions.
+- Il existe 4 natures de décisions dans l’entreprise : Corporate, stratégique, tactique, opérationnelle.
+- L’alignement stratégique traverse tous ces niveaux.
+- Le changement commence par la stratégie elle-même. L’alignement devient dynamique.
+- Une entreprise agile, c’est une entreprise qui synchronise ses décisions pour évoluer en cohérence avec le réel.
+

@@ -1,237 +1,229 @@
 # Agile4Flow : Archétype Flux
 
+✨**Objectif**
 
+L’archétype **Flux** optimise les chaînes de valeur pour servir l’excellence opérationnelle durable et la différenciation par le service dans des contextes plutôt stables d'exploitation.
 
-✨ **Objectif** L’archétype **Flux** optimise les **chaînes de valeur continues** pour garantir **fluidité**, **stabilité** et **prédictibilité**. Il sert l’**excellence opérationnelle durable** et la **différenciation par le service** dans des contextes stables et exigeants.
+🧑‍🎓**Ce que vous allez apprendre ici**
 
-🧑‍🎓 **Ce que vous allez apprendre** - Comment concevoir une organisation stable **sans sacrifier l’agilité**. - Comment **structurer un réseau de services** en flux à l’échelle. - En quoi les **classes de service** permettent d’articuler efficience et engagement.
+- Comment concevoir une organisation stable **sans sacrifier l’agilité**.
+- Comment **structurer un réseau de services** en flux à l’échelle.
+- En quoi les **classes de service** permettent d’articuler efficience et engagement.
 
-📚 **Lexique rapide** **Archétype Flux** = configuration organisationnelle centrée sur l’efficience, la stabilité et la continuité des services. **WIP (Work In Progress)** = volume de travail en cours, à limiter pour éviter l’engorgement. **Classe de service** = mécanisme de priorisation différenciée selon le niveau d’urgence ou l’engagement attendu. **Chaîne de valeur** = enchaînement des activités qui créent de la valeur pour un utilisateur donné. **Backlog** = file d’attente Kanban, outil de coordination et d’adaptation capacitaire.
+📚**Petit lexique**
 
-![Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)](image.png)
+- **WIP (Work In Progress)** = volume de travail en cours, à limiter pour éviter l’engorgement.
+- **Classe de service** = mécanisme de priorisation différenciée selon le niveau d’urgence ou l’engagement attendu.
+- **Chaîne de valeur** = enchaînement des activités qui créent de la valeur pour un utilisateur donné.
+- **Backlog** = file d’attente Kanban, outil de coordination et d’adaptation capacitaire.
 
-Archétype Flux dans le modèle Agile4X des 4 archétypes agile (et de son anti archétype)
+![Archétype Flux dans le modèle Agile4X](image.png)
 
-# Positionnement
+## Positionnement
 
-**Stratégie orientée service :** Différentier l’offre par un service optimal au meilleur coût via un pilotage **Lean-Agile** des flux, se concentrant sur deux axes :
+**Stratégie orientée service** : Différencier l’offre par un service optimal au meilleur coût par un pilotage **Lean-Agile** des flux. Elle se concentre sur deux axes :
 
-- **Excellence opérationnelle** : optimisation continue des processus pour réduire les coûts.
-- **Différenciation par le service** : engagement sur les niveaux de service (SLA) grâce aux classes de service.
+- Excellence opérationnelle
+- Différenciation par le service
 
-**Logique dominante :** flux tiré (Kanban), continuité de service, classes de service**.**
+**Logique dominante** : flux tiré (Kanban).
 
-**Exemples d’organisations**
+**Exemples d’organisations** :
 
-- Services IT et DevOps (infrastructure, support, maintenance).
-- Supply chain et production industrielle en environnement agile.
-- Opérations nécessitant une **forte standardisation des processus et de la flexibilité dans les niveaux de service.**
+- Services IT (infrastructure, support, maintenance).
+- Chaîne logistique et production industrielle en environnement agile.
+- Opérations nécessitant une forte standardisation des processus et de la flexibilité.
 
-## **Caractéristiques clés**
+### Caractéristiques clés
 
-![Zone d’Exploitation du modèle 4E](image%201.png)
+![Zone d’exploitation du modèle Agile4E](image 1.png)
 
-Zone d’Exploitation du modèle 4E
+**Zone Agile4E privilégiée** : Exploitation
 
-**Zone 4E privilégiée** : zone d’exploitation
+![Actifs matures](image 2.png)
+![Clientèle privilégiée : majorité tardive](image 3.png)
 
-![image.png](image%202.png)
+## Design organisationnel Flux
 
-Actifs matures
+### Structure
 
-![image.png](image%203.png)
+![Extension à travers un réseau](image 4.png)
 
-Clientèle privilégiée : majorité tardive
+🧑‍🎓
 
-> **Réfléchissez** : Quel est votre actif le plus mature ? Est-il en phase d’exploitation ?
-> 
+**Unité stratégique** : Groupe service
 
-# Design organisationnel Flux
+Réseau aligné sur les chaînes de valeur, organisé en systèmes Kanban interconnectés. Pour passer à l’échelle, les équipes se structurent en **groupes multiservices** intégrant ceux qui partagent des processus communs.
 
-## Structure
+**Caractéristiques** : 20 à 40 personnes, 4 à 6 équipes, 6 à 8 services.
 
-![Extension à travers un réseau](image.png)
+🧑‍🎓
 
-Extension à travers un réseau
+**Unité tactique** :
 
-💡 ### **Unité stratégique ”groupe Service”** Réseau de services alignés sur les chaînes de valeur, sous forme de réseau de systèmes Kanban.
+C’est la **chaîne de valeur**, de bout en bout, stable et axée sur l’utilisateur. Elle peut impacter plusieurs actifs.
 
-**Groupe multi-services, le passage à l’échelle au sein d’une unité stratégique**
-Pour passer à l’échelle, les équipes se regroupent en **groupes multi-services** intégrant plusieurs services et partageant des processus communs.
+🌀**Exemple** :
+*
+Parcours utilisateur, processus métier ou interne, comme l’onboarding collaborateur.
+*
 
-**Caractéristiques** : 20 à 40 personnes, 4 à 6 équipes, 6 à 8 services.
+🧑‍🎓
 
-💡 ### **Unité tactique** C’est la **chaîne de valeur**, bout en bout, stable, et orientée utilisateur.
+**Unité opérationnelle** :
 
-*Exemples : parcours utilisateur, un processus métier, ou un processus interne, comme la facturation. Cet utilisateur peut être celui d’un produit ou le membre d’une organisation (comme pour l'onboarding).*
+Les équipes demeurent stables et se structurent autour des étapes de la chaîne, délimitées par des frontières claires. Chacune possède la responsabilité et la propriété de leur flux, ainsi que toutes les compétences nécessaires pour l’exploiter et l’améliorer. Elles peuvent se spécialiser pour répondre à des enjeux spécifiques d’efficience. Mais cette spécialisation comporte un risque de recréer des silos à long terme. Pour l’éviter, l’équipe peut instaurer des contraintes explicites, temporaires ou bornées dans le temps, ainsi que des critères de décision — arrêt ou réorientation — pour le Reteaming.
 
-Une chaîne de valeur peut impacter plusieurs produits ou plusieurs services.
+### Capacités organisationnelles
 
-💡 ### Unité opérationnelle Équipes stables, pluridisciplinaires, responsables de leur flux.
+L’enjeu, paradoxal, consiste à préserver l’agilité à grande échelle, tout en recherchant la stabilité pour l’efficience. **Agile4C** appliqué au flux :
 
-Les équipes sont regroupées en fonction des différentes étapes d’une chaîne de valeur, avec des frontières claires. Chaque équipe est responsable et **propriétaire de son processus**. Elle a toutes les compétences nécessaires pour l’exploiter et le faire évoluer : processus et WIP.
+- **Réactivité** : Ajustement de la charge à la demande par les limites et le pilotage juste-à-temps par le flux tiré.
 
-L’équipe peut se spécialiser pour répondre aux enjeux distincts d’efficience et d’engagement de service. Alors, pour éviter un effet long terme de silos dû à cette spécialisation, cela peut amener à concevoir des équipes spécialisées avec des contraintes (temporaires, ou bornées dans le temps) ou des critères (stop ou pivoter) de **dynamic reteaming**.
+    🌀**Exemple** :
+*
+    Un service de paiements en ligne module sa capacité de traitement en fonction des pics d’activités (fin de mois, promotions).
+    *
 
-## Capacités organisationnelles
+- **Flexibilité** : Gestion simultanée de plusieurs classes de service au sein d’un même processus, pouvant évoluer.
 
-L’enjeu, paradoxal, est de maintenir l'agilité à grande échelle, tout en recherchant la stabilité pour l’efficience. Les capacités attendues :
+    🌀**Exemple** :
+*
+    Un produit SaaS lance une offre premium se démarquant par un support garanti en moins de deux heures.
+    *
 
-- **Réactivité** : ajustement de la capacité à la demande via les limites, pilotage juste-à-temps grâce au flux tiré.
-    
-    > ***Exemple :** Un service de gestion des paiements en ligne ajuste sa capacité de traitement en fonction des pics de demandes (fin de mois, périodes promotionnelles).*
-    > 
-- **Flexibilité** : gestion simultanée de différentes classes de service pour un même processus, pouvant évoluer.
-    
-    > ***Exemple :** Un produit Saas souhaitant adresser un nouveau segment premium avec une nouvelle offre proposant des temps de réponse de support spécifiques de moins de deux heures.*
-    > 
-- **Adaptabilité** : de la capacité à la demande via des buffers dynamiques, slack, réallocation capacitaire.
-    
-    Le réseau de systèmes Kanban constitue le réseau informelle de l’organisation duale, facilitant ainsi la reconfigurabilité et permettant une agilité organisationnelle.
-    
-- **Amélioration continue** : **innovation d’efficience** centrée sur le flux, plutôt que sur les ressources.
+- **Adaptabilité** : Ajustement dynamique grâce aux buffers, au Slack et à la réallocation capacitaire.
+- **Innovation d’efficience** centrée sur le flux, plutôt que sur l’optimisation des ressources.
 
-## Reconnaissance
+### Reconnaissance
 
-Le système de reconnaissance repose sur la capacité des équipes à tenir leurs engagements et à ajuster leurs niveaux de service.
+Le système de reconnaissance repose sur :
 
-- **Précision et qualité** : respect des standards et des délais.
-- **Régularité** : respect des engagements et prévisibilité.
-- **Capacité à s’auto-réguler** : Ajustement de son propre rythme de travail pour éviter la surcharge ou l’inefficience.
+- Respect des standards et des délais.
+- Respect des engagements et prévisibilité.
+- Capacité à se réguler.
 
-## Individu & management
+### Individu et management
 
-**Style managériale** : Leadership facilitateur, management délégatif.
+**Style de gestion** : Leadership facilitant, management délégatif.
 
-**Compétences** : La spécialisation peut être un atout dans une équipe flux si la stratégie est plus orientée opération que service.
+**Compétences** : La spécialisation devient un atout si la stratégie se concentre davantage sur les opérations que sur le service.
 
-**Mobilité** : faible à modérée
+**Mobilité** : Faible à modérée
 
-- La spécialisation et la stabilité des rôles sont souvent prioritaires pour garantir l’optimisation des processus.
-- **Changement de poste ou d’équipe plutôt rare**, sauf en cas de nécessité pour équilibrer la charge de travail.
-- **Mobilité interne plutôt fonctionnelle** (au sein d’un même domaine de compétence) que transversale (entre domaines très différents).
+- La stabilité des rôles prime souvent afin d’optimiser les processus.
+- **Changement de poste ou d’équipe occasionnel**, et temporaire pour équilibrer la charge de travail.
+- **Mobilité interne plutôt fonctionnelle** (au sein d’un même groupe multiservice).
 
-## Processus
+### Processus
 
-**Pilotage par le flux :** approche en flux tiré, reposant notamment sur le Kanban et le juste-à-temps, à tous les niveaux : du portefeuille d’initiatives stratégiques aux tâches.
+**Pilotage par le flux** : approche en flux tiré déployé à tous les niveaux — du portefeuille d’initiatives stratégiques aux tâches.
 
-> ***Exemple :** Une entreprise SaaS utilise un **système Kanban multi-niveaux** pour gérer les demandes clients, les incidents critiques et l'amélioration continue de ses produits.*
-> 
-
-**Coordination verticale** basée sur les processus (les cadences de revues), les standards (définition d’entrée et de sortie, limites, …), et les procédures.
+**Coordination verticale** basée sur les processus (les cadences de revues), les standards (définition d’entrée et de sortie, limites…), et les procédures.
 
 **Coordination horizontale**
 
-- Couplage par classe de service, qui est le marqueur d’une stratégie orientée niveaux de service.
-- Gestion de la dépendance :
-    
-    Le long de la chaîne de valeur, les tâches sont spécialisées et séquentielles, avec des dépendances principalement linéaires entre les équipes, gérées simplement entre :
-    
-    - Deux étapes d’une chaîne de valeur : Par la limite sur la file d’attente entre les deux étapes.
-    - Deux systèmes kanban : Par la limite posée sur la file d’entrée.
-        
-        C’est un Backlog d’équipe, distinct pour chaque système kanban, formant un réseau de Backlogs connectés, plutôt qu'un unique Backlog centralisé ou un ensemble de Backlogs cascadés. Ils peuvent avoir de multiples sources en entrée.
-        
+- Couplage par **classe de service** : marqueur de la stratégie orientée service.
+- Gestion de la dépendance :
 
-**Méthodes privilégiées :** Kanban, DevOps, Kanban, DevOps, Lean.
+    Le long de la chaîne de valeur, les tâches se spécialisent et s’enchaînent, créant des dépendances linéaires entre équipes, pilotées simplement :
 
-### **Cadence de changement**
+  - Entre deux étapes d’une chaîne de valeur : limite sur la file d’attente intermédiaire
+  - Entre deux systèmes Kanban : limite sur la file d’entrées.
 
-🔎 Retrouver l’implémentation de ces niveaux de changement dans le Framework ESP : Les 7 boucles de rétroactions
+- **Backlog distribué** : chaque Kanban dispose de son propre Backlog, relié aux autres pour former un réseau connecté. Il peut recevoir plusieurs sources d’entrées.
 
-## Résultats : Performance & Culture
+**Méthodes privilégiées** : Kanban, DevOps, Lean.
 
-### Performance
+### Résultats : Performance & Culture
 
-L’objectif principal est de **réduire les temps de cycle** et d'améliorer la réactivité face aux demandes tout en stabilisant la charge de travail.
+#### Performance
 
-- **Métriques centrées flux** : Temps de livraison des services (lead Time), débit de traitement (throughput), prédictibilité des délais (due date Performance).
-- **Engagement de services** (SLA) :
-    
-    Là où l’organisation produit est responsable de son compte de résultat, idéalement le groupe service l’est aussi, mais avant tout elle est responsable de ses engagements de services.
-    
-- **Gestion de risques** : modèle du coût du délai, permettant de prioriser les tâches en fonction de leur impact potentiel sur le business.
+La performance vise avant tout à raccourcir les temps de cycle, accroître la réactivité aux demandes et stabiliser la charge de travail.
 
-Ce type de performance est possible principalement dans la zone d’exploitation, du fait de la stabilité, et beaucoup plus difficile à tenir dans la zone d’expansion.
+- **Métriques centrées flux** : Temps de livraison (lead Time), débit de traitement (throughput), prédictibilité des délais (due date Performance).
+- **Engagement de services** : Le groupe service porte la responsabilité de son compte de résultat et de ses engagements.
+- **Gestion de risques** : prioriser les tâches selon leur impact business grâce au modèle du coût du délai.
 
-### Modèle culturel dominant
+Ce niveau de performance s’atteint surtout en exploitation, grâce à la stabilité, et demeure bien plus difficile à maintenir en phase d’expansion.
 
-Le modèle organisationnel influence directement la culture de l’entreprise, notamment la répartition du pouvoir et les interactions entre les individus. Dans l’organisation traditionnelle basée sur les processus, il repose sur une **logique de contrôle** et une **culture hiérarchique** avec des rôles et responsabilités clairement définis. Ce modèle valorise la **structure formelle**, le **contrôle des processus** et la **stabilité** pour garantir la **prédictibilité** des résultats. La coordination s’appuie sur des procédures, des règles et une chaîne de commandement claire. Les changements viennent de la hiérarchie pour corriger des dysfonctionnements et maintenir la stabilité du système.
+#### Modèle culturel dominant
 
-**Culture flux et agilité**
+Le modèle organisationnel façonne directement la culture, en influençant la répartition du pouvoir et les interactions. Dans une démarche classique axée sur les processus, elle repose sur une logique de contrôle et une hiérarchie de rôles bien définis. La structure formelle, la stabilité et la prédictibilité des résultats sont valorisées. La coordination dépend de procédures et règles, tandis que les changements, initiés par le management, visent surtout à corriger des dysfonctionnements et préserver l’équilibre du système. La dynamique classique est modifiée pour plus d’agilité :
 
-Mais l’approche agile de ce modèle modifie la dynamique hiérarchique classique :
+- L’auto-organisation remplace la hiérarchie, avec des rôles opérationnels qui prévalent sur les rôles managériaux.
+- Le réseau informel des systèmes Kanban devient plus important que la structure formelle.
+- Le contrôle porte sur les chaînes de valeur et leur performance par les équipes, pas sur les individus. Pour cela, elles doivent être propriétaires de leurs processus.
 
-- **Hiérarchie vs rôles opérationnels** : L'auto-organisation des équipes remplace la hiérarchie, avec des rôles opérationnels qui prévalent sur les rôles managériaux.
-- **Structure formelle vs réseau informel** : Le réseau informel, fondé sur les systèmes Kanban, devient plus important que la structure formelle.
-- **Contrôle des individus vs contrôle des processus** : Le contrôle porte sur les chaînes de valeur et leur performance par les équipes, pas sur les individus. Pour cela, les équipes doivent être propriétaires de leurs processus.
+Ce modèle favorise une **culture de flux** qui encourage :
 
-Ce modèle favorise une **culture flux**, où les valeurs et pratiques partagées permettent aux équipes de s’auto-organiser et de gérer leur flux de travail. Cette culture met l'accent sur une vision globale du système et l'engagement envers des niveaux de service.
+- **L’amélioration continue** : Réduire les gaspillages et améliorer l’efficience.
+- **La transparence** : Suivre le travail, visualiser les goulots d’étranglement.
+- **Le développement des personnes** et des compétences pour augmenter le potentiel du système.
 
-La **culture Flux** encourage :
+➿**TechNova**
 
-- **L’amélioration continue** : Réduire les gaspillages et améliorer l'efficacité.
-- **La transparence** : Suivre le travail, visualiser les goulots d'étranglement et faciliter la communication.
-- **Le développement des personnes** : Développer les compétences pour augmenter le potentiel du système, tout en favorisant l'auto-organisation.
-- **La réduction du cycle de temps** : Accroître la réactivité aux besoins du marché.
+**Doubler le volume sans perturber le flux** :
 
-⚙ En savoir plus sur les 9 valeurs du Kanban
+Fin 2023, le département Capteurs s’engage sur une stratégie de volume :
 
-➿ **TechNova — Doubler le volume sans rompre le flux** Fin 2023, **TechNova**, fournisseur de capteurs IoT industriels, atteint un palier de maturité : > "Notre chaîne est stable, nos incidents sont bien gérés… mais comment maintenir un lead time sous 24 h quand le volume double ?", s’inquiète le COO. > Le passage à l’échelle remet en tension l’organisation : - Goulots d’étranglement sur les incidents urgents. - Traitements uniformes, sans différenciation. - Backlog global trop centralisé. En 2024, TechNova pivote vers l’archétype **Flux** : **Unité stratégique** > Structuration en groupes multi-services, chacun aligné sur une chaîne de valeur clé. > > > Adoption d’un **réseau Kanban** avec 3 **classes de service** explicites : > > - Urgences critiques (SLA < 4h) > - Maintenance planifiée (En mois de 5 jours) > - Incidents mineurs (En moins de 2 semaines) **Unité tactique** > Refonte de la chaîne de support : du ticket à la résolution, avec limites WIP et buffers dynamiques à chaque étape. > > > Chaque équipe devient **propriétaire de son processus**, avec des métriques visibles (lead time, SLA, volume traité). > **Résultat** > En 6 mois, l’entreprise a réduit son lead time moyen de 20 %, sans surcharge. > Ce changement n’a pas nécessité de refonte massive. Il a suffi de clarifier les engagements, d’adapter le système de pilotage… et de **redonner aux équipes la main sur leur flux**.
+« Notre chaîne est stable et nous gérons bien les incidents… mais comment maintenir un Lead Time sous 24 heures quand le volume double ? », s’inquiète le directeur des opérations. La croissance remet en tension l’organisation :
 
-## Ce qu’il faut éviter
+- Goulots d’étranglement sur les incidents urgents.
+- Traitements uniformes, sans différenciation.
+- Backlog trop centralisé.
 
-Pour ne pas avoir une organisation Flux Zombie :
+En 2024, TechNova choisit l’archétype **Flux** :
 
-- Backlogs centralisés et silotés → goulots d’étranglement.
-- WIP illimité → files d’attente débordées.
-- Classes de service ignorées → urgences noyées dans le flux.
-- Découplage insuffisant → interdépendances complexes et pertes de délai.
-- Indicateurs sur les individus (tâches closes) plutôt que sur la chaîne de valeur.
+Les **unités stratégiques** adoptent un réseau Kanban avec 3 classes de service :
 
-> Piège à éviter : mimer Kanban sans respecter les limites de WIP ni adapter vos structures.
-> 
+- Urgences critiques (SLA < 4h)
+- Incidents majeurs et maintenance planifiée (en moins de 5 jours)
+- Incidents mineurs (en moins de 2 semaines)
 
-## Bénéfices clés
+Pour les **unités tactiques** :
 
-Cette organisation est capable de :
+- Aménagement de la chaîne de support : du ticket à la résolution, avec limites WIP et buffers dynamiques à chaque étape.
+- Chaque équipe devient propriétaire de son processus, avec des métriques visibles.
 
-- **Paralléliser** les projets avec un pool de ressources
-- Travailler avec **plusieurs équipes spécialisées, et d’intégrer au mieux les services et fonctions partagés travaillant également en flux.**
-- **Créer** de la valeur en continu (DevOps, livraison continue)
-- **Gérer** interruptions et urgences sans briser le flux
-- **Accélérer** les cycles (juste-à-temps, apprentissages rapides)
-- **Soutenir** la performance durable de vos équipes
+**Résultat** :
+
+> En 6 mois, l’entreprise a réduit son Lead Time moyen de 20 %, sans surcharge, malgré la croissance de 35 %.
+
+Ce changement n’a pas nécessité de refonte profonde. La clarification des engagements, l’adaptation du système de pilotage et la restitution aux équipes de la maîtrise de leur flux ont suffi.
+
+### Bénéfices clés
+
+Ce modèle permet de :
+
+- Paralléliser les projets avec un pool de ressources
+- Mobiliser plusieurs équipes spécialisées, tout en intégrant les fonctions partagées en flux également
+- Absorber interruptions et urgences sans perturber la continuité
+- Accélérer les cycles de livraison et d’apprentissages
+- Soutenir durablement la performance.
 
 ## 👣 Et concrètement, lundi matin ?
 
-**Êtes-vous déjà en Flux ?** Cochez si vous pouvez répondre oui à au moins 3 de ces questions :
+**Fonctionnez-vous déjà en Flux ?** Cochez les questions suivantes :
 
-- [ ]  Avez-vous mis en place un Kanban pour piloter vos principales chaînes de valeur ?
-- [ ]  Utilisez-vous des classes de service pour prioriser urgences, incidents et travaux planifiés ?
-- [ ]  Mesurez-vous régulièrement lead time et débit, et les partagez-vous publiquement ?
-- [ ]  Vos équipes sont-elles stables, pluridisciplinaires et actrices de leur propre WIP ?
-- [ ]  Vos processus de coordination (revues, standards) sont-ils partagés ?
+- [ ] Avez-vous mis en place un Kanban pour piloter vos principales chaînes de valeur ?
+- [ ] Utilisez-vous des classes de service pour prioriser urgences, incidents et travaux planifiés ?
+- [ ] Mesurez-vous régulièrement Lead Time et débit, en toute transparence ?
+- [ ] Vos équipes allient-elles stabilité, pluridisciplinarité et maîtrise de leur flux ?
+- [ ] Vos processus de coordination (revues, standards) sont-ils partagés ?
 
-**Plus de 3 oui :** Vous êtes en route pour une organisation en flux !
+**Plus de 3 oui :** vous êtes déjà engagés sur la bonne voie.
 
-**Moins de 3 oui**, et vous souhaitez souhaitez passer en flux, suivez ces principes :
+**Moins de 3 oui**, pour y parvenir, suivez ces principes :
 
-- **Commencer où vous êtes**, respecter vos processus actuels.
-- **Évoluer par petits pas**, itérations incrémentales.
+- **Commencer là où vous êtes**, respecter vos processus actuels.
+- **Évoluer par petits pas**, de manière incrémentale.
 - **Renforcer le leadership** à tous les niveaux.
 - **Visualiser et piloter** votre flux avec vos équipes.
 
-**Vos prochaines actions** :
+## Implémentations et cadres d’inspiration
 
-- Visualisez votre flux actuel en atelier.
-- Créez le premier Kanban avec limites WIP.
-- Animez un stand-up quotidien devant le tableau.
-- Identifiez son lead time actuel.
-
-## Implémentations & Cadres d’inspiration
-
-Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
+Inspirez-vous de l’un de ces modèles :
 
 - Enterprise Service Planning (ESP)
 - SaFE orienté flux
@@ -239,6 +231,42 @@ Vous pouvez vous inspirer de l’un de ces modèles d’implémentation :
 - **Flow** de Mik Kersten
 - Kanban@Scale
 
----
+<div data-type="keypoint">
 
-#
+### SCRIPt de l’organisation Flux
+
+**Structure** :
+
+- Unité stratégique « Groupe Service » = réseau de systèmes Kanban couplés par classes de service.
+- Unités tactiques = chaînes de valeur orientées utilisateur.
+- unités opérationnelles = équipes stables, pluridisciplinaires, propriétaires de leur flux.
+
+**Capacités** :
+
+- Réactivité = ajustement par limites WIP & flux tiré
+- Flexibilité = gestion multi-classes de service
+- Adaptabilité = de la capacité à la demande via des buffers dynamiques, et de slack système
+- Amélioration continue = innovation d’efficience du flux.
+
+**Reconnaissance** :
+
+Métriques centrées flux :
+
+- Lead Time,
+- Throughput,
+- Due Date Performance,
+- SLA & classes de service
+
+**Individus** :
+
+- Leadership facilitateur & management délégatif.
+- Équipes T-shaped, autonomes et responsables.
+- Mobilité interne limitée pour préserver la stabilité.
+
+**Processus** :
+
+- Pilotage par le flux tiré = Kanban multi-niveaux du portefeuille à la tâche.
+- Coordination verticale = revues, définitions d’entrées/sorties, limites.
+- Coordination horizontale = Backlogs interconnectés, ajustement mutuel.
+- Boucles adaptatives « Inspect & Adapt ».
+
