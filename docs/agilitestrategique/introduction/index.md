@@ -80,8 +80,6 @@ La stratégie évolue à des degrés divers. À chaque réponse au changement co
 | **Réorienter** | Redéfinir les priorités, changer d’axe. Adapter la stratégie aux évolutions majeures. | Adaptabilité |
 | **Réinventer** | Pivoter ou transformer le modèle d’affaires | Proactivité |
 
-<div data-type="technova>
-
 **Les 3R des capteurs** :
 
 1. **Réajuster** — élargir l’usage des capteurs existants
@@ -107,10 +105,6 @@ La stratégie évolue à des degrés divers. À chaque réponse au changement co
     Ce pivot modifie entièrement le modèle économique : différents canaux, une nouvelle marque, des services B2C, un service à la clientèle en ligne et une expérience utilisateur repensée.
 
     **Objectif** : réinventer la proposition pour entrer dans un marché grand public en pleine croissance.
-
-</div>
-
-🔥
 
 La transformation stratégique devient **un processus continu d’apprentissage**, non une série de ruptures.
 
